@@ -1,0 +1,1473 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-lang="ru">Ланьпэй Медикал | Лечение в Китае</title>
+    <title data-lang="zh">蓝培医疗 | 赴华医疗旅游</title>
+    <title data-lang="en">Lanpei Medical | Medical Tourism in China</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#1a73e8',
+                        secondary: '#34a853',
+                        accent: '#fbbc05',
+                        dark: '#202124',
+                        light: '#f8f9fa'
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+    <style type="text/tailwindcss">
+        @layer utilities {
+            .content-auto {
+                content-visibility: auto;
+            }
+            .text-shadow {
+                text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+            }
+            .card-hover {
+                transition: all 0.3s ease;
+            }
+            .card-hover:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+            }
+        }
+    </style>
+</head>
+<body class="font-sans bg-light text-dark">
+    <!-- ========== LANGUAGE SWITCHER - 语言切换器 - ПЕРЕКЛЮЧАТЕЛЬ ЯЗЫКА ========== -->
+    <div class="fixed top-20 right-4 z-50 bg-white rounded-xl shadow-lg p-2">
+        <div class="text-center text-xs text-gray-500 mb-2 px-3">
+            <span data-lang="ru">Язык</span>
+            <span data-lang="zh">语言</span>
+            <span data-lang="en">Language</span>
+        </div>
+        <div class="flex gap-2">
+            <button onclick="switchLanguage('ru')" id="btn-ru" class="px-3 py-1 rounded text-sm font-medium transition bg-primary text-white">🇷🇺 RU</button>
+            <button onclick="switchLanguage('zh')" id="btn-zh" class="px-3 py-1 rounded text-sm font-medium transition bg-gray-100 hover:bg-gray-200">🇨🇳 中文</button>
+            <button onclick="switchLanguage('en')" id="btn-en" class="px-3 py-1 rounded text-sm font-medium transition bg-gray-100 hover:bg-gray-200">🇺🇸 EN</button>
+        </div>
+    </div>
+
+    <!-- ==================== NAVIGATION BAR ==================== -->
+    <nav class="bg-white shadow-md sticky top-0 z-40">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center py-4">
+                <!-- Logo -->
+                <div class="flex items-center space-x-2">
+                    <div class="w-10 h-10 bg-primary rounded-full flex items-center justify-center">
+                        <i class="fas fa-heartbeat text-white text-xl"></i>
+                    </div>
+                    <span class="text-xl font-bold text-primary" data-lang="ru">Ланьпэй Медикал</span>
+                    <span class="text-xl font-bold text-primary" data-lang="zh">蓝培医疗</span>
+                    <span class="text-xl font-bold text-primary" data-lang="en">Lanpei Medical</span>
+                </div>
+
+                <!-- Desktop Menu -->
+                <div class="hidden md:flex items-center space-x-8">
+                    <a href="#home" class="text-dark hover:text-primary font-medium transition">
+                        <span data-lang="ru">Главная</span>
+                        <span data-lang="zh">首页</span>
+                        <span data-lang="en">Home</span>
+                    </a>
+                    <a href="#hospitals" class="text-dark hover:text-primary font-medium transition">
+                        <span data-lang="ru">Больницы</span>
+                        <span data-lang="zh">合作医院</span>
+                        <span data-lang="en">Hospitals</span>
+                    </a>
+                    <a href="#treatments" class="text-dark hover:text-primary font-medium transition">
+                        <span data-lang="ru">Лечение</span>
+                        <span data-lang="zh">治疗项目</span>
+                        <span data-lang="en">Treatments</span>
+                    </a>
+                    <a href="#doctors" class="text-dark hover:text-primary font-medium transition">
+                        <span data-lang="ru">Врачи</span>
+                        <span data-lang="zh">专家医生</span>
+                        <span data-lang="en">Doctors</span>
+                    </a>
+                    <a href="#about" class="text-dark hover:text-primary font-medium transition">
+                        <span data-lang="ru">О нас</span>
+                        <span data-lang="zh">关于我们</span>
+                        <span data-lang="en">About Us</span>
+                    </a>
+                    <a href="#contact" class="bg-primary text-white px-6 py-2 rounded-full font-medium hover:bg-primary/90 transition">
+                        <span data-lang="ru">Связаться</span>
+                        <span data-lang="zh">联系我们</span>
+                        <span data-lang="en">Contact</span>
+                    </a>
+                </div>
+
+                <!-- Mobile Menu Button -->
+                <button class="md:hidden text-dark text-2xl">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- ==================== HERO SECTION ==================== -->
+    <section id="home" class="bg-gradient-to-r from-primary to-blue-600 text-white py-20 md:py-32">
+        <div class="container mx-auto px-4">
+            <div class="flex flex-col md:flex-row items-center">
+                <div class="md:w-1/2 mb-10 md:mb-0">
+                    <h1 class="text-[clamp(2rem,5vw,3.5rem)] font-bold leading-tight text-shadow mb-6">
+                        <span data-lang="ru">
+                            Лечение в Китае<br><span class="text-accent">с Ланьпэй Медикал</span>
+                        </span>
+                        <span data-lang="zh">
+                            蓝培医疗<br><span class="text-accent">赴华医疗一站式服务</span>
+                        </span>
+                        <span data-lang="en">
+                            Premium Medical<br><span class="text-accent">Treatment in China</span>
+                        </span>
+                    </h1>
+                    <p class="text-[clamp(1rem,2vw,1.25rem)] opacity-90 mb-8 max-w-lg">
+                        <span data-lang="ru">Профессиональное медицинское обслуживание для пациентов из России и СНГ. Мировые врачи, современные больницы, доступные цены.</span>
+                        <span data-lang="zh">为俄语国家患者提供专业医疗服务。世界级专家团队，现代化医院，亲民价格，全程陪同。</span>
+                        <span data-lang="en">World-class hospitals, experienced surgeons, affordable prices, and full language support from start to finish.</span>
+                    </p>
+                    <div class="flex flex-wrap gap-4">
+                        <a href="#contact" class="bg-accent text-dark px-8 py-3 rounded-full font-bold text-lg hover:bg-accent/90 transition shadow-lg">
+                            <span data-lang="ru">Получить консультацию</span>
+                            <span data-lang="zh">免费咨询</span>
+                            <span data-lang="en">Free Consultation</span>
+                        </a>
+                        <a href="#treatments" class="bg-white/20 backdrop-blur text-white px-8 py-3 rounded-full font-medium text-lg hover:bg-white/30 transition border border-white/30">
+                            <span data-lang="ru">Направления лечения</span>
+                            <span data-lang="zh">查看治疗项目</span>
+                            <span data-lang="en">View Treatments</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="md:w-1/2 flex justify-center">
+                    <div class="bg-white/10 backdrop-blur-lg rounded-2xl p-8 max-w-md">
+                        <div class="grid grid-cols-2 gap-6">
+                            <div class="text-center">
+                                <div class="text-4xl font-bold text-accent">500+</div>
+                                <div class="text-white/80">
+                                    <span data-lang="ru">Довольных пациентов</span>
+                                    <span data-lang="zh">成功案例</span>
+                                    <span data-lang="en">Patients Helped</span>
+                                </div>
+                            </div>
+                            <div class="text-center">
+                                <div class="text-4xl font-bold text-accent">20+</div>
+                                <div class="text-white/80">
+                                    <span data-lang="ru">Больниц-партнёров</span>
+                                    <span data-lang="zh">合作医院</span>
+                                    <span data-lang="en">Partner Hospitals</span>
+                                </div>
+                            </div>
+                            <div class="text-center">
+                                <div class="text-4xl font-bold text-accent">50-70%</div>
+                                <div class="text-white/80">
+                                    <span data-lang="ru">Экономия на лечении</span>
+                                    <span data-lang="zh">治疗费用节省</span>
+                                    <span data-lang="en">Cost Savings</span>
+                                </div>
+                            </div>
+                            <div class="text-center">
+                                <div class="text-4xl font-bold text-accent">5+</div>
+                                <div class="text-white/80">
+                                    <span data-lang="ru">Лет опыта работы</span>
+                                    <span data-lang="zh">年服务经验</span>
+                                    <span data-lang="en">Years Experience</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== WHY CHOOSE CHINA ==================== -->
+    <section class="py-20 bg-white">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-[clamp(1.8rem,3vw,2.5rem)] font-bold text-dark mb-4">
+                    <span data-lang="ru">Почему выбирают лечение в Китае?</span>
+                    <span data-lang="zh">为什么选择在中国治疗?</span>
+                    <span data-lang="en">Why Choose Medical Treatment in China?</span>
+                </h2>
+                <p class="text-gray-600 max-w-2xl mx-auto text-lg">
+                    <span data-lang="ru">Мы предлагаем комплексное решение для вашего здоровья по доступным ценам</span>
+                    <span data-lang="zh">我们以亲民的价格为您提供全面的健康解决方案</span>
+                    <span data-lang="en">Quality healthcare at a fraction of Western costs</span>
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <!-- Benefit 1 -->
+                <div class="bg-light rounded-2xl p-8 card-hover text-center">
+                    <div class="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-6">
+                        <i class="fas fa-money-bill-wave text-primary text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">
+                        <span data-lang="ru">Экономия до 70%</span>
+                        <span data-lang="zh">节省高达70%</span>
+                        <span data-lang="en">Significant Savings</span>
+                    </h3>
+                    <p class="text-gray-600">
+                        <span data-lang="ru">Стоимость лечения значительно ниже, чем в Европе и России, при том же качестве</span>
+                        <span data-lang="zh">治疗费用远低于欧美，与俄罗斯相当，但医疗质量更高</span>
+                        <span data-lang="en">Treatment costs are 50-70% lower than in USA, Germany or other Western countries</span>
+                    </p>
+                </div>
+
+                <!-- Benefit 2 -->
+                <div class="bg-light rounded-2xl p-8 card-hover text-center">
+                    <div class="w-16 h-16 bg-secondary/10 rounded-full flex items-center justify-center mx-auto mb-6">
+                        <i class="fas fa-hospital text-secondary text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">
+                        <span data-lang="ru">Топ больницы</span>
+                        <span data-lang="zh">顶级医院</span>
+                        <span data-lang="en">Top-Tier Hospitals</span>
+                    </h3>
+                    <p class="text-gray-600">
+                        <span data-lang="ru">Сотрудничаем с 20+ ведущими больницами Китая с современным оборудованием</span>
+                        <span data-lang="zh">与20多家世界知名医院合作，配备先进医疗设备</span>
+                        <span data-lang="en">Partnerships with 20+ world-renowned hospitals equipped with cutting-edge technology</span>
+                    </p>
+                </div>
+
+                <!-- Benefit 3 -->
+                <div class="bg-light rounded-2xl p-8 card-hover text-center">
+                    <div class="w-16 h-16 bg-accent/10 rounded-full flex items-center justify-center mx-auto mb-6">
+                        <i class="fas fa-user-md text-accent text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">
+                        <span data-lang="ru">Опытные врачи</span>
+                        <span data-lang="zh">经验丰富的医生</span>
+                        <span data-lang="en">Expert Surgeons</span>
+                    </h3>
+                    <p class="text-gray-600">
+                        <span data-lang="ru">Профессора с 20+ летним опытом, многие обучались за рубежом</span>
+                        <span data-lang="zh">具有20年以上经验的教授，许多有欧美留学背景</span>
+                        <span data-lang="en">Professors with 20+ years experience, many trained in the USA, Germany and UK</span>
+                    </p>
+                </div>
+
+                <!-- Benefit 4 -->
+                <div class="bg-light rounded-2xl p-8 card-hover text-center">
+                    <div class="w-16 h-16 bg-blue-500/10 rounded-full flex items-center justify-center mx-auto mb-6">
+                        <i class="fas fa-hands-helping text-blue-500 text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">
+                        <span data-lang="ru">Полное сопровождение</span>
+                        <span data-lang="zh">全程陪同</span>
+                        <span data-lang="en">Full-Service Care</span>
+                    </h3>
+                    <p class="text-gray-600">
+                        <span data-lang="ru">Переводчик 24/7, трансфер, проживание, визовая поддержка — всё включено</span>
+                        <span data-lang="zh">24/7翻译接送、住宿安排、签证支持 — 全包服务</span>
+                        <span data-lang="en">24/7 interpreter, airport transfer, accommodation, visa support — all included</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== TREATMENTS SECTION ==================== -->
+    <section id="treatments" class="py-20 bg-gray-50">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-[clamp(1.8rem,3vw,2.5rem)] font-bold text-dark mb-4">
+                    <span data-lang="ru">Популярные направления лечения</span>
+                    <span data-lang="zh">热门治疗项目</span>
+                    <span data-lang="en">Popular Medical Treatments</span>
+                </h2>
+                <p class="text-gray-600 max-w-2xl mx-auto text-lg">
+                    <span data-lang="ru">Шесть ключевых медицинских направлений, в которых Китай является лидером</span>
+                    <span data-lang="zh">中国医疗领先的六大核心专科</span>
+                    <span data-lang="en">Six key medical specialties where China excels</span>
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Orthopedics -->
+                <div class="bg-white rounded-2xl overflow-hidden shadow-lg card-hover">
+                    <div class="h-48 bg-gradient-to-br from-blue-500 to-blue-600 flex items-center justify-center">
+                        <i class="fas fa-bone text-white text-6xl opacity-90"></i>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="text-2xl font-bold mb-3 text-dark">
+                            <span data-lang="ru">Ортопедия</span>
+                            <span data-lang="zh">骨科</span>
+                            <span data-lang="en">Orthopedics</span>
+                        </h3>
+                        <p class="text-gray-600 mb-4">
+                            <span data-lang="ru">Замена коленных и тазобедренных суставов, спинальная хирургия</span>
+                            <span data-lang="zh">膝关节置换、髋关节置换、脊柱手术</span>
+                            <span data-lang="en">Knee replacement, hip replacement, spine surgery</span>
+                        </p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-primary font-bold">
+                                <span data-lang="ru">от 8 000 $</span>
+                                <span data-lang="zh">¥ 55,000 起</span>
+                                <span data-lang="en">from $8,000</span>
+                            </span>
+                            <a href="#" class="text-primary hover:text-primary/80 font-medium">
+                                <span data-lang="ru">Подробнее</span>
+                                <span data-lang="zh">详情</span>
+                                <span data-lang="en">Details</span>
+                                <i class="fas fa-arrow-right ml-2"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Cardiology -->
+                <div class="bg-white rounded-2xl overflow-hidden shadow-lg card-hover">
+                    <div class="h-48 bg-gradient-to-br from-red-500 to-red-600 flex items-center justify-center">
+                        <i class="fas fa-heartbeat text-white text-6xl opacity-90"></i>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="text-2xl font-bold mb-3 text-dark">
+                            <span data-lang="ru">Кардиология</span>
+                            <span data-lang="zh">心脏科</span>
+                            <span data-lang="en">Cardiology</span>
+                        </h3>
+                        <p class="text-gray-600 mb-4">
+                            <span data-lang="ru">Шунтирование, замена клапанов, ангиопластика</span>
+                            <span data-lang="zh">冠脉搭桥、瓣膜置换、血管成形术</span>
+                            <span data-lang="en">Coronary bypass, valve replacement, angioplasty</span>
+                        </p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-primary font-bold">
+                                <span data-lang="ru">от 10 000 $</span>
+                                <span data-lang="zh">¥ 70,000 起</span>
+                                <span data-lang="en">from $10,000</span>
+                            </span>
+                            <a href="#" class="text-primary hover:text-primary/80 font-medium">
+                                <span data-lang="ru">Подробнее</span>
+                                <span data-lang="zh">详情</span>
+                                <span data-lang="en">Details</span>
+                                <i class="fas fa-arrow-right ml-2"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- IVF -->
+                <div class="bg-white rounded-2xl overflow-hidden shadow-lg card-hover">
+                    <div class="h-48 bg-gradient-to-br from-pink-500 to-pink-600 flex items-center justify-center">
+                        <i class="fas fa-baby text-white text-6xl opacity-90"></i>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="text-2xl font-bold mb-3 text-dark">
+                            <span data-lang="ru">ЭКО и репродуктология</span>
+                            <span data-lang="zh">辅助生殖（试管婴儿）</span>
+                            <span data-lang="en">IVF & Fertility</span>
+                        </h3>
+                        <p class="text-gray-600 mb-4">
+                            <span data-lang="ru">Современные программы ЭКО с высоким процентом успеха</span>
+                            <span data-lang="zh">先进的试管婴儿技术，成功率高达65%</span>
+                            <span data-lang="en">Advanced IVF programs with success rates up to 65%</span>
+                        </p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-primary font-bold">
+                                <span data-lang="ru">от 5 000 $</span>
+                                <span data-lang="zh">¥ 35,000 起</span>
+                                <span data-lang="en">from $5,000</span>
+                            </span>
+                            <a href="#" class="text-primary hover:text-primary/80 font-medium">
+                                <span data-lang="ru">Подробнее</span>
+                                <span data-lang="zh">详情</span>
+                                <span data-lang="en">Details</span>
+                                <i class="fas fa-arrow-right ml-2"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Neurosurgery -->
+                <div class="bg-white rounded-2xl overflow-hidden shadow-lg card-hover">
+                    <div class="h-48 bg-gradient-to-br from-purple-500 to-purple-600 flex items-center justify-center">
+                        <i class="fas fa-brain text-white text-6xl opacity-90"></i>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="text-2xl font-bold mb-3 text-dark">
+                            <span data-lang="ru">Нейрохирургия</span>
+                            <span data-lang="zh">神经外科</span>
+                            <span data-lang="en">Neurosurgery</span>
+                        </h3>
+                        <p class="text-gray-600 mb-4">
+                            <span data-lang="ru">Опухоли мозга, инсульты, грыжи позвоночника</span>
+                            <span data-lang="zh">脑肿瘤、中风、椎间盘突出</span>
+                            <span data-lang="en">Brain tumors, stroke treatment, herniated discs</span>
+                        </p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-primary font-bold">
+                                <span data-lang="ru">от 12 000 $</span>
+                                <span data-lang="zh">¥ 85,000 起</span>
+                                <span data-lang="en">from $12,000</span>
+                            </span>
+                            <a href="#" class="text-primary hover:text-primary/80 font-medium">
+                                <span data-lang="ru">Подробнее</span>
+                                <span data-lang="zh">详情</span>
+                                <span data-lang="en">Details</span>
+                                <i class="fas fa-arrow-right ml-2"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Plastic Surgery -->
+                <div class="bg-white rounded-2xl overflow-hidden shadow-lg card-hover">
+                    <div class="h-48 bg-gradient-to-br from-orange-500 to-orange-600 flex items-center justify-center">
+                        <i class="fas fa-spa text-white text-6xl opacity-90"></i>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="text-2xl font-bold mb-3 text-dark">
+                            <span data-lang="ru">Пластическая хирургия</span>
+                            <span data-lang="zh">整形外科</span>
+                            <span data-lang="en">Plastic Surgery</span>
+                        </h3>
+                        <p class="text-gray-600 mb-4">
+                            <span data-lang="ru">Косметические и реконструктивные операции</span>
+                            <span data-lang="zh">美容整形与重建手术</span>
+                            <span data-lang="en">Cosmetic and reconstructive surgery</span>
+                        </p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-primary font-bold">
+                                <span data-lang="ru">от 3 000 $</span>
+                                <span data-lang="zh">¥ 20,000 起</span>
+                                <span data-lang="en">from $3,000</span>
+                            </span>
+                            <a href="#" class="text-primary hover:text-primary/80 font-medium">
+                                <span data-lang="ru">Подробнее</span>
+                                <span data-lang="zh">详情</span>
+                                <span data-lang="en">Details</span>
+                                <i class="fas fa-arrow-right ml-2"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Ophthalmology -->
+                <div class="bg-white rounded-2xl overflow-hidden shadow-lg card-hover">
+                    <div class="h-48 bg-gradient-to-br from-teal-500 to-teal-600 flex items-center justify-center">
+                        <i class="fas fa-eye text-white text-6xl opacity-90"></i>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="text-2xl font-bold mb-3 text-dark">
+                            <span data-lang="ru">Офтальмология</span>
+                            <span data-lang="zh">眼科</span>
+                            <span data-lang="en">Ophthalmology</span>
+                        </h3>
+                        <p class="text-gray-600 mb-4">
+                            <span data-lang="ru">Лазерная коррекция зрения, катаракта</span>
+                            <span data-lang="zh">激光近视手术、白内障、角膜移植</span>
+                            <span data-lang="en">LASIK, cataract surgery, corneal transplant</span>
+                        </p>
+                        <div class="flex justify-between items-center">
+                            <span class="text-primary font-bold">
+                                <span data-lang="ru">от 2 000 $</span>
+                                <span data-lang="zh">¥ 15,000 起</span>
+                                <span data-lang="en">from $2,000</span>
+                            </span>
+                            <a href="#" class="text-primary hover:text-primary/80 font-medium">
+                                <span data-lang="ru">Подробнее</span>
+                                <span data-lang="zh">详情</span>
+                                <span data-lang="en">Details</span>
+                                <i class="fas fa-arrow-right ml-2"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== HOSPITALS SECTION ==================== -->
+    <section id="hospitals" class="py-20 bg-white">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-[clamp(1.8rem,3vw,2.5rem)] font-bold text-dark mb-4">
+                    <span data-lang="ru">Ведущие больницы Китая</span>
+                    <span data-lang="zh">合作医院</span>
+                    <span data-lang="en">Our Partner Hospitals</span>
+                </h2>
+                <p class="text-gray-600 max-w-2xl mx-auto text-lg">
+                    <span data-lang="ru">Наши официальные партнёры — лучшие медицинские учреждения страны</span>
+                    <span data-lang="zh">我们的官方合作伙伴 — 中国顶尖医疗机构</span>
+                    <span data-lang="en">China's leading medical institutions — officially partnered with Lanpei</span>
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <!-- Hospital 1 - West China -->
+                <div class="bg-light rounded-2xl overflow-hidden card-hover">
+                    <div class="flex">
+                        <div class="w-1/3 bg-gradient-to-br from-blue-600 to-blue-700 flex items-center justify-center p-6">
+                            <i class="fas fa-hospital-alt text-white text-5xl"></i>
+                        </div>
+                        <div class="w-2/3 p-6">
+                            <h3 class="text-xl font-bold mb-2">West China Hospital</h3>
+                            <p class="text-primary font-medium mb-2">
+                                <span data-lang="ru">Университет Сычуани</span>
+                                <span data-lang="zh">四川大学华西医院</span>
+                                <span data-lang="en">Sichuan University</span>
+                            </p>
+                            <p class="text-gray-600 text-sm mb-3">
+                                <i class="fas fa-map-marker-alt mr-2"></i>
+                                <span data-lang="ru">Чэнду, провинция Сычуань</span>
+                                <span data-lang="zh">四川省成都市</span>
+                                <span data-lang="en">Chengdu, Sichuan Province</span>
+                            </p>
+                            <div class="flex flex-wrap gap-2 mb-4">
+                                <span class="bg-primary/10 text-primary text-xs px-3 py-1 rounded-full">
+                                    <span data-lang="ru">Ортопедия</span>
+                                    <span data-lang="zh">骨科</span>
+                                    <span data-lang="en">Orthopedics</span>
+                                </span>
+                                <span class="bg-primary/10 text-primary text-xs px-3 py-1 rounded-full">
+                                    <span data-lang="ru">Кардиология</span>
+                                    <span data-lang="zh">心脏科</span>
+                                    <span data-lang="en">Cardiology</span>
+                                </span>
+                                <span class="bg-primary/10 text-primary text-xs px-3 py-1 rounded-full">
+                                    <span data-lang="ru">Нейрохирургия</span>
+                                    <span data-lang="zh">神经外科</span>
+                                    <span data-lang="en">Neurosurgery</span>
+                                </span>
+                            </div>
+                            <div class="text-sm text-gray-500">
+                                <span><i class="fas fa-bed mr-1"></i> 5,000+
+                                    <span data-lang="ru">коек</span>
+                                    <span data-lang="zh">床位</span>
+                                    <span data-lang="en">beds</span>
+                                </span>
+                                <span class="mx-3">|</span>
+                                <span><i class="fas fa-user-md mr-1"></i> 1,000+
+                                    <span data-lang="ru">врачей</span>
+                                    <span data-lang="zh">医生</span>
+                                    <span data-lang="en">doctors</span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Hospital 2 - Peking Union -->
+                <div class="bg-light rounded-2xl overflow-hidden card-hover">
+                    <div class="flex">
+                        <div class="w-1/3 bg-gradient-to-br from-red-600 to-red-700 flex items-center justify-center p-6">
+                            <i class="fas fa-hospital-alt text-white text-5xl"></i>
+                        </div>
+                        <div class="w-2/3 p-6">
+                            <h3 class="text-xl font-bold mb-2">Peking Union Hospital</h3>
+                            <p class="text-primary font-medium mb-2">
+                                <span data-lang="ru">Пекинский союзный госпиталь</span>
+                                <span data-lang="zh">北京协和医院</span>
+                                <span data-lang="en">Chinese Academy of Medical Sciences</span>
+                            </p>
+                            <p class="text-gray-600 text-sm mb-3">
+                                <i class="fas fa-map-marker-alt mr-2"></i>
+                                <span data-lang="ru">Пекин</span>
+                                <span data-lang="zh">北京市</span>
+                                <span data-lang="en">Beijing</span>
+                            </p>
+                            <div class="flex flex-wrap gap-2 mb-4">
+                                <span class="bg-secondary/10 text-secondary text-xs px-3 py-1 rounded-full">
+                                    <span data-lang="ru">ЭКО</span>
+                                    <span data-lang="zh">辅助生殖</span>
+                                    <span data-lang="en">IVF & Fertility</span>
+                                </span>
+                                <span class="bg-secondary/10 text-secondary text-xs px-3 py-1 rounded-full">
+                                    <span data-lang="ru">Онкология</span>
+                                    <span data-lang="zh">肿瘤科</span>
+                                    <span data-lang="en">Oncology</span>
+                                </span>
+                                <span class="bg-secondary/10 text-secondary text-xs px-3 py-1 rounded-full">
+                                    <span data-lang="ru">Общая хирургия</span>
+                                    <span data-lang="zh">普外科</span>
+                                    <span data-lang="en">General Surgery</span>
+                                </span>
+                            </div>
+                            <div class="text-sm text-gray-500">
+                                <span><i class="fas fa-bed mr-1"></i> 2,000+
+                                    <span data-lang="ru">коек</span>
+                                    <span data-lang="zh">床位</span>
+                                    <span data-lang="en">beds</span>
+                                </span>
+                                <span class="mx-3">|</span>
+                                <span><i class="fas fa-trophy mr-1"></i>
+                                    <span data-lang="ru">Топ-1 Китая</span>
+                                    <span data-lang="zh">中国排名第一</span>
+                                    <span data-lang="en">#1 in China</span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Hospital 3 - Huashan -->
+                <div class="bg-light rounded-2xl overflow-hidden card-hover">
+                    <div class="flex">
+                        <div class="w-1/3 bg-gradient-to-br from-green-600 to-green-700 flex items-center justify-center p-6">
+                            <i class="fas fa-hospital-alt text-white text-5xl"></i>
+                        </div>
+                        <div class="w-2/3 p-6">
+                            <h3 class="text-xl font-bold mb-2">Huashan Hospital</h3>
+                            <p class="text-primary font-medium mb-2">
+                                <span data-lang="ru">Университет Фудань, Шанхай</span>
+                                <span data-lang="zh">上海华山医院</span>
+                                <span data-lang="en">Fudan University, Shanghai</span>
+                            </p>
+                            <p class="text-gray-600 text-sm mb-3">
+                                <i class="fas fa-map-marker-alt mr-2"></i>
+                                <span data-lang="ru">Шанхай</span>
+                                <span data-lang="zh">上海市</span>
+                                <span data-lang="en">Shanghai</span>
+                            </p>
+                            <div class="flex flex-wrap gap-2 mb-4">
+                                <span class="bg-accent/20 text-amber-700 text-xs px-3 py-1 rounded-full">
+                                    <span data-lang="ru">Нейрохирургия</span>
+                                    <span data-lang="zh">神经外科</span>
+                                    <span data-lang="en">Neurosurgery</span>
+                                </span>
+                                <span class="bg-accent/20 text-amber-700 text-xs px-3 py-1 rounded-full">
+                                    <span data-lang="ru">Ортопедия</span>
+                                    <span data-lang="zh">骨科</span>
+                                    <span data-lang="en">Orthopedics</span>
+                                </span>
+                            </div>
+                            <div class="text-sm text-gray-500">
+                                <span><i class="fas fa-bed mr-1"></i> 1,200+
+                                    <span data-lang="ru">коек</span>
+                                    <span data-lang="zh">床位</span>
+                                    <span data-lang="en">beds</span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Hospital 4 - Sichuan Orthopedic -->
+                <div class="bg-light rounded-2xl overflow-hidden card-hover">
+                    <div class="flex">
+                        <div class="w-1/3 bg-gradient-to-br from-purple-600 to-purple-700 flex items-center justify-center p-6">
+                            <i class="fas fa-hospital-alt text-white text-5xl"></i>
+                        </div>
+                        <div class="w-2/3 p-6">
+                            <h3 class="text-xl font-bold mb-2">
+                                <span data-lang="ru">Сычуаньская ортопедическая больница</span>
+                                <span data-lang="zh">四川省骨科医院</span>
+                                <span data-lang="en">Sichuan Orthopedic Hospital</span>
+                            </h3>
+                            <p class="text-primary font-medium mb-2">
+                                <span data-lang="ru">Специализированная ортопедическая больница</span>
+                                <span data-lang="zh">骨科专科医院</span>
+                                <span data-lang="en">Specialized Orthopedic Center</span>
+                            </p>
+                            <p class="text-gray-600 text-sm mb-3">
+                                <i class="fas fa-map-marker-alt mr-2"></i>
+                                <span data-lang="ru">Чэнду</span>
+                                <span data-lang="zh">四川省成都市</span>
+                                <span data-lang="en">Chengdu, Sichuan Province</span>
+                            </p>
+                            <div class="flex flex-wrap gap-2 mb-4">
+                                <span class="bg-purple-500/10 text-purple-600 text-xs px-3 py-1 rounded-full">
+                                    <span data-lang="ru">Ортопедия</span>
+                                    <span data-lang="zh">骨科</span>
+                                    <span data-lang="en">Orthopedics</span>
+                                </span>
+                                <span class="bg-purple-500/10 text-purple-600 text-xs px-3 py-1 rounded-full">
+                                    <span data-lang="ru">Травматология</span>
+                                    <span data-lang="zh">创伤科</span>
+                                    <span data-lang="en">Traumatology</span>
+                                </span>
+                            </div>
+                            <div class="text-sm text-gray-500">
+                                <span><i class="fas fa-bed mr-1"></i> 800+
+                                    <span data-lang="ru">коек</span>
+                                    <span data-lang="zh">床位</span>
+                                    <span data-lang="en">beds</span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== DOCTORS SECTION ==================== -->
+    <section id="doctors" class="py-20 bg-gray-50">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-[clamp(1.8rem,3vw,2.5rem)] font-bold text-dark mb-4">
+                    <span data-lang="ru">Наши ведущие врачи</span>
+                    <span data-lang="zh">专家团队</span>
+                    <span data-lang="en">Our Leading Surgeons</span>
+                </h2>
+                <p class="text-gray-600 max-w-2xl mx-auto text-lg">
+                    <span data-lang="ru">Профессора с мировым именем и многолетним опытом</span>
+                    <span data-lang="zh">具有国际声誉和多年经验的医学教授</span>
+                    <span data-lang="en">World-renowned professors with decades of experience</span>
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Doctor 1 -->
+                <div class="bg-white rounded-2xl overflow-hidden shadow-lg card-hover">
+                    <div class="relative">
+                        <div class="h-48 bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center">
+                            <i class="fas fa-user-md text-white text-6xl opacity-50"></i>
+                        </div>
+                        <div class="absolute bottom-4 left-4">
+                            <span class="bg-green-500 text-white text-xs px-3 py-1 rounded-full">
+                                <i class="fas fa-check-circle mr-1"></i>
+                                <span data-lang="ru">Принимает пациентов</span>
+                                <span data-lang="zh">可预约</span>
+                                <span data-lang="en">Accepting Patients</span>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold mb-1">
+                            <span data-lang="ru">Профессор Ван Цземин</span>
+                            <span data-lang="zh">王泽民 教授</span>
+                            <span data-lang="en">Prof. Wang Zemin</span>
+                        </h3>
+                        <p class="text-primary font-medium mb-3">
+                            <span data-lang="ru">Ортопед-травматолог</span>
+                            <span data-lang="zh">骨科/创伤外科专家</span>
+                            <span data-lang="en">Orthopedic & Trauma Surgeon</span>
+                        </p>
+                        
+                        <div class="flex items-center mb-4">
+                            <div class="flex text-amber-400">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <span class="ml-2 text-gray-600 text-sm">4.9 (187 
+                                <span data-lang="ru">отзывов</span>
+                                <span data-lang="zh">评价</span>
+                                <span data-lang="en">reviews</span>
+                            )</span>
+                        </div>
+
+                        <div class="space-y-2 text-sm text-gray-600 mb-4">
+                            <p><i class="fas fa-briefcase mr-2 text-primary"></i>28
+                                <span data-lang="ru">лет опыта</span>
+                                <span data-lang="zh">年从业经验</span>
+                                <span data-lang="en">years experience</span>
+                            </p>
+                            <p><i class="fas fa-hospital mr-2 text-primary"></i>West China Hospital</p>
+                            <p><i class="fas fa-procedures mr-2 text-primary"></i>5,000+
+                                <span data-lang="ru">успешных операций</span>
+                                <span data-lang="zh">成功手术</span>
+                                <span data-lang="en">successful surgeries</span>
+                            </p>
+                        </div>
+
+                        <a href="#contact" class="block w-full bg-primary text-white text-center py-2 rounded-lg font-medium hover:bg-primary/90 transition">
+                            <span data-lang="ru">Записаться</span>
+                            <span data-lang="zh">预约咨询</span>
+                            <span data-lang="en">Book Consultation</span>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Doctor 2 -->
+                <div class="bg-white rounded-2xl overflow-hidden shadow-lg card-hover">
+                    <div class="relative">
+                        <div class="h-48 bg-gradient-to-br from-pink-400 to-pink-600 flex items-center justify-center">
+                            <i class="fas fa-user-nurse text-white text-6xl opacity-50"></i>
+                        </div>
+                        <div class="absolute bottom-4 left-4">
+                            <span class="bg-green-500 text-white text-xs px-3 py-1 rounded-full">
+                                <i class="fas fa-check-circle mr-1"></i>
+                                <span data-lang="ru">Принимает пациентов</span>
+                                <span data-lang="zh">可预约</span>
+                                <span data-lang="en">Accepting Patients</span>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold mb-1">
+                            <span data-lang="ru">Профессор Ли Мэйхуа</span>
+                            <span data-lang="zh">李梅华 教授</span>
+                            <span data-lang="en">Prof. Li Meihua</span>
+                        </h3>
+                        <p class="text-primary font-medium mb-3">
+                            <span data-lang="ru">Репродуктолог, ЭКО</span>
+                            <span data-lang="zh">生殖医学/试管婴儿专家</span>
+                            <span data-lang="en">Fertility & IVF Specialist</span>
+                        </p>
+                        
+                        <div class="flex items-center mb-4">
+                            <div class="flex text-amber-400">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <span class="ml-2 text-gray-600 text-sm">4.8 (156
+                                <span data-lang="ru">отзывов</span>
+                                <span data-lang="zh">评价</span>
+                                <span data-lang="en">reviews</span>
+                            )</span>
+                        </div>
+
+                        <div class="space-y-2 text-sm text-gray-600 mb-4">
+                            <p><i class="fas fa-briefcase mr-2 text-primary"></i>22
+                                <span data-lang="ru">лет опыта</span>
+                                <span data-lang="zh">年从业经验</span>
+                                <span data-lang="en">years experience</span>
+                            </p>
+                            <p><i class="fas fa-hospital mr-2 text-primary"></i>Peking Union Hospital</p>
+                            <p><i class="fas fa-baby mr-2 text-primary"></i>3,000+
+                                <span data-lang="ru">успешных ЭКО</span>
+                                <span data-lang="zh">试管婴儿成功案例</span>
+                                <span data-lang="en">successful IVF births</span>
+                            </p>
+                        </div>
+
+                        <a href="#contact" class="block w-full bg-primary text-white text-center py-2 rounded-lg font-medium hover:bg-primary/90 transition">
+                            <span data-lang="ru">Записаться</span>
+                            <span data-lang="zh">预约咨询</span>
+                            <span data-lang="en">Book Consultation</span>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Doctor 3 -->
+                <div class="bg-white rounded-2xl overflow-hidden shadow-lg card-hover">
+                    <div class="relative">
+                        <div class="h-48 bg-gradient-to-br from-red-400 to-red-600 flex items-center justify-center">
+                            <i class="fas fa-user-md text-white text-6xl opacity-50"></i>
+                        </div>
+                        <div class="absolute bottom-4 left-4">
+                            <span class="bg-green-500 text-white text-xs px-3 py-1 rounded-full">
+                                <i class="fas fa-check-circle mr-1"></i>
+                                <span data-lang="ru">Принимает пациентов</span>
+                                <span data-lang="zh">可预约</span>
+                                <span data-lang="en">Accepting Patients</span>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold mb-1">
+                            <span data-lang="ru">Профессор Чжан Вэй</span>
+                            <span data-lang="zh">张伟 教授</span>
+                            <span data-lang="en">Prof. Zhang Wei</span>
+                        </h3>
+                        <p class="text-primary font-medium mb-3">
+                            <span data-lang="ru">Сердечно-сосудистый хирург</span>
+                            <span data-lang="zh">心血管外科专家</span>
+                            <span data-lang="en">Cardiovascular Surgeon</span>
+                        </p>
+                        
+                        <div class="flex items-center mb-4">
+                            <div class="flex text-amber-400">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                            </div>
+                            <span class="ml-2 text-gray-600 text-sm">4.7 (132
+                                <span data-lang="ru">отзывов</span>
+                                <span data-lang="zh">评价</span>
+                                <span data-lang="en">reviews</span>
+                            )</span>
+                        </div>
+
+                        <div class="space-y-2 text-sm text-gray-600 mb-4">
+                            <p><i class="fas fa-briefcase mr-2 text-primary"></i>31
+                                <span data-lang="ru">лет опыта</span>
+                                <span data-lang="zh">年从业经验</span>
+                                <span data-lang="en">years experience</span>
+                            </p>
+                            <p><i class="fas fa-hospital mr-2 text-primary"></i>West China Hospital</p>
+                            <p><i class="fas fa-procedures mr-2 text-primary"></i>8,000+
+                                <span data-lang="ru">операций на сердце</span>
+                                <span data-lang="zh">心脏手术</span>
+                                <span data-lang="en">heart surgeries</span>
+                            </p>
+                        </div>
+
+                        <a href="#contact" class="block w-full bg-primary text-white text-center py-2 rounded-lg font-medium hover:bg-primary/90 transition">
+                            <span data-lang="ru">Записаться</span>
+                            <span data-lang="zh">预约咨询</span>
+                            <span data-lang="en">Book Consultation</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== HOW IT WORKS ==================== -->
+    <section class="py-20 bg-gradient-to-r from-primary to-blue-600 text-white">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-[clamp(1.8rem,3vw,2.5rem)] font-bold mb-4">
+                    <span data-lang="ru">Как мы работаем</span>
+                    <span data-lang="zh">服务流程</span>
+                    <span data-lang="en">How It Works</span>
+                </h2>
+                <p class="opacity-90 max-w-2xl mx-auto text-lg">
+                    <span data-lang="ru">6 простых шагов от заявки до успешного лечения</span>
+                    <span data-lang="zh">从咨询到康复的6个简单步骤</span>
+                    <span data-lang="en">6 simple steps from inquiry to healthy return home</span>
+                </p>
+            </div>
+
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
+                <div class="text-center">
+                    <div class="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4 text-2xl font-bold">1</div>
+                    <h3 class="font-bold mb-2">
+                        <span data-lang="ru">Консультация</span>
+                        <span data-lang="zh">免费咨询</span>
+                        <span data-lang="en">Inquiry</span>
+                    </h3>
+                </div>
+                <div class="text-center">
+                    <div class="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4 text-2xl font-bold">2</div>
+                    <h3 class="font-bold mb-2">
+                        <span data-lang="ru">Мед. заключение</span>
+                        <span data-lang="zh">专家会诊</span>
+                        <span data-lang="en">Medical Review</span>
+                    </h3>
+                </div>
+                <div class="text-center">
+                    <div class="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4 text-2xl font-bold">3</div>
+                    <h3 class="font-bold mb-2">
+                        <span data-lang="ru">Организация поездки</span>
+                        <span data-lang="zh">行程安排</span>
+                        <span data-lang="en">Trip Planning</span>
+                    </h3>
+                </div>
+                <div class="text-center">
+                    <div class="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4 text-2xl font-bold">4</div>
+                    <h3 class="font-bold mb-2">
+                        <span data-lang="ru">Прибытие в Китай</span>
+                        <span data-lang="zh">抵达中国</span>
+                        <span data-lang="en">Arrival</span>
+                    </h3>
+                </div>
+                <div class="text-center">
+                    <div class="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4 text-2xl font-bold">5</div>
+                    <h3 class="font-bold mb-2">
+                        <span data-lang="ru">Лечение</span>
+                        <span data-lang="zh">治疗</span>
+                        <span data-lang="en">Treatment</span>
+                    </h3>
+                </div>
+                <div class="text-center">
+                    <div class="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4 text-2xl font-bold">6</div>
+                    <h3 class="font-bold mb-2">
+                        <span data-lang="ru">Возвращение домой</span>
+                        <span data-lang="zh">康复回国</span>
+                        <span data-lang="en">Return Home</span>
+                    </h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== TESTIMONIALS ==================== -->
+    <section class="py-20 bg-white">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-[clamp(1.8rem,3vw,2.5rem)] font-bold text-dark mb-4">
+                    <span data-lang="ru">Отзывы наших пациентов</span>
+                    <span data-lang="zh">患者成功案例</span>
+                    <span data-lang="en">Patient Success Stories</span>
+                </h2>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div class="bg-light rounded-2xl p-8 card-hover">
+                    <div class="flex text-amber-400 mb-4">
+                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                    </div>
+                    <p class="text-gray-600 mb-6 italic">
+                        <span data-lang="ru">"Спасибо команде Ланьпэй! Всё прошло идеально. Теперь хожу без палочки!"</span>
+                        <span data-lang="zh">"感谢蓝培团队！从机场接机到出院，一切都安排得非常完美。现在我不用拐杖就能走路了！"</span>
+                        <span data-lang="en">"Everything was perfectly organized. The surgeon was world-class. Now I can walk without crutches!"</span>
+                    </p>
+                    <div class="flex items-center">
+                        <div class="w-12 h-12 bg-primary/20 rounded-full flex items-center justify-center mr-4">
+                            <span class="text-primary font-bold">Т</span>
+                        </div>
+                        <div>
+                            <p class="font-bold">
+                                <span data-lang="ru">Татьяна, 58 лет</span>
+                                <span data-lang="zh">塔季扬娜, 58岁</span>
+                                <span data-lang="en">Tatyana, 58</span>
+                            </p>
+                            <p class="text-sm text-gray-500">
+                                <span data-lang="ru">Москва • Замена коленного сустава</span>
+                                <span data-lang="zh">莫斯科 • 膝关节置换</span>
+                                <span data-lang="en">Moscow • Knee Replacement</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-light rounded-2xl p-8 card-hover">
+                    <div class="flex text-amber-400 mb-4">
+                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                    </div>
+                    <p class="text-gray-600 mb-6 italic">
+                        <span data-lang="ru">"После 5 неудачных попыток ЭКО в России почти потеряли надежду. А в Китае получилось с первого раза! Спасибо за наших малышей!"</span>
+                        <span data-lang="zh">"在俄罗斯做了5次试管失败，我们几乎放弃希望了。但在中国一次就成功了！现在我们有了一对龙凤胎。"</span>
+                        <span data-lang="en">"After 5 failed IVF attempts in Russia, we almost lost hope. In China it worked on the first try! Now we have twins!"</span>
+                    </p>
+                    <div class="flex items-center">
+                        <div class="w-12 h-12 bg-pink-200 rounded-full flex items-center justify-center mr-4">
+                            <span class="text-pink-600 font-bold">А&Е</span>
+                        </div>
+                        <div>
+                            <p class="font-bold">
+                                <span data-lang="ru">Алексей и Елена</span>
+                                <span data-lang="zh">阿列克谢 & 叶莲娜</span>
+                                <span data-lang="en">Alexey & Elena</span>
+                            </p>
+                            <p class="text-sm text-gray-500">
+                                <span data-lang="ru">Москва • Программа ЭКО</span>
+                                <span data-lang="zh">莫斯科 • 试管婴儿</span>
+                                <span data-lang="en">Moscow • IVF Treatment</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-light rounded-2xl p-8 card-hover">
+                    <div class="flex text-amber-400 mb-4">
+                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                    </div>
+                    <p class="text-gray-600 mb-6 italic">
+                        <span data-lang="ru">"Операцию сделал профессор с 30-летним опытом. На следующий день уже встал. Восстановление прошло быстрее, чем ожидал!"</span>
+                        <span data-lang="zh">"为我手术的是有30年经验的教授。手术后第二天我就可以下床了。恢复速度比我预期的快得多！"</span>
+                        <span data-lang="en">"My procedure was performed by a professor with 30 years experience. I was out of bed the next day. Recovery was faster than expected!"</span>
+                    </p>
+                    <div class="flex items-center">
+                        <div class="w-12 h-12 bg-red-200 rounded-full flex items-center justify-center mr-4">
+                            <span class="text-red-600 font-bold">В</span>
+                        </div>
+                        <div>
+                            <p class="font-bold">
+                                <span data-lang="ru">Владимир, 62 года</span>
+                                <span data-lang="zh">弗拉基米尔, 62岁</span>
+                                <span data-lang="en">Vladimir, 62</span>
+                            </p>
+                            <p class="text-sm text-gray-500">
+                                <span data-lang="ru">Санкт-Петербург • АКШ</span>
+                                <span data-lang="zh">圣彼得堡 • 心脏搭桥</span>
+                                <span data-lang="en">St. Petersburg • Heart Bypass</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== ABOUT US ==================== -->
+    <section id="about" class="py-20 bg-gray-50">
+        <div class="container mx-auto px-4">
+            <div class="flex flex-col md:flex-row items-center gap-12">
+                <div class="md:w-1/2">
+                    <h2 class="text-[clamp(1.8rem,3vw,2.5rem)] font-bold text-dark mb-6">
+                        <span data-lang="ru">О компании Ланьпэй Медикал</span>
+                        <span data-lang="zh">关于蓝培医疗</span>
+                        <span data-lang="en">About Lanpei Medical</span>
+                    </h2>
+                    <p class="text-gray-600 mb-6 text-lg">
+                        <span data-lang="ru">Мы — профессиональный посредник в сфере медицинского туризма между Китаем и странами СНГ.</span>
+                        <span data-lang="zh">我们是专业的医疗旅游服务平台，连接中国顶尖医院与俄语国家患者。</span>
+                        <span data-lang="en">We are a professional medical tourism platform connecting patients worldwide with China's best hospitals.</span>
+                    </p>
+                    
+                    <div class="grid grid-cols-2 gap-6 mb-8">
+                        <div>
+                            <div class="text-3xl font-bold text-primary mb-1">24/7</div>
+                            <p class="text-gray-600 text-sm">
+                                <span data-lang="ru">Поддержка переводчика</span>
+                                <span data-lang="zh">全天候翻译支持</span>
+                                <span data-lang="en">Interpreter Support</span>
+                            </p>
+                        </div>
+                        <div>
+                            <div class="text-3xl font-bold text-primary mb-1">98%</div>
+                            <p class="text-gray-600 text-sm">
+                                <span data-lang="ru">Довольных пациентов</span>
+                                <span data-lang="zh">患者满意度</span>
+                                <span data-lang="en">Patient Satisfaction</span>
+                            </p>
+                        </div>
+                        <div>
+                            <div class="text-3xl font-bold text-primary mb-1">100%</div>
+                            <p class="text-gray-600 text-sm">
+                                <span data-lang="ru">Прозрачные цены</span>
+                                <span data-lang="zh">价格透明</span>
+                                <span data-lang="en">Transparent Pricing</span>
+                            </p>
+                        </div>
+                        <div>
+                            <div class="text-3xl font-bold text-primary mb-1">0</div>
+                            <p class="text-gray-600 text-sm">
+                                <span data-lang="ru">Скрытых платежей</span>
+                                <span data-lang="zh">隐形收费</span>
+                                <span data-lang="en">Hidden Fees</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="md:w-1/2">
+                    <div class="bg-white rounded-2xl p-8 shadow-xl">
+                        <h3 class="text-xl font-bold mb-6 text-center">
+                            <span data-lang="ru">Почему выбирают нас?</span>
+                            <span data-lang="zh">为什么选择我们?</span>
+                            <span data-lang="en">Why Choose Us?</span>
+                        </h3>
+                        <div class="space-y-4">
+                            <div class="flex items-start">
+                                <div class="w-10 h-10 bg-primary/10 rounded-full flex items-center justify-center mr-4 flex-shrink-0">
+                                    <i class="fas fa-check text-primary"></i>
+                                </div>
+                                <div>
+                                    <h4 class="font-bold">
+                                        <span data-lang="ru">Официальное партнёрство</span>
+                                        <span data-lang="zh">官方合作</span>
+                                        <span data-lang="en">Official Partnerships</span>
+                                    </h4>
+                                    <p class="text-gray-600 text-sm">
+                                        <span data-lang="ru">Договоры с 20+ топ больницами Китая</span>
+                                        <span data-lang="zh">与20多家中国顶级医院签订正式合作协议</span>
+                                        <span data-lang="en">Contracts with 20+ top Chinese hospitals</span>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="flex items-start">
+                                <div class="w-10 h-10 bg-primary/10 rounded-full flex items-center justify-center mr-4 flex-shrink-0">
+                                    <i class="fas fa-check text-primary"></i>
+                                </div>
+                                <div>
+                                    <h4 class="font-bold">
+                                        <span data-lang="ru">Медицинские переводчики</span>
+                                        <span data-lang="zh">专业医疗翻译</span>
+                                        <span data-lang="en">Medical Translators</span>
+                                    </h4>
+                                    <p class="text-gray-600 text-sm">
+                                        <span data-lang="ru">Наша команда имеет медицинское образование</span>
+                                        <span data-lang="zh">我们的翻译团队均具备医学专业背景</span>
+                                        <span data-lang="en">Our interpreters have medical backgrounds</span>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="flex items-start">
+                                <div class="w-10 h-10 bg-primary/10 rounded-full flex items-center justify-center mr-4 flex-shrink-0">
+                                    <i class="fas fa-check text-primary"></i>
+                                </div>
+                                <div>
+                                    <h4 class="font-bold">
+                                        <span data-lang="ru">Полное сопровождение</span>
+                                        <span data-lang="zh">一站式服务</span>
+                                        <span data-lang="en">End-to-End Service</span>
+                                    </h4>
+                                    <p class="text-gray-600 text-sm">
+                                        <span data-lang="ru">От заявки до возвращения домой здоровым</span>
+                                        <span data-lang="zh">从咨询到康复回国，全程跟进</span>
+                                        <span data-lang="en">From inquiry to returning home healthy</span>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="flex items-start">
+                                <div class="w-10 h-10 bg-primary/10 rounded-full flex items-center justify-center mr-4 flex-shrink-0">
+                                    <i class="fas fa-check text-primary"></i>
+                                </div>
+                                <div>
+                                    <h4 class="font-bold">
+                                        <span data-lang="ru">Русскоязычная поддержка</span>
+                                        <span data-lang="zh">俄语全程支持</span>
+                                        <span data-lang="en">Full Language Support</span>
+                                    </h4>
+                                    <p class="text-gray-600 text-sm">
+                                        <span data-lang="ru">Всегда на связи, отвечаем в течение часа</span>
+                                        <span data-lang="zh">7x24小时在线，1小时内回复</span>
+                                        <span data-lang="en">Always available, response within 1 hour</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== FAQ ==================== -->
+    <section class="py-20 bg-white">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-[clamp(1.8rem,3vw,2.5rem)] font-bold text-dark mb-4">
+                    <span data-lang="ru">Часто задаваемые вопросы</span>
+                    <span data-lang="zh">常见问题</span>
+                    <span data-lang="en">Frequently Asked Questions</span>
+                </h2>
+            </div>
+
+            <div class="max-w-3xl mx-auto space-y-4">
+                <div class="bg-light rounded-xl p-6">
+                    <h4 class="font-bold mb-2">
+                        <span data-lang="ru">❓ Какие документы нужны для поездки на лечение в Китай?</span>
+                        <span data-lang="zh">❓ 去中国看病需要准备哪些材料？</span>
+                        <span data-lang="en">❓ What documents do I need for treatment in China?</span>
+                    </h4>
+                    <p class="text-gray-600">
+                        <span data-lang="ru">Вам понадобятся: паспорт и ваши медицинские документы. Приглашение от больницы и визу мы оформляем сами!</span>
+                        <span data-lang="zh">您需要提供：有效期6个月以上的护照、相关病历和检查报告。医院邀请函和医疗签证由我们统一办理！</span>
+                        <span data-lang="en">You'll need a valid passport and your medical records. The hospital invitation letter and medical visa are arranged by us!</span>
+                    </p>
+                </div>
+
+                <div class="bg-light rounded-xl p-6">
+                    <h4 class="font-bold mb-2">
+                        <span data-lang="ru">❓ Сколько стоит лечение в Китае?</span>
+                        <span data-lang="zh">❓ 在中国看病大概需要多少钱？</span>
+                        <span data-lang="en">❓ How much does medical treatment in China cost?</span>
+                    </h4>
+                    <p class="text-gray-600">
+                        <span data-lang="ru">Стоимость индивидуальна. В среднем лечение в Китае на 50-70% дешевле, чем в Западных странах. Мы предоставляем бесплатную смету после изучения ваших документов.</span>
+                        <span data-lang="zh">费用因人而异。总体来说，中国治疗费用比西方国家低50-70%。我们会在收到您的病历后提供免费的初步费用预估。</span>
+                        <span data-lang="en">Costs vary by treatment. Generally, treatment in China costs 50-70% less than in Western countries. We provide free estimates after reviewing your medical records.</span>
+                    </p>
+                </div>
+
+                <div class="bg-light rounded-xl p-6">
+                    <h4 class="font-bold mb-2">
+                        <span data-lang="ru">❓ Будет ли переводчик на всём протяжении лечения?</span>
+                        <span data-lang="zh">❓ 看病全程有翻译陪同吗？</span>
+                        <span data-lang="en">❓ Will there be an interpreter during my treatment?</span>
+                    </h4>
+                    <p class="text-gray-600">
+                        <span data-lang="ru">Конечно! Ваш персональный русско-китайский переводчик будет сопровождать вас на всех консультациях, в больнице, и поможет с бытовыми вопросами.</span>
+                        <span data-lang="zh">当然有！专属中俄双语翻译将全程陪同您：所有医生问诊、住院期间、各项检查，以及日常生活问题。</span>
+                        <span data-lang="en">Absolutely! Your dedicated interpreter will accompany you during all doctor consultations, hospital stays, procedures, and help with daily needs.</span>
+                    </p>
+                </div>
+
+                <div class="bg-light rounded-xl p-6">
+                    <h4 class="font-bold mb-2">
+                        <span data-lang="ru">❓ Можно ли приехать с сопровождающим?</span>
+                        <span data-lang="zh">❓ 可以带家属陪同吗？</span>
+                        <span data-lang="en">❓ Can I bring a family member with me?</span>
+                    </h4>
+                    <p class="text-gray-600">
+                        <span data-lang="ru">Да, мы рекомендуем приехать с родственником. Мы можем оформить визу для сопровождающего и забронировать проживание рядом с больницей.</span>
+                        <span data-lang="zh">是的，我们强烈建议您带一位亲属陪同。我们可以为陪同人员办理签证，并安排医院附近的住宿。</span>
+                        <span data-lang="en">Yes, we strongly recommend bringing a family member. We can arrange a visa for your companion and book accommodation near the hospital for both of you.</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== CONTACT FORM ==================== -->
+    <section id="contact" class="py-20 bg-gradient-to-r from-primary to-blue-600 text-white">
+        <div class="container mx-auto px-4">
+            <div class="flex flex-col lg:flex-row gap-12 items-center">
+                <div class="lg:w-1/2">
+                    <h2 class="text-[clamp(1.8rem,3vw,2.5rem)] font-bold mb-6">
+                        <span data-lang="ru">Получить бесплатную консультацию</span>
+                        <span data-lang="zh">获取免费咨询</span>
+                        <span data-lang="en">Get Your Free Consultation</span>
+                    </h2>
+                    <p class="opacity-90 mb-8 text-lg">
+                        <span data-lang="ru">Оставьте заявку, и наш менеджер свяжется с вами в течение 24 часов.</span>
+                        <span data-lang="zh">留下您的信息，我们的医疗顾问将在24小时内与您联系。</span>
+                        <span data-lang="en">Submit your information and our patient advisor will contact you within 24 hours.</span>
+                    </p>
+
+                    <div class="space-y-6">
+                        <div class="flex items-center">
+                            <div class="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center mr-4">
+                                <i class="fab fa-whatsapp text-xl"></i>
+                            </div>
+                            <div>
+                                <p class="font-bold">WhatsApp / WeChat</p>
+                                <p class="opacity-80">+86 178 4453 1559</p>
+                            </div>
+                        </div>
+                        <div class="flex items-center">
+                            <div class="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center mr-4">
+                                <i class="fas fa-envelope text-xl"></i>
+                            </div>
+                            <div>
+                                <p class="font-bold">Email</p>
+                                <p class="opacity-80">info@lanpeimedical.com</p>
+                            </div>
+                        </div>
+                        <div class="flex items-center">
+                            <div class="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center mr-4">
+                                <i class="fas fa-map-marker-alt text-xl"></i>
+                            </div>
+                            <div>
+                                <p class="font-bold">
+                                    <span data-lang="ru">Адрес</span>
+                                    <span data-lang="zh">办公地址</span>
+                                    <span data-lang="en">Office Location</span>
+                                </p>
+                                <p class="opacity-80">
+                                    <span data-lang="ru">город Чэнду, провинция Сычуань, Китай</span>
+                                    <span data-lang="zh">中国四川省成都市</span>
+                                    <span data-lang="en">Chengdu, Sichuan Province, China</span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="lg:w-1/2 w-full">
+                    <div class="bg-white rounded-2xl p-8 shadow-2xl">
+                        <h3 class="text-2xl font-bold text-dark mb-6 text-center">
+                            <span data-lang="ru">Форма обратной связи</span>
+                            <span data-lang="zh">在线咨询表单</span>
+                            <span data-lang="en">Contact Form</span>
+                        </h3>
+                        <form class="space-y-4">
+                            <div>
+                                <label class="block text-gray-700 font-medium mb-2">
+                                    <span data-lang="ru">Ваше имя *</span>
+                                    <span data-lang="zh">您的姓名 *</span>
+                                    <span data-lang="en">Your Full Name *</span>
+                                </label>
+                                <input type="text" class="w-full px-4 py-3 border border-gray-300 rounded-lg text-dark" placeholder="Иван Иванов / 伊万·伊万诺夫">
+                            </div>
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                <div>
+                                    <label class="block text-gray-700 font-medium mb-2">
+                                        <span data-lang="ru">Страна *</span>
+                                        <span data-lang="zh">所在国家 *</span>
+                                        <span data-lang="en">Country *</span>
+                                    </label>
+                                    <select class="w-full px-4 py-3 border border-gray-300 rounded-lg text-dark">
+                                        <option>Russian Federation / 俄罗斯</option>
+                                        <option>Kazakhstan / 哈萨克斯坦</option>
+                                        <option>Uzbekistan / 乌兹别克斯坦</option>
+                                        <option>Belarus / 白俄罗斯</option>
+                                        <option>Other Country / 其他国家</option>
+                                    </select>
+                                </div>
+                                <div>
+                                    <label class="block text-gray-700 font-medium mb-2">
+                                        <span data-lang="ru">Телефон *</span>
+                                        <span data-lang="zh">电话 *</span>
+                                        <span data-lang="en">Phone *</span>
+                                    </label>
+                                    <input type="tel" class="w-full px-4 py-3 border border-gray-300 rounded-lg text-dark" placeholder="+7 XXX XXX-XXXX / +86 178 4453 1559">
+                                </div>
+                            </div>
+                            <div>
+                                <label class="block text-gray-700 font-medium mb-2">Email</label>
+                                <input type="email" class="w-full px-4 py-3 border border-gray-300 rounded-lg text-dark" placeholder="example@email.com">
+                            </div>
+                            <div>
+                                <label class="block text-gray-700 font-medium mb-2">
+                                    <span data-lang="ru">Вид лечения *</span>
+                                    <span data-lang="zh">意向治疗项目 *</span>
+                                    <span data-lang="en">Treatment Interest *</span>
+                                </label>
+                                <select class="w-full px-4 py-3 border border-gray-300 rounded-lg text-dark">
+                                    <option>Orthopedics / 骨科</option>
+                                    <option>Cardiology / 心脏科</option>
+                                    <option>IVF & Fertility / 试管婴儿</option>
+                                    <option>Neurosurgery / 神经外科</option>
+                                    <option>Plastic Surgery / 整形外科</option>
+                                    <option>Ophthalmology / 眼科</option>
+                                    <option>Other / 其他</option>
+                                </select>
+                            </div>
+                            <button type="submit" class="w-full bg-primary text-white py-4 rounded-lg font-bold text-lg hover:bg-primary/90 transition shadow-lg">
+                                📤
+                                <span data-lang="ru">Отправить заявку</span>
+                                <span data-lang="zh">提交咨询</span>
+                                <span data-lang="en">Submit Inquiry</span>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== FOOTER ==================== -->
+    <footer class="bg-dark text-white py-12">
+        <div class="container mx-auto px-4">
+            <div class="text-center text-gray-400 text-sm">
+                <p>© 2024
+                    <span data-lang="ru">Ланьпэй Медикал. Все права защищены.</span>
+                    <span data-lang="zh">蓝培医疗 Lanpei Medical. 保留所有权利。</span>
+                    <span data-lang="en">Lanpei Medical. All rights reserved.</span>
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="fixed bottom-8 right-8 w-12 h-12 bg-primary text-white rounded-full shadow-lg hover:bg-primary/90 transition z-40" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <!-- ==================== LANGUAGE SWITCHER SCRIPT ==================== -->
+    <script>
+        let currentLang = 'ru';
+
+        function switchLanguage(lang) {
+            currentLang = lang;
+
+            document.querySelectorAll('[data-lang]').forEach(el => {
+                el.style.display = 'none';
+            });
+
+            document.querySelectorAll(`[data-lang="${lang}"]`).forEach(el => {
+                el.style.display = '';
+            });
+
+            document.documentElement.lang = lang;
+
+            // Update button styles
+            document.getElementById('btn-ru').className = lang === 'ru'
+                ? 'px-3 py-1 rounded text-sm font-medium transition bg-primary text-white'
+                : 'px-3 py-1 rounded text-sm font-medium transition bg-gray-100 hover:bg-gray-200 text-dark';
+
+            document.getElementById('btn-zh').className = lang === 'zh'
+                ? 'px-3 py-1 rounded text-sm font-medium transition bg-primary text-white'
+                : 'px-3 py-1 rounded text-sm font-medium transition bg-gray-100 hover:bg-gray-200 text-dark';
+
+            document.getElementById('btn-en').className = lang === 'en'
+                ? 'px-3 py-1 rounded text-sm font-medium transition bg-primary text-white'
+                : 'px-3 py-1 rounded text-sm font-medium transition bg-gray-100 hover:bg-gray-200 text-dark';
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            switchLanguage('ru');
+        });
+    </script>
+
+</body>
+</html>
