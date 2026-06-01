@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title data-i18n="news_page_title">新闻资讯 - 蓝培医疗</title>
-    <meta name="description" content="蓝培医疗新闻资讯，药品用法用量详解，海外药品直邮咨询">
-    <meta name="keywords" content="蓝培医疗,新闻资讯,药品用法,海外药品,直邮">
+    <title>新闻资讯 - 蓝培医疗</title>
     <script>
 var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
     </script>
@@ -23,326 +21,30 @@ var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); 
         .article-card h3 a { color: #1e3a5f; display: flex; align-items: center; justify-content: space-between; }
         .article-card h3 a:hover { color: #f97316; }
         .article-card h3 a::after { content: '›'; color: #f97316; font-size: 20px; font-weight: bold; }
-        .tag { display: inline-block; background: #f0f7ff; color: #1e3a5f; padding: 2px 10px; border-radius: 12px; font-size: 12px; margin-right: 6px; }
+        .tag { display: inline-block; padding: 2px 10px; border-radius: 12px; font-size: 12px; margin-right: 6px; }
+        .tag-industry { background: #eff6ff; color: #1d4ed8; }
+        .tag-company { background: #f0fdf4; color: #15803d; }
+        .tag-drug { background: #fff7ed; color: #c2410c; }
         .contact-bar { background: linear-gradient(135deg, #f97316 0%, #fb923c 100%); color: white; padding: 16px; border-radius: 12px; text-align: center; margin: 30px 0; }
         .contact-bar a { color: white; font-weight: bold; }
-        .lang-btn.active { background: #f97316; color: white; }
-        .cat-tab { padding: 8px 20px; border-radius: 20px; font-size: 14px; font-weight: 600; border: none; cursor: pointer; transition: all 0.3s; background: #f3f4f6; color: #6b7280; }
-        .cat-tab.active { background: #1e3a5f; color: #fff; }
-        .cat-tab:hover:not(.active) { background: #e5e7eb; }
-        .empty-category { text-align: center; padding: 40px 20px; color: #9ca3af; }
+        .cat-tab { display: inline-block; padding: 6px 18px; border-radius: 20px; font-size: 14px; cursor: pointer; transition: all 0.3s; border: 1px solid #e5e7eb; background: white; color: #666; }
+        .cat-tab:hover { border-color: #f97316; color: #f97316; }
+        .cat-tab.active { background: #f97316; color: white; border-color: #f97316; }
+        .article-meta { display: flex; align-items: center; gap: 12px; margin-top: 6px; font-size: 13px; color: #999; }
+        .article-card.hidden { display: none; }
     </style>
-
-    <script>
-    // ===================== 多语言支持 =====================
-    const translations = {
-        zh: {
-            site_name: "蓝培医疗",
-            news_page_title: "新闻资讯 - 蓝培医疗",
-            site_subtitle: "全球优质医疗资源咨询",
-            news_title: "新闻资讯",
-            back_home: "返回首页",
-            hotline: "咨询热线",
-            whatsapp_label: "WhatsApp",
-            wechat_label: "微信",
-            contact_phone: "13037856968",
-            footer_platform: "全球优质医疗资源咨询平台",
-            footer_disclaimer: "免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任",
-            footer_copyright: "© 2026 蓝培医疗 lanpeimed.com",
-            chat_title: "蓝培医疗在线咨询",
-            phone_consult: "电话咨询",
-            wechat_scan: "微信扫一扫添加咨询",
-            wechat_copy: "加微信",
-            wechat_copied: "已复制!",
-            phone_placeholder: "请输入手机号码",
-            callback_btn: "给您回电",
-            callback_success: "咨询回电请求已提交",
-            chat_footer: "蓝培医疗 · 全球优质医疗资源咨询",
-            tab_industry: "行业资讯",
-            tab_company: "公司资讯",
-            tab_drug: "药闻速递",
-            search_placeholder: "搜索药品..."
-        },
-        en: {
-            site_name: "Lanpei Medical",
-            news_page_title: "News - Lanpei Medical",
-            site_subtitle: "Global Quality Medical Resources",
-            news_title: "News",
-            back_home: "Back to Home",
-            hotline: "Hotline",
-            whatsapp_label: "WhatsApp",
-            wechat_label: "WeChat",
-            contact_phone: "13037856968",
-            footer_platform: "Global Quality Medical Resources Platform",
-            footer_disclaimer: "Disclaimer: The medical information displayed on this website is for reference only. Please consult doctors and pharmacists for specific disease treatment and medication details. Lanpei assumes no responsibility.",
-            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
-            chat_title: "Lanpei Medical Online Consultation",
-            phone_consult: "Phone Consultation",
-            wechat_scan: "Scan QR code to add WeChat",
-            wechat_copy: "Add WeChat",
-            wechat_copied: "Copied!",
-            phone_placeholder: "Enter phone number",
-            callback_btn: "Callback Request",
-            callback_success: "Callback request submitted",
-            chat_footer: "Lanpei Medical · Global Medical Resources",
-            tab_industry: "Industry News",
-            tab_company: "Company News",
-            tab_drug: "Drug Updates",
-            search_placeholder: "Search medicines..."
-        },
-        ru: {
-            site_name: "蓝培医疗",
-            news_page_title: "Новости - Lanpei Medical",
-            site_subtitle: "Глобальные медицинские ресурсы",
-            news_title: "Новости",
-            back_home: "На главную",
-            hotline: "Горячая линия",
-            whatsapp_label: "WhatsApp",
-            wechat_label: "WeChat",
-            contact_phone: "13037856968",
-            footer_platform: "Платформа глобальных медицинских ресурсов",
-            footer_disclaimer: "Отказ от ответственности: информация на сайте только для справки. Проконсультируйтесь с врачом.",
-            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
-            chat_title: "Онлайн консультация Lanpei",
-            phone_consult: "Телефонная консультация",
-            wechat_scan: "Сканируйте QR для добавления WeChat",
-            wechat_copy: "Добавить WeChat",
-            wechat_copied: "Скопировано!",
-            phone_placeholder: "Введите номер телефона",
-            callback_btn: "Обратный звонок",
-            callback_success: "Запрос на обратный звонок отправлен",
-            chat_footer: "Lanpei Medical · Глобальные медицинские ресурсы",
-            tab_industry: "Новости отрасли",
-            tab_company: "Новости компании",
-            tab_drug: "Новости лекарств",
-            search_placeholder: "Поиск лекарств..."
-        },
-        vi: {
-            site_name: "Lanpei Medical",
-            news_page_title: "Tin tức - Lanpei Medical",
-            site_subtitle: "Nền tảng tài nguyên y tế toàn cầu",
-            news_title: "Tin tức",
-            back_home: "Về trang chủ",
-            hotline: "Đường dây nóng",
-            whatsapp_label: "WhatsApp",
-            wechat_label: "WeChat",
-            contact_phone: "13037856968",
-            footer_platform: "Nền tảng tài nguyên y tế chất lượng cao",
-            footer_disclaimer: "Tuyên bố miễn trừ: Thông tin y tế chỉ mang tính tham khảo. Vui lòng hỏi ý kiến bác sĩ.",
-            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
-            chat_title: "Tư vấn trực tuyến Lanpei",
-            phone_consult: "Tư vấn qua điện thoại",
-            wechat_scan: "Quét mã QR để thêm WeChat",
-            wechat_copy: "Thêm WeChat",
-            wechat_copied: "Đã sao chép!",
-            phone_placeholder: "Nhập số điện thoại",
-            callback_btn: "Yêu cầu gọi lại",
-            callback_success: "Đã gửi yêu cầu gọi lại",
-            chat_footer: "Lanpei Medical · Tài nguyên y tế toàn cầu",
-            tab_industry: "Tin ngành",
-            tab_company: "Tin công ty",
-            tab_drug: "Tin thuốc",
-            search_placeholder: "Tìm kiếm thuốc..."
-        },
-        id: {
-            site_name: "Lanpei Medical",
-            news_page_title: "Berita - Lanpei Medical",
-            site_subtitle: "Platform Sumber Daya Medis Global",
-            news_title: "Berita",
-            back_home: "Kembali ke Beranda",
-            hotline: "Hotline",
-            whatsapp_label: "WhatsApp",
-            wechat_label: "WeChat",
-            contact_phone: "13037856968",
-            footer_platform: "Platform Sumber Daya Medis Berkualitas Global",
-            footer_disclaimer: "Penafian: Informasi medis hanya untuk referensi. Silakan konsultasikan dengan dokter.",
-            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
-            chat_title: "Konsultasi Online Lanpei",
-            phone_consult: "Konsultasi Telepon",
-            wechat_scan: "Pindai QR untuk tambah WeChat",
-            wechat_copy: "Tambah WeChat",
-            wechat_copied: "Disalin!",
-            phone_placeholder: "Masukkan nomor telepon",
-            callback_btn: "Minta Panggilan",
-            callback_success: "Permintaan panggilan dikirim",
-            chat_footer: "Lanpei Medical · Sumber Daya Medis Global",
-            tab_industry: "Berita Industri",
-            tab_company: "Berita Perusahaan",
-            tab_drug: "Info Obat",
-            search_placeholder: "Cari obat..."
-        },
-        my: {
-            site_name: "Lanpei Medical",
-            news_page_title: "သတင်း - Lanpei Medical",
-            site_subtitle: "ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါးအရင်းအမြစ်ပလက်ဖောင်း",
-            news_title: "သတင်း",
-            back_home: "ပင်မသို့ ပြန်သွားရန်",
-            hotline: "ဖုန်းလိုင်း",
-            whatsapp_label: "WhatsApp",
-            wechat_label: "WeChat",
-            contact_phone: "13037856968",
-            footer_platform: "ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါးအရင်းအမြစ်ပလက်ဖောင်း",
-            footer_disclaimer: "သတိပေးချက်- ဤဝက်ဘ်ဆိုဒ်တွင်တင်ပြထားသော ဆေးဝါးအချက်အလက်များသည် ရည်ရွယ်ချက်တစ်ခုဖြစ်သည်။",
-            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
-            chat_title: "Lanpei အွန်လိုင်းတိုင်ပင်ဆွေးနွေးမှု",
-            phone_consult: "ဖုန်းဖြင့်တိုင်ပင်ဆွေးနွေးမှု",
-            wechat_scan: "QR ကုဒ်ဖတ်ပြီး WeChat ထည့်ပါ",
-            wechat_copy: "WeChat ထည့်ရန်",
-            wechat_copied: "ကူယူပြီး!",
-            phone_placeholder: "ဖုန်းနံပါတ် ထည့်ပါ",
-            callback_btn: "ပြန်ခေါ်ရန်တောင်းဆိုမှု",
-            callback_success: "ပြန်ခေါ်မှု တင်ပြီးပါပြီ",
-            chat_footer: "Lanpei Medical · ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါး",
-            tab_industry: "စက်မှုသတင်း",
-            tab_company: "ကုမ္ပဏီသတင်း",
-            tab_drug: "ဆေးဝါးသတင်း",
-            search_placeholder: "ဆေးရှာရန်..."
-        },
-        bd: {
-            site_name: "Lanpei Medical",
-            news_page_title: "সংবাদ - Lanpei Medical",
-            site_subtitle: "বিশ্বমানের মেডিকেল রিসোর্স প্ল্যাটফর্ম",
-            news_title: "সংবাদ",
-            back_home: "হোম পেজে ফিরে যান",
-            hotline: "হটলাইন",
-            whatsapp_label: "WhatsApp",
-            wechat_label: "উইচ্যাট",
-            contact_phone: "13037856968",
-            footer_platform: "বিশ্বমানের মেডিকেল রিসোর্স প্ল্যাটফর্ম",
-            footer_disclaimer: "দ্বায়িত্ব: এই সাইটে প্রদর্শিত মেডিকেল তথ্য শুধুমাত্র রেফারেন্সের জন্য। অনুগ্রহ করে ডাক্তারের পরামর্শ নিন।",
-            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
-            chat_title: "Lanpei অনলাইন পরামর্শ",
-            phone_consult: "ফোনে পরামর্শ",
-            wechat_scan: "QR কোড স্ক্যান করে উইচ্যাট যোগ করুন",
-            wechat_copy: "উইচ্যাট যোগ",
-            wechat_copied: "কপি হয়েছে!",
-            phone_placeholder: "ফোন নম্বর দিন",
-            callback_btn: "কল ব্যাক চান",
-            callback_success: "কল ব্যাক অনুরোধ জমা হয়েছে",
-            chat_footer: "Lanpei Medical · বিশ্ব মেডিকেল রিসোর্স",
-            tab_industry: "শিল্প সংবাদ",
-            tab_company: "কোম্পানি সংবাদ",
-            tab_drug: "ওষুধ সংবাদ",
-            search_placeholder: "ওষুধ খুঁজুন..."
-        }
-    };
-
-    let currentLang = 'zh';
-
-    function changeLanguage(lang) {
-        currentLang = lang;
-        
-        // 更新语言按钮状态
-        document.querySelectorAll('.lang-btn').forEach(btn => {
-            btn.classList.remove('bg-[#f97316]', 'text-white');
-            if (btn.dataset.lang === lang) {
-                btn.classList.add('bg-[#f97316]', 'text-white');
-            }
-        });
-        
-        // 更新页面标题
-        document.title = translations[lang].news_page_title;
-        
-        // 更新所有翻译元素
-        updateTranslations();
-    }
-
-    function updateTranslations() {
-        const t = translations[currentLang];
-        
-        // 更新有 data-i18n 属性的元素
-        document.querySelectorAll('[data-i18n]').forEach(el => {
-            const key = el.getAttribute('data-i18n');
-            if (t[key]) {
-                el.textContent = t[key];
-            }
-        });
-        
-        // 更新首页链接的文字
-        const backHomeLink = document.querySelector('a[href*="lanpeimed.com"]');
-        if (backHomeLink && backHomeLink.textContent.includes('首页') || backHomeLink && backHomeLink.textContent.includes('返回')) {
-            backHomeLink.innerHTML = '<i class="fas fa-pills mr-1"></i>' + t.back_home;
-        }
-        
-        // 更新页脚
-        const footerPlatform = document.getElementById('footer-platform');
-        if (footerPlatform) footerPlatform.textContent = t.footer_platform;
-        
-        const footerDisclaimer = document.getElementById('footer-disclaimer');
-        if (footerDisclaimer) footerDisclaimer.textContent = t.footer_disclaimer;
-        
-        // 更新咨询栏
-        const contactBar = document.querySelector('.contact-bar');
-        if (contactBar) {
-            const t_data = translations[currentLang];
-            contactBar.innerHTML = '<i class="fas fa-phone-alt mr-2"></i>' + t.hotline + '：<a href="tel:' + t.contact_phone + '">' + t.contact_phone + '</a> | ' +
-                '<i class="fab fa-whatsapp mr-1"></i>' + t.whatsapp_label + '：<a href="https://wa.me/639685838435">+63-968-583-8435</a> | ' +
-                '<i class="fab fa-weixin mr-1"></i>' + t.wechat_label + '：' + currentLang === 'zh' ? '17844531559' : t.wechat_label;
-        }
-        
-        // 更新咨询浮窗
-        const chatTitle = document.querySelector('.chat-header-left span');
-        if (chatTitle) chatTitle.textContent = t.chat_title;
-        
-        const wechatScanText = document.querySelector('.chat-body > div:nth-child(2) p');
-        if (wechatScanText) wechatScanText.textContent = t.wechat_scan;
-        
-        const phoneConsultLabel = document.querySelector('.chat-contact-item:nth-child(1) .label');
-        if (phoneConsultLabel) phoneConsultLabel.textContent = t.phone_consult;
-        
-        const whatsappLabel = document.querySelector('.chat-contact-item:nth-child(2) .label');
-        if (whatsappLabel) whatsappLabel.textContent = t.whatsapp_label;
-        
-        const wechatCopyLabel = document.getElementById('wechatLabel');
-        if (wechatCopyLabel) wechatCopyLabel.textContent = t.wechat_copy;
-        
-        const phoneInput = document.getElementById('chatPhone');
-        if (phoneInput) phoneInput.placeholder = t.phone_placeholder;
-        
-        const callbackBtn = document.querySelector('.chat-input-area button');
-        if (callbackBtn) callbackBtn.textContent = t.callback_btn;
-        
-        const chatFooter = document.querySelector('.chat-footer');
-        if (chatFooter) chatFooter.textContent = t.chat_footer;
-    }
-    </script>
 </head>
 <body class="bg-gray-50">
-    <!-- Top Bar with Language Switcher -->
-    <div class="bg-gray-900 text-white py-2 text-sm">
-        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
-            <div class="flex items-center gap-4 flex-wrap">
-                <span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span>
-                <span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span>
-            </div>
-            <div class="flex items-center gap-3">
-                <div class="flex gap-2">
-                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
-                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
-                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
-                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
-                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
-                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
-                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
-                </div>
-                <div class="flex gap-2 ml-4">
-                    <a href="https://wa.me/639685838435" target="_blank" class="hover:text-green-400"><i class="fab fa-whatsapp"></i></a>
-                    <a href="javascript:void(0)" onclick="showWechat()" class="hover:text-green-400"><i class="fab fa-weixin"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <!-- Header -->
     <header class="gradient-bg text-white py-6">
         <div class="max-w-4xl mx-auto px-4">
             <div class="flex items-center justify-between">
                 <div>
-                    <h1 class="text-2xl font-bold"><a href="https://lanpeimed.com" class="text-white hover:text-orange-300" data-i18n="site_name">蓝培医疗</a></h1>
-                    <p class="text-blue-200 text-sm mt-1" data-i18n="site_subtitle">全球优质医疗资源咨询 · 新闻资讯</p>
+                    <h1 class="text-2xl font-bold"><a href="https://lanpeimed.com" class="text-white hover:text-orange-300">蓝培医疗</a></h1>
+                    <p class="text-blue-200 text-sm mt-1">专业海外药品直邮 · 新闻资讯</p>
                 </div>
                 <a href="https://lanpeimed.com" class="bg-orange-500 hover:bg-orange-600 text-white px-4 py-2 rounded-lg text-sm">
-                    <i class="fas fa-pills mr-1"></i><span data-i18n="back_home">返回首页</span>
+                    <i class="fas fa-pills mr-1"></i>返回首页
                 </a>
             </div>
         </div>
@@ -351,224 +53,127 @@ var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); 
     <!-- Contact Bar -->
     <div class="max-w-4xl mx-auto px-4 mt-6">
         <div class="contact-bar">
-            <i class="fas fa-phone-alt mr-2"></i><span data-i18n="hotline">咨询热线</span>：<a href="tel:13037856968">13037856968</a> | 
-            <i class="fab fa-whatsapp mr-1"></i><span data-i18n="whatsapp_label">WhatsApp</span>：<a href="https://wa.me/639685838435">+63-968-583-8435</a> | 
-            <i class="fab fa-weixin mr-1"></i><span data-i18n="wechat_label">微信</span>：17844531559
+            <i class="fas fa-phone-alt mr-2"></i>咨询热线：<a href="tel:13037856968">13037856968</a> | 
+            <i class="fab fa-whatsapp mr-1"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a> | 
+            <i class="fab fa-weixin mr-1"></i>微信：17844531559
         </div>
     </div>
 
     <!-- Article List -->
     <main class="max-w-4xl mx-auto px-4 py-6">
-        <h2 class="text-xl font-bold text-gray-800 mb-6"><i class="fas fa-newspaper mr-2 text-orange-500"></i><span data-i18n="news_title">新闻资讯</span></h2>
-        <!-- Category Tabs -->
-        <div class="flex gap-3 mb-6 flex-wrap">
-            <button class="cat-tab" data-cat="industry" onclick="switchCategory('industry')" data-i18n="tab_industry">行业资讯</button>
-            <button class="cat-tab" data-cat="company" onclick="switchCategory('company')" data-i18n="tab_company">公司资讯</button>
-            <button class="cat-tab active" data-cat="drug" onclick="switchCategory('drug')" data-i18n="tab_drug">药闻速递</button>
-        </div>
-        <div id="article-list">
-<!-- 行业资讯 -->
-<div class="article-card" data-category="industry" style="display:none">
-    <h3><a href="news-industry-0530-yibao-tongyi.html">2026年医保大变革：全国统一目录开启公平保障新时代</a></h3>
-</div>
-<div class="article-card" data-category="industry" style="display:none">
-    <h3><a href="news-industry-0530-yibaotiaozheng.html">2026年医保目录调整：这些海外版本药品有望纳入</a></h3>
-</div>
-<!-- 公司资讯 -->
-<div class="article-card" data-category="company" style="display:none">
-    <h3><a href="news-company-0530-fuwuliucheng.html">蓝培医疗全球咨询服务流程详解</a></h3>
-</div>
-<!-- 药闻速递 -->
-<div class="article-card" data-category="drug">
-    <h3><a href="news-001-abitelong.html">阿比特龙片用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-002-entrectinib.html">恩曲替尼胶囊用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-003-alectinib.html">阿来替尼胶囊用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-004-avatrombopag.html">马来酸阿伐曲泊帕片用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-005-brigatinib.html">布格替尼用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-006-pomalidomide.html">泊马度胺胶囊用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-007-ceritinib.html">塞瑞替尼胶囊用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-008-dapoxetine.html">达泊西汀片用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-009-eltrombopag.html">艾曲泊帕乙醇胺片用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-010-ibrutinib.html">伊布替尼胶囊用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-011-engeliejing.html">恩格列净片用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-012-erdafitinib.html">厄达替尼片用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-013-jifeitini.html">吉非替尼片用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-014-jiruitini.html">富马酸吉瑞替尼片用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-015-aifunibu.html">艾伏尼布片用法用量详解</a></h3>
-</div>
-
-
-
-
-
-
-
-
-
-
+        <h2 class="text-xl font-bold text-gray-800 mb-4"><i class="fas fa-newspaper mr-2 text-orange-500"></i>新闻资讯</h2>
         
+        <!-- Category Tabs -->
+        <div class="flex flex-wrap gap-2 mb-6">
+            <span class="cat-tab active" data-cat="all"><i class="fas fa-th-list mr-1"></i>全部</span>
+            <span class="cat-tab" data-cat="industry"><i class="fas fa-hospital mr-1"></i>行业资讯</span>
+            <span class="cat-tab" data-cat="company"><i class="fas fa-building mr-1"></i>公司资讯</span>
+            <span class="cat-tab" data-cat="drug"><i class="fas fa-capsules mr-1"></i>药闻速递</span>
+        </div>
+
+        <div id="article-list">
+            <!-- ARTICLES_INSERT_POINT -->
+
 <div class="article-card" data-category="drug">
-    <h3><a href="news-016-kekaozhini.html">克唑替尼胶囊用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-017-laluotini.html">拉罗替尼胶囊用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-018-lainaduian.html">来那度胺胶囊用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-019-luolatini.html">洛拉替尼片用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-020-lunfatini.html">仑伐替尼胶囊用法用量详解</a></h3>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="news-021-nizela.html">尼拉帕利阿比特龙片用法用量详解</a></h3>
+    <h3><a href="028-retevmo-feiai.html">ASCO重磅：礼来Retevmo早期肺癌辅助治疗降低83%复发风险</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-01</span></div>
 </div>
 <div class="article-card" data-category="drug">
-    <h3><a href="news-022-odxibat.html">奥德昔巴特胶囊用法用量详解</a></h3>
+    <h3><a href="027-jiangyaxinyao-baxdrostat.html">20年来首款新机制降压药获FDA批准：全球高血压治疗开启新纪元</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-01</span></div>
+</div>
+<div class="article-card" data-category="industry">
+    <h3><a href="026-jingwai-jiuyi.html">外国人来华就医潮兴起：128万国际患者背后的跨境医疗新机遇</a></h3>
+    <div class="article-meta"><span class="tag tag-industry">行业资讯</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-01</span></div>
 </div>
 <div class="article-card" data-category="drug">
-    <h3><a href="news-023-olieni.html">奥拉帕利片用法用量详解</a></h3>
+    <h3><a href="015-yigan-xinyao-beipuruoweisheng.html">国产乙肝新药贝普若韦生III期研究成功，有望实现功能性治愈</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-31</span></div>
+</div>
+<div class="article-card" data-category="industry">
+    <h3><a href="014-botao-lecheng-yiliao.html">博鳌乐城国际医疗旅游服务中心正式揭牌</a></h3>
+    <div class="article-meta"><span class="tag tag-industry">行业资讯</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-31</span></div>
 </div>
 <div class="article-card" data-category="drug">
-    <h3><a href="news-024-osiem.html">甲磺酸奥希替尼片用法用量详解</a></h3>
+    <h3><a href="013-shuwozitinai-egfr-ex20ins.html">国产靶向药舒沃替尼一线治疗EGFR ex20ins肺癌III期研究登顶NEJM</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-31</span></div>
 </div>
 <div class="article-card" data-category="drug">
-    <h3><a href="news-025-parcini.html">哌柏西利片用法用量详解</a></h3>
+    <h3><a href="012-yuegang-kuajing-yiliao.html">粤港澳大湾区跨境医疗深度融合，港澳同胞来穗就医开启新篇章</a></h3>
+    <div class="article-meta"><span class="tag tag-industry">行业资讯</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-30</span></div>
 </div>
+<div class="article-card" data-category="drug">
+    <h3><a href="011-baitaisuo-xiao-xiao-bao.html">百济神州安泰适获批新适应症，小细胞肺癌二线治疗迎突破</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-30</span></div>
 </div>
+<div class="article-card" data-category="drug">
+    <h3><a href="001-abitelong.html">阿比特龙片用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="002-entrectinib.html">恩曲替尼胶囊用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="003-alectinib.html">阿来替尼胶囊用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="004-avatrombopag.html">马来酸阿伐曲泊帕片用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="005-brigatinib.html">布格替尼用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="006-pomalidomide.html">泊马度胺胶囊用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="007-ceritinib.html">塞瑞替尼胶囊用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="008-dapoxetine.html">达泊西汀片用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="009-eltrombopag.html">艾曲泊帕乙醇胺片用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="010-ibrutinib.html">伊布替尼胶囊用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+        </div>
     </main>
 
     <!-- Footer -->
     <footer class="gradient-bg text-white py-8 mt-10">
         <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
-            <p id="footer-platform" data-i18n="footer_platform">蓝培医疗 - 全球优质医疗资源咨询平台</p>
-            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
-            <p id="footer-copyright" class="mt-2" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+            <p>蓝培医疗 - 专业海外药品直邮平台</p>
+            <p class="mt-2">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p class="mt-2">© 2026 蓝培医疗 lanpeimed.com</p>
         </div>
     </footer>
 
-<!-- 在线咨询浮窗 -->
-<style>
-.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
-.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
-.chat-widget-btn i{color:#fff;font-size:24px}
-.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
-@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
-.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
-@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
-.chat-box.active{display:flex}
-.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
-.chat-header-left{display:flex;align-items:center;gap:10px}
-.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
-.chat-header-left span{font-size:15px;font-weight:600}
-.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
-.chat-body{padding:16px;flex:1}
-.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
-.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
-.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
-.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
-.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
-.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
-.chat-contact-item .label{font-weight:600;margin-top:4px}
-.chat-input-area{display:flex;gap:8px;margin-top:10px}
-.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
-.chat-input-area input:focus{border-color:#1e3a5f}
-.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
-.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
-.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
-</style>
-<div class="chat-widget-btn" onclick="toggleChat()">
-    <div class="pulse-ring"></div>
-    <i class="fas fa-headset"></i>
-</div>
-<div class="chat-box" id="chatBox">
-    <div class="chat-header">
-        <div class="chat-header-left">
-            <div class="logo">蓝培</div>
-            <span data-i18n="chat_title">蓝培医疗在线咨询</span>
-        </div>
-        <button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button>
-    </div>
-    <div class="chat-body">
-        <div class="chat-notice">
-            因咨询人数多，如未及时回复，请致电：<span class="phone-red">17844531559</span>，或扫码加微信沟通：
-        </div>
-        <div style="text-align:center;margin-bottom:14px">
-            <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px">
-            <p style="font-size:12px;color:#6b7280;margin-top:6px" data-i18n="wechat_scan">微信扫一扫添加咨询</p>
-        </div>
-        <div class="chat-contact-row">
-            <a href="tel:13037856968" class="chat-contact-item" style="text-decoration:none">
-                <i class="fas fa-phone-alt" style="color:#1e3a5f"></i>
-                <div class="label" data-i18n="phone_consult">电话咨询</div>
-            </a>
-            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none">
-                <i class="fab fa-whatsapp" style="color:#25d366"></i>
-                <div class="label" data-i18n="whatsapp_label">WhatsApp</div>
-            </a>
-            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none">
-                <i class="fab fa-weixin" style="color:#07c160"></i>
-                <div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div>
-            </a>
-        </div>
-        <div class="chat-input-area">
-            <input type="tel" id="chatPhone" placeholder="请输入手机号码" data-i18n-placeholder="phone_placeholder">
-            <button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button>
-        </div>
-    </div>
-    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
-</div>
-<script>
-function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
-function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){l.textContent=translations[currentLang].wechat_copy},2000)}
-function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求：'+p+'，请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
-function showWechat(){document.getElementById('wechatModal').style.display='flex';document.body.style.overflow='hidden'}
-
-
-function switchCategory(cat) {
-    document.querySelectorAll('.cat-tab').forEach(t => {
-        t.classList.remove('active');
-        if (t.dataset.cat === cat) t.classList.add('active');
+    <script>
+    // Category tab filtering
+    document.querySelectorAll('.cat-tab').forEach(tab => {
+        tab.addEventListener('click', function() {
+            document.querySelectorAll('.cat-tab').forEach(t => t.classList.remove('active'));
+            this.classList.add('active');
+            const cat = this.dataset.cat;
+            document.querySelectorAll('.article-card').forEach(card => {
+                if (cat === 'all' || card.dataset.category === cat) {
+                    card.classList.remove('hidden');
+                } else {
+                    card.classList.add('hidden');
+                }
+            });
+        });
     });
-    document.querySelectorAll('.article-card').forEach(card => {
-        card.style.display = (card.dataset.category === cat) ? 'block' : 'none';
-    });
-}
-// 页面加载完成后初始化语言
-document.addEventListener('DOMContentLoaded', function() {
-    updateTranslations();
-});
-</script>
-
+    </script>
 </body>
 </html>
