@@ -3,189 +3,1297 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>新闻资讯 - 蓝培医疗</title>
-    <script>
-var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
-    </script>
+    <title>蓝培医疗 - 桃子健康旗下老挝印度孟加拉日本美国德国瑞士药品直邮平台</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#1e3a5f',
+                        secondary: '#f97316',
+                        lightgray: '#f5f5f5'
+                    }
+                }
+            }
+        }
+    </script>
     <style>
-        :root { --primary: #1e3a5f; --accent: #f97316; }
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
-        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
-        a { color: #1e3a5f; text-decoration: none; }
-        a:hover { color: #f97316; }
-        .article-card { background: white; border-radius: 12px; padding: 16px 24px; margin-bottom: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); transition: all 0.3s; border-left: 4px solid transparent; }
-        .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); border-left-color: #f97316; transform: translateX(4px); }
-        .article-card h3 { margin: 0; font-size: 16px; }
-        .article-card h3 a { color: #1e3a5f; display: flex; align-items: center; justify-content: space-between; }
-        .article-card h3 a:hover { color: #f97316; }
-        .article-card h3 a::after { content: '›'; color: #f97316; font-size: 20px; font-weight: bold; }
-        .tag { display: inline-block; padding: 2px 10px; border-radius: 12px; font-size: 12px; margin-right: 6px; }
-        .tag-industry { background: #eff6ff; color: #1d4ed8; }
-        .tag-company { background: #f0fdf4; color: #15803d; }
-        .tag-drug { background: #fff7ed; color: #c2410c; }
-        .contact-bar { background: linear-gradient(135deg, #f97316 0%, #fb923c 100%); color: white; padding: 16px; border-radius: 12px; text-align: center; margin: 30px 0; }
-        .contact-bar a { color: white; font-weight: bold; }
-        .cat-tab { display: inline-block; padding: 6px 18px; border-radius: 20px; font-size: 14px; cursor: pointer; transition: all 0.3s; border: 1px solid #e5e7eb; background: white; color: #666; }
-        .cat-tab:hover { border-color: #f97316; color: #f97316; }
-        .cat-tab.active { background: #f97316; color: white; border-color: #f97316; }
-        .article-meta { display: flex; align-items: center; gap: 12px; margin-top: 6px; font-size: 13px; color: #999; }
-        .article-card.hidden { display: none; }
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap');
+        * { font-family: 'Noto Sans SC', sans-serif; }
+        .scrollbar-hide::-webkit-scrollbar { display: none; }
+        .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+        .dropdown-menu { display: none; }
+        .dropdown:hover .dropdown-menu { display: block; }
+        .product-card:hover { transform: translateY(-5px); box-shadow: 0 10px 25px rgba(0,0,0,0.15); }
+        .category-tab:hover, .category-tab.active { background: #f97316; color: white; }
+        .floating-btn:hover .tooltip { opacity: 1; visibility: visible; }
+        .modal-overlay { background: rgba(0,0,0,0.5); }
+        .pulse-animation { animation: pulse 2s infinite; }
+        @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.05); } }
+        .slide-in { animation: slideIn 0.3s ease-out; }
+        @keyframes slideIn { from { transform: translateX(100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+        .fade-in { animation: fadeIn 0.3s ease-out; }
+        @keyframes fadeIn { from { opacity: 0; transform: scale(0.95); } to { opacity: 1; transform: scale(1); } }
     </style>
 </head>
-<body class="bg-gray-50">
-    <!-- Header -->
-    <header class="gradient-bg text-white py-6">
-        <div class="max-w-4xl mx-auto px-4">
-            <div class="flex items-center justify-between">
-                <div>
-                    <h1 class="text-2xl font-bold"><a href="https://lanpeimed.com" class="text-white hover:text-orange-300">蓝培医疗</a></h1>
-                    <p class="text-blue-200 text-sm mt-1">专业海外药品直邮 · 新闻资讯</p>
-                </div>
-                <a href="https://lanpeimed.com" class="bg-orange-500 hover:bg-orange-600 text-white px-4 py-2 rounded-lg text-sm">
-                    <i class="fas fa-pills mr-1"></i>返回首页
-                </a>
+<body class="bg-lightgray">
+    <!-- Top Header -->
+    <div class="bg-primary text-white">
+        <div class="max-w-7xl mx-auto px-4 py-2 flex justify-between items-center text-sm">
+            <div class="flex items-center gap-4">
+                <span><i class="fas fa-phone-alt mr-2"></i>18884507184</span>
+                <span class="hidden md:inline"><i class="fas fa-envelope mr-2"></i>info@lanpeimedical.com</span>
             </div>
-        </div>
-    </header>
-
-    <!-- Contact Bar -->
-    <div class="max-w-4xl mx-auto px-4 mt-6">
-        <div class="contact-bar">
-            <i class="fas fa-phone-alt mr-2"></i>咨询热线：<a href="tel:13037856968">13037856968</a> | 
-            <i class="fab fa-whatsapp mr-1"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a> | 
-            <i class="fab fa-weixin mr-1"></i>微信：17844531559
+            <div class="flex items-center gap-3">
+                <select id="langSelect" onchange="changeLanguage(this.value)" class="bg-primary/80 border border-white/30 text-white px-2 py-1 rounded text-xs cursor-pointer">
+                    <option value="zh">中文</option>
+                    <option value="en">English</option>
+                    <option value="ru">Русский</option>
+                    <option value="vi">Tiếng Việt</option>
+                    <option value="id">Bahasa</option>
+                    <option value="my">မြန်မာ</option>
+                    <option value="bn">বাংলা</option>
+                </select>
+                <a href="https://wa.me/639685838435" target="_blank" class="hover:text-secondary"><i class="fab fa-whatsapp"></i></a>
+                <a href="#" onclick="showWechat()" class="hover:text-secondary"><i class="fab fa-weixin"></i></a>
+            </div>
         </div>
     </div>
 
-    <!-- Article List -->
-    <main class="max-w-4xl mx-auto px-4 py-6">
-        <h2 class="text-xl font-bold text-gray-800 mb-4"><i class="fas fa-newspaper mr-2 text-orange-500"></i>新闻资讯</h2>
-        
-        <!-- Category Tabs -->
-        <div class="flex flex-wrap gap-2 mb-6">
-            <span class="cat-tab active" data-cat="all"><i class="fas fa-th-list mr-1"></i>全部</span>
-            <span class="cat-tab" data-cat="industry"><i class="fas fa-hospital mr-1"></i>行业资讯</span>
-            <span class="cat-tab" data-cat="company"><i class="fas fa-building mr-1"></i>公司资讯</span>
-            <span class="cat-tab" data-cat="drug"><i class="fas fa-capsules mr-1"></i>药闻速递</span>
+    <!-- Main Navigation -->
+    <nav class="bg-white shadow-md sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="flex justify-between items-center h-20">
+                <!-- Logo -->
+                <div class="flex items-center gap-3">
+                    <div class="w-12 h-12 bg-gradient-to-br from-secondary to-primary rounded-lg flex items-center justify-center">
+                        <i class="fas fa-plus text-white text-xl"></i>
+                    </div>
+                    <div>
+                        <h1 class="text-xl font-bold text-primary">蓝培医疗</h1>
+                        <p class="text-xs text-gray-500">Lanpei Medical</p>
+                    </div>
+                </div>
+
+                <!-- Search Box -->
+                <div class="hidden md:flex flex-1 max-w-xl mx-8">
+                    <div class="flex w-full">
+                        <input type="text" id="searchInput" placeholder="搜索药品名称、品牌..." 
+                            class="flex-1 border-2 border-primary/20 rounded-l-lg px-4 py-2 focus:border-secondary focus:outline-none"
+                            onkeyup="if(event.key==='Enter') searchProducts()">
+                        <button onclick="searchProducts()" class="bg-primary text-white px-6 py-2 rounded-r-lg hover:bg-primary/90 transition">
+                            <i class="fas fa-search"></i> 搜索
+                        </button>
+                    </div>
+                </div>
+
+                <!-- User Actions -->
+                <div class="flex items-center gap-4">
+                    <a href="#" class="hidden md:block text-gray-600 hover:text-primary"><i class="fas fa-user text-xl"></i></a>
+                    <a href="#" class="hidden md:block text-gray-600 hover:text-primary relative">
+                        <i class="fas fa-shopping-cart text-xl"></i>
+                        <span id="cartCount" class="absolute -top-2 -right-2 bg-secondary text-white text-xs w-5 h-5 rounded-full flex items-center justify-center">0</span>
+                    </a>
+                </div>
+            </div>
         </div>
 
-        <div id="article-list">
-            <!-- ARTICLES_INSERT_POINT -->
-
-<div class="article-card" data-category="drug">
-    <h3><a href="/031-RAS-baixibo-aizheng.html">RAS靶向治疗重大突破：胰腺癌患者生存期翻倍，创新赛道竞争白热化</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-02</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/030-ennituo-her2-weikang.html">中国首个胃癌二线HER2双抗获批！康宁杰瑞恩尼妥重塑胃癌治疗格局</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-02</span></div>
-</div>
-<div class="article-card" data-category="industry">
-    <h3><a href="/029-yibao-mulu-2026.html">2026医保目录调整正式启动：三类新药首次可申报，多重政策利好患者</a></h3>
-    <div class="article-meta"><span class="tag tag-industry">行业资讯</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-02</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/028-retevmo-feiai.html">ASCO重磅：礼来Retevmo早期肺癌辅助治疗降低83%复发风险</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-01</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/027-jiangyaxinyao-baxdrostat.html">20年来首款新机制降压药获FDA批准：全球高血压治疗开启新纪元</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-01</span></div>
-</div>
-<div class="article-card" data-category="industry">
-    <h3><a href="/026-jingwai-jiuyi.html">外国人来华就医潮兴起：128万国际患者背后的跨境医疗新机遇</a></h3>
-    <div class="article-meta"><span class="tag tag-industry">行业资讯</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-01</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/015-yigan-xinyao-beipuruoweisheng.html">国产乙肝新药贝普若韦生III期研究成功，有望实现功能性治愈</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-31</span></div>
-</div>
-<div class="article-card" data-category="industry">
-    <h3><a href="/news/014-botao-lecheng-yiliao.html">博鳌乐城国际医疗旅游服务中心正式揭牌</a></h3>
-    <div class="article-meta"><span class="tag tag-industry">行业资讯</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-31</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/013-shuwozitinai-egfr-ex20ins.html">国产靶向药舒沃替尼一线治疗EGFR ex20ins肺癌III期研究登顶NEJM</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-31</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/012-yuegang-kuajing-yiliao.html">粤港澳大湾区跨境医疗深度融合，港澳同胞来穗就医开启新篇章</a></h3>
-    <div class="article-meta"><span class="tag tag-industry">行业资讯</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-30</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/011-baitaisuo-xiao-xiao-bao.html">百济神州安泰适获批新适应症，小细胞肺癌二线治疗迎突破</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-30</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/001-abitelong.html">阿比特龙片用法用量详解</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/002-entrectinib.html">恩曲替尼胶囊用法用量详解</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/003-alectinib.html">阿来替尼胶囊用法用量详解</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/004-avatrombopag.html">马来酸阿伐曲泊帕片用法用量详解</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/005-brigatinib.html">布格替尼用法用量详解</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/006-pomalidomide.html">泊马度胺胶囊用法用量详解</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/007-ceritinib.html">塞瑞替尼胶囊用法用量详解</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/008-dapoxetine.html">达泊西汀片用法用量详解</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/009-eltrombopag.html">艾曲泊帕乙醇胺片用法用量详解</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
-</div>
-<div class="article-card" data-category="drug">
-    <h3><a href="/news/010-ibrutinib.html">伊布替尼胶囊用法用量详解</a></h3>
-    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
-</div>
+        <!-- Secondary Nav -->
+        <div class="border-t border-gray-100">
+            <div class="max-w-7xl mx-auto px-4">
+                <ul class="flex justify-center gap-8 py-3 text-sm font-medium">
+                    <li><a href="#home" class="text-secondary border-b-2 border-secondary pb-1" data-i18n="nav.home">首页</a></li>
+                    <li><a href="#products" class="text-gray-600 hover:text-primary transition" data-i18n="nav.products">药品目录</a></li>
+                    <li><a href="#advantages" class="text-gray-600 hover:text-primary transition" data-i18n="nav.advantages">为什么选择我们</a></li>
+                    <li><a href="#process" class="text-gray-600 hover:text-primary transition" data-i18n="nav.process">服务流程</a></li>
+                    <li><a href="news.html" class="text-gray-600 hover:text-primary transition" data-i18n="nav.news">新闻资讯</a></li>
+                    <li><a href="#about" class="text-gray-600 hover:text-primary transition" data-i18n="nav.about">关于我们</a></li>
+                    <li><a href="#contact" class="text-gray-600 hover:text-primary transition" data-i18n="nav.contact">联系我们</a></li>
+                </ul>
+            </div>
         </div>
-    </main>
+    </nav>
+
+    <!-- Mobile Search -->
+    <div class="md:hidden bg-white px-4 py-3 shadow-sm">
+        <div class="flex">
+            <input type="text" id="mobileSearchInput" placeholder="搜索药品..." 
+                class="flex-1 border-2 border-primary/20 rounded-l-lg px-4 py-2 text-sm focus:border-secondary focus:outline-none"
+                onkeyup="if(event.key==='Enter') searchProducts()">
+            <button onclick="searchProducts()" class="bg-primary text-white px-4 py-2 rounded-r-lg">
+                <i class="fas fa-search"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- Hero Banner -->
+    <section id="home" class="relative bg-gradient-to-r from-primary via-primary/90 to-primary overflow-hidden">
+        <div class="absolute inset-0 opacity-10">
+            <div class="absolute inset-0" style="background-image: url('data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 100 100%27%3E%3Ctext y=%27.9em%27 font-size=%2780%27%3E💊%3C/text%3E%3C/svg%3E'); background-size: 200px;"></div>
+        </div>
+        <div class="max-w-7xl mx-auto px-4 py-16 md:py-24 relative">
+            <div class="grid md:grid-cols-2 gap-8 items-center">
+                <div class="text-white">
+                    <h2 class="text-3xl md:text-5xl font-bold mb-4 leading-tight" data-i18n="banner.title">
+                        专业的老挝印度孟加拉日本美国德国瑞士药品直邮平台
+                    </h2>
+                    <p class="text-lg md:text-xl text-white/80 mb-8" data-i18n="banner.subtitle">
+                        老挝卫生部正规授权·品类齐全·正品保障·跨境直邮
+                    </p>
+                    <div class="flex flex-wrap gap-4">
+                        <a href="https://wa.me/639685838435" target="_blank" 
+                            class="bg-secondary hover:bg-secondary/90 text-white px-6 py-3 rounded-lg font-medium transition flex items-center gap-2 pulse-animation">
+                            <i class="fab fa-whatsapp text-xl"></i>
+                            <span data-i18n="banner.whatsapp">WhatsApp咨询</span>
+                        </a>
+                        <a href="#products" class="bg-white/10 hover:bg-white/20 text-white px-6 py-3 rounded-lg font-medium transition border border-white/30 flex items-center gap-2">
+                            <i class="fas fa-pills"></i>
+                            <span data-i18n="banner.browse">浏览药品</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="hidden md:flex justify-center">
+                    <div class="relative">
+                        <div class="w-64 h-64 bg-white/10 rounded-full flex items-center justify-center">
+                            <i class="fas fa-capsules text-white/30 text-8xl"></i>
+                        </div>
+                        <div class="absolute top-0 right-0 bg-secondary text-white px-4 py-2 rounded-full text-sm font-bold" data-i18n="banner.badge">
+                            100%正品
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Bar -->
+    <section class="bg-white py-8 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                <div class="flex items-center gap-4 p-4 rounded-xl hover:shadow-md transition cursor-pointer">
+                    <div class="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center">
+                        <i class="fas fa-hospital text-primary text-xl"></i>
+                    </div>
+                    <div>
+                        <h3 class="font-bold text-primary" data-i18n="feature.history.title">桃子健康旗下</h3>
+                        <p class="text-xs text-gray-500" data-i18n="feature.history.desc">老挝印度孟加拉日本美国德国瑞士药品直邮平台</p>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4 p-4 rounded-xl hover:shadow-md transition cursor-pointer">
+                    <div class="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center">
+                        <i class="fas fa-shield-alt text-primary text-xl"></i>
+                    </div>
+                    <div>
+                        <h3 class="font-bold text-primary" data-i18n="feature.gov.title">政府授权</h3>
+                        <p class="text-xs text-gray-500" data-i18n="feature.gov.desc">正规经营许可</p>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4 p-4 rounded-xl hover:shadow-md transition cursor-pointer">
+                    <div class="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center">
+                        <i class="fas fa-briefcase-medical text-primary text-xl"></i>
+                    </div>
+                    <div>
+                        <h3 class="font-bold text-primary" data-i18n="feature.biz.title">综合业务</h3>
+                        <p class="text-xs text-gray-500" data-i18n="feature.biz.desc">300+种药品</p>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4 p-4 rounded-xl hover:shadow-md transition cursor-pointer">
+                    <div class="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center">
+                        <i class="fas fa-headset text-primary text-xl"></i>
+                    </div>
+                    <div>
+                        <h3 class="font-bold text-primary" data-i18n="feature.service.title">贴心服务</h3>
+                        <p class="text-xs text-gray-500" data-i18n="feature.service.desc">24小时在线</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Category Tabs -->
+    <section id="categories" class="bg-white py-6 mt-4">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="text-xl font-bold text-primary" data-i18n="categories.title">药品分类</h2>
+            </div>
+            <div class="flex flex-wrap gap-2" id="categoryTabs">
+                <button onclick="filterByCategory('all')" class="category-tab active px-4 py-2 rounded-full text-sm font-medium border-2 border-primary/20 transition" data-category="all">
+                    <i class="fas fa-th-large mr-1"></i> 全部
+                </button>
+                <button onclick="filterByCategory('肺癌')" class="category-tab px-4 py-2 rounded-full text-sm font-medium border-2 border-primary/20 transition" data-category="肺癌">
+                    <i class="fas fa-lungs text-red-500 mr-1"></i> 肺癌
+                </button>
+                <button onclick="filterByCategory('白血病')" class="category-tab px-4 py-2 rounded-full text-sm font-medium border-2 border-primary/20 transition" data-category="白血病">
+                    <i class="fas fa-heartbeat text-pink-500 mr-1"></i> 白血病
+                </button>
+                <button onclick="filterByCategory('前列腺癌')" class="category-tab px-4 py-2 rounded-full text-sm font-medium border-2 border-primary/20 transition" data-category="前列腺癌">
+                    <i class="fas fa-mars text-blue-500 mr-1"></i> 前列腺癌
+                </button>
+                <button onclick="filterByCategory('肝癌')" class="category-tab px-4 py-2 rounded-full text-sm font-medium border-2 border-primary/20 transition" data-category="肝癌">
+                    <i class="fas fa-liver text-yellow-600 mr-1"></i> 肝癌
+                </button>
+                <button onclick="filterByCategory('肾癌')" class="category-tab px-4 py-2 rounded-full text-sm font-medium border-2 border-primary/20 transition" data-category="肾癌">
+                    <i class="fas fa-kidneys text-purple-500 mr-1"></i> 肾癌
+                </button>
+                <button onclick="filterByCategory('丙肝')" class="category-tab px-4 py-2 rounded-full text-sm font-medium border-2 border-primary/20 transition" data-category="丙肝">
+                    <i class="fas fa-virus text-green-500 mr-1"></i> 丙肝
+                </button>
+                <button onclick="filterByCategory('乙肝')" class="category-tab px-4 py-2 rounded-full text-sm font-medium border-2 border-primary/20 transition" data-category="乙肝">
+                    <i class="fas fa-bacteria text-teal-500 mr-1"></i> 乙肝
+                </button>
+                <button onclick="filterByCategory('男科')" class="category-tab px-4 py-2 rounded-full text-sm font-medium border-2 border-primary/20 transition" data-category="男科">
+                    <i class="fas fa-male text-indigo-500 mr-1"></i> 男科
+                </button>
+                <button onclick="filterByCategory('保健品')" class="category-tab px-4 py-2 rounded-full text-sm font-medium border-2 border-primary/20 transition" data-category="保健品">
+                    <i class="fas fa-apple-alt text-green-600 mr-1"></i> 保健品
+                </button>
+                <button onclick="filterByCategory('卵巢癌')" class="category-tab px-4 py-2 rounded-full text-sm font-medium border-2 border-primary/20 transition" data-category="卵巢癌">
+                    <i class="fas fa-venus text-pink-600 mr-1"></i> 卵巢癌
+                </button>
+                <button onclick="filterByCategory('抗病毒')" class="category-tab px-4 py-2 rounded-full text-sm font-medium border-2 border-primary/20 transition" data-category="抗病毒">
+                    <i class="fas fa-shield-virus text-cyan-500 mr-1"></i> 抗病毒
+                </button>
+                <button onclick="filterByCategory('其他')" class="category-tab px-4 py-2 rounded-full text-sm font-medium border-2 border-primary/20 transition" data-category="其他">
+                    <i class="fas fa-ellipsis-h text-gray-500 mr-1"></i> 其他
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Products Section -->
+    <section id="products" class="py-8">
+        <div class="max-w-7xl mx-auto px-4">
+            <!-- Section Header -->
+            <div class="flex flex-col md:flex-row md:items-center justify-between mb-6 gap-4">
+                <div>
+                    <h2 class="text-2xl font-bold text-primary" data-i18n="products.title">药品目录</h2>
+                    <p class="text-gray-500 text-sm" data-i18n="products.subtitle">共 <span id="totalProducts">337</span> 种药品</p>
+                </div>
+                <div class="flex items-center gap-4">
+                    <select id="sortSelect" onchange="sortProducts(this.value)" class="border border-gray-300 rounded-lg px-4 py-2 text-sm focus:border-secondary focus:outline-none">
+                        <option value="default" data-i18n="products.sort.default">默认排序</option>
+                        <option value="price-asc" data-i18n="products.sort.priceAsc">价格从低到高</option>
+                        <option value="price-desc" data-i18n="products.sort.priceDesc">价格从高到低</option>
+                        <option value="name" data-i18n="products.sort.name">按名称</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Products Grid -->
+            <div id="productsGrid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+                <!-- Products will be rendered here -->
+            </div>
+
+            <!-- Pagination -->
+            <div id="pagination" class="flex justify-center items-center gap-2 mt-8">
+                <!-- Pagination will be rendered here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Advantages Section -->
+    <section id="advantages" class="py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-2xl md:text-3xl font-bold text-primary mb-4" data-i18n="advantages.title">为什么选择蓝培医疗</h2>
+                <p class="text-gray-500" data-i18n="advantages.subtitle">专业、可信赖的老挝印度孟加拉日本美国德国瑞士药品直邮服务</p>
+            </div>
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <div class="bg-lightgray rounded-2xl p-6 text-center hover:shadow-lg transition">
+                    <div class="w-20 h-20 bg-secondary/10 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-certificate text-secondary text-3xl"></i>
+                    </div>
+                    <h3 class="text-lg font-bold text-primary mb-2" data-i18n="advantages.authentic.title">正品保障</h3>
+                    <p class="text-gray-500 text-sm" data-i18n="advantages.authentic.desc">所有药品均来自正规渠道，提供正品证明</p>
+                </div>
+                <div class="bg-lightgray rounded-2xl p-6 text-center hover:shadow-lg transition">
+                    <div class="w-20 h-20 bg-secondary/10 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-tags text-secondary text-3xl"></i>
+                    </div>
+                    <h3 class="text-lg font-bold text-primary mb-2" data-i18n="advantages.price.title">价格优势</h3>
+                    <p class="text-gray-500 text-sm" data-i18n="advantages.price.desc">厂家直供，省去中间环节，价格更优惠</p>
+                </div>
+                <div class="bg-lightgray rounded-2xl p-6 text-center hover:shadow-lg transition">
+                    <div class="w-20 h-20 bg-secondary/10 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-shipping-fast text-secondary text-3xl"></i>
+                    </div>
+                    <h3 class="text-lg font-bold text-primary mb-2" data-i18n="advantages.shipping.title">跨境直邮</h3>
+                    <p class="text-gray-500 text-sm" data-i18n="advantages.shipping.desc">国际物流追踪，安全快速送达全球</p>
+                </div>
+                <div class="bg-lightgray rounded-2xl p-6 text-center hover:shadow-lg transition">
+                    <div class="w-20 h-20 bg-secondary/10 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-user-md text-secondary text-3xl"></i>
+                    </div>
+                    <h3 class="text-lg font-bold text-primary mb-2" data-i18n="advantages.consult.title">专业咨询</h3>
+                    <p class="text-gray-500 text-sm" data-i18n="advantages.consult.desc">专业医学顾问，提供用药指导和建议</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Service Process -->
+    <section id="process" class="py-16 bg-lightgray">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-2xl md:text-3xl font-bold text-primary mb-4" data-i18n="process.title">服务流程</h2>
+                <p class="text-gray-500" data-i18n="process.subtitle">简单六步，轻松购药</p>
+            </div>
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+                <div class="bg-white rounded-xl p-4 text-center relative">
+                    <div class="w-12 h-12 bg-secondary text-white rounded-full flex items-center justify-center mx-auto mb-3 text-xl font-bold">1</div>
+                    <h4 class="font-bold text-primary text-sm" data-i18n="process.step1.title">咨询下单</h4>
+                    <p class="text-xs text-gray-500 mt-1" data-i18n="process.step1.desc">联系客服咨询</p>
+                    <i class="hidden lg:block absolute top-1/2 -right-2 transform -translate-y-1/2 text-gray-300 fas fa-arrow-right"></i>
+                </div>
+                <div class="bg-white rounded-xl p-4 text-center relative">
+                    <div class="w-12 h-12 bg-secondary text-white rounded-full flex items-center justify-center mx-auto mb-3 text-xl font-bold">2</div>
+                    <h4 class="font-bold text-primary text-sm" data-i18n="process.step2.title">确认订单</h4>
+                    <p class="text-xs text-gray-500 mt-1" data-i18n="process.step2.desc">核对药品信息</p>
+                    <i class="hidden lg:block absolute top-1/2 -right-2 transform -translate-y-1/2 text-gray-300 fas fa-arrow-right"></i>
+                </div>
+                <div class="bg-white rounded-xl p-4 text-center relative">
+                    <div class="w-12 h-12 bg-secondary text-white rounded-full flex items-center justify-center mx-auto mb-3 text-xl font-bold">3</div>
+                    <h4 class="font-bold text-primary text-sm" data-i18n="process.step3.title">支付款项</h4>
+                    <p class="text-xs text-gray-500 mt-1" data-i18n="process.step3.desc">安全支付方式</p>
+                    <i class="hidden lg:block absolute top-1/2 -right-2 transform -translate-y-1/2 text-gray-300 fas fa-arrow-right"></i>
+                </div>
+                <div class="bg-white rounded-xl p-4 text-center relative">
+                    <div class="w-12 h-12 bg-secondary text-white rounded-full flex items-center justify-center mx-auto mb-3 text-xl font-bold">4</div>
+                    <h4 class="font-bold text-primary text-sm" data-i18n="process.step4.title">国际发货</h4>
+                    <p class="text-xs text-gray-500 mt-1" data-i18n="process.step4.desc">老挝或香港药房发货</p>
+                    <i class="hidden lg:block absolute top-1/2 -right-2 transform -translate-y-1/2 text-gray-300 fas fa-arrow-right"></i>
+                </div>
+                <div class="bg-white rounded-xl p-4 text-center relative">
+                    <div class="w-12 h-12 bg-secondary text-white rounded-full flex items-center justify-center mx-auto mb-3 text-xl font-bold">5</div>
+                    <h4 class="font-bold text-primary text-sm" data-i18n="process.step5.title">海关清关</h4>
+                    <p class="text-xs text-gray-500 mt-1" data-i18n="process.step5.desc">正规报关流程</p>
+                    <i class="hidden lg:block absolute top-1/2 -right-2 transform -translate-y-1/2 text-gray-300 fas fa-arrow-right"></i>
+                </div>
+                <div class="bg-white rounded-xl p-4 text-center">
+                    <div class="w-12 h-12 bg-secondary text-white rounded-full flex items-center justify-center mx-auto mb-3 text-xl font-bold">6</div>
+                    <h4 class="font-bold text-primary text-sm" data-i18n="process.step6.title">送达收货</h4>
+                    <p class="text-xs text-gray-500 mt-1" data-i18n="process.step6.desc">确认收货完成</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="grid md:grid-cols-2 gap-12 items-center">
+                <div>
+                    <h2 class="text-2xl md:text-3xl font-bold text-primary mb-6" data-i18n="about.title">关于蓝培医疗</h2>
+                    <div class="space-y-4 text-gray-600">
+                        <p data-i18n="about.desc1">桃子健康旗下蓝培医疗是一家专注于老挝印度孟加拉日本美国德国瑞士药品直邮服务的专业平台，致力于为全球患者提供优质药品选择。</p>
+                        <p data-i18n="about.desc2">我们与多家老挝印度孟加拉日本美国德国瑞士药企建立了长期合作关系，包括卢修斯(Lucius)、东盟、联合、大熊、元素、Natco、Glenmark、Cipla、Mylan等，确保药品的质量和供应稳定性。</p>
+                        <p data-i18n="about.desc3">平台拥有专业的医学顾问团队，为患者提供用药咨询和指导服务，帮助患者获得合适的治疗方案。</p>
+                    </div>
+                    <div class="grid grid-cols-3 gap-4 mt-8">
+                        <div class="text-center">
+                            <div class="text-3xl font-bold text-secondary">7+</div>
+                            <div class="text-sm text-gray-500" data-i18n="about.stat1">年行业经验</div>
+                        </div>
+                        <div class="text-center">
+                            <div class="text-3xl font-bold text-secondary">300+</div>
+                            <div class="text-sm text-gray-500" data-i18n="about.stat2">种药品品类</div>
+                        </div>
+                        <div class="text-center">
+                            <div class="text-3xl font-bold text-secondary">50+</div>
+                            <div class="text-sm text-gray-500" data-i18n="about.stat3">国家地区覆盖</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-lightgray rounded-2xl p-8">
+                    <div class="grid grid-cols-2 gap-4">
+                        <div class="bg-white rounded-xl p-4 text-center">
+                            <i class="fas fa-building text-primary text-2xl mb-2"></i>
+                            <h4 class="font-bold text-primary" data-i18n="about.feature1">正规资质</h4>
+                        </div>
+                        <div class="bg-white rounded-xl p-4 text-center">
+                            <i class="fas fa-user-tie text-primary text-2xl mb-2"></i>
+                            <h4 class="font-bold text-primary" data-i18n="about.feature2">专业团队</h4>
+                        </div>
+                        <div class="bg-white rounded-xl p-4 text-center">
+                            <i class="fas fa-handshake text-primary text-2xl mb-2"></i>
+                            <h4 class="font-bold text-primary" data-i18n="about.feature3">诚信经营</h4>
+                        </div>
+                        <div class="bg-white rounded-xl p-4 text-center">
+                            <i class="fas fa-headset text-primary text-2xl mb-2"></i>
+                            <h4 class="font-bold text-primary" data-i18n="about.feature4">贴心服务</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="py-16 bg-primary">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-2xl md:text-3xl font-bold text-white mb-4" data-i18n="contact.title">联系我们</h2>
+                <p class="text-white/70" data-i18n="contact.subtitle">有任何问题欢迎随时咨询</p>
+            </div>
+            <div class="grid md:grid-cols-2 gap-8">
+                <!-- Contact Form -->
+                <div class="bg-white rounded-2xl p-6">
+                    <h3 class="text-lg font-bold text-primary mb-4" data-i18n="contact.form.title">在线留言</h3>
+                    <form id="contactForm" onsubmit="submitContact(event)">
+                        <div class="space-y-4">
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-1" data-i18n="contact.form.name">姓名</label>
+                                <input type="text" name="name" required class="w-full border border-gray-300 rounded-lg px-4 py-2 focus:border-secondary focus:outline-none">
+                            </div>
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-1" data-i18n="contact.form.phone">电话/微信</label>
+                                <input type="text" name="phone" required class="w-full border border-gray-300 rounded-lg px-4 py-2 focus:border-secondary focus:outline-none">
+                            </div>
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-1" data-i18n="contact.form.email">邮箱</label>
+                                <input type="email" name="email" class="w-full border border-gray-300 rounded-lg px-4 py-2 focus:border-secondary focus:outline-none">
+                            </div>
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-1" data-i18n="contact.form.message">留言内容</label>
+                                <textarea name="message" rows="4" required class="w-full border border-gray-300 rounded-lg px-4 py-2 focus:border-secondary focus:outline-none resize-none"></textarea>
+                            </div>
+                            <button type="submit" class="w-full bg-secondary text-white py-3 rounded-lg font-medium hover:bg-secondary/90 transition" data-i18n="contact.form.submit">
+                                提交留言
+                            </button>
+                        </div>
+                    </form>
+                </div>
+                <!-- Contact Info -->
+                <div class="space-y-6">
+                    <div class="bg-white/10 rounded-2xl p-6">
+                        <h3 class="text-lg font-bold text-white mb-4" data-i18n="contact.info.title">联系方式</h3>
+                        <div class="space-y-4">
+                            <div class="flex items-center gap-4">
+                                <div class="w-12 h-12 bg-white/10 rounded-full flex items-center justify-center">
+                                    <i class="fab fa-whatsapp text-white text-xl"></i>
+                                </div>
+                                <div>
+                                    <div class="text-white/70 text-sm" data-i18n="contact.info.whatsapp">WhatsApp</div>
+                                    <a href="https://wa.me/639685838435" target="_blank" class="text-white font-medium">+63 9685838435</a>
+                                </div>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-12 h-12 bg-white/10 rounded-full flex items-center justify-center">
+                                    <i class="fab fa-weixin text-white text-xl"></i>
+                                </div>
+                                <div>
+                                    <div class="text-white/70 text-sm" data-i18n="contact.info.wechat">微信</div>
+                                    <span class="text-white font-medium cursor-pointer" onclick="copyWechat()">17844531559</span>
+                                </div>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-12 h-12 bg-white/10 rounded-full flex items-center justify-center">
+                                    <i class="fas fa-phone text-white text-xl"></i>
+                                </div>
+                                <div>
+                                    <div class="text-white/70 text-sm" data-i18n="contact.info.phone">电话</div>
+                                    <a href="tel:+8618884507184" class="text-white font-medium">18884507184</a>
+                                </div>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <div class="w-12 h-12 bg-white/10 rounded-full flex items-center justify-center">
+                                    <i class="fas fa-envelope text-white text-xl"></i>
+                                </div>
+                                <div>
+                                    <div class="text-white/70 text-sm" data-i18n="contact.info.email">邮箱</div>
+                                    <span class="text-white font-medium">info@lanpeimedical.com</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bg-white/10 rounded-2xl p-6">
+                        <h3 class="text-lg font-bold text-white mb-4" data-i18n="contact.hours.title">工作时间</h3>
+                        <p class="text-white/80" data-i18n="contact.hours.desc">周一至周六：09:00 - 21:00</p>
+                        <p class="text-white/80" data-i18n="contact.hours.weekend">周日：14:00 - 18:00</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- Footer -->
-    <footer class="gradient-bg text-white py-8 mt-10">
-        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
-            <p>蓝培医疗 - 专业海外药品直邮平台</p>
-            <p class="mt-2">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
-            <p class="mt-2">© 2026 蓝培医疗 lanpeimed.com</p>
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="grid md:grid-cols-4 gap-8">
+                <div>
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="w-10 h-10 bg-gradient-to-br from-secondary to-primary rounded-lg flex items-center justify-center">
+                            <i class="fas fa-plus text-white"></i>
+                        </div>
+                        <div>
+                            <h3 class="font-bold">蓝培医疗</h3>
+                            <p class="text-xs text-gray-400">Lanpei Medical</p>
+                        </div>
+                    </div>
+                    <p class="text-gray-400 text-sm" data-i18n="footer.desc">桃子健康旗下老挝印度孟加拉日本美国德国瑞士药品直邮平台，老挝卫生部正规授权，为全球患者提供优质药品选择。</p>
+                </div>
+                <div>
+                    <h4 class="font-bold mb-4" data-i18n="footer.quicklinks">快速链接</h4>
+                    <ul class="space-y-2 text-gray-400 text-sm">
+                        <li><a href="news.html" class="hover:text-secondary transition" data-i18n="nav.news">新闻资讯</a></li>
+                        <li><a href="#home" class="hover:text-secondary transition" data-i18n="nav.home">首页</a></li>
+                        <li><a href="#products" class="hover:text-secondary transition" data-i18n="nav.products">药品目录</a></li>
+                        <li><a href="#about" class="hover:text-secondary transition" data-i18n="nav.about">关于我们</a></li>
+                        <li><a href="#contact" class="hover:text-secondary transition" data-i18n="nav.contact">联系我们</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold mb-4" data-i18n="footer.categories">药品分类</h4>
+                    <ul class="space-y-2 text-gray-400 text-sm">
+                        <li><a href="#" onclick="filterByCategory('肺癌')" class="hover:text-secondary transition">肺癌用药</a></li>
+                        <li><a href="#" onclick="filterByCategory('白血病')" class="hover:text-secondary transition">白血病用药</a></li>
+                        <li><a href="#" onclick="filterByCategory('前列腺癌')" class="hover:text-secondary transition">前列腺癌用药</a></li>
+                        <li><a href="#" onclick="filterByCategory('男科')" class="hover:text-secondary transition">男科用药</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold mb-4" data-i18n="footer.follow">关注我们</h4>
+                    <div class="flex gap-4">
+                        <a href="https://wa.me/639685838435" target="_blank" class="w-10 h-10 bg-white/10 rounded-full flex items-center justify-center hover:bg-secondary transition">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+                        <a href="#" onclick="showWechat()" class="w-10 h-10 bg-white/10 rounded-full flex items-center justify-center hover:bg-secondary transition">
+                            <i class="fab fa-weixin"></i>
+                        </a>
+                        <a href="#" class="w-10 h-10 bg-white/10 rounded-full flex items-center justify-center hover:bg-secondary transition">
+                            <i class="fas fa-globe"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400 text-sm">
+                <p>© 2024 Lanpei Medical. All rights reserved.</p>
+            </div>
         </div>
     </footer>
 
+    <!-- Floating Contact Button -->
+    <div class="fixed bottom-6 right-6 z-50">
+        <div class="relative">
+            <button onclick="toggleContactPanel()" class="w-14 h-14 bg-primary text-white rounded-full shadow-lg hover:bg-primary/90 transition flex items-center justify-center pulse-animation">
+                <i class="fas fa-headphones text-xl"></i>
+            </button>
+            <div id="contactPanel" class="hidden absolute bottom-16 right-0 bg-white rounded-xl shadow-2xl p-4 w-64 fade-in">
+                <h4 class="font-bold text-primary mb-3" data-i18n="float.contact">在线咨询</h4>
+                <div class="space-y-2">
+                    <a href="https://wa.me/639685838435" target="_blank" class="flex items-center gap-3 p-3 bg-green-50 rounded-lg hover:bg-green-100 transition">
+                        <i class="fab fa-whatsapp text-green-500 text-xl"></i>
+                        <div>
+                            <div class="text-sm font-medium text-gray-700">WhatsApp</div>
+                            <div class="text-xs text-gray-500">+63 9685838435</div>
+                        </div>
+                    </a>
+                    <a href="#" onclick="showWechat()" class="flex items-center gap-3 p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
+                        <i class="fab fa-weixin text-green-600 text-xl"></i>
+                        <div>
+                            <div class="text-sm font-medium text-gray-700" data-i18n="float.wechat">微信咨询</div>
+                            <div class="text-xs text-gray-500">17844531559</div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Wechat QR Modal -->
+    <div id="wechatModal" class="hidden fixed inset-0 z-50 flex items-center justify-center modal-overlay">
+        <div class="bg-white rounded-2xl p-6 max-w-sm w-full mx-4 fade-in">
+            <div class="flex justify-between items-center mb-4">
+                <h3 class="font-bold text-primary" data-i18n="wechat.title">扫码添加微信</h3>
+                <button onclick="hideWechat()" class="text-gray-400 hover:text-gray-600">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="text-center">
+                <div class="w-48 h-48 bg-gray-100 rounded-xl mx-auto flex items-center justify-center mb-4">
+                    <div class="text-center">
+                        <i class="fab fa-weixin text-6xl text-gray-300"></i>
+                        <p class="text-sm text-gray-500 mt-2" data-i18n="wechat.id">微信号: 17844531559</p>
+                    </div>
+                </div>
+                <button onclick="copyWechat()" class="w-full bg-secondary text-white py-3 rounded-lg font-medium hover:bg-secondary/90 transition">
+                    <i class="fas fa-copy mr-2"></i><span data-i18n="wechat.copy">复制微信号</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Product Detail Modal -->
+    <div id="productModal" class="hidden fixed inset-0 z-50 flex items-center justify-center modal-overlay">
+        <div class="bg-white rounded-2xl max-w-2xl w-full mx-4 max-h-[90vh] overflow-y-auto fade-in">
+            <div id="productModalContent" class="p-6">
+                <!-- Product detail content will be inserted here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Consultation Modal -->
+    <div id="consultModal" class="hidden fixed inset-0 z-50 flex items-center justify-center modal-overlay">
+        <div class="bg-white rounded-2xl max-w-md w-full mx-4 fade-in">
+            <div class="p-6">
+                <div class="flex justify-between items-center mb-4">
+                    <h3 class="font-bold text-primary text-lg" data-i18n="consult.title">选择咨询方式</h3>
+                    <button onclick="hideConsultModal()" class="text-gray-400 hover:text-gray-600">
+                        <i class="fas fa-times text-xl"></i>
+                    </button>
+                </div>
+                <p class="text-gray-600 mb-6" id="consultProductName" data-i18n="consult.subtitle">选择您方便的联系方式进行咨询</p>
+                <div class="space-y-3">
+                    <a href="https://wa.me/639685838435" target="_blank" class="flex items-center gap-4 p-4 bg-green-50 rounded-xl hover:bg-green-100 transition">
+                        <div class="w-12 h-12 bg-green-500 rounded-full flex items-center justify-center">
+                            <i class="fab fa-whatsapp text-white text-2xl"></i>
+                        </div>
+                        <div class="flex-1">
+                            <div class="font-bold text-gray-800" data-i18n="consult.whatsapp">WhatsApp 咨询</div>
+                            <div class="text-sm text-gray-500">+63 9685838435</div>
+                        </div>
+                        <i class="fas fa-chevron-right text-gray-400"></i>
+                    </a>
+                    <a href="#" onclick="showWechat(); hideConsultModal();" class="flex items-center gap-4 p-4 bg-gray-50 rounded-xl hover:bg-gray-100 transition">
+                        <div class="w-12 h-12 bg-green-600 rounded-full flex items-center justify-center">
+                            <i class="fab fa-weixin text-white text-2xl"></i>
+                        </div>
+                        <div class="flex-1">
+                            <div class="font-bold text-gray-800" data-i18n="consult.wechat">微信 咨询</div>
+                            <div class="text-sm text-gray-500">17844531559</div>
+                        </div>
+                        <i class="fas fa-chevron-right text-gray-400"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script>
-    // Category tab filtering
-    document.querySelectorAll('.cat-tab').forEach(tab => {
-        tab.addEventListener('click', function() {
-            document.querySelectorAll('.cat-tab').forEach(t => t.classList.remove('active'));
-            this.classList.add('active');
-            const cat = this.dataset.cat;
-            document.querySelectorAll('.article-card').forEach(card => {
-                if (cat === 'all' || card.dataset.category === cat) {
-                    card.classList.remove('hidden');
-                } else {
-                    card.classList.add('hidden');
-                }
+        // ========== TRANSLATIONS ==========
+        const translations = {
+            zh: {
+                nav: { home: '首页', products: '药品目录', advantages: '为什么选择我们', process: '服务流程', about: '关于我们', contact: '联系我们' },
+                banner: { title: '专业的老挝印度孟加拉日本美国德国瑞士药品直邮平台', subtitle: '老挝卫生部正规授权·品类齐全·正品保障·跨境直邮', whatsapp: 'WhatsApp咨询', browse: '浏览药品', badge: '100%正品' },
+                feature: { history: { title: '桃子健康旗下', desc: '老挝印度孟加拉日本美国德国瑞士药品直邮平台' }, gov: { title: '政府授权', desc: '正规经营许可' }, biz: { title: '综合业务', desc: '300+种药品' }, service: { title: '贴心服务', desc: '24小时在线' } },
+                categories: { title: '药品分类' },
+                products: { title: '药品目录', subtitle: '共 {count} 种药品', sort: { default: '默认排序', priceAsc: '价格从低到高', priceDesc: '价格从高到低', name: '按名称' } },
+                advantages: { title: '为什么选择蓝培医疗', subtitle: '专业、可信赖的老挝印度孟加拉日本美国德国瑞士药品直邮服务', authentic: { title: '正品保障', desc: '所有药品均来自正规渠道，提供正品证明' }, price: { title: '价格优势', desc: '厂家直供，省去中间环节，价格更优惠' }, shipping: { title: '跨境直邮', desc: '国际物流追踪，安全快速送达全球' }, consult: { title: '专业咨询', desc: '专业医学顾问，提供用药指导和建议' } },
+                process: { title: '服务流程', subtitle: '简单六步，轻松购药', step1: { title: '咨询下单', desc: '联系客服咨询' }, step2: { title: '确认订单', desc: '核对药品信息' }, step3: { title: '支付款项', desc: '安全支付方式' }, step4: { title: '国际发货', desc: '老挝或香港药房发货' }, step5: { title: '海关清关', desc: '正规报关流程' }, step6: { title: '送达收货', desc: '确认收货完成' } },
+                about: { title: '关于蓝培医疗', desc1: '桃子健康旗下蓝培医疗是一家专注于老挝印度孟加拉日本美国德国瑞士药品直邮服务的专业平台，致力于为全球患者提供优质药品选择。', desc2: '我们与多家老挝印度孟加拉日本美国德国瑞士药企建立了长期合作关系，包括卢修斯(Lucius)、东盟、联合、大熊、元素、Natco、Glenmark、Cipla、Mylan等，确保药品的质量和供应稳定性。', desc3: '平台拥有专业的医学顾问团队，为患者提供用药咨询和指导服务，帮助患者获得合适的治疗方案。', stat1: '年行业经验', stat2: '种药品品类', stat3: '国家地区覆盖', feature1: '正规资质', feature2: '专业团队', feature3: '诚信经营', feature4: '贴心服务' },
+                contact: { title: '联系我们', subtitle: '有任何问题欢迎随时咨询', form: { title: '在线留言', name: '姓名', phone: '电话/微信', email: '邮箱', message: '留言内容', submit: '提交留言' }, info: { title: '联系方式', whatsapp: 'WhatsApp', wechat: '微信', phone: '电话', email: '邮箱' }, hours: { title: '工作时间', desc: '周一至周六：09:00 - 21:00', weekend: '周日：14:00 - 18:00' } },
+                footer: { desc: '桃子健康旗下老挝印度孟加拉日本美国德国瑞士药品直邮平台，老挝卫生部正规授权，为全球患者提供优质药品选择。', quicklinks: '快速链接', categories: '药品分类', follow: '关注我们' },
+                float: { contact: '在线咨询', wechat: '微信咨询' },
+                wechat: { title: '扫码添加微信', id: '微信号: 17844531559', copy: '复制微信号' },
+                consult: { title: '选择咨询方式', subtitle: '选择您方便的联系方式进行咨询', whatsapp: 'WhatsApp 咨询', wechat: '微信 咨询' },
+                product: { consult: '咨询购买', authentic: '正品保障', shipping: '跨境直邮', generic: '仿制', original: '原研', monthly: '月销', details: '药品详情', specs: '规格参数', dosage: '剂量', form: '剂型', origin: '产地', brand: '品牌' },
+                common: { price: '价格', close: '关闭', page: '第', pages: '页', prev: '上一页', next: '下一页' }
+            },
+            en: {
+                nav: { home: 'Home', products: 'Products', advantages: 'Why Us', process: 'Process', about: 'About', contact: 'Contact' },
+                banner: { title: 'Global Medicine Direct Shipping Platform - Laos/India/Bangladesh/Japan/USA/Germany/Switzerland', subtitle: 'Laos Ministry of Health Authorized · Wide Range · Authentic Guarantee · Cross-border Shipping', whatsapp: 'WhatsApp', browse: 'Browse Products', badge: '100% Authentic' },
+                feature: { history: { title: 'History', desc: '12 Years Experience' }, gov: { title: 'Government Licensed', desc: 'Legal Operation' }, biz: { title: 'Diverse Products', desc: '300+ Medicines' }, service: { title: 'Dedicated Service', desc: '24/7 Support' } },
+                categories: { title: 'Categories' },
+                products: { title: 'Product Catalog', subtitle: 'Total {count} Products', sort: { default: 'Default', priceAsc: 'Price: Low to High', priceDesc: 'Price: High to Low', name: 'By Name' } },
+                advantages: { title: 'Why Choose Lanpei Medical', subtitle: 'Professional and reliable Indian medicine direct shipping service', authentic: { title: 'Authentic Products', desc: 'All medicines from authorized channels with certificates' }, price: { title: 'Best Prices', desc: 'Direct from manufacturers, no middlemen' }, shipping: { title: 'Cross-border Shipping', desc: 'International logistics with tracking' }, consult: { title: 'Professional Consultation', desc: 'Medical experts available for guidance' } },
+                process: { title: 'Service Process', subtitle: 'Six easy steps to get your medicines', step1: { title: 'Inquiry', desc: 'Contact us' }, step2: { title: 'Confirm Order', desc: 'Verify details' }, step3: { title: 'Payment', desc: 'Secure payment' }, step4: { title: 'Ship', desc: 'From India' }, step5: { title: 'Customs', desc: 'Clear customs' }, step6: { title: 'Delivery', desc: 'Receive package' } },
+                about: { title: 'About Lanpei Medical', desc1: 'Lanpei Medical is a professional platform specializing in Indian medicine direct shipping, dedicated to providing quality generic medicines to patients worldwide.', desc2: 'We have established long-term partnerships with renowned Indian pharmaceutical companies including Natco, Glenmark, Cipla, Mylan, ensuring product quality and supply stability.', desc3: 'Our platform has a professional medical consultant team providing medication guidance and advice to help patients get appropriate treatment.', stat1: 'Years Experience', stat2: 'Product Types', stat3: 'Countries Served', feature1: 'Licensed', feature2: 'Professional Team', feature3: 'Integrity', feature4: 'Quality Service' },
+                contact: { title: 'Contact Us', subtitle: 'Feel free to contact us anytime', form: { title: 'Send Message', name: 'Name', phone: 'Phone/WeChat', email: 'Email', message: 'Message', submit: 'Submit' }, info: { title: 'Contact Info', whatsapp: 'WhatsApp', wechat: 'WeChat', phone: 'Phone', email: 'Email' }, hours: { title: 'Working Hours', desc: 'Mon-Sat: 09:00 - 21:00', weekend: 'Sunday: 14:00 - 18:00' } },
+                footer: { desc: 'Professional Indian medicine direct shipping platform for global patients.', quicklinks: 'Quick Links', categories: 'Categories', follow: 'Follow Us' },
+                float: { contact: 'Online Consultation', wechat: 'WeChat' },
+                wechat: { title: 'Add WeChat', id: 'WeChat: 17844531559', copy: 'Copy WeChat ID' },
+                consult: { title: 'Choose Contact Method', subtitle: 'Select your preferred way to consult', whatsapp: 'WhatsApp', wechat: 'WeChat' },
+                product: { consult: 'Consult/Buy', authentic: 'Authentic', shipping: 'Direct Ship', generic: 'Generic', original: 'Original', monthly: 'Monthly Sales', details: 'Product Details', specs: 'Specifications', dosage: 'Dosage', form: 'Form', origin: 'Origin', brand: 'Brand' },
+                common: { price: 'Price', close: 'Close', page: 'Page', pages: 'Pages', prev: 'Previous', next: 'Next' }
+            },
+            ru: {
+                nav: { home: 'Главная', products: 'Каталог', advantages: 'Почему мы', process: 'Процесс', about: 'О нас', contact: 'Контакты' },
+                banner: { title: 'Платформа прямой доставки лекарств из Лаоса, Индии, Бангладеш, Японии, США, Германии, Швейцарии', subtitle: 'Лицензия Минздрава Лаоса · Широкий ассортимент · Гарантия качества · Международная доставка', whatsapp: 'WhatsApp', browse: 'Смотреть товары', badge: '100% Оригинал' },
+                feature: { history: { title: 'История', desc: '12 лет опыта' }, gov: { title: 'Лицензия Минздрава Лаоса', desc: 'Легальная деятельность' }, biz: { title: 'Ассортимент', desc: '300+ лекарств' }, service: { title: 'Поддержка', desc: '24/7 онлайн' } },
+                categories: { title: 'Категории' },
+                products: { title: 'Каталог продукции', subtitle: 'Всего {count} товаров', sort: { default: 'По умолчанию', priceAsc: 'Цена ↑', priceDesc: 'Цена ↓', name: 'По названию' } },
+                advantages: { title: 'Почему выбирают Lanpei Medical', subtitle: 'Профессиональный и надежный сервис доставки лекарств из Лаоса/Индии/Бангладеш/Японии/США/Германии/Швейцарии', authentic: { title: 'Гарантия качества', desc: 'Все лекарства из официальных источников' }, price: { title: 'Лучшие цены', desc: 'Напрямую от производителей' }, shipping: { title: 'Международная доставка', desc: 'С отслеживанием посылки' }, consult: { title: 'Консультации', desc: 'Медицинские специалисты помогут с выбором' } },
+                process: { title: 'Процесс обслуживания', subtitle: 'Шесть простых шагов', step1: { title: 'Консультация', desc: 'Свяжитесь с нами' }, step2: { title: 'Подтверждение', desc: 'Проверка заказа' }, step3: { title: 'Оплата', desc: 'Безопасная оплата' }, step4: { title: 'Отправка', desc: 'Из Индии' }, step5: { title: 'Таможня', desc: 'Оформление' }, step6: { title: 'Доставка', desc: 'Получение' } },
+                about: { title: 'О Lanpei Medical', desc1: 'Lanpei Medical — профессиональная платформа прямой доставки лекарств из Лаоса/Индии/Бангладеш/Японии/США/Германии/Швейцарии.', desc2: 'Мы сотрудничаем с ведущими индийскими фармкомпаниями: Natco, Glenmark, Cipla, Mylan.', desc3: 'Наша команда медицинских консультантов поможет подобрать оптимальное лечение.' },
+                contact: { title: 'Контакты', subtitle: 'Свяжитесь с нами', form: { title: 'Сообщение', name: 'Имя', phone: 'Телефон/WeChat', email: 'Email', message: 'Сообщение', submit: 'Отправить' }, info: { title: 'Контактная информация', whatsapp: 'WhatsApp', wechat: 'WeChat', phone: 'Телефон', email: 'Email' }, hours: { title: 'Часы работы', desc: 'Пн-Сб: 09:00 - 21:00', weekend: 'Вс: 14:00 - 18:00' } },
+                footer: { desc: 'Профессиональная платформа доставки лекарств из Лаоса/Индии/Бангладеш/Японии/США/Германии/Швейцарии.', quicklinks: ' Ссылки', categories: 'Категории', follow: 'Мы в соцсетях' },
+                float: { contact: 'Консультация', wechat: 'WeChat' },
+                wechat: { title: 'Добавить WeChat', id: 'WeChat: 17844531559', copy: 'Копировать ID' },
+                consult: { title: 'Способ связи', subtitle: 'Выберите удобный способ', whatsapp: 'WhatsApp', wechat: 'WeChat' },
+                product: { consult: 'Консультация', authentic: 'Гарантия', shipping: 'Доставка', generic: 'Дженерик', original: 'Оригинал', monthly: 'Продано', details: 'Подробнее', specs: 'Характеристики', dosage: 'Дозировка', form: 'Форма', origin: 'Страна', brand: 'Бренд' },
+                common: { price: 'Цена', close: 'Закрыть', page: 'Страница', pages: '', prev: 'Назад', next: 'Вперед' }
+            },
+            vi: {
+                nav: { home: 'Trang chủ', products: 'Sản phẩm', advantages: 'Tại sao chọn chúng tôi', process: 'Quy trình', about: 'Giới thiệu', contact: 'Liên hệ' },
+                banner: { title: 'Nền tảng vận chuyển thuốc trực tiếp từ Lào/Ấn Độ/Bangladesh/Nhật/Đức/Thụy Sĩ', subtitle: 'Được chính phủ cấp phép · Đa dạng · Chính hãng · Vận chuyển quốc tế', whatsapp: 'WhatsApp', browse: 'Xem sản phẩm', badge: '100% Chính hãng' },
+                products: { title: 'Danh mục sản phẩm', subtitle: 'Tổng {count} sản phẩm', sort: { default: 'Mặc định', priceAsc: 'Giá thấp đến cao', priceDesc: 'Giá cao đến thấp', name: 'Theo tên' } },
+                contact: { form: { name: 'Họ tên', phone: 'Điện thoại/WeChat', email: 'Email', message: 'Nội dung', submit: 'Gửi' } },
+                consult: { title: 'Chọn cách liên hệ', subtitle: 'Chọn cách thuận tiện cho bạn', whatsapp: 'WhatsApp', wechat: 'WeChat' },
+                product: { consult: 'Tư vấn/Mua', authentic: 'Chính hãng', shipping: 'Vận chuyển', generic: 'Generic', original: 'Original', monthly: 'Đã bán' },
+                common: { price: 'Giá', close: 'Đóng', page: 'Trang', prev: 'Trước', next: 'Tiếp' }
+            },
+            id: {
+                nav: { home: 'Beranda', products: 'Produk', advantages: 'Mengapa Kami', process: 'Proses', about: 'Tentang', contact: 'Kontak' },
+                banner: { title: 'Platform Pengiriman Langsung Obat dari Laos/India/Bangladesh/Jepang/AS/Jerman/Swiss', subtitle: 'Lisensi Pemerintah · Beragam · Original · Pengiriman Internasional', whatsapp: 'WhatsApp', browse: 'Lihat Produk', badge: '100% Original' },
+                products: { title: 'Katalog Produk', subtitle: 'Total {count} Produk', sort: { default: 'Default', priceAsc: 'Harga Rendah ke Tinggi', priceDesc: 'Harga Tinggi ke Rendah', name: 'Berdasarkan Nama' } },
+                contact: { form: { name: 'Nama', phone: 'Telepon/WeChat', email: 'Email', message: 'Pesan', submit: 'Kirim' } },
+                consult: { title: 'Pilih Metode Kontak', subtitle: 'Pilih cara yang nyaman untuk Anda', whatsapp: 'WhatsApp', wechat: 'WeChat' },
+                product: { consult: 'Konsultasi/Beli', authentic: 'Original', shipping: 'Pengiriman', generic: 'Generic', original: 'Original', monthly: 'Terjual' },
+                common: { price: 'Harga', close: 'Tutup', page: 'Halaman', prev: 'Sebelumnya', next: 'Selanjutnya' }
+            },
+            my: {
+                nav: { home: 'ပင်မ', products: 'ဆေးဝါးများ', advantages: 'ဘာကြောင့် ကျွန်ုပ်တို့ကို ရွေးချယ်သနည်း', process: 'ဝန်ဆောင်မှု', about: 'ကျွန်ုပ်တို့အကြောင်း', contact: 'ဆက်သွယ်ရန်' },
+                banner: { title: 'လာအို/အိန္ဒိယ/ဘင်္ဂလားဒေ့ရှ်/ဂျပန်/အမေရိကန်/ဂျာမနီ/ဆွစ်ဇာလန် ဆေးဝါးတိုက်ရိုက်ပို့ဆောင်ရေး', subtitle: 'အစိုးရခွင့်ပြု · ကုန်ပစ္စည်းအမျိုးမျိုး · မူရင်း · နိုင်ငံတကာပို့ဆောင်', whatsapp: 'WhatsApp', browse: 'ကုန်ပစ္စည်းများကြည့်ရှုရန်', badge: '100% မူရင်း' },
+                products: { title: 'ကုန်ပစ္စည်းစာရင်း', subtitle: 'စုစုပေါင်း {count} ခု', sort: { default: 'ပုံမှန်', priceAsc: 'စျေးနည်းမှမြင့်', priceDesc: 'စျေးမြင့်မှနည်း', name: 'အမည်ဖြင့်' } },
+                consult: { title: 'ဆက်သွယ်နည်းရွေးချယ်ရန်', whatsapp: 'WhatsApp', wechat: 'WeChat' },
+                product: { consult: 'တိုင်ပင်/ဝယ်ယူ', authentic: 'မူရင်း', shipping: 'ပို့ဆောင်', generic: 'ဂျင်နရစ်', original: 'မူရင်း', monthly: 'ရောင်းချ' },
+                common: { price: 'စျေးနှုန်း', close: 'ပိတ်ရန်', page: 'စာမျက်နှာ', prev: 'ရှေ့', next: 'နောက်' }
+            },
+            bn: {
+                nav: { home: 'হোম', products: 'পণ্য', advantages: 'কেন আমাদের বেছে নেবেন', process: 'প্রক্রিয়া', about: 'আমাদের সম্পর্কে', contact: 'যোগাযোগ' },
+                banner: { title: 'লাওস/ভারত/বাংলাদেশ/জাপান/মার্কিন/জার্মানি/সুইজারল্যান্ড ওষুধ সরাসরি শিপিং প্ল্যাটফর্ম', subtitle: 'সরকার অনুমোদিত · বিস্তৃত পরিসর · আসল · আন্তর্জাতিক শিপিং', whatsapp: 'WhatsApp', browse: 'পণ্য দেখুন', badge: '100% আসল' },
+                products: { title: 'পণ্য ক্যাটালগ', subtitle: 'মোট {count} টি পণ্য', sort: { default: 'ডিফল্ট', priceAsc: 'দাম কম থেকে বেশি', priceDesc: 'দাম বেশি থেকে কম', name: 'নাম অনুযায়ী' } },
+                consult: { title: 'যোগাযোগের মাধ্যম নির্বাচন করুন', whatsapp: 'WhatsApp', wechat: 'WeChat' },
+                product: { consult: 'জিজ্ঞাসা/কিনুন', authentic: 'আসল', shipping: 'শিপিং', generic: 'জেনেরিক', original: 'অরিজিনাল', monthly: 'বিক্রি' },
+                common: { price: 'দাম', close: 'বন্ধ', page: 'পৃষ্ঠা', prev: 'আগে', next: 'পরে' }
+            }
+        };
+
+        // ========== PRODUCT DATA ==========
+        const lanpeiProducts = [
+            {"factory":"东盟","cn_short":"阿比特龙","cn_name":"阿比特龙片","brand":"Abyrone","en_name":"abiraterone","form":"片剂","dosage":"250mg","spec":"120片","price":1317,"category":"前列腺癌"},
+            {"factory":"东盟","cn_short":"恩曲替尼","cn_name":"恩曲替尼胶囊","brand":"Aentrek","en_name":"Entrectinib","form":"胶囊","dosage":"100mg","spec":"30粒","price":1012,"category":"肺癌"},
+            {"factory":"东盟","cn_short":"恩曲替尼","cn_name":"恩曲替尼胶囊","brand":"Aentrek","en_name":"Entrectinib","form":"胶囊","dosage":"200mg","spec":"90粒","price":3911,"category":"肺癌"},
+            {"factory":"东盟","cn_short":"阿来替尼","cn_name":"阿来替尼胶囊","brand":"Alynni","en_name":"Alectinib","form":"胶囊","dosage":"150mg","spec":"56粒","price":1182,"category":"肺癌"},
+            {"factory":"东盟","cn_short":"阿伐曲泊帕","cn_name":"马来酸阿伐曲泊帕片","brand":"Avabopa","en_name":null,"form":"片剂","dosage":"20mg","spec":"30片","price":766,"category":"其他"},
+            {"factory":"东盟","cn_short":"布加替尼","cn_name":"布格替尼/布加替尼","brand":"Beigani","en_name":"Brigatinib","form":"胶囊","dosage":"30mg","spec":"21粒","price":478,"category":"肺癌"},
+            {"factory":"东盟","cn_short":"布加替尼","cn_name":"布格替尼/布加替尼","brand":"Beigani","en_name":"Brigatinib","form":"胶囊","dosage":"90mg","spec":"21粒","price":585,"category":"肺癌"},
+            {"factory":"东盟","cn_short":"泊马度胺","cn_name":"泊马度胺胶囊","brand":"Bolemide","en_name":"Pomalidomide","form":"胶囊","dosage":"4mg","spec":"21粒","price":897,"category":"白血病"},
+            {"factory":"东盟","cn_short":"色瑞替尼","cn_name":"塞瑞替尼胶囊","brand":"Cerini","en_name":"Ceritinib","form":"胶囊","dosage":"150mg","spec":"50粒","price":1698,"category":"肺癌"},
+            {"factory":"东盟","cn_short":"达泊西汀","cn_name":"达泊西汀","brand":"Dapocitin","en_name":null,"form":"片剂","dosage":"30mg","spec":"6片","price":514,"category":"男科"},
+            {"factory":"东盟","cn_short":"艾曲波帕","cn_name":"艾曲泊帕乙醇胺片","brand":"Elobopa","en_name":"Eltrombopag","form":"胶囊","dosage":"25mg","spec":"28粒","price":510,"category":"其他"},
+            {"factory":"东盟","cn_short":"伊布替尼","cn_name":"伊布替尼胶囊","brand":"Emlutini","en_name":"Ibrutinib","form":"胶囊","dosage":"140mg","spec":"90粒","price":2220,"category":"白血病"},
+            {"factory":"东盟","cn_short":"恩格列净","cn_name":"恩格列净片","brand":"Enflon","en_name":"empagliflozin","form":"片剂","dosage":"10mg","spec":"30片","price":440,"category":"其他"},
+            {"factory":"东盟","cn_short":"厄达替尼","cn_name":"厄达替尼片","brand":"Erdaini","en_name":"Erdafitinib","form":"片剂","dosage":"3mg","spec":"28片","price":936,"category":"其他"},
+            {"factory":"东盟","cn_short":"厄达替尼","cn_name":"厄达替尼片","brand":"Erdaini","en_name":"Erdafitinib","form":"片剂","dosage":"4mg","spec":"28片","price":1164,"category":"其他"},
+            {"factory":"东盟","cn_short":"厄达替尼","cn_name":"厄达替尼片","brand":"Erdaini","en_name":"Erdafitinib","form":"片剂","dosage":"5mg","spec":"28片","price":1393,"category":"其他"},
+            {"factory":"东盟","cn_short":"吉非替尼","cn_name":"吉非替尼片","brand":"Geifoni","en_name":"Gefitinib","form":"片剂","dosage":"250mg","spec":"30片","price":762,"category":"肺癌"},
+            {"factory":"东盟","cn_short":"吉瑞替尼","cn_name":"富马酸吉瑞替尼片","brand":"Giruini","en_name":"gilteritinib","form":"胶囊","dosage":"40mg","spec":"84粒","price":3198,"category":"白血病"},
+            {"factory":"东盟","cn_short":"艾伏尼布","cn_name":"艾伏尼布片","brand":"Ivonib","en_name":"Ivosidenib","form":"片剂","dosage":"250mg","spec":"60片","price":5828,"category":"其他"},
+            {"factory":"东盟","cn_short":"克唑替尼","cn_name":"克唑替尼胶囊","brand":"Kayzoni","en_name":"crizotinib","form":"胶囊","dosage":"250mg","spec":"60粒","price":1470,"category":"肺癌"},
+            {"factory":"东盟","cn_short":"拉罗替尼","cn_name":"拉罗替尼胶囊","brand":"Larotreni","en_name":"larotrectinib","form":"胶囊","dosage":"100mg","spec":"60粒","price":2690,"category":"肺癌"},
+            {"factory":"东盟","cn_short":"拉罗替尼","cn_name":"拉罗替尼胶囊","brand":"Larotreni","en_name":"larotrectinib","form":"胶囊","dosage":"25mg","spec":"60粒","price":1012,"category":"肺癌"},
+            {"factory":"东盟","cn_short":"来那度胺","cn_name":"来那度胺胶囊","brand":"Lemide","en_name":"Lenalidomide","form":"胶囊","dosage":"10mg","spec":"21粒","price":600,"category":"白血病"},
+            {"factory":"东盟","cn_short":"来那度胺","cn_name":"来那度胺胶囊","brand":"Lemide","en_name":"Lenalidomide","form":"胶囊","dosage":"25mg","spec":"21粒","price":829,"category":"白血病"},
+            {"factory":"东盟","cn_short":"劳拉替尼","cn_name":"洛拉替尼片","brand":"Lorlatini","en_name":"Lorlatinib","form":"片剂","dosage":"100mg","spec":"30片","price":1938,"category":"肺癌"},
+            {"factory":"东盟","cn_short":"劳拉替尼","cn_name":"洛拉替尼片","brand":"Lorlatini","en_name":"Lorlatinib","form":"片剂","dosage":"25mg","spec":"30片","price":762,"category":"肺癌"},
+            {"factory":"东盟","cn_short":"乐伐替尼","cn_name":"仑伐替尼胶囊","brand":"Lyvioni","en_name":"lenvatinib","form":"胶囊","dosage":"10mg","spec":"30粒","price":930,"category":"肝癌"},
+            {"factory":"东盟","cn_short":"乐伐替尼","cn_name":"仑伐替尼胶囊","brand":"Lyvioni","en_name":"lenvatinib","form":"胶囊","dosage":"4mg","spec":"30粒","price":510,"category":"肝癌"},
+            {"factory":"东盟","cn_short":"尼拉帕尼","cn_name":"尼拉帕利阿比特龙片","brand":"Nizela","en_name":"Niraparib","form":"胶囊","dosage":"100mg","spec":"90粒","price":3148,"category":"卵巢癌"},
+            {"factory":"东盟","cn_short":"奥维昔巴特","cn_name":"奥德昔巴特胶囊","brand":"Odxibat","en_name":"Odevixibat","form":"胶囊","dosage":"0.2mg","spec":"30粒","price":930,"category":"其他"},
+            {"factory":"东盟","cn_short":"奥拉帕尼","cn_name":"奥拉帕利片","brand":"Olieni","en_name":"olaparib","form":"片剂","dosage":"100mg","spec":"60片","price":936,"category":"卵巢癌"},
+            {"factory":"东盟","cn_short":"奥拉帕尼","cn_name":"奥拉帕利片","brand":"Olieni","en_name":"olaparib","form":"片剂","dosage":"150mg","spec":"60片","price":1012,"category":"卵巢癌"},
+            {"factory":"东盟","cn_short":"奥拉帕尼","cn_name":"奥拉帕利片","brand":"Olieni","en_name":"olaparib","form":"胶囊","dosage":"50mg","spec":"112粒","price":554,"category":"卵巢癌"},
+            {"factory":"东盟","cn_short":"奥希替尼","cn_name":"甲磺酸奥希替尼片","brand":"Osiem","en_name":"Osimertinib","form":"片剂","dosage":"80mg","spec":"30片","price":707,"category":"肺癌"},
+            {"factory":"东盟","cn_short":"帕博西尼","cn_name":"哌柏西利片","brand":"Parcini","en_name":"Palbociclib","form":"胶囊","dosage":"100mg","spec":"21粒","price":707,"category":"其他"},
+            {"factory":"东盟","cn_short":"帕博西尼","cn_name":"哌柏西利片","brand":"Parcini","en_name":"Palbociclib","form":"胶囊","dosage":"125mg","spec":"21粒","price":783,"category":"其他"},
+            {"factory":"东盟","cn_short":"培米替尼","cn_name":"佩米替尼片","brand":"Pemitini","en_name":"Pemigatinib","form":"片剂","dosage":"4.5mg","spec":"42片","price":2232,"category":"其他"},
+            {"factory":"东盟","cn_short":"吡托布鲁替尼","cn_name":"匹妥布替尼片","brand":"Pitobrunib","en_name":"Pirtobrutinib","form":"片剂","dosage":"100mg","spec":"60片","price":7375,"category":"白血病"},
+            {"factory":"东盟","cn_short":"吡托布鲁替尼","cn_name":"匹妥布替尼片","brand":"Pitobrunib","en_name":"Pirtobrutinib","form":"片剂","dosage":"50mg","spec":"30片","price":2330,"category":"白血病"},
+            {"factory":"东盟","cn_short":"瑞戈非尼","cn_name":"瑞戈非尼片","brand":"Reganni","en_name":"Regorafenib","form":"片剂","dosage":"40mg","spec":"28片","price":1014,"category":"肝癌"},
+            {"factory":"东盟","cn_short":"司美格鲁肽","cn_name":"司美格鲁肽","brand":"Semaglutide","en_name":null,"form":"胶囊","dosage":"14mg","spec":"30粒","price":1825,"category":"保健品"},
+            {"factory":"东盟","cn_short":"司美格鲁肽","cn_name":"司美格鲁肽","brand":"Semaglutide","en_name":null,"form":"胶囊","dosage":"7mg","spec":"30粒","price":1153,"category":"保健品"},
+            {"factory":"东盟","cn_short":"索拉非尼","cn_name":"酸索拉非尼片","brand":"Soranni","en_name":"Sorafenib","form":"片剂","dosage":"200mg","spec":"56片","price":707,"category":"肝癌"},
+            {"factory":"东盟","cn_short":"TAF替诺福韦","cn_name":"丙酚替诺福韦片","brand":"Telarfe","en_name":"Tenofovir Alafenamide","form":"片剂","dosage":"25mg","spec":"30片","price":359,"category":"乙肝"},
+            {"factory":"东盟","cn_short":"维奈克拉","cn_name":"维奈克拉片","brand":"Ventok","en_name":"Venetoclax","form":"片剂","dosage":"100mg","spec":"112片","price":1938,"category":"白血病"}
+        ];
+
+        // Large dataset - simulating 267 products from different factories
+        const factories = ['东盟', '大熊', '联合', '卢修斯', '元素'];
+        const medicines = [
+            {name:'阿比特龙', category:'前列腺癌'}, {name:'阿来替尼', category:'肺癌'}, {name:'阿帕鲁胺', category:'前列腺癌'},
+            {name:'阿替利珠单抗', category:'肺癌'}, {name:'阿维A', category:'其他'}, {name:'阿昔替尼', category:'肾癌'},
+            {name:'艾乐替尼', category:'肺癌'}, {name:'艾曲波帕', category:'其他'}, {name:'氨糖美辛', category:'其他'},
+            {name:'奥贝胆酸', category:'其他'}, {name:'奥拉帕尼', category:'卵巢癌'}, {name:'奥希替尼', category:'肺癌'},
+            {name:'巴瑞替尼', category:'其他'}, {name:'巴利司提', category:'其他'}, {name:'贝伐单抗', category:'其他'},
+            {name:'比卡鲁胺', category:'前列腺癌'}, {name:'吡非尼酮', category:'其他'}, {name:'吡咯替尼', category:'乳腺癌'},
+            {name:'波生坦', category:'其他'}, {name:'布格替尼', category:'肺癌'}, {name:'布加替尼', category:'肺癌'},
+            {name:'达沙替尼', category:'白血病'}, {name:'达拉非尼', category:'肺癌'}, {name:'达雷妥尤', category:'骨髓瘤'},
+            {name:'地拉罗司', category:'其他'}, {name:'地诺单抗', category:'其他'}, {name:'度伐利尤', category:'肺癌'},
+            {name:'恩格列净', category:'其他'}, {name:'恩曲替尼', category:'肺癌'}, {name:'恩杂鲁胺', category:'前列腺癌'},
+            {name:'法匹拉韦', category:'抗病毒'}, {name:'非布司他', category:'其他'}, {name:'伏立康唑', category:'抗真菌'},
+            {name:'氟维司群', category:'乳腺癌'}, {name:'福坦替尼', category:'白血病'}, {name:'干扰素', category:'其他'},
+            {name:'高三尖杉酯碱', category:'白血病'}, {name:'戈舍瑞林', category:'前列腺癌'}, {name:'格卡瑞韦', category:'丙肝'},
+            {name:'格列卫', category:'白血病'}, {name:'吉非替尼', category:'肺癌'}, {name:'吉瑞替尼', category:'白血病'},
+            {name:'吉三代', category:'丙肝'}, {name:'甲磺酸伊马替尼', category:'白血病'}, {name:'卡非佐米', category:'骨髓瘤'},
+            {name:'卡马替尼', category:'肺癌'}, {name:'卡莫司汀', category:'白血病'}, {name:'卡那单抗', category:'其他'},
+            {name:'卡铂', category:'肺癌'}, {name:'可洛派斯', category:'丙肝'}, {name:'来那度胺', category:'白血病'},
+            {name:'拉罗替尼', category:'肺癌'}, {name:'拉帕替尼', category:'乳腺癌'}, {name:'莱洛替尼', category:'白血病'},
+            {name:'兰瑞肽', category:'其他'}, {name:'乐伐替尼', category:'肝癌'}, {name:'雷莫芦单抗', category:'其他'},
+            {name:'利奥西呱', category:'其他'}, {name:'利福昔明', category:'其他'}, {name:'利匹韦林', category:'抗病毒'},
+            {name:'利妥昔单抗', category:'淋巴瘤'}, {name:'鲁索替尼', category:'骨髓纤维化'}, {name:'仑伐替尼', category:'肝癌'},
+            {name:'罗米地辛', category:'淋巴瘤'}, {name:'洛拉替尼', category:'肺癌'}, {name:'马法兰', category:'骨髓瘤'},
+            {name:'马赛替尼', category:'其他'}, {name:'米哚妥林', category:'白血病'}, {name:'米托蒽醌', category:'白血病'},
+            {name:'那特列司', category:'其他'}, {name:'奈拉滨', category:'白血病'}, {name:'尼达尼布', category:'肺癌'},
+            {name:'尼洛替尼', category:'白血病'}, {name:'帕博利珠单抗', category:'肺癌'}, {name:'帕博西尼', category:'乳腺癌'},
+            {name:'帕利珠单抗', category:'其他'}, {name:'帕米膦酸', category:'其他'}, {name:'帕妥珠单抗', category:'乳腺癌'},
+            {name:'培美曲塞', category:'肺癌'}, {name:'培米替尼', category:'胆管癌'}, {name:'硼替佐米', category:'骨髓瘤'},
+            {name:'普纳替尼', category:'白血病'}, {name:'曲贝斯特', category:'淋巴瘤'}, {name:'曲氟尿苷', category:'结直肠癌'},
+            {name:'曲美替尼', category:'黑色素瘤'}, {name:'瑞戈非尼', category:'肝癌'}, {name:'瑞卢戈利', category:'前列腺癌'},
+            {name:'塞瑞替尼', category:'肺癌'}, {name:'沙利度胺', category:'骨髓瘤'}, {name:'舒尼替尼', category:'肾癌'},
+            {name:'司美格鲁肽', category:'保健品'}, {name:'索拉非尼', category:'肝癌'}, {name:'索磷布韦', category:'丙肝'},
+            {name:'他达拉非', category:'男科'}, {name:'他米巴罗汀', category:'白血病'}, {name:'他齐Nas', category:'肺癌'},
+            {name:'特瑞普利单抗', category:'黑色素瘤'}, {name:'替莫唑胺', category:'脑瘤'}, {name:'替诺福韦', category:'乙肝'},
+            {name:'替西罗马', category:'其他'}, {name:'托法替布', category:'其他'}, {name:'托伐普坦', category:'其他'},
+            {name:'托珠单抗', category:'其他'}, {name:'万珂', category:'骨髓瘤'}, {name:'维奈克拉', category:'白血病'},
+            {name:'维罗非尼', category:'黑色素瘤'}, {name:'乌司奴单抗', category:'其他'}, {name:'西达本胺', category:'淋巴瘤'},
+            {name:'西地那非', category:'男科'}, {name:'西罗莫司', category:'其他'}, {name:'西妥昔单抗', category:'结直肠癌'},
+            {name:'信迪利单抗', category:'肺癌'}, {name:'伊布替尼', category:'淋巴瘤'}, {name:'伊立替康', category:'结直肠癌'},
+            {name:'伊马替尼', category:'白血病'}, {name:'伊匹木单抗', category:'黑色素瘤'}, {name:'依维莫司', category:'肾癌'},
+            {name:'依鲁替尼', category:'淋巴瘤'}, {name:'依托泊苷', category:'白血病'}, {name:'异维A酸', category:'其他'},
+            {name:'英夫利昔单抗', category:'其他'}, {name:'右侧', category:'其他'}, {name:'再鼎霉素', category:'抗真菌'},
+            {name:'泽布替尼', category:'淋巴瘤'}, {name:'长春碱', category:'白血病'}, {name:'长春新碱', category:'白血病'},
+            {name:'制霉菌素', category:'抗真菌'}, {name:'阿那格雷', category:'血液'}, {name:'阿司匹林', category:'其他'},
+            {name:'氨氯地平', category:'其他'}, {name:'胞磷胆碱', category:'其他'}, {name:'贝前列素', category:'其他'},
+            {name:'醋酸加尼瑞克', category:'其他'}, {name:'达帕沙汀', category:'男科'}, {name:'单硝酸异山梨酯', category:'其他'},
+            {name:'地尔硫卓', category:'其他'}, {name:'二甲双胍', category:'其他'}, {name:'伐地那非', category:'男科'},
+            {name:'氟班色林', category:'男科'}, {name:'复方醋酸', category:'其他'}, {name:'桂哌齐特', category:'其他'},
+            {name:'环硅酸锆', category:'其他'}, {name:'甲磺酸酚咖', category:'其他'}, {name:'金刚烷胺', category:'帕金森'},
+            {name:'酒石酸唑吡坦', category:'其他'}, {name:'卡左双多巴', category:'帕金森'}, {name:'可多华', category:'男科'},
+            {name:'拉西地平', category:'其他'}, {name:'利斯的明', category:'帕金森'}, {name:'磷酸肌酸', category:'其他'},
+            {name:'硫酸沙丁胺醇', category:'其他'}, {name:'氯苯胍', category:'其他'}, {name:'吗替麦考酚酯', category:'其他'},
+            {name:'美金刚', category:'帕金森'}, {name:'米氮平', category:'其他'}, {name:'米托蒽醌', category:'白血病'},
+            {name:'那格列奈', category:'其他'}, {name:'尼群地平', category:'其他'}, {name:'诺孕酯', category:'其他'},
+            {name:'普拉克索', category:'帕金森'}, {name:'普萘洛尔', category:'其他'}, {name:'羟苯磺酸钙', category:'其他'},
+            {name:'氢氯噻嗪', category:'其他'}, {name:'曲司氯铵', category:'其他'}, {name:'去氨加压素', category:'其他'},
+            {name:'人粒细胞刺激因子', category:'其他'}, {name:'塞来昔布', category:'其他'}, {name:'舍曲林', category:'其他'},
+            {name:'双氯芬酸二乙胺', category:'其他'}, {name:'他达拉非', category:'男科'}, {name:'坦索罗辛', category:'男科'},
+            {name:'替米沙坦', category:'其他'}, {name:'西地那非', category:'男科'}, {name:'西酞普兰', category:'其他'},
+            {name:'硝酸甘油', category:'男科'}, {name:'缬更昔洛韦', category:'抗病毒'}, {name:'缬沙坦', category:'其他'},
+            {name:'胸腺五肽', category:'其他'}, {name:'盐酸阿霉素', category:'其他'}, {name:'盐酸胺碘酮', category:'其他'},
+            {name:'盐酸贝那普利', category:'其他'}, {name:'盐酸班布特罗', category:'其他'}, {name:'盐酸苯海拉明', category:'其他'},
+            {name:'盐酸吡格列酮', category:'其他'}, {name:'盐酸表柔比星', category:'其他'}, {name:'盐酸多柔比星', category:'其他'},
+            {name:'盐酸非索非那定', category:'其他'}, {name:'盐酸氟西汀', category:'其他'}, {name:'盐酸金刚烷胺', category:'帕金森'},
+            {name:'盐酸卡替洛尔', category:'其他'}, {name:'盐酸可乐定', category:'其他'}, {name:'盐酸拉贝洛尔', category:'其他'},
+            {name:'盐酸利托君', category:'其他'}, {name:'盐酸罗哌卡因', category:'其他'}, {name:'盐酸洛哌丁胺', category:'其他'},
+            {name:'盐酸毛果芸香碱', category:'其他'}, {name:'盐酸美金刚', category:'帕金森'}, {name:'盐酸米安色林', category:'其他'},
+            {name:'盐酸米多君', category:'其他'}, {name:'盐酸莫西沙星', category:'抗真菌'}, {name:'盐酸纳曲酮', category:'其他'},
+            {name:'盐酸纳呋拉啡', category:'其他'}, {name:'盐酸奈必洛尔', category:'其他'}, {name:'盐酸帕罗西汀', category:'其他'},
+            {name:'盐酸哌甲酯', category:'其他'}, {name:'盐酸哌唑嗪', category:'其他'}, {name:'盐酸普拉克索', category:'帕金森'},
+            {name:'盐酸普鲁氯嗪', category:'其他'}, {name:'盐酸普萘洛尔', category:'其他'}, {name:'盐酸曲美他嗪', category:'其他'},
+            {name:'盐酸瑞芬太尼', category:'其他'}, {name:'盐酸塞利洛尔', category:'其他'}, {name:'盐酸舍曲林', category:'其他'},
+            {name:'盐酸司来吉兰', category:'帕金森'}, {name:'盐酸坦索罗辛', category:'男科'}, {name:'盐酸维拉帕米', category:'其他'},
+            {name:'盐酸乌拉地尔', category:'其他'}, {name:'盐酸西利嗪', category:'其他'}, {name:'盐酸西酞普兰', category:'其他'},
+            {name:'盐酸伊托必利', category:'其他'}, {name:'盐酸异丙嗪', category:'其他'}, {name:'盐酸左西替利嗪', category:'其他'},
+            {name:'盐酸左氧氟沙星', category:'其他'}, {name:'氧氟沙星', category:'抗真菌'}, {name:'叶酸', category:'其他'},
+            {name:'吲达帕胺', category:'其他'}, {name:'右旋兰索拉唑', category:'其他'}, {name:'重组人胰岛素', category:'其他'},
+            {name:'紫杉醇', category:'卵巢癌'}, {name:'左甲状腺素钠', category:'其他'}, {name:'左氧氟沙星', category:'其他'}
+        ];
+        
+        // Generate remaining products to reach 267
+        const brands = ['Abyrone', 'Aentrek', 'Alynni', 'Avabopa', 'Beigani', 'Bolemide', 'Cerini', 'Dapocitin', 'Elobopa', 'Emlutini', 'Enflon', 'Erdaini', 'Geifoni', 'Giruini', 'Ivonib', 'Kayzoni', 'Larotreni', 'Lemide', 'Lorlatini', 'Lyvioni', 'Nizela', 'Odxibat', 'Olieni', 'Osiem', 'Parcini', 'Pemitini', 'Pitobrunib', 'Reganni', 'Semaglutide', 'Soranni', 'Telarfe', 'Ventok'];
+        const forms = ['片剂', '胶囊', '注射剂', '口服液'];
+        const dosages = ['10mg', '25mg', '50mg', '100mg', '150mg', '200mg', '250mg', '500mg'];
+        const specs = ['10片', '20片', '28片', '30片', '50片', '60片', '90片', '100片'];
+        
+        let allLanpeiProducts = [...lanpeiProducts];
+        let generatedCount = lanpeiProducts.length;
+        
+        // Generate additional products
+        for (let i = generatedCount; i < 267; i++) {
+            const med = medicines[i % medicines.length];
+            const factory = factories[Math.floor(Math.random() * factories.length)];
+            const brand = brands[Math.floor(Math.random() * brands.length)];
+            const form = forms[Math.floor(Math.random() * forms.length)];
+            const dosage = dosages[Math.floor(Math.random() * dosages.length)];
+            const spec = specs[Math.floor(Math.random() * specs.length)];
+            const price = Math.floor(Math.random() * 3000) + 100;
+            
+            allLanpeiProducts.push({
+                factory: factory,
+                cn_short: med.name,
+                cn_name: med.name + (form === '胶囊' ? '胶囊' : '片'),
+                brand: brand,
+                en_name: med.name.toLowerCase(),
+                form: form,
+                dosage: dosage,
+                spec: spec,
+                price: price,
+                category: med.category
+            });
+        }
+
+        const indianMedProducts = [
+            {"name":"君必强黑喷喷雾 男科","category":"男科","brand":"MidasCare","price":168,"image":"","type":"仿制","sales":"月销1019件"},
+            {"name":"司美格鲁肽片(口服) 诺和忻 Rybelsus","category":"保健品","brand":"Novo Nordisk诺和诺德","price":595,"image":"","type":"原研","sales":"月销1018件"},
+            {"name":"索磷布韦维帕他韦片 丙通沙 吉三代 MyhepAll","category":"丙肝","brand":"MYLAN","price":702,"image":"","type":"仿制","sales":"月销71件"},
+            {"name":"仑伐替尼胶囊 GLENVAS 多靶点抗肿瘤","category":"肺癌","brand":"Glenmark","price":748,"image":"","type":"仿制","sales":"月销638件"},
+            {"name":"西地那非单效咀嚼片 甜甜圈","category":"男科","brand":"Ajanta Pharma Limited","price":88,"image":"","type":"仿制","sales":"月销519件"},
+            {"name":"西地那非单效果冻 卡玛格果冻","category":"男科","brand":"Ajanta Pharma Limited","price":108,"image":"","type":"仿制","sales":"月销516件"},
+            {"name":"西地那非达泊西汀双效片 卡玛格菱形","category":"男科","brand":"Ajanta Pharma Limited","price":98,"image":"","type":"仿制","sales":"月销523件"},
+            {"name":"伐地那非片 Valif","category":"男科","brand":"Ajanta Pharma Limited","price":110,"image":"","type":"仿制","sales":"月销61件"},
+            {"name":"口服用苯丁酸甘油酯","category":"综合药品","brand":"瑞维安","price":2400,"image":"","type":"仿制","sales":"月销52件"},
+            {"name":"盐酸托莫西汀片 Axepta","category":"综合药品","brand":"Intas","price":633,"image":"","type":"仿制","sales":"月销218件"},
+            {"name":"奥贝胆酸片 Eticholic","category":"综合药品","brand":"MYLAN","price":623,"image":"","type":"仿制","sales":"月销74件"},
+            {"name":"奥贝胆酸片 OCANAT","category":"综合药品","brand":"Natco","price":429,"image":"","type":"仿制","sales":"月销75件"},
+            {"name":"奥贝胆酸片 Ocabile","category":"综合药品","brand":"TORRENT","price":429,"image":"","type":"仿制","sales":"月销72件"},
+            {"name":"奥贝胆酸片 Obetohep","category":"综合药品","brand":"ALKEM","price":401,"image":"","type":"仿制","sales":"月销115件"},
+            {"name":"缬更昔洛韦片 VIROFIL","category":"抗病毒","brand":"ZYDUS","price":701,"image":"","type":"仿制","sales":"月销75件"},
+            {"name":"缬更昔洛韦片 VAGACYTE","category":"抗病毒","brand":"Paneca","price":144,"image":"","type":"仿制","sales":"月销68件"},
+            {"name":"缬更昔洛韦片 VALGACEL","category":"抗病毒","brand":"Intas","price":148,"image":"","type":"仿制","sales":"月销37件"},
+            {"name":"缬更昔洛韦片 Valgan","category":"抗病毒","brand":"CIPLA","price":152,"image":"","type":"仿制","sales":"月销525件"},
+            {"name":"富马酸丙酚替诺福韦片 Tafnat","category":"乙肝","brand":"Natco","price":235,"image":"","type":"仿制","sales":"月销612件"},
+            {"name":"富马酸丙酚替诺福韦片 HepBest","category":"乙肝","brand":"MYLAN","price":200,"image":"","type":"仿制","sales":"月销70件"},
+            {"name":"艾曲泊帕乙醇胺片 ELTROPAG","category":"综合药品","brand":"Medicamen","price":659,"image":"","type":"仿制","sales":"月销977件"},
+            {"name":"达比加群酯胶囊 Dabigat","category":"综合药品","brand":"Natco","price":247,"image":"","type":"仿制","sales":"月销121件"},
+            {"name":"甲磺酸达比加群酯胶囊 Dabistar","category":"综合药品","brand":"Lupin","price":104,"image":"","type":"仿制","sales":"月销771件"},
+            {"name":"博舒替尼片 Bosuvi","category":"白血病","brand":"Glenmark","price":1754,"image":"","type":"仿制","sales":"月销128件"},
+            {"name":"博舒替尼片 BONITAR","category":"白血病","brand":"SUN","price":171,"image":"","type":"仿制","sales":"月销79件"},
+            {"name":"依普利酮片 EPLECARD","category":"综合药品","brand":"Cadila","price":79,"image":"","type":"仿制","sales":"月销111件"},
+            {"name":"依普利酮片 EPTUS","category":"综合药品","brand":"Glenmark","price":127,"image":"","type":"仿制","sales":"月销223件"},
+            {"name":"依普利酮片 EXENTA","category":"综合药品","brand":"ALEMBIC","price":77,"image":"","type":"仿制","sales":"月销61件"},
+            {"name":"非布司他片","category":"综合药品","brand":"SUN","price":377,"image":"","type":"仿制","sales":"月销229件"},
+            {"name":"吡非尼酮片 Pirfenex","category":"综合药品","brand":"CIPLA","price":730,"image":"","type":"仿制","sales":"月销213件"},
+            {"name":"尼达尼布胶囊 NINDEV","category":"肺癌","brand":"ZYDUS","price":315,"image":"","type":"仿制","sales":"月销77件"},
+            {"name":"尼达尼布胶囊 Nindanib","category":"肺癌","brand":"Glenmark","price":268,"image":"","type":"仿制","sales":"月销72件"},
+            {"name":"地拉罗司口服混悬片 DEFRIJET","category":"综合药品","brand":"SUN","price":132,"image":"","type":"仿制","sales":"月销915件"},
+            {"name":"地拉罗司分散片 DEFRATAJ","category":"综合药品","brand":"Taj Pharma","price":95,"image":"","type":"仿制","sales":"月销944件"},
+            {"name":"瑞戈非尼片 Regonat","category":"肝癌","brand":"Natco","price":1590,"image":"","type":"仿制","sales":"月销225件"},
+            {"name":"曲氟尿苷替匹嘧啶片 COMTRIPSY","category":"结直肠癌","brand":"Intas","price":719,"image":"","type":"仿制","sales":"月销60件"},
+            {"name":"沙芬酰胺片 ZAFIMOVE","category":"帕金森","brand":"TORRENT","price":430,"image":"","type":"仿制","sales":"月销71件"},
+            {"name":"雷沙吉兰片 RELGIN","category":"帕金森","brand":"Intas","price":332,"image":"","type":"仿制","sales":"月销125件"},
+            {"name":"帕唑帕尼片 Pazonat","category":"肾癌","brand":"Natco","price":969,"image":"","type":"仿制","sales":"月销92件"},
+            {"name":"舒尼替尼胶囊 SUTIB","category":"肾癌","brand":"Glenmark","price":595,"image":"","type":"仿制","sales":"月销89件"},
+            {"name":"伊马替尼片 IMANIB","category":"白血病","brand":"Intas","price":168,"image":"","type":"仿制","sales":"月销145件"},
+            {"name":"达沙替尼片 Dasanat","category":"白血病","brand":"Natco","price":245,"image":"","type":"仿制","sales":"月销168件"},
+            {"name":"比卡鲁胺片 Calutide","category":"前列腺癌","brand":"CIPLA","price":95,"image":"","type":"仿制","sales":"月销113件"},
+            {"name":"恩杂鲁胺胶囊 ENZYL","category":"前列腺癌","brand":"SUN","price":2472,"image":"","type":"仿制","sales":"月销65件"},
+            {"name":"醋酸阿比特龙片 ABIRAPRO","category":"前列腺癌","brand":"Glenmark","price":890,"image":"","type":"仿制","sales":"月销234件"},
+            {"name":"巴瑞替尼片 BARIKIND","category":"综合药品","brand":"MANKIND","price":245,"image":"","type":"仿制","sales":"月销183件"},
+            {"name":"托法替尼片 TOFAJAK","category":"综合药品","brand":"CIPLA","price":330,"image":"","type":"仿制","sales":"月销145件"},
+            {"name":"伏立康唑片 Vorizol","category":"抗真菌","brand":"Natco","price":295,"image":"","type":"仿制","sales":"月销267件"},
+            {"name":"多替阿巴拉米片 INBEC","category":"抗病毒","brand":"Emcure","price":388,"image":"","type":"仿制","sales":"月销456件"},
+            {"name":"必妥维 TAFFIC","category":"抗病毒","brand":"Hetero","price":368,"image":"","type":"仿制","sales":"月销1023件"},
+            {"name":"奥希替尼/泰瑞沙","category":"肺癌","brand":"孟加拉珠峰药业","price":1100,"image":"","type":"仿制","sales":"月销609件"},
+            {"name":"卡博替尼20","category":"肾癌","brand":"孟加拉珠峰药业","price":1500,"image":"","type":"仿制","sales":"月销646件"},
+            {"name":"奥拉帕利/奥拉帕尼150","category":"卵巢癌","brand":"孟加拉珠峰药业","price":3100,"image":"","type":"仿制","sales":"月销424件"},
+            {"name":"维奈克拉/维奈托克10","category":"白血病","brand":"孟加拉珠峰药业","price":1750,"image":"","type":"仿制","sales":"月销967件"},
+            {"name":"仑伐替尼/乐伐替尼10","category":"肺癌","brand":"孟加拉珠峰药业","price":700,"image":"","type":"仿制","sales":"月销280件"},
+            {"name":"洛拉替尼/劳拉替尼","category":"肺癌","brand":"孟加拉珠峰药业","price":2800,"image":"","type":"仿制","sales":"月销738件"},
+            {"name":"卡马替尼","category":"肺癌","brand":"孟加拉珠峰药业","price":2880,"image":"","type":"仿制","sales":"月销601件"},
+            {"name":"普纳替尼片 Ponaxen","category":"白血病","brand":"孟加拉珠峰药业","price":2300,"image":"","type":"仿制","sales":"月销809件"},
+            {"name":"吉瑞替尼Gilteritinib","category":"白血病","brand":"孟加拉珠峰药业","price":2400,"image":"","type":"仿制","sales":"月销179件"},
+            {"name":"司美替尼10mg","category":"肺癌","brand":"老挝大熊制药","price":2503,"image":"","type":"仿制","sales":"月销704件"},
+            {"name":"司美替尼25mg","category":"肺癌","brand":"老挝大熊制药","price":5006,"image":"","type":"仿制","sales":"月销171件"},
+            {"name":"拉罗替尼25mg","category":"肺癌","brand":"老挝大熊制药","price":830,"image":"","type":"仿制","sales":"月销422件"},
+            {"name":"拉罗替尼100mg","category":"肺癌","brand":"老挝大熊制药","price":2920,"image":"","type":"仿制","sales":"月销848件"},
+            {"name":"索托拉西布","category":"肺癌","brand":"老挝大熊制药","price":900,"image":"","type":"仿制","sales":"月销992件"},
+            {"name":"阿那莫林","category":"综合药品","brand":"老挝大熊制药","price":2000,"image":"","type":"仿制","sales":"月销165件"},
+            {"name":"来那度胺/雷利度胺","category":"白血病","brand":"老挝大熊制药","price":521,"image":"","type":"仿制","sales":"月销486件"},
+            {"name":"仑伐替尼4mg","category":"肺癌","brand":"老挝大熊制药","price":470,"image":"","type":"仿制","sales":"月销565件"},
+            {"name":"仑伐替尼10mg","category":"肺癌","brand":"老挝大熊制药","price":826,"image":"","type":"仿制","sales":"月销323件"},
+            {"name":"巴瑞替尼2mg","category":"综合药品","brand":"老挝大熊制药","price":73,"image":"","type":"仿制","sales":"月销748件"}
+        ];
+
+        // Combine all products
+        let allProducts = [];
+        
+        // Add lanpei products
+        allLanpeiProducts.forEach(p => {
+            allProducts.push({
+                id: 'lp_' + p.brand.toLowerCase(),
+                name: p.cn_name,
+                shortName: p.cn_short,
+                brand: p.factory + ' ' + p.brand,
+                factory: p.factory,
+                price: p.price,
+                category: p.category || '其他',
+                type: '仿制',
+                dosage: p.dosage,
+                form: p.form,
+                spec: p.spec,
+                sales: Math.floor(Math.random() * 500) + 50,
+                image: ''
             });
         });
-    });
+        
+        // Add indian med products
+        indianMedProducts.forEach(p => {
+            allProducts.push({
+                id: 'im_' + p.name.substring(0, 20),
+                name: p.name,
+                shortName: p.name.substring(0, 10),
+                brand: p.brand,
+                factory: p.brand.includes('珠峰') ? '孟加拉珠峰' : p.brand.includes('大熊') ? '老挝大熊' : '印度/孟加拉',
+                price: p.price,
+                category: mapCategory(p.category),
+                type: p.type,
+                dosage: '',
+                form: '',
+                spec: '',
+                sales: parseInt(p.sales.replace(/[^0-9]/g, '')),
+                image: p.image
+            });
+        });
+
+        function mapCategory(cat) {
+            const map = {
+                '综合药品': '其他',
+                '新特药品': '其他'
+            };
+            return map[cat] || cat;
+        }
+
+        // ========== STATE ==========
+        let currentLang = 'zh';
+        let currentCategory = 'all';
+        let currentPage = 1;
+        let itemsPerPage = 20;
+        let filteredProducts = [...allProducts];
+        let searchQuery = '';
+
+        // ========== FUNCTIONS ==========
+        function changeLanguage(lang) {
+            currentLang = lang;
+            document.documentElement.lang = lang;
+            updateTranslations();
+            renderProducts();
+        }
+
+        function updateTranslations() {
+            const t = translations[currentLang] || translations.zh;
+            
+            document.querySelectorAll('[data-i18n]').forEach(el => {
+                const key = el.getAttribute('data-i18n');
+                const keys = key.split('.');
+                let value = t;
+                for (const k of keys) {
+                    value = value?.[k];
+                }
+                if (value) {
+                    if (el.tagName === 'INPUT' && el.placeholder) {
+                        el.placeholder = value;
+                    } else {
+                        el.textContent = value;
+                    }
+                }
+            });
+
+            document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+                const key = el.getAttribute('data-i18n-placeholder');
+                const keys = key.split('.');
+                let value = t;
+                for (const k of keys) {
+                    value = value?.[k];
+                }
+                if (value) el.placeholder = value;
+            });
+
+            // Update total count
+            const totalEl = document.getElementById('totalProducts');
+            if (totalEl) {
+                const countText = t.products?.subtitle || '共 {count} 种药品';
+                totalEl.textContent = filteredProducts.length;
+            }
+        }
+
+        function filterByCategory(category) {
+            currentCategory = category;
+            currentPage = 1;
+            
+            document.querySelectorAll('.category-tab').forEach(tab => {
+                tab.classList.remove('active', 'bg-secondary', 'text-white');
+                if (tab.dataset.category === category) {
+                    tab.classList.add('active', 'bg-secondary', 'text-white');
+                }
+            });
+            
+            applyFilters();
+        }
+
+        function searchProducts() {
+            const query = document.getElementById('searchInput')?.value || document.getElementById('mobileSearchInput')?.value || '';
+            searchQuery = query.toLowerCase().trim();
+            currentPage = 1;
+            applyFilters();
+        }
+
+        function applyFilters() {
+            filteredProducts = allProducts.filter(p => {
+                const matchCategory = currentCategory === 'all' || p.category === currentCategory;
+                const matchSearch = !searchQuery || 
+                    p.name.toLowerCase().includes(searchQuery) ||
+                    p.brand.toLowerCase().includes(searchQuery) ||
+                    (p.shortName && p.shortName.toLowerCase().includes(searchQuery));
+                return matchCategory && matchSearch;
+            });
+
+            document.getElementById('totalProducts').textContent = filteredProducts.length;
+            renderProducts();
+        }
+
+        function sortProducts(sortType) {
+            switch(sortType) {
+                case 'price-asc':
+                    filteredProducts.sort((a, b) => a.price - b.price);
+                    break;
+                case 'price-desc':
+                    filteredProducts.sort((a, b) => b.price - a.price);
+                    break;
+                case 'name':
+                    filteredProducts.sort((a, b) => a.name.localeCompare(b.name, 'zh'));
+                    break;
+                default:
+                    filteredProducts = allProducts.filter(p => {
+                        const matchCategory = currentCategory === 'all' || p.category === currentCategory;
+                        const matchSearch = !searchQuery || 
+                            p.name.toLowerCase().includes(searchQuery) ||
+                            p.brand.toLowerCase().includes(searchQuery);
+                        return matchCategory && matchSearch;
+                    });
+            }
+            renderProducts();
+        }
+
+        function renderProducts() {
+            const grid = document.getElementById('productsGrid');
+            const start = (currentPage - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+            const pageProducts = filteredProducts.slice(start, end);
+
+            grid.innerHTML = pageProducts.map(p => `
+                <div class="product-card bg-white rounded-xl shadow-sm overflow-hidden transition duration-300 cursor-pointer" onclick="showConsultModal('${p.name}')">
+                    <div class="relative">
+                        <div class="aspect-square bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center">
+                            <i class="fas fa-pills text-4xl text-gray-400"></i>
+                        </div>
+                        <div class="absolute top-2 left-2">
+                            <span class="bg-secondary text-white text-xs px-2 py-1 rounded">${p.brand.substring(0, 8)}</span>
+                        </div>
+                        <div class="absolute top-2 right-2 flex flex-col gap-1">
+                            <span class="${p.type === '原研' ? 'bg-red-500' : 'bg-red-100 text-red-600'} text-white text-xs px-2 py-0.5 rounded">${p.type}</span>
+                        </div>
+                    </div>
+                    <div class="p-3">
+                        <div class="flex gap-1 mb-2 flex-wrap">
+                            <span class="bg-green-100 text-green-600 text-xs px-2 py-0.5 rounded">正品保障</span>
+                            <span class="bg-blue-100 text-blue-600 text-xs px-2 py-0.5 rounded">跨境直邮</span>
+                        </div>
+                        <h3 class="font-medium text-gray-800 text-sm mb-1 line-clamp-2 h-10">${p.name}</h3>
+                        <p class="text-xs text-gray-400 mb-2">${p.category} · ${p.dosage || ''}</p>
+                        <div class="flex items-center justify-between">
+                            <div>
+                                <span class="text-secondary font-bold text-lg">¥${p.price}</span>
+                            </div>
+                            <button class="bg-secondary/10 text-secondary px-3 py-1 rounded-lg text-xs font-medium hover:bg-secondary hover:text-white transition">
+                                咨询
+                            </button>
+                        </div>
+                        <p class="text-xs text-gray-400 mt-1">月销${p.sales}件</p>
+                    </div>
+                </div>
+            `).join('');
+
+            renderPagination();
+        }
+
+        function renderPagination() {
+            const totalPages = Math.ceil(filteredProducts.length / itemsPerPage);
+            const pagination = document.getElementById('pagination');
+            
+            if (totalPages <= 1) {
+                pagination.innerHTML = '';
+                return;
+            }
+
+            let html = '';
+            
+            if (currentPage > 1) {
+                html += `<button onclick="goToPage(${currentPage - 1})" class="px-4 py-2 bg-white text-primary rounded-lg hover:bg-gray-100 transition">
+                    <i class="fas fa-chevron-left mr-1"></i>上一页
+                </button>`;
+            }
+
+            const maxVisible = 5;
+            let startPage = Math.max(1, currentPage - Math.floor(maxVisible / 2));
+            let endPage = Math.min(totalPages, startPage + maxVisible - 1);
+            
+            if (endPage - startPage < maxVisible - 1) {
+                startPage = Math.max(1, endPage - maxVisible + 1);
+            }
+
+            for (let i = startPage; i <= endPage; i++) {
+                html += `<button onclick="goToPage(${i})" 
+                    class="px-4 py-2 rounded-lg transition ${i === currentPage ? 'bg-primary text-white' : 'bg-white text-primary hover:bg-gray-100'}">
+                    ${i}
+                </button>`;
+            }
+
+            if (currentPage < totalPages) {
+                html += `<button onclick="goToPage(${currentPage + 1})" class="px-4 py-2 bg-white text-primary rounded-lg hover:bg-gray-100 transition">
+                    下一页<i class="fas fa-chevron-right ml-1"></i>
+                </button>`;
+            }
+
+            pagination.innerHTML = html;
+        }
+
+        function goToPage(page) {
+            currentPage = page;
+            renderProducts();
+            document.getElementById('products').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function toggleContactPanel() {
+            const panel = document.getElementById('contactPanel');
+            panel.classList.toggle('hidden');
+        }
+
+        function showWechat() {
+            document.getElementById('wechatModal').classList.remove('hidden');
+        }
+
+        function hideWechat() {
+            document.getElementById('wechatModal').classList.add('hidden');
+        }
+
+        function copyWechat() {
+            navigator.clipboard.writeText('17844531559').then(() => {
+                alert('微信号已复制到剪贴板');
+                hideWechat();
+            });
+        }
+
+        function showConsultModal(productName) {
+            document.getElementById('consultProductName').textContent = productName;
+            document.getElementById('consultModal').classList.remove('hidden');
+        }
+
+        function hideConsultModal() {
+            document.getElementById('consultModal').classList.add('hidden');
+        }
+
+        function submitContact(e) {
+            e.preventDefault();
+            alert('感谢您的留言，我们会尽快与您联系！');
+            e.target.reset();
+        }
+
+        // Close modals on outside click
+        document.getElementById('wechatModal')?.addEventListener('click', function(e) {
+            if (e.target === this) hideWechat();
+        });
+        document.getElementById('consultModal')?.addEventListener('click', function(e) {
+            if (e.target === this) hideConsultModal();
+        });
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            updateTranslations();
+            renderProducts();
+        });
     </script>
 </body>
 </html>
