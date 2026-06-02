@@ -1,0 +1,2558 @@
+[
+  {
+    "name": "阿比特龙片",
+    "brand": "Abyrone",
+    "category": "前列腺癌",
+    "covered": true
+  },
+  {
+    "name": "恩曲替尼胶囊",
+    "brand": "Aentrek",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "阿来替尼胶囊",
+    "brand": "Alynni",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "马来酸阿伐曲泊帕片",
+    "brand": "Avabopa",
+    "category": "综合药品",
+    "covered": true
+  },
+  {
+    "name": "布格替尼 / 布加替尼",
+    "brand": "Beigani",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "泊马度胺胶囊",
+    "brand": "Bolemide",
+    "category": "白血病",
+    "covered": true
+  },
+  {
+    "name": "塞瑞替尼胶囊",
+    "brand": "Cerini",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "达泊西汀",
+    "brand": "Dapocitin",
+    "category": "男科",
+    "covered": true
+  },
+  {
+    "name": "艾曲泊帕乙醇胺片",
+    "brand": "Elobopa",
+    "category": "综合药品",
+    "covered": true
+  },
+  {
+    "name": "伊布替尼胶囊",
+    "brand": "Emlutini",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "恩格列净片",
+    "brand": "Enflon",
+    "category": "综合药品",
+    "covered": true
+  },
+  {
+    "name": "厄达替尼片",
+    "brand": "Erdaini",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "吉非替尼片",
+    "brand": "Geifoni",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "富马酸吉瑞替尼片",
+    "brand": "Giruini",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "艾伏尼布片",
+    "brand": "Ivonib",
+    "category": "白血病",
+    "covered": true
+  },
+  {
+    "name": "克唑替尼胶囊",
+    "brand": "Kayzoni",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "拉罗替尼胶囊",
+    "brand": "Larotreni",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "来那度胺胶囊",
+    "brand": "Lemide",
+    "category": "白血病",
+    "covered": true
+  },
+  {
+    "name": "洛拉替尼片",
+    "brand": "Lorlatini",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "仑伐替尼胶囊",
+    "brand": "Lyvioni",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "尼拉帕利阿比特龙片",
+    "brand": "Nizela",
+    "category": "前列腺癌",
+    "covered": true
+  },
+  {
+    "name": "奥德昔巴特胶囊",
+    "brand": "Odxibat",
+    "category": "综合药品",
+    "covered": true
+  },
+  {
+    "name": "奥拉帕利片",
+    "brand": "Olieni",
+    "category": "前列腺癌",
+    "covered": true
+  },
+  {
+    "name": "甲磺酸奥希替尼片",
+    "brand": "Osiem",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "哌柏西利片",
+    "brand": "Parcini",
+    "category": "乳腺癌",
+    "covered": true
+  },
+  {
+    "name": "佩米替尼片",
+    "brand": "Pemitini",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "匹妥布替尼片",
+    "brand": "Pitobrunib",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "瑞戈非尼片",
+    "brand": "Reganni",
+    "category": "肝癌",
+    "covered": true
+  },
+  {
+    "name": "司美格鲁肽",
+    "brand": "Semaglutide",
+    "category": "保健品",
+    "covered": true
+  },
+  {
+    "name": "酸索拉非尼片",
+    "brand": "Soranni",
+    "category": "肝癌",
+    "covered": true
+  },
+  {
+    "name": "丙酚替诺福韦片",
+    "brand": "Telarfe",
+    "category": "乙肝",
+    "covered": false
+  },
+  {
+    "name": "维奈克拉片",
+    "brand": "Ventok",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "阿可替尼片",
+    "brand": "Akadx",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "阿昔替尼片",
+    "brand": "ASIDX",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "巴瑞替尼片",
+    "brand": "BARUDX",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "贝舒地尔片",
+    "brand": "BEISUDX",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "阿贝西利片",
+    "brand": "BESIDX",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "恩考芬尼胶囊",
+    "brand": "Bratodx",
+    "category": "黑色素瘤",
+    "covered": false
+  },
+  {
+    "name": "盐酸卡马替尼片",
+    "brand": "Campmadx",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "卡匹色替片",
+    "brand": "CAPIVADX",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "达拉非尼",
+    "brand": "Dabradx",
+    "category": "黑色素瘤",
+    "covered": false
+  },
+  {
+    "name": "氘可来昔替尼片",
+    "brand": "Duvacidx",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "枸橼酸伊沙佐米胶囊",
+    "brand": "ISADX",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "硫酸拉罗替尼胶囊",
+    "brand": "Larodx",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "甲磺酸仑伐替尼胶囊",
+    "brand": "Lenvidx",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "来特莫韦片",
+    "brand": "LETEDX",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "芦曲泊帕片",
+    "brand": "Lutrodx",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "米托坦片",
+    "brand": "Mitodx",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "奥希替尼片",
+    "brand": "Oysiendx",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "泊那替尼片",
+    "brand": "PONADX",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "普拉替尼胶囊",
+    "brand": "PRASEDX",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "瑞普替尼胶囊",
+    "brand": "Repodx",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "甲苯磺酸利特昔替尼胶囊",
+    "brand": "RITEDX",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "芦可替尼片",
+    "brand": "Rusodx",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "塞利尼索片",
+    "brand": "Sallydx",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "硫酸氢司美替尼",
+    "brand": "Semedx",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "塞普替尼胶囊",
+    "brand": "Sepadx",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "索磷布韦 / 维帕他韦",
+    "brand": "SODADX",
+    "category": "丙肝",
+    "covered": false
+  },
+  {
+    "name": "他泽司他",
+    "brand": "Tazedx",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "特泊替尼片",
+    "brand": "Tepodx",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "托法替布",
+    "brand": "Tofadx",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "曲美替尼片",
+    "brand": "Tramedx",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "乌帕替尼缓释片",
+    "brand": "Upadx",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "万塞维/缬更昔洛韦",
+    "brand": "VALSYDX",
+    "category": "抗病毒",
+    "covered": false
+  },
+  {
+    "name": "Belzutifan",
+    "brand": "Welidx",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "阿布昔替尼片",
+    "brand": "ALIABROCITINB",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "甲磺酸贝舒地尔",
+    "brand": "ALIBELUMOSU",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "玛巴洛沙韦片",
+    "brand": "ALIMABALOXAVIR",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "盐酸特泊替尼片",
+    "brand": "ALITEPOTNIB",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "维莫非尼片",
+    "brand": "ALIVEMURA",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "盐酸阿思尼布片",
+    "brand": "ALIASSIMINI",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "甲磺酸达拉非尼胶囊",
+    "brand": "ALIDABRAFENIB",
+    "category": "黑色素瘤",
+    "covered": false
+  },
+  {
+    "name": "普托马尼片",
+    "brand": "PRETOSIS",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "阿那格雷",
+    "brand": "LuciAnagre",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "阿伐替尼片",
+    "brand": "LuciAvap",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "尼达尼布",
+    "brand": "LuciNinted",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "非奈利酮片",
+    "brand": "LuciFine",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "依维莫司片",
+    "brand": "LUCIEVER",
+    "category": "肾癌",
+    "covered": false
+  },
+  {
+    "name": "马昔腾坦片",
+    "brand": "LuciMaci",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "舒尼替尼胶囊",
+    "brand": "LuciSuni",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "波生坦片",
+    "brand": "LuciBose",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "厄洛替尼",
+    "brand": "LuciErlo",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "达可替尼片",
+    "brand": "LuciDac",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "培唑帕尼片",
+    "brand": "LuciPazo",
+    "category": "肾癌",
+    "covered": false
+  },
+  {
+    "name": "吡非尼酮",
+    "brand": "LuciPirfe",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "甲苯磺酸索拉非尼片",
+    "brand": "LuciSora",
+    "category": "肝癌",
+    "covered": false
+  },
+  {
+    "name": "琥珀酸瑞波西利片",
+    "brand": "LuciRibo",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "达沙替尼片",
+    "brand": "LuciDasa",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "司替戊醇",
+    "brand": "LuciStir ",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "玛伐凯泰胶囊",
+    "brand": "LuciMava",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "来那帕韦钠片",
+    "brand": "LuciLenacap",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "盐酸替那帕诺片",
+    "brand": "LuciTena",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "莫博赛替尼",
+    "brand": "LuciMob",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "奈拉替尼片",
+    "brand": "LuciNera",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "阿法替尼",
+    "brand": "LuciAfa",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "贝组替凡片",
+    "brand": "LuciBelzu",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "比克恩丙诺片",
+    "brand": "LUCIBET",
+    "category": "抗病毒",
+    "covered": false
+  },
+  {
+    "name": "安立生坦片",
+    "brand": "LuciAmb",
+    "category": "综合药品",
+    "covered": false
+  },
+  {
+    "name": "兰泽替尼片",
+    "brand": "LuciLazer",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "劳拉替尼",
+    "brand": "Novo Nordisk诺和诺德",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "阿帕他胺片",
+    "brand": "Ajanta Pharma Limited",
+    "category": "前列腺癌",
+    "covered": false
+  },
+  {
+    "name": "吉瑞替尼片",
+    "brand": "MYLAN",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "宗艾替尼片",
+    "brand": "Natco",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "君必强 | 黑喷喷雾 男科",
+    "brand": "TORRENT",
+    "category": "男科",
+    "covered": false
+  },
+  {
+    "name": "司美格鲁肽片(口服) 诺和忻 Rybelsus 索马鲁肽",
+    "brand": "ALKEM",
+    "category": "保健品",
+    "covered": false
+  },
+  {
+    "name": "索磷布韦维帕他韦片 丙通沙 吉三代 MyhepAll",
+    "brand": "ZYDUS",
+    "category": "丙肝",
+    "covered": false
+  },
+  {
+    "name": "仑伐替尼胶囊 GLENVAS 多靶点抗肿瘤",
+    "brand": "Paneca",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "【甜甜圈】西地那非单效咀嚼片",
+    "brand": "Intas",
+    "category": "男科",
+    "covered": false
+  },
+  {
+    "name": "【卡玛格果冻】西地那非单效果冻",
+    "brand": "CIPLA",
+    "category": "男科",
+    "covered": false
+  },
+  {
+    "name": "【卡玛格菱形】西地那非&达泊西汀双效片",
+    "brand": "Natco",
+    "category": "男科",
+    "covered": true
+  },
+  {
+    "name": "伐地那非片 Valif",
+    "brand": "MYLAN",
+    "category": "男科",
+    "covered": false
+  },
+  {
+    "name": "口服用苯丁酸甘油酯",
+    "brand": "Medicamen",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "盐酸托莫西汀片 Axepta",
+    "brand": "Natco",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "奥贝胆酸片 Eticholic",
+    "brand": "Lupin",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "奥贝胆酸片 OCANAT",
+    "brand": "Glenmark",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "奥贝胆酸片 Ocabile",
+    "brand": "SUN",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "奥贝胆酸片 Obetohep",
+    "brand": "Cadila",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "缬更昔洛韦片 VIROFIL",
+    "brand": "Glenmark",
+    "category": "抗病毒",
+    "covered": false
+  },
+  {
+    "name": "缬更昔洛韦片 VAGACYTE",
+    "brand": "ALEMBIC",
+    "category": "抗病毒",
+    "covered": false
+  },
+  {
+    "name": "缬更昔洛韦片 VALGACEL",
+    "brand": "SUN",
+    "category": "抗病毒",
+    "covered": false
+  },
+  {
+    "name": "缬更昔洛韦片 Valgan",
+    "brand": "CIPLA",
+    "category": "抗病毒",
+    "covered": false
+  },
+  {
+    "name": "富马酸丙酚替诺福韦片 Tafnat",
+    "brand": "ZYDUS",
+    "category": "乙肝",
+    "covered": false
+  },
+  {
+    "name": "富马酸丙酚替诺福韦片 HepBest",
+    "brand": "Glenmark",
+    "category": "乙肝",
+    "covered": false
+  },
+  {
+    "name": "艾曲泊帕乙醇胺片 ELTROPAG",
+    "brand": "SUN",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "达比加群酯胶囊 Dabigat",
+    "brand": "Taj Pharma",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "甲磺酸达比加群酯胶囊 Dabistar",
+    "brand": "Natco",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "博舒替尼片 Bosuvi",
+    "brand": "Intas",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "博舒替尼片 BONITAR",
+    "brand": "TORRENT",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "依普利酮片 EPLECARD",
+    "brand": "Intas",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "依普利酮片 EPTUS",
+    "brand": "Natco",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "依普利酮片 EXENTA",
+    "brand": "Glenmark",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "非布司他片",
+    "brand": "Intas",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "吡非尼酮片 Pirfenex",
+    "brand": "Natco",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "尼达尼布胶囊 NINDEV",
+    "brand": "CIPLA",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "尼达尼布胶囊 Nindanib",
+    "brand": "SUN",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "地拉罗司口服混悬片 DEFRIJET",
+    "brand": "Glenmark",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "地拉罗司分散片 DEFRATAJ",
+    "brand": "MANKIND",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "瑞戈非尼片 Regonat",
+    "brand": "CIPLA",
+    "category": "肝癌",
+    "covered": false
+  },
+  {
+    "name": "曲氟尿苷替匹嘧啶片 COMTRIPSY",
+    "brand": "Natco",
+    "category": "结直肠癌",
+    "covered": false
+  },
+  {
+    "name": "沙芬酰胺片 ZAFIMOVE",
+    "brand": "Emcure",
+    "category": "帕金森",
+    "covered": false
+  },
+  {
+    "name": "雷沙吉兰片 RELGIN",
+    "brand": "Hetero",
+    "category": "帕金森",
+    "covered": false
+  },
+  {
+    "name": "帕唑帕尼片 Pazonat",
+    "brand": "孟加拉珠峰药业",
+    "category": "肾癌",
+    "covered": false
+  },
+  {
+    "name": "舒尼替尼胶囊 SUTIB",
+    "brand": "孟加拉珠峰药业",
+    "category": "肾癌",
+    "covered": false
+  },
+  {
+    "name": "伊马替尼片 IMANIB",
+    "brand": "孟加拉珠峰药业",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "达沙替尼片 Dasanat",
+    "brand": "孟加拉珠峰药业",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "比卡鲁胺片 Calutide",
+    "brand": "孟加拉珠峰药业",
+    "category": "前列腺癌",
+    "covered": false
+  },
+  {
+    "name": "恩杂鲁胺胶囊 ENZYL",
+    "brand": "孟加拉珠峰药业",
+    "category": "前列腺癌",
+    "covered": false
+  },
+  {
+    "name": "醋酸阿比特龙片 ABIRAPRO",
+    "brand": "孟加拉珠峰药业",
+    "category": "前列腺癌",
+    "covered": false
+  },
+  {
+    "name": "巴瑞替尼片 BARIKIND",
+    "brand": "孟加拉珠峰药业",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "托法替尼片 TOFAJAK",
+    "brand": "孟加拉珠峰药业",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "伏立康唑片 Vorizol",
+    "brand": "老挝大熊制药",
+    "category": "抗真菌",
+    "covered": false
+  },
+  {
+    "name": "多替阿巴拉米片 INBEC",
+    "brand": "老挝大熊制药",
+    "category": "抗病毒",
+    "covered": false
+  },
+  {
+    "name": "必妥维 TAFFIC",
+    "brand": "老挝大熊制药",
+    "category": "抗病毒",
+    "covered": false
+  },
+  {
+    "name": "奥希替尼/泰瑞沙",
+    "brand": "老挝大熊制药",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "卡博替尼20",
+    "brand": "老挝大熊制药",
+    "category": "肾癌",
+    "covered": false
+  },
+  {
+    "name": "奥拉帕利/奥拉帕尼150",
+    "brand": "老挝大熊制药",
+    "category": "卵巢癌",
+    "covered": false
+  },
+  {
+    "name": "维奈克拉/维奈托克10",
+    "brand": "Novo Nordisk",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "仑伐替尼/乐伐替尼10",
+    "brand": "老挝大熊制药",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "洛拉替尼/劳拉替尼",
+    "brand": "老挝大熊制药",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "卡马替尼",
+    "brand": "老挝大熊制药",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "普纳替尼片 Ponaxen",
+    "brand": "老挝大熊制药",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "吉瑞替尼Gilteritinib",
+    "brand": "Vosevi",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "司美替尼10mg",
+    "brand": "Ledipasvir",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "司美替尼25mg",
+    "brand": "Sovaldi",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "拉罗替尼25mg",
+    "brand": "韦立得/Vemlidy",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "拉罗替尼100mg",
+    "brand": "Herombopag",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "索托拉西布",
+    "brand": "Fostamatinib",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "阿那莫林",
+    "brand": "ADAMTS13",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "司美格鲁肽片",
+    "brand": "Zafatek",
+    "category": "保健品",
+    "covered": false
+  },
+  {
+    "name": "来那度胺/雷利度胺",
+    "brand": "Dasiglucagon",
+    "category": "白血病",
+    "covered": true
+  },
+  {
+    "name": "仑伐替尼4mg",
+    "brand": "Mounjaro",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "仑伐替尼10mg",
+    "brand": "奥格列汀",
+    "category": "肺癌",
+    "covered": true
+  },
+  {
+    "name": "巴瑞替尼2mg",
+    "brand": "喜达诺/Stelara",
+    "category": "其他",
+    "covered": false
+  },
+  {
+    "name": "吉四代",
+    "brand": "Skyrizi",
+    "category": "丙肝",
+    "covered": false
+  },
+  {
+    "name": "吉二代",
+    "brand": "Otezla",
+    "category": "丙肝",
+    "covered": false
+  },
+  {
+    "name": "索菲布韦",
+    "brand": "司库奇尤单抗/可善挺",
+    "category": "丙肝",
+    "covered": false
+  },
+  {
+    "name": "替诺福韦TAF",
+    "brand": "Opzelura",
+    "category": "乙肝",
+    "covered": false
+  },
+  {
+    "name": "海曲泊帕",
+    "brand": "Bimzelx",
+    "category": "血小板减少症",
+    "covered": false
+  },
+  {
+    "name": "福他替尼",
+    "brand": "塔皮纳罗夫",
+    "category": "血小板减少症",
+    "covered": false
+  },
+  {
+    "name": "ADAMTS13重组蛋白酶",
+    "brand": "利生奇珠单抗",
+    "category": "血小板减少症",
+    "covered": false
+  },
+  {
+    "name": "曲格列汀",
+    "brand": "罗氟司特",
+    "category": "糖尿病",
+    "covered": false
+  },
+  {
+    "name": "达西格列酮",
+    "brand": "Jyseleca",
+    "category": "糖尿病",
+    "covered": false
+  },
+  {
+    "name": "替西帕肽",
+    "brand": "奥扎莫德",
+    "category": "糖尿病",
+    "covered": false
+  },
+  {
+    "name": "奥格列汀",
+    "brand": "喜达诺",
+    "category": "糖尿病",
+    "covered": false
+  },
+  {
+    "name": "乌司奴单抗",
+    "brand": "修美乐/Humira",
+    "category": "银屑病",
+    "covered": false
+  },
+  {
+    "name": "瑞莎珠单抗",
+    "brand": "米利珠单抗",
+    "category": "银屑病",
+    "covered": false
+  },
+  {
+    "name": "阿普斯特",
+    "brand": "伊曲莫德",
+    "category": "银屑病",
+    "covered": false
+  },
+  {
+    "name": "苏金单抗",
+    "brand": "Jyseleca",
+    "category": "银屑病",
+    "covered": false
+  },
+  {
+    "name": "鲁索替尼乳膏",
+    "brand": "曲罗芦单抗",
+    "category": "银屑病",
+    "covered": false
+  },
+  {
+    "name": "比美吉珠单抗",
+    "brand": "瑞米布替尼",
+    "category": "银屑病",
+    "covered": false
+  },
+  {
+    "name": "塔皮纳罗夫",
+    "brand": "Opzelura",
+    "category": "银屑病",
+    "covered": false
+  },
+  {
+    "name": "利生奇珠单抗",
+    "brand": "德戈替尼",
+    "category": "银屑病",
+    "covered": false
+  },
+  {
+    "name": "罗氟司特乳膏",
+    "brand": "Opzelura",
+    "category": "银屑病",
+    "covered": false
+  },
+  {
+    "name": "非戈替尼",
+    "brand": "DS8201",
+    "category": "类风湿性关节炎",
+    "covered": false
+  },
+  {
+    "name": "奥扎莫德",
+    "brand": "Rybrevant",
+    "category": "溃疡性结肠炎",
+    "covered": false
+  },
+  {
+    "name": "阿达木单抗",
+    "brand": "Cyramza",
+    "category": "溃疡性结肠炎",
+    "covered": false
+  },
+  {
+    "name": "米利珠单抗",
+    "brand": "Tecentriq",
+    "category": "溃疡性结肠炎",
+    "covered": false
+  },
+  {
+    "name": "伊曲莫德",
+    "brand": "Avastin",
+    "category": "溃疡性结肠炎",
+    "covered": false
+  },
+  {
+    "name": "曲罗芦单抗",
+    "brand": "Keytruda/可瑞达",
+    "category": "风湿免疫",
+    "covered": false
+  },
+  {
+    "name": "瑞米布替尼",
+    "brand": "Portrazza",
+    "category": "风湿免疫",
+    "covered": false
+  },
+  {
+    "name": "迪高替尼乳膏",
+    "brand": "泽妥珠单抗",
+    "category": "湿疹",
+    "covered": false
+  },
+  {
+    "name": "Enhertu",
+    "brand": "Imdelltra",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "埃万妥单抗",
+    "brand": "舒沃替尼",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "度伐利尤单抗",
+    "brand": "Keytruda",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "雷莫芦单抗",
+    "brand": "Defitelio",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "阿特珠单抗",
+    "brand": "Opdivo",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "贝伐珠单抗",
+    "brand": "Tecentriq",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "纳武利尤单抗",
+    "brand": "Fotivda",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "帕博利珠单抗",
+    "brand": "Yervoy",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "耐昔妥珠单抗",
+    "brand": "Interleukin-11",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "阿达格拉西布",
+    "brand": "Avastin",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "泽妥珠单抗",
+    "brand": "Torisel",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "芦比替定",
+    "brand": "Filspari",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "塔拉妥单抗",
+    "brand": "DS8201",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "舒沃替尼",
+    "brand": "Keytruda",
+    "category": "肺癌",
+    "covered": false
+  },
+  {
+    "name": "去纤苷",
+    "brand": "Herceptin",
+    "category": "肝癌",
+    "covered": false
+  },
+  {
+    "name": "阿替利珠单抗",
+    "brand": "Besponsa",
+    "category": "肝癌",
+    "covered": false
+  },
+  {
+    "name": "替沃扎尼",
+    "brand": "Arzerra",
+    "category": "肾癌",
+    "covered": false
+  },
+  {
+    "name": "伊匹单抗",
+    "brand": "Rydapt",
+    "category": "肾癌",
+    "covered": false
+  },
+  {
+    "name": "重组人白介素-11",
+    "brand": "Lemtrada",
+    "category": "肾癌",
+    "covered": false
+  },
+  {
+    "name": "坦罗莫司",
+    "brand": "Idhifa",
+    "category": "肾癌",
+    "covered": false
+  },
+  {
+    "name": "斯帕森坦",
+    "brand": "Daurismo",
+    "category": "肾癌",
+    "covered": false
+  },
+  {
+    "name": "曲妥珠单抗",
+    "brand": "Rituxan",
+    "category": "胃癌",
+    "covered": false
+  },
+  {
+    "name": "佐妥昔单抗",
+    "brand": "Tasigna",
+    "category": "胃癌",
+    "covered": false
+  },
+  {
+    "name": "奥英妥珠单抗",
+    "brand": "Zydelig",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "奥法木单抗",
+    "brand": "Vidaza",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "米哚妥林",
+    "brand": "Rezlidhia",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "阿仑单抗",
+    "brand": "Vanflyta",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "博纳吐单抗",
+    "brand": "Onureg",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "恩西地平",
+    "brand": "瑞维美尼",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "格拉吉布",
+    "brand": "Mylotarg",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "Calaspargase pegol",
+    "brand": "Zydelig",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "罗米司亭",
+    "brand": "Adcetris",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "奥滨尤妥珠单抗",
+    "brand": "Yescarta",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "利妥昔单抗",
+    "brand": "Keytruda",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "尼罗替尼",
+    "brand": "Velcade",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "艾代拉里斯",
+    "brand": "Truxima",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "阿扎胞苷",
+    "brand": "Libtayo",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "奥鲁他尼布",
+    "brand": "Polivy",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "奎扎替尼",
+    "brand": "Remitoro",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "阿扎胞苷片",
+    "brand": "Zevalin",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "瑞维美尼",
+    "brand": "Bexxar",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "吉妥单抗",
+    "brand": "Istodax",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "艾代拉利司",
+    "brand": "Zolinza",
+    "category": "白血病",
+    "covered": false
+  },
+  {
+    "name": "维布妥昔单抗",
+    "brand": "Aliqopa",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "阿基仑赛",
+    "brand": "Zydelig",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "硼替佐米",
+    "brand": "Gazyva",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "西米普利单抗",
+    "brand": "Treanda",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "泊洛妥珠单抗",
+    "brand": "Rituxan",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "地尼白介素",
+    "brand": "Beleodaq",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "替伊莫单抗",
+    "brand": "Zynlonta",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "托西莫单抗",
+    "brand": "Ceenu",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "罗米司辛",
+    "brand": "Epkinly",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "伏立诺他",
+    "brand": "Monjuvi",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "库潘尼西",
+    "brand": "Avastin",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "艾代拉里司",
+    "brand": "Alkeran",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "本妥昔单抗",
+    "brand": "Halaven",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "苯达莫司汀",
+    "brand": "Piqray",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "贝利司他",
+    "brand": "Tukysa",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "朗妥昔单抗",
+    "brand": "Padcev",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "洛莫司汀",
+    "brand": "Kisqali",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "艾可瑞妥单抗",
+    "brand": "Femara",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "坦昔妥单抗",
+    "brand": "Herzuma",
+    "category": "淋巴瘤",
+    "covered": false
+  },
+  {
+    "name": "马法兰",
+    "brand": "Perjeta",
+    "category": "卵巢癌",
+    "covered": false
+  },
+  {
+    "name": "卢卡帕利",
+    "brand": "Herceptin",
+    "category": "卵巢癌",
+    "covered": false
+  },
+  {
+    "name": "索米妥昔单抗",
+    "brand": "Faslodex",
+    "category": "卵巢癌",
+    "covered": false
+  },
+  {
+    "name": "艾立布林",
+    "brand": "Trodelvy",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "阿培利司",
+    "brand": "Kadcyla",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "图卡替尼",
+    "brand": "Talzenna",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "恩诺单抗",
+    "brand": "Margenza",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "瑞博西尼",
+    "brand": "Itovebi",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "来曲唑",
+    "brand": "Orserdu",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "Herzuma",
+    "brand": "Zaltrap",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "拉帕替尼",
+    "brand": "Opdivo",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "帕妥珠单抗",
+    "brand": "Yervoy",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "氟维司群",
+    "brand": "Cyramza",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "戈沙妥珠单抗",
+    "brand": "Vectibix",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "恩美曲妥珠单抗",
+    "brand": "Erbitux",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "德达博妥单抗",
+    "brand": "Lonsurf",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "他拉唑帕利",
+    "brand": "Keytruda",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "马吉妥昔单抗",
+    "brand": "Avastin",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "伊那利塞",
+    "brand": "Jemperli",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "艾拉司群",
+    "brand": "拓益",
+    "category": "乳腺癌",
+    "covered": false
+  },
+  {
+    "name": "阿柏西普",
+    "brand": "Mektovi",
+    "category": "结直肠癌",
+    "covered": false
+  },
+  {
+    "name": "雷莫卢单抗",
+    "brand": "Opdivo",
+    "category": "结直肠癌",
+    "covered": false
+  },
+  {
+    "name": "帕尼单抗",
+    "brand": "Keytruda",
+    "category": "结直肠癌",
+    "covered": false
+  },
+  {
+    "name": "西妥昔单抗",
+    "brand": "Caprelsa",
+    "category": "结直肠癌",
+    "covered": false
+  },
+  {
+    "name": "朗斯弗",
+    "brand": "Orgovyx",
+    "category": "结直肠癌",
+    "covered": false
+  },
+  {
+    "name": "多塔利单抗",
+    "brand": "Abecma",
+    "category": "宫颈癌",
+    "covered": false
+  },
+  {
+    "name": "特瑞普利单抗",
+    "brand": "Farydak",
+    "category": "黑色素瘤",
+    "covered": false
+  },
+  {
+    "name": "贝美替尼",
+    "brand": "Alkeran",
+    "category": "黑色素瘤",
+    "covered": false
+  },
+  {
+    "name": "考比替尼",
+    "brand": "Zometa",
+    "category": "黑色素瘤",
+    "covered": false
+  },
+  {
+    "name": "重组人白介素-2",
+    "brand": "Velcade",
+    "category": "黑色素瘤",
+    "covered": false
+  },
+  {
+    "name": "易普利姆玛",
+    "brand": "Empliciti",
+    "category": "黑色素瘤",
+    "covered": false
+  },
+  {
+    "name": "纳武单抗",
+    "brand": "Kyprolis",
+    "category": "黑色素瘤",
+    "covered": false
+  },
+  {
+    "name": "凡德他尼",
+    "brand": "Xgeva",
+    "category": "甲状腺癌",
+    "covered": false
+  },
+  {
+    "name": "瑞格列克",
+    "brand": "Sarclisa",
+    "category": "前列腺癌",
+    "covered": false
+  },
+  {
+    "name": "达罗他胺",
+    "brand": "Blenrep",
+    "category": "前列腺癌",
+    "covered": false
+  },
+  {
+    "name": "Abecma",
+    "brand": "Talvey",
+    "category": "多发性骨髓瘤",
+    "covered": false
+  },
+  {
+    "name": "帕比司他",
+    "brand": "依洛珠单抗",
+    "category": "多发性骨髓瘤",
+    "covered": false
+  },
+  {
+    "name": "唑来膦酸",
+    "brand": "达必妥",
+    "category": "多发性骨髓瘤",
+    "covered": false
+  },
+  {
+    "name": "埃罗妥珠单抗",
+    "brand": "氨乙烯酸",
+    "category": "多发性骨髓瘤",
+    "covered": false
+  },
+  {
+    "name": "卡非佐米",
+    "brand": "Lagevrio",
+    "category": "多发性骨髓瘤",
+    "covered": false
+  },
+  {
+    "name": "达雷木单抗",
+    "brand": "Paxlovid",
+    "category": "多发性骨髓瘤",
+    "covered": false
+  },
+  {
+    "name": "地诺单抗",
+    "brand": "Inrebic",
+    "category": "多发性骨髓瘤",
+    "covered": false
+  },
+  {
+    "name": "伊沙妥昔单抗",
+    "brand": "Hyftor",
+    "category": "多发性骨髓瘤",
+    "covered": false
+  },
+  {
+    "name": "贝兰妥单抗",
+    "brand": "Enspryng",
+    "category": "多发性骨髓瘤",
+    "covered": false
+  },
+  {
+    "name": "特立妥单抗",
+    "brand": "Cabergoline",
+    "category": "多发性骨髓瘤",
+    "covered": false
+  },
+  {
+    "name": "塔奎妥单抗",
+    "brand": "Deltyba",
+    "category": "多发性骨髓瘤",
+    "covered": false
+  },
+  {
+    "name": "依洛珠单抗",
+    "brand": "甲钴胺",
+    "category": "多发性骨髓瘤",
+    "covered": false
+  },
+  {
+    "name": "万赛维",
+    "brand": "特立帕肽",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "度普利尤单抗",
+    "brand": "Rezdiffra",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "那他霉素滴眼液",
+    "brand": "Wakix",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "喜保宁",
+    "brand": "Voxzogo",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "莫努匹韦",
+    "brand": "Verquvo",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "Paxlovid",
+    "brand": "安福达",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "菲达替尼",
+    "brand": "Valtoco",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "西罗莫司外用凝胶",
+    "brand": "右旋安非他明",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "萨特利珠单抗",
+    "brand": "Adcirca",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "卡麦角林",
+    "brand": "Rozlytk",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "德拉马尼",
+    "brand": "Eladocagene",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "甲钴胺",
+    "brand": "Evkeeza",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "特立帕肽",
+    "brand": "Ongentys",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "瑞司美替罗",
+    "brand": "Quviviq",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "替洛利生",
+    "brand": "Ojjaara",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "伏索利肽",
+    "brand": "Jesduvroq",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "维立西呱",
+    "brand": "Krystexxa",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "度他雄胺",
+    "brand": "Gemtesa",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "地西泮口腔膜剂",
+    "brand": "Winrevair",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "右旋安非他明透皮贴",
+    "brand": "Vadadustat",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "多奈哌齐透皮贴",
+    "brand": "氯法齐明",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "基因疗法",
+    "brand": "兰地洛尔",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "艾乐多卡基因疗法",
+    "brand": "Avanst",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "依维苏单抗",
+    "brand": "Dayvigo",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "奥匹卡朋",
+    "brand": "Inbrija",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "达利雷生",
+    "brand": "Recorlev",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "莫洛替尼",
+    "brand": "阿库米地思",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "达普司他",
+    "brand": "Niktimvo",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "普瑞凯希",
+    "brand": "阿瑞洛莫",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "维贝格龙",
+    "brand": "Saphnelo",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "布伦索替布",
+    "brand": "Vyvgart",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "伐度司他",
+    "brand": "Tavneos",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "氯法齐明",
+    "brand": "Sirturo",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "兰地洛尔",
+    "brand": "Syprine",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "左乙酰亮氨酸",
+    "brand": "Lytgobi",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "莱博雷生",
+    "brand": "Dificid",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "左旋多巴吸入粉雾剂",
+    "brand": "Cerdelga",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "左旋酮康唑",
+    "brand": "伊维菌素",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "阿库米地思",
+    "brand": "芬妥司兰",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "阿扎替利单抗",
+    "brand": "Cerezyme",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "阿瑞洛莫",
+    "brand": "环丝氨酸",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "阿尼鲁单抗",
+    "brand": "利奈唑胺",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "艾加莫德",
+    "brand": "Leqvio",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "阿伐可泮",
+    "brand": "免疫球蛋白",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "贝达喹啉",
+    "brand": "恩曲他滨",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "曲恩汀",
+    "brand": "恩塞芬汀",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "伏昔尼布",
+    "brand": "异维A酸",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "非达霉素",
+    "brand": "司来吉兰",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "依鲁司他",
+    "brand": "胍法辛",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "伊维菌素",
+    "brand": "阿考替胺",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "芬妥司兰钠",
+    "brand": "地夫可特",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "伊米苷酶",
+    "brand": "那米司特",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "环丝氨酸",
+    "brand": "埃拉菲布拉诺",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "利奈唑胺",
+    "brand": "拉米夫定",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "英克司兰",
+    "brand": "雷米普利",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "人免疫球蛋白",
+    "brand": "Skyclarys",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "恩曲他滨丙酚替诺福韦",
+    "brand": "Eikance",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "恩塞芬汀",
+    "brand": "康赛珠单抗",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "异维A酸",
+    "brand": "Unloxcyt",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "司来吉兰",
+    "brand": "克瑞司氟特",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "胍法辛",
+    "brand": "卡比多巴",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "阿考替胺",
+    "brand": "可伐利单抗",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "地夫可特",
+    "brand": "卡西默森",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "那米司特",
+    "brand": "卡替拉韦",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "埃拉菲布拉诺",
+    "brand": "卡博特韦",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "拉米夫定多替拉韦",
+    "brand": "头孢吡普",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "雷米普利",
+    "brand": "Cotellic",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "奥马索龙",
+    "brand": "三联复方",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "硫酸阿托品滴眼液",
+    "brand": "维洛沙嗪",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "康赛珠单抗",
+    "brand": "索特西普",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "科西贝利单抗",
+    "brand": "Pyrukynd",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "克瑞司氟特",
+    "brand": "佩格塔克",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "卡比多巴左旋多巴",
+    "brand": "Livmarli",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "可伐利单抗",
+    "brand": "恩他卡朋",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "卡西默森",
+    "brand": "Eohilia",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "卡替拉韦",
+    "brand": "司拉德帕",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "卡博特韦利匹韦林",
+    "brand": "Ponvory",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "头孢吡普",
+    "brand": "阿考曲蒙",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "三联复方",
+    "brand": "Vaniqa",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "维洛沙嗪",
+    "brand": "墨蝶呤",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "索特西普",
+    "brand": "贝凡洛尔",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "米他匹伐",
+    "brand": "Leqembi",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "佩格塔克",
+    "brand": "Vyondys 53",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "马立巴韦",
+    "brand": "拉布立海",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "恩他卡朋",
+    "brand": "Fasenra",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "布地奈德口服混悬液",
+    "brand": "马塔西单抗",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "司拉德帕",
+    "brand": "罗佩金",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "波尼莫德",
+    "brand": "普乐司兰",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "阿考曲蒙",
+    "brand": "Orladeyo",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "索吡溴铵",
+    "brand": "Palopegteriparatide",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "依氟鸟氨酸乳膏",
+    "brand": "Xcopri",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "墨蝶呤",
+    "brand": "乙酰克利定",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "贝凡洛尔",
+    "brand": "",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "仑卡奈单抗",
+    "brand": "",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "戈洛迪森",
+    "brand": "",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "拉布立海",
+    "brand": "",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "本瑞利珠单抗",
+    "brand": "",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "马塔西单抗",
+    "brand": "",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "罗佩金干扰素",
+    "brand": "",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "普乐司兰钠",
+    "brand": "",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "贝罗司他",
+    "brand": "",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "帕罗培特立帕肽",
+    "brand": "",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "西诺氨酯",
+    "brand": "",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "乙酰克利定",
+    "brand": "",
+    "category": "其他疾病",
+    "covered": false
+  },
+  {
+    "name": "蓝培医疗",
+    "brand": "",
+    "category": "药品分类",
+    "covered": false
+  },
+  {
+    "name": "姓名",
+    "brand": "",
+    "category": "Products",
+    "covered": false
+  },
+  {
+    "name": "产品名称",
+    "brand": "",
+    "category": "Каталог",
+    "covered": false
+  },
+  {
+    "name": "Name",
+    "brand": "",
+    "category": "Katalog",
+    "covered": false
+  },
+  {
+    "name": "Product Name",
+    "brand": "",
+    "category": "စာရင်း",
+    "covered": false
+  },
+  {
+    "name": "Имя",
+    "brand": "",
+    "category": "",
+    "covered": false
+  },
+  {
+    "name": "Название",
+    "brand": "",
+    "category": "",
+    "covered": false
+  },
+  {
+    "name": "Tên",
+    "brand": "",
+    "category": "",
+    "covered": false
+  },
+  {
+    "name": "Tên sản phẩm",
+    "brand": "",
+    "category": "",
+    "covered": false
+  },
+  {
+    "name": "Nama",
+    "brand": "",
+    "category": "",
+    "covered": false
+  },
+  {
+    "name": "Nama Produk",
+    "brand": "",
+    "category": "",
+    "covered": false
+  },
+  {
+    "name": "নাম",
+    "brand": "",
+    "category": "",
+    "covered": false
+  }
+]
