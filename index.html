@@ -474,15 +474,7 @@ var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); 
         </div>
     </footer>
 
-    <!-- Floating Buttons - 微信和WhatsApp保留，咨询按钮由Coze AI客服替代 -->
-    <div class="fixed bottom-6 right-24 flex flex-col gap-4 z-50">
-        <a href="javascript:void(0)" onclick="showWechat()" class="w-14 h-14 rounded-full bg-green-500 text-white flex items-center justify-center text-2xl shadow-lg hover:bg-green-600 float-btn">
-            <i class="fab fa-weixin"></i>
-        </a>
-        <a href="https://wa.me/639685838435" target="_blank" class="w-14 h-14 rounded-full bg-green-600 text-white flex items-center justify-center text-2xl shadow-lg hover:bg-green-700 float-btn">
-            <i class="fab fa-whatsapp"></i>
-        </a>
-    </div>
+    <!-- 微信/WhatsApp浮窗按钮已整合到AI聊天框底部 -->
 
     <!-- Wechat Modal -->
     <div id="wechatModal" class="fixed inset-0 modal-overlay z-50 hidden flex items-center justify-center">
@@ -11190,41 +11182,57 @@ function closeProductDetail() {
     </script>
 
 
-<!-- Coze AI 客服聊天窗口 -->
-<script src="https://lf-cdn.coze.cn/obj/unpkg/flow-platform/chat-app-sdk/1.2.0-beta.17/libs/cn/index.js"></script>
-<script>
-new CozeWebSDK.WebChatClient({
-  config: {
-    bot_id: '7647038998238167066',
-  },
-  auth: {
-    type: 'token',
-    token: 'pat_4Bh5o9N7B1Y7geM2pApKR0OhWmRwnHo4XDb79btDAcL7qPYJtexJBVe89V0OyzXc',
-    onRefreshToken: async () => 'pat_4Bh5o9N7B1Y7geM2pApKR0OhWmRwnHo4XDb79btDAcL7qPYJtexJBVe89V0OyzXc',
-  },
-  userInfo: {
-    id: 'user',
-    nickname: '访客',
-  },
-  ui: {
-    base: {
-      lang: 'zh-CN',
-      zIndex: 9999,
-    },
-    asstBtn: {
-      isNeed: true,
-    },
-    chatBot: {
-      title: '蓝培医疗AI咨询',
-      uploadable: false,
-      width: 400,
-    },
-    footer: {
-      isShow: true,
-      expressionText: '蓝培医疗 · 全球优质医疗资源咨询',
-    },
-  },
-});
-</script>
+<!-- Coze AI 客服 - 右下角常驻聊天框 -->
+    <style>
+        #coze-chat-wrapper{position:fixed;right:20px;bottom:20px;z-index:9999;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+        #coze-chat-box{width:370px;height:520px;border-radius:16px;overflow:hidden;box-shadow:0 8px 32px rgba(0,0,0,.18);background:#fff;transition:all .3s ease;position:relative}
+        #coze-chat-inner{width:100%;height:100%}
+        .chat-prompt{position:absolute;top:-38px;right:0;background:linear-gradient(135deg,#1e3a5f,#2d5f8b);color:#fff;padding:7px 16px;border-radius:20px;font-size:13px;white-space:nowrap;box-shadow:0 2px 8px rgba(0,0,0,.15);animation:promptPulse 2s ease-in-out infinite;pointer-events:none}
+        .chat-prompt::after{content:'';position:absolute;bottom:-6px;right:24px;border-left:6px solid transparent;border-right:6px solid transparent;border-top:6px solid #2d5f8b}
+        @keyframes promptPulse{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+        #coze-chat-min-btn{position:absolute;top:10px;right:10px;width:28px;height:28px;border-radius:50%;background:rgba(0,0,0,.08);cursor:pointer;display:flex;align-items:center;justify-content:center;z-index:10;transition:background .2s}
+        #coze-chat-min-btn:hover{background:rgba(0,0,0,.15)}
+        #coze-chat-fab{display:none;position:fixed;right:20px;bottom:20px;width:60px;height:60px;border-radius:50%;background:linear-gradient(135deg,#1e3a5f,#f97316);cursor:pointer;box-shadow:0 4px 16px rgba(30,58,95,.4);z-index:9999;align-items:center;justify-content:center;font-size:26px;transition:transform .2s}
+        #coze-chat-fab:hover{transform:scale(1.1)}
+        #coze-chat-fab .fab-badge{position:absolute;top:-4px;right:-4px;background:#f97316;color:#fff;font-size:10px;padding:2px 6px;border-radius:10px}
+        @media(max-width:480px){#coze-chat-box{width:calc(100vw - 24px);height:65vh}}
+    </style>
+    <div id="coze-chat-wrapper">
+        <div class="chat-prompt">😊 有问题？点击咨询蓝培医疗</div>
+        <div id="coze-chat-box">
+            <div id="coze-chat-min-btn" title="最小化">−</div>
+            <div id="coze-chat-inner"></div>
+        </div>
+    </div>
+    <div id="coze-chat-fab">💬<span class="fab-badge">咨询</span></div>
+    <script src="https://lf-cdn.coze.cn/obj/unpkg/flow-platform/chat-app-sdk/1.2.0-beta.17/libs/cn/index.js"></script>
+    <script>
+    (function(){
+        var chatEl=document.getElementById('coze-chat-inner');
+        var wrapper=document.getElementById('coze-chat-wrapper');
+        var fab=document.getElementById('coze-chat-fab');
+        var minBtn=document.getElementById('coze-chat-min-btn');
+        new CozeWebSDK.WebChatClient({
+            config:{bot_id:'7647038998238167066'},
+            auth:{type:'token',token:'pat_4Bh5o9N7B1Y7geM2pApKR0OhWmRwnHo4XDb79btDAcL7qPYJtexJBVe89V0OyzXc',onRefreshToken:async()=>'' + 'pat_4Bh5o9N7B1Y7geM2pApKR0OhWmRwnHo4XDb79btDAcL7qPYJtexJBVe89V0OyzXc'},
+            userInfo:{id:'user',nickname:'访客'},
+            ui:{
+                base:{lang:'zh-CN',zIndex:9999},
+                asstBtn:{isNeed:false},
+                chatBot:{title:'蓝培医疗AI咨询',uploadable:false,width:370,el:chatEl},
+                footer:{isShow:true,expressionText:'蓝培医疗 · 全球优质医疗资源咨询 | 微信:17844531559 WhatsApp:+639685838435'},
+            }
+        });
+        minBtn.addEventListener('click',function(e){
+            e.stopPropagation();
+            wrapper.style.display='none';
+            fab.style.display='flex';
+        });
+        fab.addEventListener('click',function(){
+            fab.style.display='none';
+            wrapper.style.display='block';
+        });
+    })();
+    </script>
 </body>
 </html>
