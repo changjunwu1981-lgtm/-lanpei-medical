@@ -474,17 +474,14 @@ var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); 
         </div>
     </footer>
 
-    <!-- Floating Buttons -->
-    <div class="fixed bottom-6 right-6 flex flex-col gap-4 z-50">
+    <!-- Floating Buttons - 微信和WhatsApp保留，咨询按钮由Coze AI客服替代 -->
+    <div class="fixed bottom-6 right-24 flex flex-col gap-4 z-50">
         <a href="javascript:void(0)" onclick="showWechat()" class="w-14 h-14 rounded-full bg-green-500 text-white flex items-center justify-center text-2xl shadow-lg hover:bg-green-600 float-btn">
             <i class="fab fa-weixin"></i>
         </a>
         <a href="https://wa.me/639685838435" target="_blank" class="w-14 h-14 rounded-full bg-green-600 text-white flex items-center justify-center text-2xl shadow-lg hover:bg-green-700 float-btn">
             <i class="fab fa-whatsapp"></i>
         </a>
-        <button onclick="showConsultModal()" class="w-14 h-14 rounded-full accent-gradient text-white flex items-center justify-center text-2xl shadow-lg hover:opacity-90 float-btn">
-            <i class="fas fa-comments"></i>
-        </button>
     </div>
 
     <!-- Wechat Modal -->
