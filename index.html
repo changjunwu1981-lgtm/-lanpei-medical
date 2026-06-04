@@ -11193,81 +11193,41 @@ function closeProductDetail() {
     </script>
 
 
-<!-- 在线咨询浮窗 -->
-<style>
-.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
-.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
-.chat-widget-btn i{color:#fff;font-size:24px}
-.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
-@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
-.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
-@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
-.chat-box.active{display:flex}
-.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
-.chat-header-left{display:flex;align-items:center;gap:10px}
-.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
-.chat-header-left span{font-size:15px;font-weight:600}
-.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
-.chat-body{padding:16px;flex:1}
-.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
-.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
-.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
-.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
-.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
-.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
-.chat-contact-item .label{font-weight:600;margin-top:4px}
-.chat-input-area{display:flex;gap:8px;margin-top:10px}
-.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
-.chat-input-area input:focus{border-color:#1e3a5f}
-.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
-.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
-.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
-</style>
-<div class="chat-widget-btn" onclick="toggleChat()">
-    <div class="pulse-ring"></div>
-    <i class="fas fa-headset"></i>
-</div>
-<div class="chat-box" id="chatBox">
-    <div class="chat-header">
-        <div class="chat-header-left">
-            <div class="logo">蓝培</div>
-            <span>蓝培医疗在线咨询</span>
-        </div>
-        <button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button>
-    </div>
-    <div class="chat-body">
-        <div class="chat-notice">
-            因咨询人数多，如未及时回复，请致电：<span class="phone-red">17844531559</span>，或扫码加微信沟通：
-        </div>
-        <div style="text-align:center;margin-bottom:14px">
-            <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px">
-            <p style="font-size:12px;color:#6b7280;margin-top:6px">微信扫一扫添加咨询</p>
-        </div>
-        <div class="chat-contact-row">
-            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none">
-                <i class="fas fa-phone-alt" style="color:#1e3a5f"></i>
-                <div class="label">电话咨询</div>
-            </a>
-            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none">
-                <i class="fab fa-whatsapp" style="color:#25d366"></i>
-                <div class="label">WhatsApp</div>
-            </a>
-            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none">
-                <i class="fab fa-weixin" style="color:#07c160"></i>
-                <div class="label" id="wechatLabel">加微信</div>
-            </a>
-        </div>
-        <div class="chat-input-area">
-            <input type="tel" id="chatPhone" placeholder="请输入手机号码">
-            <button onclick="requestCallback()">给您回电</button>
-        </div>
-    </div>
-    <div class="chat-footer">蓝培医疗 · 全球优质医疗资源咨询</div>
-</div>
+<!-- Coze AI 客服聊天窗口 -->
+<script src="https://lf-cdn.coze.cn/obj/unpkg/flow-platform/chat-app-sdk/0.1.0/libs/cn/index.js"></script>
 <script>
-function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
-function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent='已复制!';setTimeout(function(){l.textContent='加微信'},2000)}
-function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求：'+p+'，请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
+new CozeWebSDK.WebChatClient({
+  config: {
+    bot_id: '7647038998238167066',
+  },
+  auth: {
+    type: 'token',
+    token: 'pat_4Bh5o9N7B1Y7geM2pApKR0OhWmRwnHo4XDb79btDAcL7qPYJtexJBVe89V0OyzXc',
+    onRefreshToken: async () => 'pat_4Bh5o9N7B1Y7geM2pApKR0OhWmRwnHo4XDb79btDAcL7qPYJtexJBVe89V0OyzXc',
+  },
+  userInfo: {
+    id: 'user',
+    nickname: '访客',
+  },
+  ui: {
+    base: {
+      lang: 'zh-CN',
+      zIndex: 9999,
+    },
+    asstBtn: {
+      isNeed: true,
+    },
+    chatBot: {
+      title: '蓝培医疗AI咨询',
+      uploadable: false,
+      width: 400,
+    },
+    footer: {
+      isShow: true,
+      expressionText: '蓝培医疗 · 全球优质医疗资源咨询',
+    },
+  },
+});
 </script>
 </body>
 </html>
