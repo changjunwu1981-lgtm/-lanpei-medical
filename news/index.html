@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新闻资讯 - 蓝培医疗</title>
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .article-card { background: white; border-radius: 12px; padding: 16px 24px; margin-bottom: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); transition: all 0.3s; border-left: 4px solid transparent; }
+        .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); border-left-color: #f97316; transform: translateX(4px); }
+        .article-card h3 { margin: 0; font-size: 16px; }
+        .article-card h3 a { color: #1e3a5f; display: flex; align-items: center; justify-content: space-between; }
+        .article-card h3 a:hover { color: #f97316; }
+        .article-card h3 a::after { content: '›'; color: #f97316; font-size: 20px; font-weight: bold; }
+        .tag { display: inline-block; padding: 2px 10px; border-radius: 12px; font-size: 12px; margin-right: 6px; }
+        .tag-industry { background: #eff6ff; color: #1d4ed8; }
+        .tag-company { background: #f0fdf4; color: #15803d; }
+        .tag-drug { background: #fff7ed; color: #c2410c; }
+        .contact-bar { background: linear-gradient(135deg, #f97316 0%, #fb923c 100%); color: white; padding: 16px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .contact-bar a { color: white; font-weight: bold; }
+        .cat-tab { display: inline-block; padding: 6px 18px; border-radius: 20px; font-size: 14px; cursor: pointer; transition: all 0.3s; border: 1px solid #e5e7eb; background: white; color: #666; }
+        .cat-tab:hover { border-color: #f97316; color: #f97316; }
+        .cat-tab.active { background: #f97316; color: white; border-color: #f97316; }
+        .article-meta { display: flex; align-items: center; gap: 12px; margin-top: 6px; font-size: 13px; color: #999; }
+        .article-card.hidden { display: none; }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-6">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h1 class="text-2xl font-bold"><a href="https://lanpeimed.com" class="text-white hover:text-orange-300">蓝培医疗</a></h1>
+                    <p class="text-blue-200 text-sm mt-1">专业海外药品直邮 · 新闻资讯</p>
+                </div>
+                <a href="https://lanpeimed.com" class="bg-orange-500 hover:bg-orange-600 text-white px-4 py-2 rounded-lg text-sm">
+                    <i class="fas fa-pills mr-1"></i>返回首页
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Contact Bar -->
+    <div class="max-w-4xl mx-auto px-4 mt-6">
+        <div class="contact-bar">
+            <i class="fas fa-phone-alt mr-2"></i>咨询热线：<a href="tel:13037856968">13037856968</a> | 
+            <i class="fab fa-whatsapp mr-1"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a> | 
+            <i class="fab fa-weixin mr-1"></i>微信：17844531559
+        </div>
+    </div>
+
+    <!-- Article List -->
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <h2 class="text-xl font-bold text-gray-800 mb-4"><i class="fas fa-newspaper mr-2 text-orange-500"></i>新闻资讯</h2>
+        
+        <!-- Category Tabs -->
+        <div class="flex flex-wrap gap-2 mb-6">
+            <span class="cat-tab active" data-cat="all"><i class="fas fa-th-list mr-1"></i>全部</span>
+            <span class="cat-tab" data-cat="industry"><i class="fas fa-hospital mr-1"></i>行业资讯</span>
+            <span class="cat-tab" data-cat="company"><i class="fas fa-building mr-1"></i>公司资讯</span>
+            <span class="cat-tab" data-cat="drug"><i class="fas fa-capsules mr-1"></i>药闻速递</span>
+        </div>
+
+        <div id="article-list">
+            <!-- ARTICLES_INSERT_POINT -->
+
+<div class="article-card" data-category="industry">
+    <h3><a href="/048-yindu-gaowen-fangzhiya-20260607.html">印度极端高温冲击仿制药供应链，全球患者如何保障用药安全？</a></h3>
+    <div class="article-meta"><span class="tag tag-industry">行业资讯</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-07</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/034-chuangxinyao-shoufangyao-202605.html">5月大爆发：5款创新药+10款首仿药获批上市，引领医药产业升级</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-03</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/033-zongaitini-her2-feiai.html">宗艾替尼获批HER2突变肺癌一线适应症，开启靶向治疗新篇章</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-03</span></div>
+</div>
+<div class="article-card" data-category="industry">
+    <h3><a href="/032-dihong-jiyinzhiliao-lecheng.html">华大基因地贫基因治疗落地海南乐城，120万元开启治疗新纪元</a></h3>
+    <div class="article-meta"><span class="tag tag-industry">行业资讯</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-03</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/031-RAS-baixibo-aizheng.html">RAS靶向治疗重大突破：胰腺癌患者生存期翻倍，创新赛道竞争白热化</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-02</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/030-ennituo-her2-weikang.html">中国首个胃癌二线HER2双抗获批！康宁杰瑞恩尼妥重塑胃癌治疗格局</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-02</span></div>
+</div>
+<div class="article-card" data-category="industry">
+    <h3><a href="/029-yibao-mulu-2026.html">2026医保目录调整正式启动：三类新药首次可申报，多重政策利好患者</a></h3>
+    <div class="article-meta"><span class="tag tag-industry">行业资讯</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-02</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/028-retevmo-feiai.html">ASCO重磅：礼来Retevmo早期肺癌辅助治疗降低83%复发风险</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-01</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/027-jiangyaxinyao-baxdrostat.html">20年来首款新机制降压药获FDA批准：全球高血压治疗开启新纪元</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-01</span></div>
+</div>
+<div class="article-card" data-category="industry">
+    <h3><a href="/026-jingwai-jiuyi.html">外国人来华就医潮兴起：128万国际患者背后的跨境医疗新机遇</a></h3>
+    <div class="article-meta"><span class="tag tag-industry">行业资讯</span><span><i class="far fa-calendar-alt mr-1"></i>2026-06-01</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/015-yigan-xinyao-beipuruoweisheng.html">国产乙肝新药贝普若韦生III期研究成功，有望实现功能性治愈</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-31</span></div>
+</div>
+<div class="article-card" data-category="industry">
+    <h3><a href="/news/014-botao-lecheng-yiliao.html">博鳌乐城国际医疗旅游服务中心正式揭牌</a></h3>
+    <div class="article-meta"><span class="tag tag-industry">行业资讯</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-31</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/013-shuwozitinai-egfr-ex20ins.html">国产靶向药舒沃替尼一线治疗EGFR ex20ins肺癌III期研究登顶NEJM</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-31</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/012-yuegang-kuajing-yiliao.html">粤港澳大湾区跨境医疗深度融合，港澳同胞来穗就医开启新篇章</a></h3>
+    <div class="article-meta"><span class="tag tag-industry">行业资讯</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-30</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/011-baitaisuo-xiao-xiao-bao.html">百济神州安泰适获批新适应症，小细胞肺癌二线治疗迎突破</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-30</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/001-abitelong.html">阿比特龙片用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/002-entrectinib.html">恩曲替尼胶囊用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/003-alectinib.html">阿来替尼胶囊用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/004-avatrombopag.html">马来酸阿伐曲泊帕片用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/005-brigatinib.html">布格替尼用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/006-pomalidomide.html">泊马度胺胶囊用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/007-ceritinib.html">塞瑞替尼胶囊用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/008-dapoxetine.html">达泊西汀片用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/009-eltrombopag.html">艾曲泊帕乙醇胺片用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="/news/010-ibrutinib.html">伊布替尼胶囊用法用量详解</a></h3>
+    <div class="article-meta"><span class="tag tag-drug">药闻速递</span><span><i class="far fa-calendar-alt mr-1"></i>2026-05-29</span></div>
+</div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="gradient-bg text-white py-8 mt-10">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p>蓝培医疗 - 专业海外药品直邮平台</p>
+            <p class="mt-2">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p class="mt-2">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+
+    <script>
+    // Category tab filtering
+    document.querySelectorAll('.cat-tab').forEach(tab => {
+        tab.addEventListener('click', function() {
+            document.querySelectorAll('.cat-tab').forEach(t => t.classList.remove('active'));
+            this.classList.add('active');
+            const cat = this.dataset.cat;
+            document.querySelectorAll('.article-card').forEach(card => {
+                if (cat === 'all' || card.dataset.category === cat) {
+                    card.classList.remove('hidden');
+                } else {
+                    card.classList.add('hidden');
+                }
+            });
+        });
+    });
+    </script>
+</body>
+</html>
