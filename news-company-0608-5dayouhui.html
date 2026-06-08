@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>蓝培医疗：专业海外医疗资源咨询的五大核心优势</title>
+    <meta name="description" content="蓝培医疗凭借万象桃子互联网医院授权、7语言服务、全球覆盖等优势，为患者提供专业、便捷的海外医疗资源咨询服务。">
+    <meta name="keywords" content="蓝培医疗,海外医疗咨询,万象桃子互联网医院,医疗资源,咨询服务">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .advantage-card { background: white; border-radius: 12px; padding: 20px 24px; margin-bottom: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border-left: 4px solid #f97316; }
+        .advantage-card h3 { color: #1e3a5f; font-size: 18px; margin-bottom: 8px; display: flex; align-items: center; gap: 10px; }
+        .advantage-card .icon { width: 40px; height: 40px; background: linear-gradient(135deg, #1e3a5f, #2d5a87); border-radius: 10px; display: flex; align-items: center; justify-content: center; color: white; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+        .lang-btn.active { background: #f97316; color: white; }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px; margin: 20px 0; }
+        .stat-item { background: #f0f7ff; padding: 16px; border-radius: 10px; text-align: center; }
+        .stat-item .number { font-size: 28px; font-weight: bold; color: #1e3a5f; }
+        .stat-item .label { color: #6b7280; font-size: 14px; }
+    </style>
+
+    <script>
+    const translations = {
+        zh: {
+            site_name: "蓝培医疗",
+            back_home: "返回首页",
+            news: "新闻资讯",
+            tab_company: "公司资讯",
+            cta_title: "想了解更多蓝培医疗的服务优势？",
+            phone_label: "电话咨询",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "微信咨询",
+            disclaimer_title: "重要提示",
+            disclaimer_text: "本文章仅供信息参考，不构成医疗建议。如有医疗需求，请先咨询专业医生，再联系我们了解相关服务。",
+            hotline: "咨询热线",
+            footer_platform: "全球优质医疗资源咨询平台",
+            footer_disclaimer: "免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任",
+            footer_copyright: "© 2026 蓝培医疗 lanpeimed.com",
+            chat_title: "蓝培医疗在线咨询",
+            phone_consult: "电话咨询",
+            wechat_scan: "微信扫一扫添加咨询",
+            wechat_copy: "加微信",
+            wechat_copied: "已复制!",
+            phone_placeholder: "请输入手机号码",
+            callback_btn: "给您回电",
+            chat_footer: "蓝培医疗 · 全球优质医疗资源咨询",
+            stat_patients: "服务患者",
+            stat_countries: "覆盖国家",
+            stat_languages: "服务语种",
+            stat_years: "服务年限",
+            adv1_title: "官方授权，合规可靠",
+            adv1_desc: "蓝培医疗作为万象桃子互联网医院的授权咨询机构，万象桃子互联网医院是老挝卫生部授权的第一家互联网医院，拥有完善的合规资质和监管保障。",
+            adv2_title: "全球资源，一站咨询",
+            adv2_desc: "整合老挝、印度、孟加拉、日本、德国、瑞士、美国等国家和地区的优质医疗资源，覆盖600+药品品类，为患者提供多元化的咨询选择。",
+            adv3_title: "7语言服务，无障碍沟通",
+            adv3_desc: "提供中文、英文、俄语、越南语、印尼语、缅甸语、孟加拉语7种语言服务，配备专业医疗咨询团队，确保与不同国家和地区的患者顺畅沟通。",
+            adv4_title: "专业团队，贴心服务",
+            adv4_desc: "拥有经验丰富的医疗咨询团队，熟悉各国医疗体系和服务流程，为患者提供从咨询、方案制定到后续跟踪的全流程专业服务。",
+            adv5_title: "透明收费，诚信经营",
+            adv5_desc: "所有服务项目和收费标准公开透明，无隐性费用。根据患者具体需求提供个性化方案，让每一位患者都能明明白白消费。",
+            intro_title: "为什么选择蓝培医疗？",
+            intro_text: "在全球化时代，获取优质医疗资源不应受地域限制。蓝培医疗致力于搭建连接患者与全球优质医疗资源的桥梁，让更多人能够便捷地享受到国际先进的医疗服务。",
+            conclusion_title: "选择蓝培，选择专业",
+            conclusion_text: "蓝培医疗将持续深耕海外医疗资源咨询领域，不断拓展服务范围，提升服务质量，为更多有需要的患者提供专业、可靠、便捷的咨询服务。",
+            contact_title: "联系我们"
+        },
+        en: {
+            site_name: "Lanpei Medical",
+            back_home: "Back to Home",
+            news: "News",
+            tab_company: "Company News",
+            cta_title: "Want to learn more about Lanpei Medical's service advantages?",
+            phone_label: "Phone",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Important Notice",
+            disclaimer_text: "This article is for reference only and does not constitute medical advice. Please consult a professional doctor first.",
+            hotline: "Hotline",
+            footer_platform: "Global Quality Medical Resources Platform",
+            footer_disclaimer: "Disclaimer: The medical information on this website is for reference only. Please consult doctors and pharmacists.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei Medical Online Consultation",
+            phone_consult: "Phone Consultation",
+            wechat_scan: "Scan QR code to add WeChat",
+            wechat_copy: "Add WeChat",
+            wechat_copied: "Copied!",
+            phone_placeholder: "Enter phone number",
+            callback_btn: "Callback Request",
+            chat_footer: "Lanpei Medical · Global Medical Resources",
+            stat_patients: "Patients Served",
+            stat_countries: "Countries Covered",
+            stat_languages: "Languages",
+            stat_years: "Years of Service",
+            adv1_title: "Official Authorization, Compliant & Reliable",
+            adv1_desc: "As an authorized consultation institution of Wanxiang Peach Internet Hospital, we have complete compliance qualifications.",
+            adv2_title: "Global Resources, One-Stop Consultation",
+            adv2_desc: "Integrating quality medical resources from Laos, India, Bangladesh, Japan, Germany, Switzerland, USA and more.",
+            adv3_title: "7-Language Service, Barrier-Free Communication",
+            adv3_desc: "Providing services in Chinese, English, Russian, Vietnamese, Indonesian, Burmese, and Bengali.",
+            adv4_title: "Professional Team, Caring Service",
+            adv4_desc: "Experienced medical consultation team familiar with medical systems and service processes worldwide.",
+            adv5_title: "Transparent Pricing, Honest Operation",
+            adv5_desc: "All service items and fees are publicly disclosed with no hidden costs.",
+            intro_title: "Why Choose Lanpei Medical?",
+            intro_text: "In the era of globalization, accessing quality medical resources should not be limited by geography.",
+            conclusion_title: "Choose Lanpei, Choose Professional",
+            conclusion_text: "Lanpei Medical will continue to deepen its overseas medical resources consultation field.",
+            contact_title: "Contact Us"
+        },
+        ru: {
+            site_name: "蓝培医疗",
+            back_home: "На главную",
+            news: "Новости",
+            tab_company: "Новости компании",
+            cta_title: "Хотите узнать больше о преимуществах Lanpei?",
+            phone_label: "Телефон",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Важное уведомление",
+            disclaimer_text: "Эта статья только для справки и не является медицинской рекомендацией.",
+            hotline: "Горячая линия",
+            footer_platform: "Платформа глобальных медицинских ресурсов",
+            footer_disclaimer: "Отказ от ответственности: информация только для справки. Проконсультируйтесь с врачом.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Онлайн консультация Lanpei",
+            phone_consult: "Телефонная консультация",
+            wechat_scan: "Сканируйте QR для добавления WeChat",
+            wechat_copy: "Добавить WeChat",
+            wechat_copied: "Скопировано!",
+            phone_placeholder: "Введите номер телефона",
+            callback_btn: "Обратный звонок",
+            chat_footer: "Lanpei Medical · Глобальные медицинские ресурсы",
+            stat_patients: "Обслужено пациентов",
+            stat_countries: "Стран охвата",
+            stat_languages: "Языков",
+            stat_years: "Лет опыта",
+            adv1_title: "Официальная авторизация, соответствие требованиям",
+            adv1_desc: "Как авторизованное консультационное учреждение Интернет-больницы Wanxiang Peach.",
+            adv2_title: "Глобальные ресурсы, консультации в одном месте",
+            adv2_desc: "Интеграция качественных медицинских ресурсов из Лаоса, Индии, Бангладеш, Японии, Германии, Швейцарии, США.",
+            adv3_title: "Обслуживание на 7 языках",
+            adv3_desc: "Предоставление услуг на китайском, английском, русском, вьетнамском, индонезийском, бирманском и бенгальском языках.",
+            adv4_title: "Профессиональная команда, заботливое обслуживание",
+            adv4_desc: "Опытная команда консультантов, знакомая с медицинскими системами по всему миру.",
+            adv5_title: "Прозрачное ценообразование",
+            adv5_desc: "Все услуги и сборы публично раскрываются без скрытых платежей.",
+            intro_title: "Почему выбирают Lanpei?",
+            intro_text: "В эпоху глобализации доступ к качественным медицинским ресурсам не должен ограничиваться географией.",
+            conclusion_title: "Выберите Lanpei, выберите профессионализм",
+            conclusion_text: "Lanpei Medical продолжит углублять свои консультационные услуги.",
+            contact_title: "Свяжитесь с нами"
+        },
+        vi: {
+            site_name: "Lanpei Medical",
+            back_home: "Về trang chủ",
+            news: "Tin tức",
+            tab_company: "Tin công ty",
+            cta_title: "Muốn tìm hiểu thêm về ưu điểm dịch vụ của Lanpei?",
+            phone_label: "Điện thoại",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Thông báo quan trọng",
+            disclaimer_text: "Bài viết này chỉ để tham khảo, không phải tư vấn y tế.",
+            hotline: "Đường dây nóng",
+            footer_platform: "Nền tảng tài nguyên y tế toàn cầu",
+            footer_disclaimer: "Tuyên bố miễn trừ: Thông tin chỉ để tham khảo. Hãy hỏi ý kiến bác sĩ.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Tư vấn trực tuyến Lanpei",
+            phone_consult: "Tư vấn điện thoại",
+            wechat_scan: "Quét QR để thêm WeChat",
+            wechat_copy: "Thêm WeChat",
+            wechat_copied: "Đã sao chép!",
+            phone_placeholder: "Nhập số điện thoại",
+            callback_btn: "Yêu cầu gọi lại",
+            chat_footer: "Lanpei Medical · Tài nguyên y tế toàn cầu",
+            stat_patients: "Bệnh nhân phục vụ",
+            stat_countries: "Quốc gia",
+            stat_languages: "Ngôn ngữ",
+            stat_years: "Năm kinh nghiệm",
+            adv1_title: "Ủy quyền chính thức, tuân thủ pháp luật",
+            adv1_desc: "Là cơ quan tư vấn được ủy quyền của Bệnh viện Internet Wanxiang Peach.",
+            adv2_title: "Nguồn lực toàn cầu, tư vấn một điểm dừng",
+            adv2_desc: "Tích hợp nguồn lực y tế chất lượng từ Lào, Ấn Độ, Bangladesh, Nhật Bản, Đức, Thụy Sĩ, Hoa Kỳ.",
+            adv3_title: "Dịch vụ 7 ngôn ngữ",
+            adv3_desc: "Cung cấp dịch vụ bằng tiếng Trung, Anh, Nga, Việt, Indo, Miến, Bengal.",
+            adv4_title: "Đội ngũ chuyên nghiệp, phục vụ tận tâm",
+            adv4_desc: "Đội ngũ tư vấn giàu kinh nghiệm, am hiểu hệ thống y tế toàn cầu.",
+            adv5_title: "Giá cả minh bạch",
+            adv5_desc: "Tất cả dịch vụ và phí được công khai, không có chi phí ẩn.",
+            intro_title: "Tại sao chọn Lanpei?",
+            intro_text: "Trong thời đại toàn cầu hóa, tiếp cận nguồn lực y tế chất lượng không nên bị giới hạn bởi địa lý.",
+            conclusion_title: "Chọn Lanpei, chọn chuyên nghiệp",
+            conclusion_text: "Lanpei Medical sẽ tiếp tục phát triển lĩnh vực tư vấn y tế.",
+            contact_title: "Liên hệ chúng tôi"
+        },
+        id: {
+            site_name: "Lanpei Medical",
+            back_home: "Kembali ke Beranda",
+            news: "Berita",
+            tab_company: "Berita Perusahaan",
+            cta_title: "Ingin tahu lebih lanjut tentang keunggulan layanan Lanpei?",
+            phone_label: "Telepon",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Pemberitahuan Penting",
+            disclaimer_text: "Artikel ini hanya untuk referensi, bukan saran medis.",
+            hotline: "Hotline",
+            footer_platform: "Platform Sumber Daya Medis Global",
+            footer_disclaimer: "Penafian: Informasi hanya untuk referensi. Silakan konsultasikan dengan dokter.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Konsultasi Online Lanpei",
+            phone_consult: "Konsultasi Telepon",
+            wechat_scan: "Pindai QR untuk tambah WeChat",
+            wechat_copy: "Tambah WeChat",
+            wechat_copied: "Disalin!",
+            phone_placeholder: "Masukkan nomor telepon",
+            callback_btn: "Minta Panggilan",
+            chat_footer: "Lanpei Medical · Sumber Daya Medis Global",
+            stat_patients: "Pasien Dilayani",
+            stat_countries: "Negara",
+            stat_languages: "Bahasa",
+            stat_years: "Tahun Pengalaman",
+            adv1_title: "Otorisasi Resmi, Kepatuhan Terjamin",
+            adv1_desc: "Sebagai institusi konsultasi resmi dari Wanxiang Peach Internet Hospital.",
+            adv2_title: "Sumber Daya Global, Konsultasi Satu Atap",
+            adv2_desc: "Mengintegrasikan sumber daya medis berkualitas dari Laos, India, Bangladesh, Jepang, Jerman, Swiss, AS.",
+            adv3_title: "Layanan 7 Bahasa",
+            adv3_desc: "Memberikan layanan dalam bahasa Mandarin, Inggris, Rusia, Vietnam, Indonesia, Myanmar, Bengali.",
+            adv4_title: "Tim Profesional, Layanan Penuh Perhatian",
+            adv4_desc: "Tim konsultasi berpengalaman yang memahami sistem medis global.",
+            adv5_title: "Harga Transparan",
+            adv5_desc: "Semua layanan dan biaya diungkapkan secara terbuka tanpa biaya tersembunyi.",
+            intro_title: "Mengapa Memilih Lanpei?",
+            intro_text: "Di era globalisasi, akses ke sumber daya medis berkualitas tidak boleh dibatasi oleh geografi.",
+            conclusion_title: "Pilih Lanpei, Pilih Profesional",
+            conclusion_text: "Lanpei Medical akan terus mengembangkan bidang konsultasi medis internasional.",
+            contact_title: "Hubungi Kami"
+        },
+        my: {
+            site_name: "Lanpei Medical",
+            back_home: "ပင်မသို့ ပြန်သွားရန်",
+            news: "သတင်း",
+            tab_company: "ကုမ္ပဏီသတင်း",
+            cta_title: "Lanpei ၏ ဝန်ဆောင်မှုအားသာချက်များကို ပိုမိုသိရှိလိုပါသလား?",
+            phone_label: "ဖုန်း",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "အရေးကြီးသတိပေးချက်",
+            disclaimer_text: "ဤဆောင်းပါးသည် ရည်ရွယ်ချက်တစ်ခုဖြစ်သည်။",
+            hotline: "ဖုန်းလိုင်း",
+            footer_platform: "ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါးအရင်းအမြစ်ပလက်ဖောင်း",
+            footer_disclaimer: "သတိပေးချက်- ဤဝက်ဘ်ဆိုဒ်တွင်တင်ပြထားသော ဆေးဝါးအချက်အလက်များသည် ရည်ရွယ်ချက်ဖြစ်သည်။",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei အွန်လိုင်းတိုင်ပင်ဆွေးနွေးမှု",
+            phone_consult: "ဖုန်းဖြင့်တိုင်ပင်ဆွေးနွေးမှု",
+            wechat_scan: "QR ကုဒ်ဖတ်ပြီး WeChat ထည့်ပါ",
+            wechat_copy: "WeChat ထည့်ရန်",
+            wechat_copied: "ကူယူပြီး!",
+            phone_placeholder: "ဖုန်းနံပါတ် ထည့်ပါ",
+            callback_btn: "ပြန်ခေါ်ရန်တောင်းဆိုမှု",
+            chat_footer: "Lanpei Medical · ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါး",
+            stat_patients: "လူနာဝန်ဆောင်မှု",
+            stat_countries: "နိုင်ငံများ",
+            stat_languages: "ဘာသာစကားများ",
+            stat_years: "အတွေ့အကြုံနှစ်များ",
+            adv1_title: "တရားဝင်ခွင့်ပြုချက်",
+            adv1_desc: "Wanxiang Peach Internet Hospital ၏ ခွင့်ပြုထားသော အကြံပေးဌာနဖြစ်ပါသည်။",
+            adv2_title: "ကမ္ဘာလုံးဆိုင်ရာ အရင်းအမြစ်များ",
+            adv2_desc: "လာအို၊ အိန္ဒိယ၊ ဘင်္ဂလားဒေ့ရှ်၊ ဂျပန်၊ ဂျာမဏီ၊ ဆွစ်ဇာလန်၊ အမေရိကန်တို့မှ ဆေးဝါးအရင်းအမြစ်များကို ပေါင်းစည်းထားသည်။",
+            adv3_title: "၇ဘာသာစကား ဝန်ဆောင်မှု",
+            adv3_desc: "တရုတ်၊ အင်္ဂလိပ်၊ ရုရှ၊ ဗီယက်နမ်၊ အင်ဒိုနီးရှား၊ မြန်မာ၊ ဘင်္ဂါလီ ဘာသာစကားများဖြင့် ဝန်ဆောင်မှုပေးသည်။",
+            adv4_title: "ကျွမ်းကျင်သော အဖွဲ့အစည်း",
+            adv4_desc: "ကမ္ဘာတစ်ဝှမ်း ဆေးဝါးစနစ်များကို ကျွမ်းကျင်သော အကြံပေးအဖွဲ့ဖြစ်ပါသည်။",
+            adv5_title: "တိကျသော စျေးနှုန်းများ",
+            adv5_desc: "ဝှိုက်ခွဲစရာမလိုဘဲ ဝန်ဆောင်မှုများနှင့် စျေးနှုန်းများကို ရှင်းလင်းစွာ ဖော်ပြထားသည်။",
+            intro_title: "ဘာကြောင့် Lanpei ကို ရွေးချယ်သင့်သလဲ?",
+            intro_text: "ကမ္ဘာလုံးဆိုင်ရာ ခေတ်တွင်၊ အရည်အသွေးမြင့် ဆေးဝါးအရင်းအမြစ်များကို ရရှိနိုင်သင့်ပါသည်။",
+            conclusion_title: "Lanpei ကို ရွေးချယ်ပါ",
+            conclusion_text: "Lanpei Medical သည် နိုင်ငံတကာ ဆေးဝါးအရင်းအမြစ် အကြံပေးဝန်ဆောင်မှု ကဏ္ဍကို ဆက်လက်ဖွံ့ဖြိုးတိုးတက်စေမည်။",
+            contact_title: "ဆက်သွယ်ရန်"
+        },
+        bd: {
+            site_name: "Lanpei Medical",
+            back_home: "হোম পেজে ফিরে যান",
+            news: "সংবাদ",
+            tab_company: "কোম্পানি সংবাদ",
+            cta_title: "Lanpei মেডিকেলের সেবা সুবিধা সম্পর্কে আরও জানতে চান?",
+            phone_label: "ফোন",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "উইচ্যাট",
+            disclaimer_title: "গুরুত্বপূর্ণ বিজ্ঞপ্তি",
+            disclaimer_text: "এই নিবন্ধটি শুধুমাত্র রেফারেন্সের জন্য, চিকিৎসা পরামর্শ নয়।",
+            hotline: "হটলাইন",
+            footer_platform: "বিশ্বমানের মেডিকেল রিসোর্স প্ল্যাটফর্ম",
+            footer_disclaimer: "দ্বায়িত্ব: এই সাইটে প্রদর্শিত মেডিকেল তথ্য শুধুমাত্র রেফারেন্সের জন্য। অনুগ্রহ করে ডাক্তারের পরামর্শ নিন।",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei অনলাইন পরামর্শ",
+            phone_consult: "ফোনে পরামর্শ",
+            wechat_scan: "QR কোড স্ক্যান করে উইচ্যাট যোগ করুন",
+            wechat_copy: "উইচ্যাট যোগ",
+            wechat_copied: "কপি হয়েছে!",
+            phone_placeholder: "ফোন নম্বর দিন",
+            callback_btn: "কল ব্যাক চান",
+            chat_footer: "Lanpei Medical · বিশ্ব মেডিকেল রিসোর্স",
+            stat_patients: "রোগী সেবা",
+            stat_countries: "দেশ",
+            stat_languages: "ভাষা",
+            stat_years: "বছরের অভিজ্ঞতা",
+            adv1_title: "অফিসিয়াল অনুমোদন, সম্মতিপূর্ণ",
+            adv1_desc: "Wanxiang Peach ইন্টারনেট হাসপাতালের অনুমোদিত পরামর্শ প্রতিষ্ঠান হিসেবে।",
+            adv2_title: "বিশ্বব্যাপী সম্পদ, একস্টপ পরামর্শ",
+            adv2_desc: "লাওস, ভারত, বাংলাদেশ, জাপান, জার্মানি, সুইজারল্যান্ড, যুক্তরাষ্ট্র থেকে মানসম্মত মেডিকেল রিসোর্স।",
+            adv3_title: "৭টি ভাষায় সেবা",
+            adv3_desc: "চীনা, ইংরেজি, রাশিয়ান, ভিয়েতনামী, ইন্দোনেশিয়ান, মিয়ানমার, বাংলা ভাষায় সেবা।",
+            adv4_title: "পেশাদার টিম, যত্নসহকারে সেবা",
+            adv4_desc: "বিশ্বজুড়ে মেডিকেল সিস্টেমে অভিজ্ঞ পরামর্শক টিম।",
+            adv5_title: "স্বচ্ছ মূল্য",
+            adv5_desc: "সমস্ত সেবা ও ফি প্রকাশ্যে, কোনও লুকানো খরচ নেই।",
+            intro_title: "কেন Lanpei বেছে নেবেন?",
+            intro_text: "বৈশ্বিকীকরণের যুগে, মানসম্মত মেডিকেল রিসোর্সে অ্যাক্সেস ভূগোল দ্বারা সীমাবদ্ধ হওয়া উচিত নয়।",
+            conclusion_title: "Lanpei বেছে নিন, পেশাদার বেছে নিন",
+            conclusion_text: "Lanpei Medical আন্তর্জাতিক মেডিকেল রিসোর্স পরামর্শ ক্ষেত্রে বিকাশ অব্যাহত রাখবে।",
+            contact_title: "যোগাযোগ করুন"
+        }
+    };
+
+    let currentLang = 'zh';
+
+    function changeLanguage(lang) {
+        currentLang = lang;
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+            btn.classList.remove('bg-[#f97316]', 'text-white');
+            if (btn.dataset.lang === lang) {
+                btn.classList.add('bg-[#f97316]', 'text-white');
+            }
+        });
+        updateTranslations();
+    }
+
+    function updateTranslations() {
+        const t = translations[currentLang];
+        document.querySelectorAll('[data-i18n]').forEach(el => {
+            const key = el.getAttribute('data-i18n');
+            if (t[key]) {
+                el.textContent = t[key];
+            }
+        });
+        
+        // 更新页脚
+        document.getElementById('footer-platform').textContent = t.footer_platform;
+        document.getElementById('footer-disclaimer').textContent = t.footer_disclaimer;
+        
+        // 更新CTA
+        document.getElementById('cta-title').textContent = t.cta_title;
+        
+        // 更新免责声明
+        document.getElementById('disclaimer-text').textContent = t.disclaimer_text;
+        
+        // 更新底部CTA
+        document.getElementById('bottom-cta').innerHTML = '<p class="font-bold">' + t.contact_title + '</p><p class="text-sm mt-1">' + t.phone_label + ' 17844531559 | ' + t.whatsapp_label + ' +639685838435 | ' + t.wechat_label + ' 17844531559</p>';
+        
+        // 更新统计
+        document.getElementById('stat-patients').textContent = t.stat_patients;
+        document.getElementById('stat-countries').textContent = t.stat_countries;
+        document.getElementById('stat-languages').textContent = t.stat_languages;
+        document.getElementById('stat-years').textContent = t.stat_years;
+        
+        // 更新优势卡片
+        document.getElementById('adv1-title').textContent = t.adv1_title;
+        document.getElementById('adv1-desc').textContent = t.adv1_desc;
+        document.getElementById('adv2-title').textContent = t.adv2_title;
+        document.getElementById('adv2-desc').textContent = t.adv2_desc;
+        document.getElementById('adv3-title').textContent = t.adv3_title;
+        document.getElementById('adv3-desc').textContent = t.adv3_desc;
+        document.getElementById('adv4-title').textContent = t.adv4_title;
+        document.getElementById('adv4-desc').textContent = t.adv4_desc;
+        document.getElementById('adv5-title').textContent = t.adv5_title;
+        document.getElementById('adv5-desc').textContent = t.adv5_desc;
+        
+        // 更新咨询浮窗
+        const chatTitle = document.querySelector('.chat-header-left span');
+        if (chatTitle) chatTitle.textContent = t.chat_title;
+        const wechatScanText = document.querySelector('.chat-body > div:nth-child(2) p');
+        if (wechatScanText) wechatScanText.textContent = t.wechat_scan;
+        const phoneConsultLabel = document.querySelector('.chat-contact-item:nth-child(1) .label');
+        if (phoneConsultLabel) phoneConsultLabel.textContent = t.phone_consult;
+        const whatsappLabel = document.querySelector('.chat-contact-item:nth-child(2) .label');
+        if (whatsappLabel) whatsappLabel.textContent = t.whatsapp_label;
+        const wechatCopyLabel = document.getElementById('wechatLabel');
+        if (wechatCopyLabel) wechatCopyLabel.textContent = t.wechat_copy;
+        const phoneInput = document.getElementById('chatPhone');
+        if (phoneInput) phoneInput.placeholder = t.phone_placeholder;
+        const callbackBtn = document.querySelector('.chat-input-area button');
+        if (callbackBtn) callbackBtn.textContent = t.callback_btn;
+        const chatFooter = document.querySelector('.chat-footer');
+        if (chatFooter) chatFooter.textContent = t.chat_footer;
+    }
+    </script>
+</head>
+<body class="bg-gray-50">
+    <!-- Top Bar with Language Switcher -->
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
+            <div class="flex items-center gap-4 flex-wrap">
+                <span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span>
+                <span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span>
+            </div>
+            <div class="flex items-center gap-3">
+                <div class="flex gap-2">
+                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
+                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
+                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
+                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
+                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
+                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
+                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
+                </div>
+                <div class="flex gap-2 ml-4">
+                    <a href="https://wa.me/639685838435" target="_blank" class="hover:text-green-400"><i class="fab fa-whatsapp"></i></a>
+                    <a href="javascript:void(0)" onclick="showWechat()" class="hover:text-green-400"><i class="fab fa-weixin"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white" data-i18n="site_name">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i><span data-i18n="back_home">首页</span></a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i><span data-i18n="news">新闻资讯</span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com" data-i18n="back_home">首页</a> &gt; <a href="https://lanpeimed.com/news.html" data-i18n="news">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium" data-i18n="tab_company">公司资讯</span> &gt; 服务优势
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-4">蓝培医疗：专业海外医疗资源咨询的五大核心优势</h1>
+            <p class="text-gray-500 mb-6">蓝培医疗 · 2026年6月8日</p>
+
+            <!-- 数据统计 -->
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="number">600+</div>
+                    <div class="label" id="stat-patients" data-i18n="stat_patients">服务患者</div>
+                </div>
+                <div class="stat-item">
+                    <div class="number">7+</div>
+                    <div class="label" id="stat-countries" data-i18n="stat_countries">覆盖国家</div>
+                </div>
+                <div class="stat-item">
+                    <div class="number">7</div>
+                    <div class="label" id="stat-languages" data-i18n="stat_languages">服务语种</div>
+                </div>
+                <div class="stat-item">
+                    <div class="number">1+</div>
+                    <div class="label" id="stat-years" data-i18n="stat_years">服务年限</div>
+                </div>
+            </div>
+
+            <!-- 引言 -->
+            <div class="info-box">
+                <h2 data-i18n="intro_title">为什么选择蓝培医疗？</h2>
+                <p>在全球化时代，获取优质医疗资源不应受地域限制。蓝培医疗致力于搭建连接患者与全球优质医疗资源的桥梁，让更多人能够便捷地享受到国际先进的医疗服务。作为万象桃子互联网医院的授权咨询机构，蓝培医疗凭借独特优势，已帮助众多患者获得满意的咨询体验。</p>
+            </div>
+
+            <!-- 五大优势 -->
+            <h2>我们的核心优势</h2>
+            
+            <div class="advantage-card">
+                <h3><span class="icon"><i class="fas fa-shield-alt"></i></span> <span id="adv1-title" data-i18n="adv1_title">官方授权，合规可靠</span></h3>
+                <p id="adv1-desc">蓝培医疗作为万象桃子互联网医院的授权咨询机构，万象桃子互联网医院是老挝卫生部授权的第一家互联网医院，拥有完善的合规资质和监管保障。选择蓝培，您将获得合法、正规的咨询服务，无需担心合规风险。</p>
+            </div>
+
+            <div class="advantage-card">
+                <h3><span class="icon"><i class="fas fa-globe"></i></span> <span id="adv2-title" data-i18n="adv2_title">全球资源，一站咨询</span></h3>
+                <p id="adv2-desc">蓝培医疗整合老挝、印度、孟加拉、日本、德国、瑞士、美国等国家和地区的优质医疗资源，覆盖600+药品品类，为患者提供多元化的咨询选择。无论您需要哪类医疗资源，都能在这里获得专业的一站式咨询服务。</p>
+            </div>
+
+            <div class="advantage-card">
+                <h3><span class="icon"><i class="fas fa-language"></i></span> <span id="adv3-title" data-i18n="adv3_title">7语言服务，无障碍沟通</span></h3>
+                <p id="adv3-desc">蓝培医疗提供中文、英文、俄语、越南语、印尼语、缅甸语、孟加拉语7种语言服务，配备专业医疗咨询团队。无论您来自哪个国家和地区，都能使用熟悉的语言进行顺畅沟通，避免语言障碍带来的困扰。</p>
+            </div>
+
+            <div class="advantage-card">
+                <h3><span class="icon"><i class="fas fa-user-md"></i></span> <span id="adv4-title" data-i18n="adv4_title">专业团队，贴心服务</span></h3>
+                <p id="adv4-desc">蓝培医疗拥有经验丰富的医疗咨询团队，熟悉各国医疗体系和服务流程。团队成员经过专业培训，能够为患者提供从咨询、方案制定到后续跟踪的全流程专业服务。您的每一次咨询，都将得到专业、耐心的解答。</p>
+            </div>
+
+            <div class="advantage-card">
+                <h3><span class="icon"><i class="fas fa-hand-holding-usd"></i></span> <span id="adv5-title" data-i18n="adv5_title">透明收费，诚信经营</span></h3>
+                <p id="adv5-desc">蓝培医疗所有服务项目和收费标准公开透明，无隐性费用。我们根据患者具体需求提供个性化方案，让每一位患者都能明明白白消费。选择蓝培，就是选择诚信与透明。</p>
+            </div>
+
+            <!-- 总结 -->
+            <h2 data-i18n="conclusion_title">选择蓝培，选择专业</h2>
+            <p>蓝培医疗将持续深耕海外医疗资源咨询领域，不断拓展服务范围，提升服务质量。我们深知每一位患者的需求都值得被重视，每一个健康诉求都值得被认真对待。未来，蓝培医疗将继续秉承"专业、诚信、透明"的服务理念，为更多有需要的患者提供专业、可靠、便捷的咨询服务。</p>
+
+            <p>如果您想了解更多关于蓝培医疗的服务内容，欢迎随时联系我们。我们的专业团队将根据您的具体情况，提供个性化的咨询服务方案。</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p id="cta-title" class="text-lg mb-3" data-i18n="cta_title">想了解更多蓝培医疗的服务优势？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i><span data-i18n="phone_label">电话咨询</span>：<a href="tel:17844531559">17844531559</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i><span data-i18n="whatsapp_label">WhatsApp</span>：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i><span data-i18n="wechat_label">微信咨询</span>：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong data-i18n="disclaimer_title"><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong><span id="disclaimer-text" data-i18n="disclaimer_text">本文章仅供信息参考，不构成医疗建议。如有医疗需求，请先咨询专业医生，再联系我们了解相关服务。</span></p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div id="bottom-cta" class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold" data-i18n="contact_title">联系我们</p>
+            <p class="text-sm mt-1">电话 17844531559 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p id="footer-platform" data-i18n="footer_platform">全球优质医疗资源咨询平台</p>
+            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p id="footer-copyright" class="mt-1" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+
+<!-- 在线咨询浮窗 -->
+<style>
+.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
+.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
+.chat-widget-btn i{color:#fff;font-size:24px}
+.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
+@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
+.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
+@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.chat-box.active{display:flex}
+.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
+.chat-header-left{display:flex;align-items:center;gap:10px}
+.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
+.chat-header-left span{font-size:15px;font-weight:600}
+.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
+.chat-body{padding:16px;flex:1}
+.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
+.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
+.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
+.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
+.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
+.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
+.chat-contact-item .label{font-weight:600;margin-top:4px}
+.chat-input-area{display:flex;gap:8px;margin-top:10px}
+.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
+.chat-input-area input:focus{border-color:#1e3a5f}
+.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
+.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
+.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
+</style>
+<div class="chat-widget-btn" onclick="toggleChat()">
+    <div class="pulse-ring"></div>
+    <i class="fas fa-headset"></i>
+</div>
+<div class="chat-box" id="chatBox">
+    <div class="chat-header">
+        <div class="chat-header-left">
+            <div class="logo">蓝培</div>
+            <span data-i18n="chat_title">蓝培医疗在线咨询</span>
+        </div>
+        <button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="chat-body">
+        <div class="chat-notice">
+            因咨询人数多，如未及时回复，请致电：<span class="phone-red">17844531559</span>，或扫码加微信沟通：
+        </div>
+        <div style="text-align:center;margin-bottom:14px">
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px">
+            <p style="font-size:12px;color:#6b7280;margin-top:6px" data-i18n="wechat_scan">微信扫一扫添加咨询</p>
+        </div>
+        <div class="chat-contact-row">
+            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none">
+                <i class="fas fa-phone-alt" style="color:#1e3a5f"></i>
+                <div class="label" data-i18n="phone_consult">电话咨询</div>
+            </a>
+            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-whatsapp" style="color:#25d366"></i>
+                <div class="label" data-i18n="whatsapp_label">WhatsApp</div>
+            </a>
+            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-weixin" style="color:#07c160"></i>
+                <div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div>
+            </a>
+        </div>
+        <div class="chat-input-area">
+            <input type="tel" id="chatPhone" placeholder="请输入手机号码" data-i18n-placeholder="phone_placeholder">
+            <button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button>
+        </div>
+    </div>
+    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
+</div>
+<script>
+function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
+function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){l.textContent=translations[currentLang].wechat_copy},2000)}
+function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求：'+p+'，请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
+function showWechat(){}
+document.addEventListener('DOMContentLoaded', function() { updateTranslations(); });
+</script>
+
+</body>
+</html>
