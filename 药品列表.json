@@ -507,31 +507,31 @@
     "name": "吡非尼酮",
     "brand": "LuciPirfe",
     "category": "综合药品",
-    "covered": false
+    "covered": true
   },
   {
     "name": "甲苯磺酸索拉非尼片",
     "brand": "LuciSora",
     "category": "肝癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "琥珀酸瑞波西利片",
     "brand": "LuciRibo",
     "category": "综合药品",
-    "covered": false
+    "covered": true
   },
   {
     "name": "达沙替尼片",
     "brand": "LuciDasa",
     "category": "肺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "司替戊醇",
     "brand": "LuciStir ",
     "category": "综合药品",
-    "covered": false
+    "covered": true
   },
   {
     "name": "玛伐凯泰胶囊",
