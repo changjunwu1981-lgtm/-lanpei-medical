@@ -777,6 +777,21 @@ var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); 
 <div class="article-card" data-category="drug">
     <h3><a href="news-118-lidocaine-spray.html">盐酸利多卡因延时喷雾用法用量详解｜TORRENT黑喷 男科外用延时剂</a></h3>
 </div>
+<div class="article-card" data-category="drug">
+    <h3><a href="news-119-oral-semaglutide.html">司美格鲁肽片(口服)用法用量详解｜诺和忻Rybelsus 全球首个口服GLP-1降糖药</a></h3>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="news-120-sofosbuvir-velpatasvir.html">索磷布韦维帕他韦片用法用量详解｜吉三代MyhepAll 泛基因型丙肝12周治愈方案</a></h3>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="news-121-sildenafil-intagra.html">西地那非单效咀嚼片【甜甜圈】用法用量详解｜Intagra 100mg 印度Intas版万艾可仿制药</a></h3>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="news-122-kamagra-oral-jelly.html">西地那非单效果冻【卡玛格果冻】用法用量详解｜Kamagra Oral Jelly 印度速效ED果冻</a></h3>
+</div>
+<div class="article-card" data-category="drug">
+    <h3><a href="news-123-valif-vardenafil.html">伐地那非片用法用量详解｜Valif 20mg 印度Ajanta版艾力达仿制</a></h3>
+</div>
 </div>
     </main>
 
@@ -873,4 +888,14 @@ function switchCategory(cat) {
         if (t.dataset.cat === cat) t.classList.add('active');
     });
     document.querySelectorAll('.article-card').forEach(card => {
-   
+        card.style.display = (card.dataset.category === cat) ? 'block' : 'none';
+    });
+}
+// 页面加载完成后初始化语言
+document.addEventListener('DOMContentLoaded', function() {
+    updateTranslations();
+});
+</script>
+
+</body>
+</html>
