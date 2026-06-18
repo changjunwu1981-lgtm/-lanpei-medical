@@ -567,73 +567,73 @@
     "name": "阿法替尼",
     "brand": "LuciAfa",
     "category": "肺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "贝组替凡片",
     "brand": "LuciBelzu",
     "category": "肺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "比克恩丙诺片",
     "brand": "LUCIBET",
     "category": "抗病毒",
-    "covered": false
+    "covered": true
   },
   {
     "name": "安立生坦片",
     "brand": "LuciAmb",
     "category": "综合药品",
-    "covered": false
+    "covered": true
   },
   {
     "name": "兰泽替尼片",
     "brand": "LuciLazer",
     "category": "肺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "劳拉替尼",
     "brand": "Novo Nordisk诺和诺德",
     "category": "肺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "阿帕他胺片",
     "brand": "Ajanta Pharma Limited",
     "category": "前列腺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "吉瑞替尼片",
     "brand": "MYLAN",
     "category": "肺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "宗艾替尼片",
     "brand": "Natco",
     "category": "肺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "君必强 | 黑喷喷雾 男科",
     "brand": "TORRENT",
     "category": "男科",
-    "covered": false
+    "covered": true
   },
   {
     "name": "司美格鲁肽片(口服) 诺和忻 Rybelsus 索马鲁肽",
     "brand": "ALKEM",
     "category": "保健品",
-    "covered": false
+    "covered": true
   },
   {
     "name": "索磷布韦维帕他韦片 丙通沙 吉三代 MyhepAll",
     "brand": "ZYDUS",
     "category": "丙肝",
-    "covered": false
+    "covered": true
   },
   {
     "name": "仑伐替尼胶囊 GLENVAS 多靶点抗肿瘤",
@@ -645,13 +645,13 @@
     "name": "【甜甜圈】西地那非单效咀嚼片",
     "brand": "Intas",
     "category": "男科",
-    "covered": false
+    "covered": true
   },
   {
     "name": "【卡玛格果冻】西地那非单效果冻",
     "brand": "CIPLA",
     "category": "男科",
-    "covered": false
+    "covered": true
   },
   {
     "name": "【卡玛格菱形】西地那非&达泊西汀双效片",
@@ -663,7 +663,7 @@
     "name": "伐地那非片 Valif",
     "brand": "MYLAN",
     "category": "男科",
-    "covered": false
+    "covered": true
   },
   {
     "name": "口服用苯丁酸甘油酯",
@@ -969,7 +969,7 @@
     "name": "吉瑞替尼Gilteritinib",
     "brand": "Vosevi",
     "category": "白血病",
-    "covered": false
+    "covered": true
   },
   {
     "name": "司美替尼10mg",
