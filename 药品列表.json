@@ -669,31 +669,31 @@
     "name": "口服用苯丁酸甘油酯",
     "brand": "Medicamen",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "盐酸托莫西汀片 Axepta",
     "brand": "Natco",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "奥贝胆酸片 Eticholic",
     "brand": "Lupin",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "奥贝胆酸片 OCANAT",
     "brand": "Glenmark",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "奥贝胆酸片 Ocabile",
     "brand": "SUN",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "奥贝胆酸片 Obetohep",
