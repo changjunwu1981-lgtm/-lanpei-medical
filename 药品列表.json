@@ -699,61 +699,61 @@
     "name": "奥贝胆酸片 Obetohep",
     "brand": "Cadila",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "缬更昔洛韦片 VIROFIL",
     "brand": "Glenmark",
     "category": "抗病毒",
-    "covered": false
+    "covered": true
   },
   {
     "name": "缬更昔洛韦片 VAGACYTE",
     "brand": "ALEMBIC",
     "category": "抗病毒",
-    "covered": false
+    "covered": true
   },
   {
     "name": "缬更昔洛韦片 VALGACEL",
     "brand": "SUN",
     "category": "抗病毒",
-    "covered": false
+    "covered": true
   },
   {
     "name": "缬更昔洛韦片 Valgan",
     "brand": "CIPLA",
     "category": "抗病毒",
-    "covered": false
+    "covered": true
   },
   {
     "name": "富马酸丙酚替诺福韦片 Tafnat",
     "brand": "ZYDUS",
     "category": "乙肝",
-    "covered": false
+    "covered": true
   },
   {
     "name": "富马酸丙酚替诺福韦片 HepBest",
     "brand": "Glenmark",
     "category": "乙肝",
-    "covered": false
+    "covered": true
   },
   {
     "name": "艾曲泊帕乙醇胺片 ELTROPAG",
     "brand": "SUN",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "达比加群酯胶囊 Dabigat",
     "brand": "Taj Pharma",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "甲磺酸达比加群酯胶囊 Dabistar",
     "brand": "Natco",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "博舒替尼片 Bosuvi",
