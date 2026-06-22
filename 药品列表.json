@@ -759,31 +759,31 @@
     "name": "博舒替尼片 Bosuvi",
     "brand": "Intas",
     "category": "白血病",
-    "covered": false
+    "covered": true
   },
   {
     "name": "博舒替尼片 BONITAR",
     "brand": "TORRENT",
     "category": "白血病",
-    "covered": false
+    "covered": true
   },
   {
     "name": "依普利酮片 EPLECARD",
     "brand": "Intas",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "依普利酮片 EPTUS",
     "brand": "Natco",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "依普利酮片 EXENTA",
     "brand": "Glenmark",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "非布司他片",
