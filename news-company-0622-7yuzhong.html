@@ -1,0 +1,801 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>7种语言服务能力：蓝培医疗如何帮全球患者无障碍对接医疗资源 - 蓝培医疗公司资讯</title>
+    <meta name="description" content="蓝培医疗提供中文、英文、俄文、越南语、印尼语、缅甸语、孟加拉语7种语言服务，覆盖东南亚、独联体、南亚多个国家。了解蓝培多语种服务背后的团队与流程。">
+    <meta name="keywords" content="蓝培医疗,多语言服务,跨境医疗咨询,7种语言,俄语医疗,越南医疗,印尼医疗,缅甸医疗">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+        .lang-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin: 20px 0; }
+        .lang-card { background: white; border: 1px solid #e5e7eb; border-radius: 10px; padding: 14px; text-align: center; transition: all 0.3s; }
+        .lang-card:hover { border-color: #1e3a5f; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+        .lang-card .flag { font-size: 32px; margin-bottom: 6px; }
+        .lang-card .name { font-weight: 700; color: #1e3a5f; font-size: 15px; }
+        .lang-card .region { color: #6b7280; font-size: 12px; margin-top: 4px; }
+        .feature-row { display: flex; align-items: flex-start; gap: 12px; padding: 12px 0; border-bottom: 1px dashed #e5e7eb; }
+        .feature-row:last-child { border-bottom: none; }
+        .feature-row i { color: #f97316; font-size: 18px; margin-top: 3px; flex-shrink: 0; }
+        .lang-btn.active { background: #f97316; color: white; }
+    </style>
+
+    <script>
+    const translations = {
+        zh: {
+            site_name: "蓝培医疗",
+            back_home: "返回首页",
+            news: "新闻资讯",
+            cta_title: "想用您的母语聊聊跨境医疗资源？",
+            phone_label: "电话咨询",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "微信咨询",
+            disclaimer_title: "重要提示",
+            disclaimer_text: "本文章仅供信息参考，不构成医疗建议。具体疾病治疗和用药细节请务必咨询专业医生和药师，蓝培医疗不承担任何责任。",
+            footer_platform: "全球优质医疗资源咨询平台",
+            footer_disclaimer: "免责声明：本网站展示的医疗信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任",
+            footer_copyright: "© 2026 蓝培医疗 lanpeimed.com",
+            chat_title: "蓝培医疗在线咨询",
+            phone_consult: "电话咨询",
+            wechat_scan: "微信扫一扫添加咨询",
+            wechat_copy: "加微信",
+            wechat_copied: "已复制!",
+            phone_placeholder: "请输入手机号码",
+            callback_btn: "给您回电",
+            chat_footer: "蓝培医疗 · 全球优质医疗资源咨询",
+            intro_title: "为什么多语种服务这么重要？",
+            intro_text: "在跨境医疗资源对接场景中，语言是横在患者和资源之间的第一道墙。一个医学名词翻译错误、一个剂量单位混淆、一句病情描述的偏差，都可能让后面的所有努力偏离方向。蓝培医疗从成立第一天起，就把多语种服务能力当作核心基建投入。",
+            grid_title: "蓝培目前支持的服务语言",
+            grid_note: "✓ 所有顾问均为母语/精通水平 + 具备医学/药学背景培训",
+            lang_zh: "中文",
+            lang_zh_r: "中国及华人圈",
+            lang_en: "English",
+            lang_en_r: "全球通用 / 医疗文献",
+            lang_ru: "Русский",
+            lang_ru_r: "俄罗斯及独联体",
+            lang_vi: "Tiếng Việt",
+            lang_vi_r: "越南",
+            lang_id: "Indonesia",
+            lang_id_r: "印度尼西亚",
+            lang_my: "မြန်မာ",
+            lang_my_r: "缅甸",
+            lang_bd: "বাংলা",
+            lang_bd_r: "孟加拉国",
+            why_title: "为什么是这7种语言？",
+            why_intro: "蓝培医疗的服务对象是全球患者，语种选择基于实际咨询数据积累：",
+            why_p1: "<strong>中文</strong>：核心用户群体，覆盖中国及全球华人患者；",
+            why_p2: "<strong>英文</strong>：跨境医疗的通用工作语言，医学文献、临床报告多以英文为准；",
+            why_p3: "<strong>俄文</strong>：俄罗斯及中亚地区患者是中俄医疗旅游的重要客群；",
+            why_p4: "<strong>越南语/印尼语/缅甸语/孟加拉语</strong>：东南亚和南亚是近两年跨境医疗需求增速最快的区域，咨询量持续增长。",
+            capability_title: "多语种服务背后的4层支撑",
+            cap1_title: "1. 母语级顾问团队",
+            cap1_desc: "蓝培的核心咨询顾问均为对应语种的母语使用者或长期留学定居的精通者，每个人都经过医学术语、合规话术、伦理边界三层培训，确保在母语环境下也能精准传递医学信息。",
+            cap2_title: "2. 双语交叉校验",
+            cap2_desc: "涉及医学关键信息（药物剂量、检查指标、诊断结论）的沟通，蓝培要求同时由母语顾问和中文/英文后台做交叉校对，避免单一翻译带来的误读风险。",
+            cap3_title: "3. 本地化文化理解",
+            cap3_desc: "不同地区患者在表达病情、咨询习惯、对隐私的敏感度上差异很大。蓝培的顾问在沟通过程中会主动调整表达方式，让患者在熟悉的语境下完成咨询。",
+            cap4_title: "4. 全链路文档同步",
+            cap4_desc: "患者咨询记录、用药建议、医生反馈等关键文件，蓝培都会提供对应语种版本 + 中文/英文版本的双套交付，方便患者与本地医生、医院、监管机构进一步沟通。",
+            scenario_title: "典型服务场景",
+            sc1_title: "场景一：俄罗斯患者咨询肿瘤靶向药",
+            sc1_desc: "莫斯科一位肺癌患者家属通过 WhatsApp 找到蓝培，顾问用俄语沟通病情细节 → 整理成中英双语病历摘要 → 协助对接万象桃子互联网医院 → 处方与药品信息提供俄语+中文双版本 → 全程由俄语顾问跟进出关、用药指导。",
+            sc2_title: "场景二：印尼患者远程问诊配药",
+            sc2_desc: "雅加达一位慢性白血病患者需要长期用药，通过蓝培印尼语顾问 → 协助预约万象桃子远程问诊 → 印尼本地医生出具通用名处方 → 患者在本地合规药房凭方取药，全过程使用印尼语沟通。",
+            sc3_title: "场景三：缅甸患者家属咨询新药",
+            sc3_desc: "仰光一位乳腺癌患者家属只会缅语，蓝培缅甸语顾问用缅语耐心讲解全球新药动态和合规获取路径 → 整理中文版病历提交万象桃子医生 → 反向用缅语向家属同步诊疗建议，沟通零障碍。",
+            commitment_title: "蓝培的服务承诺",
+            commitment_text: "无论您来自哪个国家、说哪种语言，蓝培医疗希望成为您全球医疗资源对接过程中最值得信赖的"翻译者+导航员"——把复杂的多国医疗资源、监管差异、合规路径，用您熟悉的母语讲清楚，让您和家人在面对重大医疗决策时，不再因为语言而焦虑。",
+            closing_title: "如果您正在为家人或自己寻找跨境医疗资源",
+            closing_text: "欢迎用您最熟悉的语言联系蓝培医疗。我们的顾问团队已准备好，为您提供一对一咨询服务。"
+        },
+        en: {
+            site_name: "Lanpei Medical",
+            back_home: "Back to Home",
+            news: "News",
+            cta_title: "Want to discuss cross-border medical resources in your native language?",
+            phone_label: "Phone",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Important Notice",
+            disclaimer_text: "This article is for reference only and does not constitute medical advice. Please consult professional doctors and pharmacists for specific treatment and medication details. Lanpei Medical assumes no responsibility.",
+            footer_platform: "Global Quality Medical Resources Platform",
+            footer_disclaimer: "Disclaimer: The medical information on this website is for reference only. Please consult doctors and pharmacists for specific treatment details.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei Medical Online Consultation",
+            phone_consult: "Phone Consultation",
+            wechat_scan: "Scan QR code to add WeChat",
+            wechat_copy: "Add WeChat",
+            wechat_copied: "Copied!",
+            phone_placeholder: "Enter phone number",
+            callback_btn: "Callback Request",
+            chat_footer: "Lanpei Medical · Global Medical Resources",
+            intro_title: "Why does multilingual service matter?",
+            intro_text: "In cross-border medical resource scenarios, language is the first wall between patients and resources. A mistranslated medical term, a confused dosage unit, or a bias in describing the condition can send every subsequent effort off course. From day one, Lanpei Medical has treated multilingual capability as core infrastructure.",
+            grid_title: "Languages Currently Supported by Lanpei",
+            grid_note: "✓ All consultants are native/fluent + trained in medical/pharmaceutical background",
+            lang_zh: "Chinese",
+            lang_zh_r: "China & global Chinese",
+            lang_en: "English",
+            lang_en_r: "Global / medical literature",
+            lang_ru: "Russian",
+            lang_ru_r: "Russia & CIS",
+            lang_vi: "Vietnamese",
+            lang_vi_r: "Vietnam",
+            lang_id: "Indonesian",
+            lang_id_r: "Indonesia",
+            lang_my: "Burmese",
+            lang_my_r: "Myanmar",
+            lang_bd: "Bengali",
+            lang_bd_r: "Bangladesh",
+            why_title: "Why these 7 languages?",
+            why_intro: "Lanpei serves patients worldwide. Language selection is based on accumulated consultation data:",
+            why_p1: "<strong>Chinese</strong>: Core user group, covering China and global Chinese patients;",
+            why_p2: "<strong>English</strong>: Common working language for cross-border medicine; medical literature is mostly in English;",
+            why_p3: "<strong>Russian</strong>: Patients from Russia and Central Asia are an important customer group for China-Russia medical tourism;",
+            why_p4: "<strong>Vietnamese/Indonesian/Burmese/Bengali</strong>: Southeast and South Asia have seen the fastest growth in cross-border medical demand in recent years.",
+            capability_title: "4 Layers Behind Multilingual Service",
+            cap1_title: "1. Native-Level Consultant Team",
+            cap1_desc: "Lanpei's core consultants are native speakers or long-term residents fluent in the target language. Each receives three-layer training: medical terminology, compliance phrasing, and ethical boundaries, ensuring accurate medical communication in the native language.",
+            cap2_title: "2. Bilingual Cross-Verification",
+            cap2_desc: "For communication involving critical medical information (dosage, test indicators, diagnosis), Lanpei requires both the native consultant and a Chinese/English back office to cross-check, avoiding misinterpretation from a single translation.",
+            cap3_title: "3. Localized Cultural Understanding",
+            cap3_desc: "Patients from different regions vary significantly in how they describe conditions, their consultation habits, and privacy sensitivity. Lanpei's consultants proactively adjust their expression style so patients feel comfortable in a familiar context.",
+            cap4_title: "4. Full-Chain Document Synchronization",
+            cap4_desc: "Patient consultation records, medication advice, and doctor feedback are delivered in dual versions: target language + Chinese/English, making it easier for patients to communicate with local doctors, hospitals, and regulators.",
+            scenario_title: "Typical Service Scenarios",
+            sc1_title: "Scenario 1: Russian patient consulting oncology targeted drugs",
+            sc1_desc: "A lung cancer patient's family in Moscow contacts Lanpei via WhatsApp → Russian consultant collects condition details → bilingual summary is prepared → Wanxiang Peach Internet Hospital consultation is arranged → prescription and drug information delivered in Russian + Chinese → Russian consultant follows up on customs clearance and medication guidance throughout.",
+            sc2_title: "Scenario 2: Indonesian patient with remote consultation and dispensing",
+            sc2_desc: "A CML patient in Jakarta needs long-term medication → Lanpei's Indonesian consultant → helps schedule a Wanxiang Peach remote consultation → local Indonesian doctor issues an INN prescription → patient picks up at a local compliant pharmacy, all in Indonesian.",
+            sc3_title: "Scenario 3: Myanmar patient's family consulting on new drugs",
+            sc3_desc: "A breast cancer patient's family in Yangon only speaks Burmese → Lanpei's Burmese consultant patiently explains global new drug developments and compliant access paths in Burmese → Chinese medical record is submitted to Wanxiang Peach doctors → diagnosis advice is communicated back to the family in Burmese, with zero communication barrier.",
+            commitment_title: "Lanpei's Service Commitment",
+            commitment_text: "No matter which country you come from or which language you speak, Lanpei Medical aims to be your most trusted \"translator + navigator\" in global medical resource access — making complex multi-country medical resources, regulatory differences, and compliance paths clear in your native language, so you and your family no longer feel anxious about language barriers when facing major medical decisions.",
+            closing_title: "If you are seeking cross-border medical resources for yourself or family",
+            closing_text: "Please feel free to contact Lanpei Medical in your most familiar language. Our consultant team is ready to provide one-on-one service."
+        },
+        ru: {
+            site_name: "蓝培医疗",
+            back_home: "На главную",
+            news: "Новости",
+            cta_title: "Хотите обсудить трансграничные медицинские ресурсы на родном языке?",
+            phone_label: "Телефон",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Важное уведомление",
+            disclaimer_text: "Эта статья только для справки и не является медицинской рекомендацией. Проконсультируйтесь с врачом и фармацевтом. Lanpei Medical не несет ответственности.",
+            footer_platform: "Платформа глобальных медицинских ресурсов",
+            footer_disclaimer: "Отказ от ответственности: информация только для справки. Проконсультируйтесь с врачом.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Онлайн консультация Lanpei",
+            phone_consult: "Телефонная консультация",
+            wechat_scan: "Сканируйте QR для добавления WeChat",
+            wechat_copy: "Добавить WeChat",
+            wechat_copied: "Скопировано!",
+            phone_placeholder: "Введите номер телефона",
+            callback_btn: "Обратный звонок",
+            chat_footer: "Lanpei Medical · Глобальные медицинские ресурсы",
+            intro_title: "Почему многоязычный сервис так важен?",
+            intro_text: "В трансграничных медицинских сценариях язык — это первая стена между пациентом и ресурсами. Ошибка в медицинском термине, путаница в дозировке, неточность в описании состояния могут сбить с пути все последующие усилия. С первого дня Lanpei Medical инвестирует в многоязычные возможности как в ключевую инфраструктуру.",
+            grid_title: "Языки, поддерживаемые Lanpei",
+            grid_note: "✓ Все консультанты — носители/свободно владеют языком + обучены медицинской/фармацевтической тематике",
+            lang_zh: "Китайский",
+            lang_zh_r: "Китай и китайская диаспора",
+            lang_en: "Английский",
+            lang_en_r: "Глобальный / мед. литература",
+            lang_ru: "Русский",
+            lang_ru_r: "Россия и СНГ",
+            lang_vi: "Вьетнамский",
+            lang_vi_r: "Вьетнам",
+            lang_id: "Индонезийский",
+            lang_id_r: "Индонезия",
+            lang_my: "Бирманский",
+            lang_my_r: "Мьянма",
+            lang_bd: "Бенгальский",
+            lang_bd_r: "Бангладеш",
+            why_title: "Почему именно эти 7 языков?",
+            why_intro: "Lanpei обслуживает пациентов по всему миру. Выбор языков основан на накопленных данных консультаций:",
+            why_p1: "<strong>Китайский</strong>: основная группа пользователей, включая Китай и мировую китайскую диаспору;",
+            why_p2: "<strong>Английский</strong>: общий рабочий язык трансграничной медицины; медицинская литература в основном на английском;",
+            why_p3: "<strong>Русский</strong>: пациенты из России и Центральной Азии — важная группа для китайско-российского медицинского туризма;",
+            why_p4: "<strong>Вьетнамский/Индонезийский/Бирманский/Бенгальский</strong>: Юго-Восточная и Южная Азия показали самый быстрый рост спроса на трансграничную медицину в последние годы.",
+            capability_title: "4 уровня поддержки многоязычного сервиса",
+            cap1_title: "1. Команда консультантов с родным уровнем языка",
+            cap1_desc: "Ключевые консультанты Lanpei — носители языка или долгосрочные резиденты, свободно владеющие целевым языком. Каждый проходит трёхслойное обучение: медицинская терминология, нормативная лексика, этические границы.",
+            cap2_title: "2. Двуязычная перекрёстная проверка",
+            cap2_desc: "При передаче критической медицинской информации (дозировка, показатели, диагноз) Lanpei требует перекрёстной проверки как носителем языка, так и китайско-английским бэк-офисом, чтобы избежать ошибок единственного перевода.",
+            cap3_title: "3. Локализованное культурное понимание",
+            cap3_desc: "Пациенты из разных регионов значительно различаются в том, как они описывают состояние, привычки консультирования, чувствительность к конфиденциальности. Консультанты Lanpei активно корректируют стиль общения.",
+            cap4_title: "4. Полная синхронизация документов",
+            cap4_desc: "Записи консультаций, рекомендации по лекарствам, обратная связь от врачей предоставляются в двух версиях: на целевом языке + китайский/английский, что облегчает взаимодействие с местными врачами и регуляторами.",
+            scenario_title: "Типичные сценарии обслуживания",
+            sc1_title: "Сценарий 1: Российский пациент с онкологическим таргетным препаратом",
+            sc1_desc: "Семья пациента с раком лёгких из Москвы обращается в Lanpei через WhatsApp → русскоязычный консультант собирает детали → готовится двуязычная сводка → назначается консультация в Wanxiang Peach Internet Hospital → рецепт и информация о лекарстве на русском + китайском → русскоязычный консультант сопровождает таможню и приём препарата.",
+            sc2_title: "Сценарий 2: Индонезийский пациент с дистанционной консультацией",
+            sc2_desc: "Пациент с хроническим миелолейкозом в Джакарте нуждается в длительном лечении → индонезийский консультант Lanpei → запись на дистанционную консультацию Wanxiang Peach → местный индонезийский врач выписывает рецепт по INN → пациент получает лекарство в местной аптеке, всё общение на индонезийском.",
+            sc3_title: "Сценарий 3: Семья пациента из Мьянмы консультируется о новых препаратах",
+            sc3_desc: "Семья пациента с раком груди в Янгоне говорит только на бирманском → бирманский консультант Lanpei терпеливо объясняет на бирманском глобальные новости о новых лекарствах и пути легального доступа → китайская медицинская запись передаётся врачам Wanxiang Peach → диагностические рекомендации возвращаются семье на бирманском, без коммуникативного барьера.",
+            commitment_title: "Сервисное обязательство Lanpei",
+            commitment_text: "Независимо от того, из какой вы страны и на каком языке говорите, Lanpei Medical стремится быть вашим самым надёжным «переводчиком + навигатором» в глобальном доступе к медицинским ресурсам — делая сложные медицинские ресурсы, регуляторные различия и нормативные пути понятными на вашем родном языке, чтобы вы и ваша семья больше не испытывали языкового беспокойства при принятии важных медицинских решений.",
+            closing_title: "Если вы ищете трансграничные медицинские ресурсы для себя или семьи",
+            closing_text: "Свяжитесь с Lanpei Medical на самом привычном для вас языке. Наша команда консультантов готова предоставить индивидуальное обслуживание."
+        },
+        vi: {
+            site_name: "Lanpei Medical",
+            back_home: "Về trang chủ",
+            news: "Tin tức",
+            cta_title: "Muốn trao đổi về nguồn lực y tế xuyên biên giới bằng tiếng mẹ đẻ?",
+            phone_label: "Điện thoại",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Thông báo quan trọng",
+            disclaimer_text: "Bài viết này chỉ để tham khảo, không phải tư vấn y tế. Vui lòng tham khảo ý kiến bác sĩ và dược sĩ. Lanpei Medical không chịu trách nhiệm.",
+            footer_platform: "Nền tảng tài nguyên y tế toàn cầu",
+            footer_disclaimer: "Tuyên bố miễn trừ: Thông tin y tế chỉ mang tính tham khảo. Vui lòng hỏi ý kiến bác sĩ.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Tư vấn trực tuyến Lanpei",
+            phone_consult: "Tư vấn qua điện thoại",
+            wechat_scan: "Quét mã QR để thêm WeChat",
+            wechat_copy: "Thêm WeChat",
+            wechat_copied: "Đã sao chép!",
+            phone_placeholder: "Nhập số điện thoại",
+            callback_btn: "Yêu cầu gọi lại",
+            chat_footer: "Lanpei Medical · Tài nguyên y tế toàn cầu",
+            intro_title: "Tại sao dịch vụ đa ngôn ngữ lại quan trọng?",
+            intro_text: "Trong bối cảnh y tế xuyên biên giới, ngôn ngữ là bức tường đầu tiên giữa bệnh nhân và nguồn lực. Một thuật ngữ y tế dịch sai, một đơn vị liều lượng nhầm lẫn, một sai lệch trong mô tả bệnh tình có thể làm lệch hướng mọi nỗ lực phía sau. Từ ngày đầu thành lập, Lanpei Medical đã đầu tư vào năng lực đa ngôn ngữ như cơ sở hạ tầng cốt lõi.",
+            grid_title: "Các ngôn ngữ hiện được Lanpei hỗ trợ",
+            grid_note: "✓ Tất cả tư vấn viên đều có trình độ bản ngữ/thành thạo + được đào tạo nền tảng y khoa/dược phẩm",
+            lang_zh: "Tiếng Trung",
+            lang_zh_r: "Trung Quốc và cộng đồng Hoa kiều",
+            lang_en: "Tiếng Anh",
+            lang_en_r: "Toàn cầu / tài liệu y tế",
+            lang_ru: "Tiếng Nga",
+            lang_ru_r: "Nga và SNG",
+            lang_vi: "Tiếng Việt",
+            lang_vi_r: "Việt Nam",
+            lang_id: "Tiếng Indonesia",
+            lang_id_r: "Indonesia",
+            lang_my: "Tiếng Myanmar",
+            lang_my_r: "Myanmar",
+            lang_bd: "Tiếng Bengali",
+            lang_bd_r: "Bangladesh",
+            why_title: "Tại sao lại là 7 ngôn ngữ này?",
+            why_intro: "Lanpei phục vụ bệnh nhân toàn cầu. Lựa chọn ngôn ngữ dựa trên dữ liệu tư vấn tích lũy:",
+            why_p1: "<strong>Tiếng Trung</strong>: Nhóm người dùng cốt lõi, bao gồm Trung Quốc và bệnh nhân Hoa kiều toàn cầu;",
+            why_p2: "<strong>Tiếng Anh</strong>: Ngôn ngữ làm việc phổ biến cho y tế xuyên biên giới; tài liệu y tế chủ yếu bằng tiếng Anh;",
+            why_p3: "<strong>Tiếng Nga</strong>: Bệnh nhân từ Nga và Trung Á là nhóm khách hàng quan trọng của du lịch y tế Trung-Nga;",
+            why_p4: "<strong>Tiếng Việt/Indonesia/Myanmar/Bengali</strong>: Đông Nam Á và Nam Á có tốc độ tăng trưởng nhu cầu y tế xuyên biên giới nhanh nhất trong những năm gần đây.",
+            capability_title: "4 lớp hỗ trợ đằng sau dịch vụ đa ngôn ngữ",
+            cap1_title: "1. Đội ngũ tư vấn viên trình độ bản ngữ",
+            cap1_desc: "Các tư vấn viên cốt lõi của Lanpei là người bản ngữ hoặc cư dân dài hạn thành thạo ngôn ngữ đích. Mỗi người đều trải qua đào tạo ba lớp: thuật ngữ y tế, diễn đạt tuân thủ, ranh giới đạo đức.",
+            cap2_title: "2. Kiểm tra chéo song ngữ",
+            cap2_desc: "Đối với thông tin y tế quan trọng (liều lượng, chỉ số xét nghiệm, kết luận chẩn đoán), Lanpei yêu cầu cả tư vấn viên bản ngữ và hậu trường Trung/Anh kiểm tra chéo để tránh hiểu sai do dịch đơn lẻ.",
+            cap3_title: "3. Hiểu biết văn hóa bản địa",
+            cap3_desc: "Bệnh nhân từ các vùng khác nhau khác biệt đáng kể trong cách mô tả bệnh, thói quen tư vấn và độ nhạy cảm về quyền riêng tư. Tư vấn viên Lanpei chủ động điều chỉnh phong cách diễn đạt.",
+            cap4_title: "4. Đồng bộ tài liệu toàn chuỗi",
+            cap4_desc: "Hồ sơ tư vấn, lời khuyên thuốc, phản hồi của bác sĩ được cung cấp hai phiên bản: ngôn ngữ đích + Trung/Anh, giúp bệnh nhân dễ dàng giao tiếp với bác sĩ địa phương, bệnh viện và cơ quan quản lý.",
+            scenario_title: "Các tình huống dịch vụ điển hình",
+            sc1_title: "Tình huống 1: Bệnh nhân Nga tư vấn thuốc đích ung thư",
+            sc1_desc: "Gia đình bệnh nhân ung thư phổi ở Moscow liên hệ Lanpei qua WhatsApp → tư vấn viên tiếng Nga thu thập chi tiết bệnh tình → tóm tắt song ngữ được chuẩn bị → sắp xếp tư vấn tại Bệnh viện Internet Wanxiang Peach → đơn thuốc và thông tin thuốc bằng Nga + Trung → tư vấn viên tiếng Nga theo dõi thông quan và hướng dẫn dùng thuốc.",
+            sc2_title: "Tình huống 2: Bệnh nhân Indonesia tư vấn từ xa và cấp thuốc",
+            sc2_desc: "Bệnh nhân bạch cầu mạn tính ở Jakarta cần dùng thuốc lâu dài → tư vấn viên Indonesia của Lanpei → giúp đặt lịch tư vấn từ xa Wanxiang Peach → bác sĩ Indonesia địa phương cấp đơn thuốc theo INN → bệnh nhân nhận thuốc tại nhà thuốc tuân thủ địa phương, toàn bộ bằng tiếng Indonesia.",
+            sc3_title: "Tình huống 3: Gia đình bệnh nhân Myanmar tư vấn thuốc mới",
+            sc3_desc: "Gia đình bệnh nhân ung thư vú ở Yangon chỉ nói tiếng Myanmar → tư vấn viên Myanmar của Lanpei kiên nhẫn giải thích bằng tiếng Myanmar về thuốc mới toàn cầu và con đường tiếp cận hợp pháp → hồ sơ y tế tiếng Trung được gửi cho bác sĩ Wanxiang Peach → lời khuyên chẩn đoán được chuyển lại cho gia đình bằng tiếng Myanmar, không có rào cản giao tiếp.",
+            commitment_title: "Cam kết dịch vụ của Lanpei",
+            commitment_text: "Bất kể bạn đến từ quốc gia nào, nói ngôn ngữ nào, Lanpei Medical mong muốn trở thành \"phiên dịch viên + người dẫn đường\" đáng tin cậy nhất của bạn trong hành trình tiếp cận nguồn lực y tế toàn cầu — làm cho các nguồn lực y tế đa quốc gia phức tạp, sự khác biệt quy định và con đường tuân thủ trở nên rõ ràng bằng ngôn ngữ mẹ đẻ của bạn.",
+            closing_title: "Nếu bạn đang tìm nguồn lực y tế xuyên biên giới cho mình hoặc gia đình",
+            closing_text: "Hãy liên hệ với Lanpei Medical bằng ngôn ngữ quen thuộc nhất của bạn. Đội ngũ tư vấn của chúng tôi đã sẵn sàng cung cấp dịch vụ một-một."
+        },
+        id: {
+            site_name: "Lanpei Medical",
+            back_home: "Kembali ke Beranda",
+            news: "Berita",
+            cta_title: "Ingin mendiskusikan sumber daya medis lintas batas dalam bahasa ibu Anda?",
+            phone_label: "Telepon",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Pemberitahuan Penting",
+            disclaimer_text: "Artikel ini hanya untuk referensi, bukan saran medis. Silakan konsultasikan dengan dokter dan apoteker. Lanpei Medical tidak bertanggung jawab.",
+            footer_platform: "Platform Sumber Daya Medis Global",
+            footer_disclaimer: "Penafian: Informasi medis hanya untuk referensi. Silakan konsultasikan dengan dokter.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Konsultasi Online Lanpei",
+            phone_consult: "Konsultasi Telepon",
+            wechat_scan: "Pindai QR untuk tambah WeChat",
+            wechat_copy: "Tambah WeChat",
+            wechat_copied: "Disalin!",
+            phone_placeholder: "Masukkan nomor telepon",
+            callback_btn: "Minta Panggilan",
+            chat_footer: "Lanpei Medical · Sumber Daya Medis Global",
+            intro_title: "Mengapa layanan multibahasa sangat penting?",
+            intro_text: "Dalam skenario sumber daya medis lintas batas, bahasa adalah tembok pertama antara pasien dan sumber daya. Kesalahan menerjemahkan istilah medis, kebingungan satuan dosis, atau bias dalam menggambarkan kondisi dapat membelokkan setiap upaya berikutnya. Sejak hari pertama, Lanpei Medical telah berinvestasi dalam kemampuan multibahasa sebagai infrastruktur inti.",
+            grid_title: "Bahasa yang Saat Ini Didukung Lanpei",
+            grid_note: "✓ Semua konsultan adalah penutur asli/mahir + dilatih dengan latar belakang medis/farmasi",
+            lang_zh: "Mandarin",
+            lang_zh_r: "Tiongkok & diaspora Tionghoa",
+            lang_en: "Inggris",
+            lang_en_r: "Global / literatur medis",
+            lang_ru: "Rusia",
+            lang_ru_r: "Rusia & CIS",
+            lang_vi: "Vietnam",
+            lang_vi_r: "Vietnam",
+            lang_id: "Indonesia",
+            lang_id_r: "Indonesia",
+            lang_my: "Myanmar",
+            lang_my_r: "Myanmar",
+            lang_bd: "Bengali",
+            lang_bd_r: "Bangladesh",
+            why_title: "Mengapa 7 bahasa ini?",
+            why_intro: "Lanpei melayani pasien di seluruh dunia. Pemilihan bahasa didasarkan pada data konsultasi yang terakumulasi:",
+            why_p1: "<strong>Mandarin</strong>: kelompok pengguna inti, mencakup Tiongkok dan pasien Tionghoa global;",
+            why_p2: "<strong>Inggris</strong>: bahasa kerja umum untuk kedokteran lintas batas; literatur medis sebagian besar dalam bahasa Inggris;",
+            why_p3: "<strong>Rusia</strong>: pasien dari Rusia dan Asia Tengah merupakan kelompok pelanggan penting untuk wisata medis Tiongkok-Rusia;",
+            why_p4: "<strong>Vietnam/Indonesia/Myanmar/Bengali</strong>: Asia Tenggara dan Selatan mengalami pertumbuhan tercepat dalam permintaan medis lintas batas dalam beberapa tahun terakhir.",
+            capability_title: "4 Lapisan di Balik Layanan Multibahasa",
+            cap1_title: "1. Tim Konsultan Level Penutur Asli",
+            cap1_desc: "Konsultan inti Lanpei adalah penutur asli atau residen jangka panjang yang fasih dalam bahasa target. Setiap orang menerima pelatihan tiga lapisan: terminologi medis, frasa kepatuhan, batas etika.",
+            cap2_title: "2. Verifikasi Silang Bilingual",
+            cap2_desc: "Untuk komunikasi informasi medis kritis (dosis, indikator tes, diagnosis), Lanpei mensyaratkan konsultan penutur asli dan back office Tionghoa/Inggris melakukan cross-check, menghindari kesalahan interpretasi dari satu terjemahan.",
+            cap3_title: "3. Pemahaman Budaya Lokal",
+            cap3_desc: "Pasien dari berbagai daerah sangat berbeda dalam cara menggambarkan kondisi, kebiasaan konsultasi, dan sensitivitas privasi. Konsultan Lanpei secara proaktif menyesuaikan gaya ekspresi mereka.",
+            cap4_title: "4. Sinkronisasi Dokumen Rantai Penuh",
+            cap4_desc: "Catatan konsultasi, saran obat, umpan balik dokter disediakan dalam versi ganda: bahasa target + Tionghoa/Inggris, memudahkan pasien berkomunikasi dengan dokter lokal, rumah sakit, dan regulator.",
+            scenario_title: "Skenario Layanan Khas",
+            sc1_title: "Skenario 1: Pasien Rusia berkonsultasi obat target onkologi",
+            sc1_desc: "Keluarga pasien kanker paru di Moskow menghubungi Lanpei melalui WhatsApp → konsultan bahasa Rusia mengumpulkan detail kondisi → ringkasan bilingual disiapkan → konsultasi di Wanxiang Peach Internet Hospital diatur → resep dan informasi obat diberikan dalam bahasa Rusia + Tionghoa → konsultan Rusia menindaklanjuti bea cukai dan panduan pengobatan.",
+            sc2_title: "Skenario 2: Pasien Indonesia dengan konsultasi jarak jauh dan dispensing",
+            sc2_desc: "Pasien CML di Jakarta membutuhkan pengobatan jangka panjang → konsultan Indonesia Lanpei → membantu menjadwalkan konsultasi jarak jauh Wanxiang Peach → dokter Indonesia lokal mengeluarkan resep INN → pasien mengambil obat di apotek patuh lokal, semua dalam bahasa Indonesia.",
+            sc3_title: "Skenario 3: Keluarga pasien Myanmar berkonsultasi tentang obat baru",
+            sc3_desc: "Keluarga pasien kanker payudara di Yangon hanya berbicara bahasa Myanmar → konsultan Myanmar Lanpei dengan sabar menjelaskan dalam bahasa Myanmar tentang perkembangan obat baru global dan jalur akses yang patuh → rekam medis bahasa Tionghoa diserahkan ke dokter Wanxiang Peach → saran diagnosis dikomunikasikan kembali ke keluarga dalam bahasa Myanmar, tanpa hambatan komunikasi.",
+            commitment_title: "Komitmen Layanan Lanpei",
+            commitment_text: "Tidak peduli dari negara mana Anda berasal atau bahasa apa yang Anda gunakan, Lanpei Medical bertujuan untuk menjadi \"penerjemah + navigator\" paling tepercaya Anda dalam akses sumber daya medis global — membuat sumber daya medis multi-negara yang kompleks, perbedaan regulasi, dan jalur kepatuhan jelas dalam bahasa ibu Anda, sehingga Anda dan keluarga tidak lagi merasa cemas tentang hambatan bahasa saat menghadapi keputusan medis besar.",
+            closing_title: "Jika Anda mencari sumber daya medis lintas batas untuk diri sendiri atau keluarga",
+            closing_text: "Silakan hubungi Lanpei Medical dalam bahasa yang paling Anda kenal. Tim konsultan kami siap memberikan layanan satu-satu."
+        },
+        my: {
+            site_name: "Lanpei Medical",
+            back_home: "ပင်မသို့ ပြန်သွားရန်",
+            news: "သတင်း",
+            cta_title: "သင့်မိခင်ဘာသာစကားဖြင့် နယ်စပ်ဖြတ်ကျော် ဆေးဘက်ဆိုင်ရာ အရင်းအမြစ်များကို ဆွေးနွေးလိုပါသလား?",
+            phone_label: "ဖုန်း",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "အရေးကြီးသတိပေးချက်",
+            disclaimer_text: "ဤဆောင်းပါးသည် ရည်ညွှန်းရန်အတွက်သာဖြစ်ပြီး ဆေးဘက်ဆိုင်ရာ အကြံပြုချက်မဟုတ်ပါ။ ကျွမ်းကျင်ဆရာဝန်နှင့် ဆေးဝါးပညာရှင်များကို တိုင်ပင်ဆွေးနွေးပါ။ Lanpei Medical မှ တာဝန်ယူခြင်းမရှိပါ။",
+            footer_platform: "ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါးအရင်းအမြစ်ပလက်ဖောင်း",
+            footer_disclaimer: "သတိပေးချက်- ဤဝက်ဘ်ဆိုဒ်တွင်တင်ပြထားသော ဆေးဝါးအချက်အလက်များသည် ရည်ရွယ်ချက်တစ်ခုဖြစ်သည်။",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei အွန်လိုင်းတိုင်ပင်ဆွေးနွေးမှု",
+            phone_consult: "ဖုန်းဖြင့်တိုင်ပင်ဆွေးနွေးမှု",
+            wechat_scan: "QR ကုဒ်ဖတ်ပြီး WeChat ထည့်ပါ",
+            wechat_copy: "WeChat ထည့်ရန်",
+            wechat_copied: "ကူယူပြီး!",
+            phone_placeholder: "ဖုန်းနံပါတ် ထည့်ပါ",
+            callback_btn: "ပြန်ခေါ်ရန်တောင်းဆိုမှု",
+            chat_footer: "Lanpei Medical · ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါး",
+            intro_title: "ဘာကြောင့် ဘာသာစကားစုံ ဝန်ဆောင်မှု အရေးကြီးတာလဲ?",
+            intro_text: "နယ်စပ်ဖြတ်ကျော် ဆေးဘက်ဆိုင်ရာ အခြေအနေများတွင် ဘာသာစကားသည် လူနာနှင့် အရင်းအမြစ်ကြားရှိ ပထမဆုံးသော နံရံဖြစ်သည်။ ဆေးဘက်ဆိုင်ရာ ဝေါဟာရ ဘာသာပြန်မှားယွင်းခြင်း၊ ဆေးပမာဏ ယူနစ် ရှုပ်ထွေးခြင်း၊ ရောဂါအခြေအနေ ဖော်ပြရာတွင် ဘက်လိုက်မှုသည် နောက်ပိုင်း ကြိုးပမ်းအားထုတ်မှုများကို မှားယွင်းစေနိုင်သည်။ Lanpei Medical သည် ပထမနေ့မှစ၍ ဘာသာစကားစုံ စွမ်းရည်ကို အဓိက အခြေခံအဆောက်အအုံအဖြစ် ရင်းနှီးမြှုပ်နှံခဲ့သည်။",
+            grid_title: "Lanpei လက်ရှိ ပံ့ပိုးပေးသော ဝန်ဆောင်မှုဘာသာစကားများ",
+            grid_note: "✓ အကြံပေးအားလုံးသည် မိခင်ဘာသာစကား/ကျွမ်းကျင်မှု + ဆေးဘက်ဆိုင်ရာ/ဆေးဝါးဆိုင်ရာ နောက်ခံသင်တန်းပေးထားသည်",
+            lang_zh: "တရုတ်",
+            lang_zh_r: "တရုတ်နိုင်ငံနှင့် တရုတ်လူမျိုးများ",
+            lang_en: "အင်္ဂလိပ်",
+            lang_en_r: "ကမ္ဘာလုံးဆိုင်ရာ / ဆေးဘက်ဆိုင်ရာ စာပေ",
+            lang_ru: "ရုရှား",
+            lang_ru_r: "ရုရှားနှင့် CIS",
+            lang_vi: "ဗီယက်နမ်",
+            lang_vi_r: "ဗီယက်နမ်",
+            lang_id: "အင်ဒိုနီးရှား",
+            lang_id_r: "အင်ဒိုနီးရှား",
+            lang_my: "မြန်မာ",
+            lang_my_r: "မြန်မာ",
+            lang_bd: "ဘင်္ဂါလီ",
+            lang_bd_r: "ဘင်္ဂလားဒေ့ရှ်",
+            why_title: "ဘာကြောင့် ဒီဘာသာစကား ၇ မျိုးလဲ?",
+            why_intro: "Lanpei သည် ကမ္ဘာတစ်ဝှမ်းမှ လူနာများကို ဝန်ဆောင်မှုပေးသည်။ ဘာသာစကား ရွေးချယ်မှုသည် စုဆောင်းထားသော တိုင်ပင်ဆွေးနွေးမှု ဒေတာပေါ်တွင် အခြေခံသည်-",
+            why_p1: "<strong>တရုတ်</strong>: အဓိက အသုံးပြုသူ အုပ်စု၊ တရုတ်နိုင်ငံနှင့် ကမ္ဘာတစ်ဝှမ်းမှ တရုတ်လူနာများ အပါအဝင်;",
+            why_p2: "<strong>အင်္ဂလိပ်</strong>: နယ်စပ်ဖြတ်ကျော် ဆေးပညာအတွက် ဘုံ အလုပ်သုံးဘာသာစကား; ဆေးဘက်ဆိုင်ရာ စာပေများသည် အများအားဖြင့် အင်္ဂလိပ်ဘာသာဖြင့် ဖြစ်သည်;",
+            why_p3: "<strong>ရုရှား</strong>: ရုရှားနှင့် အလယ်အာရှမှ လူနာများသည် တရုတ်-ရုရှား ဆေးဘက်ဆိုင်ရာ ခရီးသွားလုပ်ငန်းအတွက် အရေးကြီးသော ဖောက်သည်အုပ်စုဖြစ်သည်;",
+            why_p4: "<strong>ဗီယက်နမ်/အင်ဒိုနီးရှား/မြန်မာ/ဘင်္ဂါလီ</strong>: အရှေ့တောင်အာရှနှင့် တောင်အာရှသည် မကြာသေးမီ နှစ်များအတွင်း နယ်စပ်ဖြတ်ကျော် ဆေးဘက်ဆိုင်ရာ ဝယ်လိုအား အမြန်ဆုံး ကြီးထွားလာမှုကို ပြသခဲ့သည်။",
+            capability_title: "ဘာသာစကားစုံ ဝန်ဆောင်မှု၏ နောက်ကွယ်မှ ၄ ထပ် အထောက်အကူ",
+            cap1_title: "1. မိခင်ဘာသာစကား အဆင့်ရှိ အကြံပေးအဖွဲ့",
+            cap1_desc: "Lanpei ၏ အဓိက အကြံပေးများသည် ပစ်မှတ်ဘာသာစကား၏ မိခင်ဘာသာစကားပြောဆိုသူများ သို့မဟုတ် ရေရှည် နေထိုင်သူ ကျွမ်းကျင်သူများဖြစ်သည်။",
+            cap2_title: "2. နှစ်ဘာသာ ဖြတ်ကျော် စစ်ဆေးခြင်း",
+            cap2_desc: "အရေးကြီးသော ဆေးဘက်ဆိုင်ရာ အချက်အလက်များအတွက် Lanpei သည် မိခင်ဘာသာစကား အကြံပေးနှင့် တရုတ်/အင်္ဂလိပ် back office နှစ်ခုလုံး ဖြတ်ကျော်စစ်ဆေးရန် လိုအပ်သည်။",
+            cap3_title: "3. ဒေသဆိုင်ရာ ယဉ်ကျေးမှု နားလည်မှု",
+            cap3_desc: "ကွဲပြားသော ဒေသများမှ လူနာများသည် ရောဂါကို ဖော်ပြပုံ၊ တိုင်ပင်ဆွေးနွေးမှု အလေ့အထများနှင့် ကိုယ်ရေးကိုယ်တာ ထိခိုက်လွယ်မှုတွင် ကွဲပြားသည်။",
+            cap4_title: "4. ကွင်းဆက်တစ်ခုလုံး စာရွက်စာတမ်း ထပ်တူညီမှု",
+            cap4_desc: "လူနာ တိုင်ပင်ဆွေးနွေးမှု မှတ်တမ်းများ၊ ဆေးဝါး အကြံပြုချက်များကို ပစ်မှတ်ဘာသာစကား + တရုတ်/အင်္ဂလိပ် နှစ်ထပ်ဗားရှင်းဖြင့် ပေးပို့သည်။",
+            scenario_title: "ပုံမှန် ဝန်ဆောင်မှု အခြေအနေများ",
+            sc1_title: "အခြေအနေ 1: ရုရှားလူနာ ကင်ဆာ ပစ်မှတ်ဆေး တိုင်ပင်ဆွေးနွေးခြင်း",
+            sc1_desc: "မော်စကိုမှ အဆုတ်ကင်ဆာ လူနာ၏ မိသားစုသည် WhatsApp မှတစ်ဆင့် Lanpei ကို ဆက်သွယ်သည် → ရုရှား အကြံပေးက အခြေအနေ အသေးစိတ်များ စုဆောင်းသည် → နှစ်ဘာသာ အကျဉ်းချုပ် ပြင်ဆင်သည် → Wanxiang Peach Internet Hospital တွင် တိုင်ပင်ဆွေးနွေးမှု စီစဉ်သည် → ဆေးညွှန်းနှင့် ဆေးဝါး အချက်အလက်များကို ရုရှား + တရုတ် နှစ်ဘာသာဖြင့် ပေးသည် → ရုရှား အကြံပေးက အကောက်ခွန်နှင့် ဆေးဝါး လမ်းညွှန်မှုကို ဆက်လက်စောင့်ကြည့်သည်။",
+            sc2_title: "အခြေအနေ 2: အင်ဒိုနီးရှား လူနာ အဝေးမှ တိုင်ပင်ဆွေးနွေးခြင်း",
+            sc2_desc: "ဂျကာတာမှ နာတာရှည် သွေးဖြူဥသမ်း ရောဂါ လူနာသည် ရေရှည် ဆေးဝါး လိုအပ်သည် → Lanpei ၏ အင်ဒိုနီးရှား အကြံပေး → Wanxiang Peach အဝေးမှ တိုင်ပင်ဆွေးနွေးမှု စီစဉ်ရာတွင် ကူညီသည် → ဒေသဆိုင်ရာ အင်ဒိုနီးရှား ဆရာဝန်က INN ဆေးညွှန်း ထုတ်ပေးသည် → လူနာသည် ဒေသဆိုင်ရာ လိုက်နာမှုရှိ ဆေးဆိုင်တွင် ဆေးဝါး ရယူသည်။",
+            sc3_title: "အခြေအနေ 3: မြန်မာ လူနာ မိသားစု ဆေးသစ် တိုင်ပင်ဆွေးနွေးခြင်း",
+            sc3_desc: "ရန်ကုန်မှ ရင်သားကင်ဆာ လူနာ၏ မိသားစုသည် မြန်မာဘာသာသာ ပြောဆိုနိုင်သည် → Lanpei ၏ မြန်မာ အကြံပေးက ကမ္ဘာလုံးဆိုင်ရာ ဆေးသစ် ဖွံ့ဖြိုးတိုးတက်မှုများနှင့် လိုက်နာမှုရှိသော ဝင်ရောက်ခွင့် လမ်းကြောင်းများကို မြန်မာဘာသာဖြင့် ရှင်းပြသည် → Wanxiang Peach ဆရာဝန်များထံ တရုတ် ဆေးဘက်ဆိုင်ရာ မှတ်တမ်း တင်ပြသည် → ရောဂါ အကြံပြုချက်များကို မိသားစုထံ မြန်မာဘာသာဖြင့် ပြန်လည် ပေးပို့သည်။",
+            commitment_title: "Lanpei ၏ ဝန်ဆောင်မှု ကတိကဝတ်",
+            commitment_text: "သင်သည် မည်သည့်နိုင်ငံမှ လာသည်ဖြစ်စေ မည်သည့်ဘာသာစကား ပြောဆိုသည်ဖြစ်စေ Lanpei Medical သည် ကမ္ဘာလုံးဆိုင်ရာ ဆေးဘက်ဆိုင်ရာ အရင်းအမြစ် ဝင်ရောက်ခွင့်တွင် သင်၏ ယုံကြည်စိတ်ချရဆုံး \"ဘာသာပြန် + လမ်းပြ\" ဖြစ်လာရန် ရည်ရွယ်ပါသည်။",
+            closing_title: "သင့်ကိုယ်တိုင် သို့မဟုတ် မိသားစုအတွက် နယ်စပ်ဖြတ်ကျော် ဆေးဘက်ဆိုင်ရာ အရင်းအမြစ်များ ရှာဖွေနေပါက",
+            closing_text: "သင် အကျွမ်းကျင်ဆုံး ဘာသာစကားဖြင့် Lanpei Medical ကို ဆက်သွယ်ပါ။ ကျွန်ုပ်တို့၏ အကြံပေးအဖွဲ့သည် တစ်ဦးချင်း ဝန်ဆောင်မှု ပေးရန် အသင့်ဖြစ်နေပါသည်။"
+        },
+        bd: {
+            site_name: "Lanpei Medical",
+            back_home: "হোম পেজে ফিরে যান",
+            news: "সংবাদ",
+            cta_title: "মাতৃভাষায় ক্রস-বর্ডার মেডিকেল রিসোর্স নিয়ে কথা বলতে চান?",
+            phone_label: "ফোন",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "উইচ্যাট",
+            disclaimer_title: "গুরুত্বপূর্ণ বিজ্ঞপ্তি",
+            disclaimer_text: "এই নিবন্ধটি শুধুমাত্র রেফারেন্সের জন্য, চিকিৎসা পরামর্শ নয়। পেশাদার ডাক্তার ও ফার্মাসিস্টের সাথে পরামর্শ করুন। Lanpei Medical কোনো দায়িত্ব নেয় না।",
+            footer_platform: "বিশ্বমানের মেডিকেল রিসোর্স প্ল্যাটফর্ম",
+            footer_disclaimer: "দ্বায়িত্ব: এই সাইটে প্রদর্শিত মেডিকেল তথ্য শুধুমাত্র রেফারেন্সের জন্য। অনুগ্রহ করে ডাক্তারের পরামর্শ নিন।",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei অনলাইন পরামর্শ",
+            phone_consult: "ফোনে পরামর্শ",
+            wechat_scan: "QR কোড স্ক্যান করে উইচ্যাট যোগ করুন",
+            wechat_copy: "উইচ্যাট যোগ",
+            wechat_copied: "কপি হয়েছে!",
+            phone_placeholder: "ফোন নম্বর দিন",
+            callback_btn: "কল ব্যাক চান",
+            chat_footer: "Lanpei Medical · বিশ্ব মেডিকেল রিসোর্স",
+            intro_title: "কেন বহুভাষিক পরিষেবা এত গুরুত্বপূর্ণ?",
+            intro_text: "ক্রস-বর্ডার মেডিকেল রিসোর্স দৃশ্যকল্পে, ভাষা রোগী ও সম্পদের মধ্যে প্রথম প্রাচীর। একটি ভুল অনূদিত মেডিকেল শব্দ, একটি বিভ্রান্তিকর ডোজ ইউনিট, বা অবস্থার বর্ণনায় পক্ষপাত সমস্ত পরবর্তী প্রচেষ্টাকে বিপথে নিয়ে যেতে পারে। প্রথম দিন থেকেই Lanpei Medical মূল অবকাঠামো হিসেবে বহুভাষিক ক্ষমতায় বিনিয়োগ করেছে।",
+            grid_title: "Lanpei বর্তমানে যে ভাষাগুলি সমর্থন করে",
+            grid_note: "✓ সমস্ত পরামর্শকারী মাতৃভাষী/দক্ষ + মেডিকেল/ফার্মাসিউটিক্যাল প্রশিক্ষণপ্রাপ্ত",
+            lang_zh: "চীনা",
+            lang_zh_r: "চীন ও বৈশ্বিক চীনা",
+            lang_en: "ইংরেজি",
+            lang_en_r: "বৈশ্বিক / মেডিকেল সাহিত্য",
+            lang_ru: "রুশ",
+            lang_ru_r: "রাশিয়া ও CIS",
+            lang_vi: "ভিয়েতনামী",
+            lang_vi_r: "ভিয়েতনাম",
+            lang_id: "ইন্দোনেশীয়",
+            lang_id_r: "ইন্দোনেশিয়া",
+            lang_my: "বার্মিজ",
+            lang_my_r: "মিয়ানমার",
+            lang_bd: "বাংলা",
+            lang_bd_r: "বাংলাদেশ",
+            why_title: "কেন এই ৭টি ভাষা?",
+            why_intro: "Lanpei বিশ্বজুড়ে রোগীদের পরিবেশন করে। ভাষা নির্বাচন সঞ্চিত পরামর্শ ডেটার উপর ভিত্তি করে:",
+            why_p1: "<strong>চীনা</strong>: মূল ব্যবহারকারী গোষ্ঠী, চীন ও বৈশ্বিক চীনা রোগীদের অন্তর্ভুক্ত;",
+            why_p2: "<strong>ইংরেজি</strong>: ক্রস-বর্ডার মেডিসিনের সাধারণ কর্মভাষা; মেডিকেল সাহিত্য বেশিরভাগ ইংরেজিতে;",
+            why_p3: "<strong>রুশ</strong>: রাশিয়া ও মধ্য এশিয়ার রোগীরা চীন-রাশিয়া মেডিকেল ট্যুরিজমের জন্য গুরুত্বপূর্ণ গ্রাহক গোষ্ঠী;",
+            why_p4: "<strong>ভিয়েতনামী/ইন্দোনেশীয়/বার্মিজ/বাংলা</strong>: দক্ষিণ-পূর্ব এশিয়া ও দক্ষিণ এশিয়া সাম্প্রতিক বছরগুলিতে ক্রস-বর্ডার মেডিকেল চাহিদায় দ্রুততম প্রবৃদ্ধি দেখিয়েছে।",
+            capability_title: "বহুভাষিক পরিষেবার পেছনে ৪ স্তর",
+            cap1_title: "1. মাতৃভাষী স্তরের পরামর্শক দল",
+            cap1_desc: "Lanpei-এর মূল পরামর্শকরা লক্ষ্য ভাষার মাতৃভাষী বা দীর্ঘমেয়াদী বাসিন্দা যারা ভাষায় সাবলীল। প্রত্যেকে তিন স্তরের প্রশিক্ষণ পান: মেডিকেল পরিভাষা, সম্মতি বাক্যাংশ, নৈতিক সীমানা।",
+            cap2_title: "2. দ্বিভাষিক ক্রস-যাচাই",
+            cap2_desc: "গুরুত্বপূর্ণ মেডিকেল তথ্যের জন্য Lanpei-এর মাতৃভাষী পরামর্শক এবং চীনা/ইংরেজি ব্যাক অফিস উভয়কেই ক্রস-চেক করতে হয়।",
+            cap3_title: "3. স্থানীয় সাংস্কৃতিক বোঝাপড়া",
+            cap3_desc: "বিভিন্ন অঞ্চলের রোগীরা অবস্থা বর্ণনা, পরামর্শের অভ্যাস এবং গোপনীয়তার সংবেদনশীলতায় উল্লেখযোগ্যভাবে আলাদা। Lanpei-এর পরামর্শকরা সক্রিয়ভাবে তাদের প্রকাশভঙ্গি সামঞ্জস্য করেন।",
+            cap4_title: "4. সম্পূর্ণ চেইন ডকুমেন্ট সিঙ্ক্রোনাইজেশন",
+            cap4_desc: "রোগীর পরামর্শ রেকর্ড, ওষুধ পরামর্শ, ডাক্তারের প্রতিক্রিয়া দুটি সংস্করণে সরবরাহ করা হয়: লক্ষ্য ভাষা + চীনা/ইংরেজি।",
+            scenario_title: "সাধারণ পরিষেবা দৃশ্যকল্প",
+            sc1_title: "দৃশ্যকল্প 1: রুশ রোগী অনকোলজি টার্গেটেড ওষুধ পরামর্শ",
+            sc1_desc: "মস্কোর একজন ফুসফুস ক্যান্সার রোগীর পরিবার WhatsApp-এর মাধ্যমে Lanpei-এর সাথে যোগাযোগ করে → রুশ পরামর্শক অবস্থার বিশদ সংগ্রহ করে → দ্বিভাষিক সারাংশ প্রস্তুত হয় → Wanxiang Peach Internet Hospital-এ পরামর্শের ব্যবস্থা → প্রেসক্রিপশন ও ওষুধের তথ্য রুশ + চীনা ভাষায় → রুশ পরামর্শক কাস্টমস ক্লিয়ারেন্স ও ওষুধের নির্দেশনা সার্বক্ষণিক অনুসরণ করে।",
+            sc2_title: "দৃশ্যকল্প 2: ইন্দোনেশীয় রোগী রিমোট কনসাল্টেশন",
+            sc2_desc: "জাকার্তার একজন CML রোগীর দীর্ঘমেয়াদী ওষুধ প্রয়োজন → Lanpei-এর ইন্দোনেশীয় পরামর্শক → Wanxiang Peach রিমোট কনসাল্টেশনের সময়সূচীতে সাহায্য → স্থানীয় ইন্দোনেশীয় ডাক্তার INN প্রেসক্রিপশন দেন → রোগী স্থানীয় সম্মত ফার্মেসি থেকে ওষুধ সংগ্রহ করেন।",
+            sc3_title: "দৃশ্যকল্প 3: মিয়ানমারের রোগীর পরিবার নতুন ওষুধ পরামর্শ",
+            sc3_desc: "ইয়াঙ্গুনের একজন স্তন ক্যান্সার রোগীর পরিবার শুধুমাত্র বার্মিজ ভাষায় কথা বলে → Lanpei-এর বার্মিজ পরামর্শক ধৈর্য সহকারে বিশ্বব্যাপী নতুন ওষুধের উন্নয়ন ও সম্মত অ্যাক্সেস পথ ব্যাখ্যা করেন → চীনা মেডিকেল রেকর্ড Wanxiang Peach ডাক্তারদের কাছে জমা → ডায়াগনসিস পরামর্শ বার্মিজ ভাষায় ফেরত পাঠানো হয়।",
+            commitment_title: "Lanpei-এর পরিষেবা প্রতিশ্রুতি",
+            commitment_text: "আপনি যে দেশ থেকেই আসুন বা যে ভাষাই বলুন, Lanpei Medical বিশ্বব্যাপী মেডিকেল রিসোর্স অ্যাক্সেসে আপনার সবচেয়ে বিশ্বস্ত \"অনুবাদক + নেভিগেটর\" হতে চায় — জটিল মাল্টি-কান্ট্রি মেডিকেল রিসোর্স, নিয়ন্ত্রক পার্থক্য এবং সম্মতি পথগুলি আপনার মাতৃভাষায় স্পষ্ট করে।",
+            closing_title: "আপনি বা আপনার পরিবারের জন্য ক্রস-বর্ডার মেডিকেল রিসোর্স খুঁজছেন",
+            closing_text: "আপনার সবচেয়ে পরিচিত ভাষায় Lanpei Medical-এর সাথে যোগাযোগ করুন। আমাদের পরামর্শক দল এক-একজন পরিষেবা দিতে প্রস্তুত।"
+        }
+    };
+
+    let currentLang = 'zh';
+
+    function changeLanguage(lang) {
+        currentLang = lang;
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+            btn.classList.remove('bg-[#f97316]', 'text-white');
+            if (btn.dataset.lang === lang) {
+                btn.classList.add('bg-[#f97316]', 'text-white');
+            }
+        });
+        updateTranslations();
+    }
+
+    function updateTranslations() {
+        const t = translations[currentLang];
+        document.querySelectorAll('[data-i18n]').forEach(el => {
+            const key = el.getAttribute('data-i18n');
+            if (t[key]) el.textContent = t[key];
+        });
+        const ctaTitle = document.getElementById('cta-title');
+        if (ctaTitle) ctaTitle.textContent = t.cta_title;
+        const disclaimerTitle = document.getElementById('disclaimer-title');
+        if (disclaimerTitle) disclaimerTitle.textContent = t.disclaimer_title;
+        const disclaimerText = document.getElementById('disclaimer-text');
+        if (disclaimerText) disclaimerText.textContent = t.disclaimer_text;
+        const footerPlatform = document.getElementById('footer-platform');
+        if (footerPlatform) footerPlatform.textContent = t.footer_platform;
+        const footerDisclaimer = document.getElementById('footer-disclaimer');
+        if (footerDisclaimer) footerDisclaimer.textContent = t.footer_disclaimer;
+        const chatTitle = document.querySelector('.chat-header-left span');
+        if (chatTitle) chatTitle.textContent = t.chat_title;
+        const wechatLabel = document.getElementById('wechatLabel');
+        if (wechatLabel) wechatLabel.textContent = t.wechat_copy;
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "7种语言服务能力：蓝培医疗如何帮全球患者无障碍对接医疗资源",
+        "description": "蓝培医疗7种语言服务能力深度介绍：中文、英文、俄文、越南语、印尼语、缅甸语、孟加拉语",
+        "url": "https://lanpeimed.com/news-company-0622-7yuzhong.html"
+    }
+    </script>
+</head>
+<body class="bg-gray-50">
+    <!-- Top Bar -->
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
+            <div class="flex items-center gap-4 flex-wrap">
+                <span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span>
+                <span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span>
+            </div>
+            <div class="flex items-center gap-3">
+                <div class="flex gap-2">
+                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
+                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
+                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
+                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
+                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
+                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
+                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white" data-i18n="site_name">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i><span data-i18n="back_home">首页</span></a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i><span data-i18n="news">新闻资讯</span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com" data-i18n="back_home">首页</a> &gt; <a href="https://lanpeimed.com/news.html" data-i18n="news">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium" data-i18n="tab_company">公司资讯</span> &gt; 7种语言服务能力
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">7种语言服务能力：蓝培医疗如何帮全球患者无障碍对接医疗资源</h1>
+            <p class="text-gray-500 mb-6">发布时间：2026-06-22 | 公司资讯 | 7种语言服务能力</p>
+
+            <div class="info-box">
+                <p><strong data-i18n="intro_title">为什么多语种服务这么重要？</strong></p>
+                <p data-i18n="intro_text">在跨境医疗资源对接场景中，语言是横在患者和资源之间的第一道墙。一个医学名词翻译错误、一个剂量单位混淆、一句病情描述的偏差，都可能让后面的所有努力偏离方向。蓝培医疗从成立第一天起，就把多语种服务能力当作核心基建投入。</p>
+            </div>
+
+            <h2><i class="fas fa-language mr-2 text-orange-500"></i><span data-i18n="grid_title">蓝培目前支持的服务语言</span></h2>
+            <p class="text-sm text-gray-500" data-i18n="grid_note">✓ 所有顾问均为母语/精通水平 + 具备医学/药学背景培训</p>
+            <div class="lang-grid">
+                <div class="lang-card">
+                    <div class="flag">🇨🇳</div>
+                    <div class="name" data-i18n="lang_zh">中文</div>
+                    <div class="region" data-i18n="lang_zh_r">中国及华人圈</div>
+                </div>
+                <div class="lang-card">
+                    <div class="flag">🇬🇧</div>
+                    <div class="name" data-i18n="lang_en">English</div>
+                    <div class="region" data-i18n="lang_en_r">全球通用 / 医疗文献</div>
+                </div>
+                <div class="lang-card">
+                    <div class="flag">🇷🇺</div>
+                    <div class="name" data-i18n="lang_ru">Русский</div>
+                    <div class="region" data-i18n="lang_ru_r">俄罗斯及独联体</div>
+                </div>
+                <div class="lang-card">
+                    <div class="flag">🇻🇳</div>
+                    <div class="name" data-i18n="lang_vi">Tiếng Việt</div>
+                    <div class="region" data-i18n="lang_vi_r">越南</div>
+                </div>
+                <div class="lang-card">
+                    <div class="flag">🇮🇩</div>
+                    <div class="name" data-i18n="lang_id">Indonesia</div>
+                    <div class="region" data-i18n="lang_id_r">印度尼西亚</div>
+                </div>
+                <div class="lang-card">
+                    <div class="flag">🇲🇲</div>
+                    <div class="name" data-i18n="lang_my">မြန်မာ</div>
+                    <div class="region" data-i18n="lang_my_r">缅甸</div>
+                </div>
+                <div class="lang-card">
+                    <div class="flag">🇧🇩</div>
+                    <div class="name" data-i18n="lang_bd">বাংলা</div>
+                    <div class="region" data-i18n="lang_bd_r">孟加拉国</div>
+                </div>
+            </div>
+
+            <h2><i class="fas fa-question-circle mr-2 text-orange-500"></i><span data-i18n="why_title">为什么是这7种语言？</span></h2>
+            <p data-i18n="why_intro">蓝培医疗的服务对象是全球患者，语种选择基于实际咨询数据积累：</p>
+            <p data-i18n="why_p1"><strong>中文</strong>：核心用户群体，覆盖中国及全球华人患者；</p>
+            <p data-i18n="why_p2"><strong>英文</strong>：跨境医疗的通用工作语言，医学文献、临床报告多以英文为准；</p>
+            <p data-i18n="why_p3"><strong>俄文</strong>：俄罗斯及中亚地区患者是中俄医疗旅游的重要客群；</p>
+            <p data-i18n="why_p4"><strong>越南语/印尼语/缅甸语/孟加拉语</strong>：东南亚和南亚是近两年跨境医疗资源对接需求增速最快的区域。</p>
+
+            <h2><i class="fas fa-layer-group mr-2 text-orange-500"></i><span data-i18n="capability_title">多语种服务背后的4层支撑</span></h2>
+            <div class="feature-row">
+                <i class="fas fa-user-tie"></i>
+                <div>
+                    <strong data-i18n="cap1_title">1. 母语级顾问团队</strong>
+                    <p class="text-gray-700 mt-1" data-i18n="cap1_desc">蓝培的核心咨询顾问均为对应语种的母语使用者或长期留学定居的精通者，每个人都经过医学术语、合规话术、伦理边界三层培训，确保在母语环境下也能精准传递医学信息。</p>
+                </div>
+            </div>
+            <div class="feature-row">
+                <i class="fas fa-check-double"></i>
+                <div>
+                    <strong data-i18n="cap2_title">2. 双语交叉校验</strong>
+                    <p class="text-gray-700 mt-1" data-i18n="cap2_desc">涉及医学关键信息（药物剂量、检查指标、诊断结论）的沟通，蓝培要求同时由母语顾问和中文/英文后台做交叉校对，避免单一翻译带来的误读风险。</p>
+                </div>
+            </div>
+            <div class="feature-row">
+                <i class="fas fa-globe-asia"></i>
+                <div>
+                    <strong data-i18n="cap3_title">3. 本地化文化理解</strong>
+                    <p class="text-gray-700 mt-1" data-i18n="cap3_desc">不同地区患者在表达病情、咨询习惯、对隐私的敏感度上差异很大。蓝培的顾问在沟通过程中会主动调整表达方式，让患者在熟悉的语境下完成咨询。</p>
+                </div>
+            </div>
+            <div class="feature-row">
+                <i class="fas fa-file-medical"></i>
+                <div>
+                    <strong data-i18n="cap4_title">4. 全链路文档同步</strong>
+                    <p class="text-gray-700 mt-1" data-i18n="cap4_desc">患者咨询记录、用药建议、医生反馈等关键文件，蓝培都会提供对应语种版本 + 中文/英文版本的双套交付，方便患者与本地医生、医院、监管机构进一步沟通。</p>
+                </div>
+            </div>
+
+            <h2><i class="fas fa-clipboard-list mr-2 text-orange-500"></i><span data-i18n="scenario_title">典型服务场景</span></h2>
+            <h3 data-i18n="sc1_title">场景一：俄罗斯患者咨询肿瘤靶向药</h3>
+            <p data-i18n="sc1_desc">莫斯科一位肺癌患者家属通过 WhatsApp 找到蓝培，顾问用俄语沟通病情细节 → 整理成中英双语病历摘要 → 协助对接万象桃子互联网医院 → 处方与药品信息提供俄语+中文双版本 → 全程由俄语顾问跟进出关、用药指导。</p>
+            <h3 data-i18n="sc2_title">场景二：印尼患者远程问诊配药</h3>
+            <p data-i18n="sc2_desc">雅加达一位慢性白血病患者需要长期用药，通过蓝培印尼语顾问 → 协助预约万象桃子远程问诊 → 印尼本地医生出具通用名处方 → 患者在本地合规药房凭方取药，全过程使用印尼语沟通。</p>
+            <h3 data-i18n="sc3_title">场景三：缅甸患者家属咨询新药</h3>
+            <p data-i18n="sc3_desc">仰光一位乳腺癌患者家属只会缅语，蓝培缅甸语顾问用缅语耐心讲解全球新药动态和合规获取路径 → 整理中文版病历提交万象桃子医生 → 反向用缅语向家属同步诊疗建议，沟通零障碍。</p>
+
+            <h2><i class="fas fa-handshake mr-2 text-orange-500"></i><span data-i18n="commitment_title">蓝培的服务承诺</span></h2>
+            <p data-i18n="commitment_text">无论您来自哪个国家、说哪种语言，蓝培医疗希望成为您全球医疗资源对接过程中最值得信赖的"翻译者+导航员"——把复杂的多国医疗资源、监管差异、合规路径，用您熟悉的母语讲清楚，让您和家人在面对重大医疗决策时，不再因为语言而焦虑。</p>
+
+            <div class="info-box">
+                <p><strong data-i18n="closing_title">如果您正在为家人或自己寻找跨境医疗资源</strong></p>
+                <p data-i18n="closing_text">欢迎用您最熟悉的语言联系蓝培医疗。我们的顾问团队已准备好，为您提供一对一咨询服务。</p>
+            </div>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p id="cta-title" class="text-lg mb-3" data-i18n="cta_title">想了解更多全球医疗资源对接建议？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i><span data-i18n="phone_label">电话咨询</span>：<a href="tel:17844531559">17844531559</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i><span data-i18n="whatsapp_label">WhatsApp</span>：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i><span data-i18n="wechat_label">微信咨询</span>：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong id="disclaimer-title" data-i18n="disclaimer_title"><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong><span id="disclaimer-text" data-i18n="disclaimer_text">本文章仅供信息参考，不构成医疗建议。具体疾病治疗和用药细节请务必咨询专业医生和药师，蓝培医疗不承担任何责任。</span></p>
+            </div>
+        </article>
+
+        <div class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold">蓝培医疗 · 全球优质医疗资源咨询</p>
+            <p class="text-sm mt-1">电话 17844531559 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p id="footer-platform" data-i18n="footer_platform">全球优质医疗资源咨询平台</p>
+            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明：本网站展示的医疗信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p id="footer-copyright" class="mt-1" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+
+<!-- 在线咨询浮窗 -->
+<style>
+.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
+.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
+.chat-widget-btn i{color:#fff;font-size:24px}
+.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
+@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
+.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
+@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.chat-box.active{display:flex}
+.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
+.chat-header-left{display:flex;align-items:center;gap:10px}
+.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
+.chat-header-left span{font-size:15px;font-weight:600}
+.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
+.chat-body{padding:16px;flex:1}
+.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
+.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
+.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
+.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
+.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
+.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
+.chat-contact-item .label{font-weight:600;margin-top:4px}
+.chat-input-area{display:flex;gap:8px;margin-top:10px}
+.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
+.chat-input-area input:focus{border-color:#1e3a5f}
+.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
+.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
+.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
+</style>
+<div class="chat-widget-btn" onclick="toggleChat()">
+    <div class="pulse-ring"></div>
+    <i class="fas fa-headset"></i>
+</div>
+<div class="chat-box" id="chatBox">
+    <div class="chat-header">
+        <div class="chat-header-left">
+            <div class="logo">蓝培</div>
+            <span data-i18n="chat_title">蓝培医疗在线咨询</span>
+        </div>
+        <button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="chat-body">
+        <div class="chat-notice">
+            因咨询人数多，如未及时回复，请致电：<span class="phone-red">17844531559</span>，或扫码加微信沟通：
+        </div>
+        <div style="text-align:center;margin-bottom:14px">
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px">
+            <p style="font-size:12px;color:#6b7280;margin-top:6px" data-i18n="wechat_scan">微信扫一扫添加咨询</p>
+        </div>
+        <div class="chat-contact-row">
+            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none">
+                <i class="fas fa-phone-alt" style="color:#1e3a5f"></i>
+                <div class="label" data-i18n="phone_consult">电话咨询</div>
+            </a>
+            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-whatsapp" style="color:#25d366"></i>
+                <div class="label" data-i18n="whatsapp_label">WhatsApp</div>
+            </a>
+            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-weixin" style="color:#07c160"></i>
+                <div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div>
+            </a>
+        </div>
+        <div class="chat-input-area">
+            <input type="tel" id="chatPhone" placeholder="请输入手机号码" data-i18n-placeholder="phone_placeholder">
+            <button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button>
+        </div>
+    </div>
+    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
+</div>
+<script>
+function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
+function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){l.textContent=translations[currentLang].wechat_copy},2000)}
+function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求：'+p+'，请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
+document.addEventListener('DOMContentLoaded', function() { updateTranslations(); });
+</script>
+
+</body>
+</html>
