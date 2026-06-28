@@ -789,31 +789,31 @@
     "name": "非布司他片",
     "brand": "Intas",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "吡非尼酮片 Pirfenex",
     "brand": "Natco",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "尼达尼布胶囊 NINDEV",
     "brand": "CIPLA",
     "category": "肺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "尼达尼布胶囊 Nindanib",
     "brand": "SUN",
     "category": "肺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "地拉罗司口服混悬片 DEFRIJET",
     "brand": "Glenmark",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "地拉罗司分散片 DEFRATAJ",
