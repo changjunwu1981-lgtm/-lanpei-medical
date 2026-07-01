@@ -819,31 +819,31 @@
     "name": "地拉罗司分散片 DEFRATAJ",
     "brand": "MANKIND",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "瑞戈非尼片 Regonat",
     "brand": "CIPLA",
     "category": "肝癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "曲氟尿苷替匹嘧啶片 COMTRIPSY",
     "brand": "Natco",
     "category": "结直肠癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "沙芬酰胺片 ZAFIMOVE",
     "brand": "Emcure",
     "category": "帕金森",
-    "covered": false
+    "covered": true
   },
   {
     "name": "雷沙吉兰片 RELGIN",
     "brand": "Hetero",
     "category": "帕金森",
-    "covered": false
+    "covered": true
   },
   {
     "name": "帕唑帕尼片 Pazonat",
