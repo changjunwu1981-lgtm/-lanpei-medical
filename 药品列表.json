@@ -849,7 +849,7 @@
     "name": "帕唑帕尼片 Pazonat",
     "brand": "孟加拉珠峰药业",
     "category": "肾癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "舒尼替尼胶囊 SUTIB",
@@ -861,7 +861,7 @@
     "name": "伊马替尼片 IMANIB",
     "brand": "孟加拉珠峰药业",
     "category": "白血病",
-    "covered": false
+    "covered": true
   },
   {
     "name": "达沙替尼片 Dasanat",
