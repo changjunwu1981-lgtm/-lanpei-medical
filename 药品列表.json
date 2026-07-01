@@ -855,7 +855,7 @@
     "name": "舒尼替尼胶囊 SUTIB",
     "brand": "孟加拉珠峰药业",
     "category": "肾癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "伊马替尼片 IMANIB",
@@ -867,25 +867,25 @@
     "name": "达沙替尼片 Dasanat",
     "brand": "孟加拉珠峰药业",
     "category": "白血病",
-    "covered": false
+    "covered": true
   },
   {
     "name": "比卡鲁胺片 Calutide",
     "brand": "孟加拉珠峰药业",
     "category": "前列腺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "恩杂鲁胺胶囊 ENZYL",
     "brand": "孟加拉珠峰药业",
     "category": "前列腺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "醋酸阿比特龙片 ABIRAPRO",
     "brand": "孟加拉珠峰药业",
     "category": "前列腺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "巴瑞替尼片 BARIKIND",
