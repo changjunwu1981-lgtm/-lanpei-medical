@@ -1,0 +1,1428 @@
+================================================================================
+                蓝培医疗-新闻资讯文章-2026-05-31
+================================================================================
+
+================================================================================
+【第一篇】网站版HTML - 克唑替尼胶囊
+文件：news-011-kekaozhini.html
+================================================================================
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>克唑替尼胶囊用法用量 - 蓝培医疗新闻资讯</title>
+    <meta name="description" content="克唑替尼胶囊(Crizotinib/赛可瑞)用法用量详解，ALK阳性/ROS1阳性非小细胞肺癌治疗，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="克唑替尼,克唑替尼胶囊,Crizotinib,赛可瑞,ALK阳性肺癌,ROS1阳性肺癌,克唑替尼用法用量,克唑替尼价格">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i>首页</a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i>新闻资讯</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com">首页</a> &gt; <a href="https://lanpeimed.com/news.html">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium">药闻速递</span> &gt; 克唑替尼胶囊
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">克唑替尼胶囊</h1>
+            <p class="text-gray-500 mb-6">Crizotinib（赛可瑞®/XALKORI®） | 肺癌 | 品牌名：Kayzoni</p>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>药品简介</h2>
+            <div class="info-box">
+                <p>克唑替尼（Crizotinib）是全球首个获批用于治疗ALK阳性及ROS1阳性非小细胞肺癌的靶向药物，属于多靶点酪氨酸激酶抑制剂（TKI）。通过抑制ALK、c-MET和ROS1激酶的活性，阻断肿瘤细胞增殖和生存信号通路。克唑替尼于2011年获FDA批准上市，2013年在中国上市（商品名赛可瑞®），2018年纳入国家医保目录，为中国ALK/ROS1阳性肺癌患者带来了显著的生存获益。</p>
+            </div>
+
+            <h2><i class="fas fa-notes-medical mr-2 text-orange-500"></i>适应症</h2>
+            <div class="info-box">
+                <p>克唑替尼胶囊在国内外获批用于以下适应症：</p>
+                <ul class="list-disc pl-6 mt-2 space-y-2">
+                    <li><strong>ALK阳性非小细胞肺癌（NSCLC）</strong>：经充分验证的检测方法证实为ALK阳性的局部晚期或转移性NSCLC患者</li>
+                    <li><strong>ROS1阳性非小细胞肺癌</strong>：ROS1阳性的晚期NSCLC成年患者</li>
+                    <li><strong>ALK阳性系统性间变性大细胞淋巴瘤（ALCL）</strong>：1岁及以上儿科患者及年轻成人，复发或难治性ALK阳性ALCL</li>
+                    <li><strong>ALK阳性炎性肌纤维母细胞瘤（IMT）</strong>：不可切除、复发或难治性ALK阳性IMT成年和儿科患者</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-prescription mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>推荐剂量</h3>
+            <div class="info-box">
+                <p><strong>克唑替尼胶囊的推荐剂量为250mg口服，每日两次</strong>，直至疾病进展或患者无法耐受。</p>
+                <ul class="list-disc pl-6 mt-3 space-y-2">
+                    <li><strong>服用方式</strong>：用一杯水整粒吞服胶囊，不要打开、弄破或咀嚼</li>
+                    <li><strong>服用时间</strong>：与食物同服或不同服均可，大致固定时间服用</li>
+                    <li><strong>漏服处理</strong>：若漏服一剂，则补服漏服剂量的药物，除非距下次服药时间短于6小时</li>
+                    <li><strong>呕吐处理</strong>：如果在服药后呕吐，则在正常时间服用下一剂药物</li>
+                </ul>
+            </div>
+
+            <h3>剂量调整方案</h3>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>剂量调整</th>
+                        <th>剂量方案</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>第一次减少剂量</td>
+                        <td class="price-tag">200mg，每日两次</td>
+                    </tr>
+                    <tr>
+                        <td>第二次减少剂量</td>
+                        <td class="price-tag">250mg，每日一次</td>
+                    </tr>
+                    <tr>
+                        <td>无法耐受每日一次250mg</td>
+                        <td>永久停药</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2><i class="fas fa-exclamation-circle mr-2 text-orange-500"></i>不良反应与注意事项</h2>
+            <div class="warning-box">
+                <p><strong>常见不良反应：</strong></p>
+                <ul class="list-disc pl-6 mt-2 space-y-1">
+                    <li><strong>视觉异常</strong>：视觉闪光、视力模糊、畏光等（发生率约60%）</li>
+                    <li><strong>胃肠道</strong>：恶心（54%）、腹泻（49%）、呕吐（43%）、便秘（22%）</li>
+                    <li><strong>全身反应</strong>：疲乏（30%）、外周水肿（24%）</li>
+                    <li><strong>肝脏毒性</strong>：转氨酶升高，需定期监测肝功能</li>
+                    <li><strong>心脏毒性</strong>：心动过缓，需定期监测心电图</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-handshake mr-2 text-orange-500"></i>药物相互作用</h2>
+            <div class="warning-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>强效CYP3A抑制剂</strong>（如酮康唑、伊曲康唑、克拉霉素、利托那韦）：可能增加克唑替尼血药浓度，应避免合用</li>
+                    <li><strong>强效CYP3A诱导剂</strong>（如利福平、卡马西平、苯妥英）：可能降低克唑替尼血药浓度，应避免合用</li>
+                    <li><strong>抗凝药/抗血小板药</strong>：可能增加出血风险</li>
+                    <li><strong>葡萄柚/西柚</strong>：服用期间应避免食用葡萄柚或饮用葡萄柚汁</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-user-friends mr-2 text-orange-500"></i>特殊人群用药</h2>
+            <ul class="list-disc pl-6 space-y-2">
+                <li><strong>肾功能不全</strong>：轻度至中度肾损害患者无需调整起始剂量；重度肾损害（CLcr<30mL/min）患者，推荐起始剂量为250mg，每日一次</li>
+                <li><strong>肝功能不全</strong>：轻度肝损害患者无需调整剂量；中度至重度肝损害患者请咨询医生</li>
+                <li><strong>孕妇及哺乳期</strong>：可能对胎儿造成伤害，孕妇禁用；哺乳期用药应停止哺乳</li>
+            </ul>
+
+            <!-- Price Comparison -->
+            <h2><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格参考</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>规格</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>赛可瑞®（辉瑞）</td>
+                        <td>250mg×60粒</td>
+                        <td class="price-tag">医保价约¥15,600/盒</td>
+                    </tr>
+                    <tr>
+                        <td>国产仿制药</td>
+                        <td>江苏万邦等</td>
+                        <td>250mg×60粒</td>
+                        <td class="price-tag">集采价可咨询</td>
+                    </tr>
+                    <tr>
+                        <td>仿制药</td>
+                        <td>老挝/孟加拉版本</td>
+                        <td>250mg×60粒</td>
+                        <td class="price-tag">经济版可咨询</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="text-xs text-gray-400 mt-2">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p class="text-lg mb-3">需要咨询克唑替尼价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i>电话咨询：<a href="tel:13037856968">13037856968</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i>微信咨询：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong>本文章仅供信息参考，不构成医疗建议。克唑替尼为处方药，必须在医生指导下使用。使用前必须进行ALK/ROS1基因检测确认阳性。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。咨询热线：13037856968</p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1">电话 13037856968 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p>免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p class="mt-1">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+</body>
+</html>
+
+================================================================================
+
+
+================================================================================
+【第四篇】网站版HTML - 洛拉替尼片
+================================================================================
+【第七篇】公众号版 - 拉罗替尼胶囊
+【第五篇】网站版HTML - 仑伐替尼胶囊
+【第三篇】网站版HTML - 来那度胺胶囊
+================================================================================
+
+文件：news-014-luolatini.html
+【第十篇】公众号版 - 仑伐替尼胶囊
+================================================================================
+文件：news-015-lunfatini.html
+文件：news-013-lainaduian.html
+【第九篇】公众号版 - 洛拉替尼片
+
+================================================================================
+================================================================================
+
+
+================================================================================
+
+================================================================================
+
+================================================================================
+================================================================================
+【第二篇】网站版HTML - 拉罗替尼胶囊
+文件：news-012-laluotini.html
+
+【来那度胺】多发性骨髓瘤患者的新选择
+
+今天来说说多发性骨髓瘤和淋巴瘤患者经常用到的药物——来那度胺。
+
+【什么是来那度胺？】
+
+来那度胺是一种免疫调节剂，主要用于治疗多发性骨髓瘤和某些淋巴瘤。它通过多种方式发挥作用：抑制肿瘤血管生成、调节免疫系统、诱导肿瘤细胞凋亡。
+
+来那度胺2005年在美国上市，2013年进入中国，2017年纳入医保，是这两个疾病领域的常用药。
+
+【适合哪些患者？】
+
+多发性骨髓瘤：
+- 与地塞米松联合，用于不适合移植的初治患者
+- 与地塞米松联合，用于已经接受过至少一种治疗的患者
+
+滤泡性淋巴瘤：
+- 与利妥昔单抗联合，用于既往治疗过的滤泡性淋巴瘤患者
+
+【怎么服用？】
+
+多发性骨髓瘤的标准剂量是每天25毫克，每个28天周期里的第1-21天服用。
+
+简单说就是"吃三周停一周"，一直持续到疾病进展或出现不能耐受的副作用。
+
+整粒吞服，可以跟饭一起吃也可以空腹吃。
+
+漏服了怎么办？漏服时间少于12小时可以补上，超过12小时就跳过，下一顿正常吃。
+
+【重要注意事项】
+
+1、必须做基因检测和全面评估，确认适合才能用药
+2、用药期间定期复查血常规，监测血细胞变化
+3、这是免疫调节剂，有避孕要求，育龄期患者用药期间及停药后一段时间需要严格避孕
+4、部分患者需要预防血栓治疗
+
+【大概费用】
+
+来那度胺价格现在已经比较亲民了：
+- 国产仿制药集采后每盒几百元
+- 原研药价格相对高一些，但也在医保报销范围内
+- 海外经济版的选择也比较多
+
+---
+
+多发性骨髓瘤和淋巴瘤的治疗方案比较复杂，需要根据具体病情、身体状况、经济条件等因素综合考虑。建议到正规医院的血液科就诊，听取专业医生的建议。
+
+有疑问的朋友欢迎咨询~
+
+📞 咨询热线：17844531559
+💬 微信咨询：17844531559
+📱 WhatsApp：+639685838435
+🌐 了解更多：www.lanpeimed.com
+
+（温馨提示：具体用药方案请遵医嘱，本文仅供参考）
+【仑伐替尼】多适应症的"多面手"靶向药
+
+今天来说说仑伐替尼，一个在多个癌种都能发挥作用的靶向药。
+
+【什么是仑伐替尼？】
+
+仑伐替尼是一种口服多靶点靶向药，主要抑制肿瘤血管生成的"开关"（VEGFR等）和肿瘤细胞生长的"开关"（FGFR等），双管齐下对抗肿瘤。
+
+2015年在美国获批，2018年进入中国，已在全球70多个国家上市。
+
+【适合哪些癌种？】
+
+仑伐替尼的适应症比较广：
+
+1️⃣ 肝癌：用于既往未接受过系统治疗的不可切除肝癌
+
+2️⃣ 分化型甲状腺癌：对放射性碘治疗无效的进展性甲状腺癌
+
+3️⃣ 肾癌：可以联合免疫药物治疗晚期肾癌
+
+4️⃣ 子宫内膜癌：联合PD-1抑制剂用于某些子宫内膜癌
+
+【怎么服用？】
+
+重点说说肝癌患者的用法，因为这是国内患者最常用的：
+
+剂量根据体重来：
+- 体重低于60公斤：每天8毫克（2粒）
+- 体重60公斤及以上：每天12毫克（3粒）
+
+其他癌种剂量不同，具体遵医嘱。
+
+每天固定时间服用，整粒吞服，可空腹可随餐。
+
+【常见副作用】
+
+1、高血压：最常见的副作用，开始治疗后要密切监测
+2、手足皮肤反应：手掌脚掌发红、肿胀、疼痛
+3、疲乏、食欲减退
+4、甲状腺功能减退
+5、蛋白尿
+
+用药期间需要定期复查，有问题及时跟医生沟通。
+
+【大概费用】
+
+仑伐替尼的价格现在比较亲民：
+- 国产仿制药集采后每盒几百元
+- 原研药在医保报销范围内
+- 海外经济版选择也比较多
+
+---
+
+仑伐替尼是处方药，需要在专业医生指导下使用。用药期间要遵医嘱定期复查，监测血压、肝肾功能等指标。
+
+有疑问的朋友欢迎咨询~
+
+📞 咨询热线：17844531559
+💬 微信咨询：17844531559
+📱 WhatsApp：+639685838435
+🌐 了解更多：www.lanpeimed.com
+
+（温馨提示：具体用药方案请遵医嘱，本文仅供参考）================================================================================
+【拉罗替尼】不限癌种的"广谱"抗癌药
+
+今天介绍一个在肿瘤治疗领域备受关注的药物——拉罗替尼。
+
+【为什么叫"不限癌种"？】
+
+传统的靶向药是针对特定癌症类型的，比如治疗肺癌的针对肺癌、治疗肠癌的针对肠癌。但拉罗替尼不一样，它针对的是一种叫做NTRK的基因融合。
+
+只要肿瘤里有NTRK基因融合，不管是肺癌、肝癌、肠癌、甲状腺癌还是儿童肿瘤，都可能有效。这也是为什么它被称为"不限癌种"靶向药的原因。
+
+【适合哪些患者？】
+
+关键就一个条件：基因检测确认存在NTRK融合基因。
+
+不限癌症类型、不限发病部位、不限年龄，从新生儿到老年人，都有可能从中获益。
+
+特别要说的是，拉罗替尼是目前唯一获批用于新生儿的NTRK融合肿瘤靶向药，对很多家庭来说意义重大。
+
+【怎么服用？】
+
+成人及体表面积≥1平方米的儿童：每次100毫克，每天两次
+
+体表面积＜1平方米的儿童：按体表面积计算剂量
+
+可以整粒吞服，也可以选择口服溶液剂型，草莓味的，更适合小朋友。
+
+【治疗效果】
+
+临床数据显示，拉罗替尼对NTRK融合阳性肿瘤的客观缓解率比较高，很多患者用药后肿瘤明显缩小。而且它是持续治疗，直到疾病进展或出现不可耐受的副作用。
+
+【大概费用】
+
+原研药进入医保后，价格降幅超过50%。海外经济版的选择也比较多，具体可以咨询了解。
+
+---
+
+NTRK基因融合检测是使用拉罗替尼的前提条件。如果你或家人正在寻找新的治疗方案，可以先了解下是否适合这个药物。
+
+有需要的朋友欢迎咨询~
+
+📞 咨询热线：17844531559
+💬 微信咨询：17844531559
+📱 WhatsApp：+639685838435
+🌐 了解更多：www.lanpeimed.com
+
+（温馨提示：具体用药方案请遵医嘱，本文仅供参考）<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>仑伐替尼胶囊用法用量 - 蓝培医疗新闻资讯</title>
+    <meta name="description" content="仑伐替尼胶囊(Lenvatinib/乐卫玛®)用法用量详解，肝癌/甲状腺癌/肾癌多适应症靶向药，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="仑伐替尼,Lenvatinib,乐卫玛,Lenvima,乐伐替尼,肝癌,甲状腺癌,肾癌,仑伐替尼用法用量,仑伐替尼价格">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i>首页</a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i>新闻资讯</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com">首页</a> &gt; <a href="https://lanpeimed.com/news.html">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium">药闻速递</span> &gt; 仑伐替尼胶囊
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">仑伐替尼胶囊</h1>
+            <p class="text-gray-500 mb-6">Lenvatinib（乐卫玛®/Lenvima®） | 肝癌/甲状腺癌/肾癌 | 品牌名：Lyvioni</p>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>药品简介</h2>
+            <div class="info-box">
+                <p>仑伐替尼（Lenvatinib）是一种口服多靶点酪氨酸激酶抑制剂，主要抑制VEGFR1-3、FGFR1-4、PDGFRα、RET、KIT等激酶。通过"双路径"发挥抗肿瘤作用：直接抑制肿瘤细胞增殖信号，同时阻断肿瘤新生血管生成，切断肿瘤营养供给。仑伐替尼于2015年获FDA批准上市，2018年在中国获批上市（商品名乐卫玛®），已在全球70多个国家获批用于多种恶性肿瘤的治疗。</p>
+            </div>
+
+            <h2><i class="fas fa-notes-medical mr-2 text-orange-500"></i>适应症</h2>
+            <div class="info-box">
+                <p>仑伐替尼胶囊在全球获批用于以下多种适应症：</p>
+                <ul class="list-disc pl-6 mt-2 space-y-2">
+                    <li><strong>肝细胞癌（HCC）</strong>：既往未接受过全身系统治疗的不可切除肝细胞癌患者</li>
+                    <li><strong>分化型甲状腺癌（DTC）</strong>：进展性、局部晚期或转移性放射性碘难治性分化型甲状腺癌</li>
+                    <li><strong>肾细胞癌（RCC）</strong>：
+                        <ul class="list-disc pl-6 mt-1">
+                            <li>联合帕博利珠单抗一线治疗晚期肾细胞癌</li>
+                            <li>联合依维莫司用于既往接受过抗血管生成治疗的晚期肾细胞癌</li>
+                        </ul>
+                    </li>
+                    <li><strong>子宫内膜癌</strong>：联合帕博利珠单抗用于非MSI-H或dMMR的晚期子宫内膜癌患者</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-prescription mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>肝细胞癌推荐剂量（基于体重）</h3>
+            <div class="info-box">
+                <table class="price-table">
+                    <thead>
+                        <tr>
+                            <th>患者体重</th>
+                            <th>推荐日剂量</th>
+                            <th>胶囊数量</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>体重＜60kg</td>
+                            <td class="price-tag">8mg，每日一次</td>
+                            <td>2粒4mg胶囊</td>
+                        </tr>
+                        <tr>
+                            <td>体重≥60kg</td>
+                            <td class="price-tag">12mg，每日一次</td>
+                            <td>3粒4mg胶囊</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p class="mt-2">持续治疗直至疾病进展或出现不可耐受的毒性</p>
+            </div>
+
+            <h3>分化型甲状腺癌推荐剂量</h3>
+            <div class="info-box">
+                <p><strong>推荐日剂量：24mg，每日一次</strong></p>
+                <p class="mt-2">2粒10mg胶囊 + 1粒4mg胶囊，每日一次</p>
+                <p class="mt-2">持续治疗直至疾病进展或出现不可耐受的毒性</p>
+            </div>
+
+            <h3>肾细胞癌推荐剂量</h3>
+            <div class="info-box">
+                <table class="price-table">
+                    <thead>
+                        <tr>
+                            <th>联合方案</th>
+                            <th>推荐日剂量</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>联合帕博利珠单抗</td>
+                            <td class="price-tag">20mg，每日一次</td>
+                        </tr>
+                        <tr>
+                            <td>联合依维莫司</td>
+                            <td class="price-tag">18mg，每日一次</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h3>服用方式</h3>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>服用时间</strong>：每日一次，大致固定时间服用</li>
+                    <li><strong>服用方式</strong>：整粒吞服胶囊，可与食物同服或空腹服用</li>
+                    <li><strong>漏服处理</strong>：漏服时间超过12小时可补服；不足12小时则跳过，按常规时间服用下一次</li>
+                    <li><strong>呕吐处理</strong>：服药后呕吐无需补服，等待下一次计划服药时间</li>
+                    <li><strong>禁止</strong>：不要一次服用双倍剂量</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-exclamation-circle mr-2 text-orange-500"></i>不良反应与注意事项</h2>
+            <div class="warning-box">
+                <p><strong>常见不良反应：</strong></p>
+                <ul class="list-disc pl-6 mt-2 space-y-1">
+                    <li><strong>高血压</strong>（约45%）：最常见不良反应，多发生在治疗早期，需定期监测血压</li>
+                    <li><strong>手足皮肤反应</strong>（约50%）：掌跖红肿综合征，表现为手掌足底痛性红斑</li>
+                    <li><strong>疲乏</strong>（约36%）</li>
+                    <li><strong>腹泻</strong>（约39%）</li>
+                    <li><strong>食欲减退</strong>（约31%）</li>
+                    <li><strong>蛋白尿</strong>（约34%）：需定期监测尿蛋白</li>
+                    <li><strong>甲状腺功能减退</strong>（约20%）</li>
+                </ul>
+                <p class="mt-3"><strong>重要监测：</strong>治疗前需评估血压、肝功能、肾功能、甲状腺功能；治疗期间需定期复查，出现严重不良反应需及时就医。</p>
+            </div>
+
+            <h2><i class="fas fa-handshake mr-2 text-orange-500"></i>药物相互作用</h2>
+            <div class="warning-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>哺乳期</strong>：治疗期间及最后一次给药后1周内应停止哺乳</li>
+                    <li><strong>其他抗血管生成药物</strong>：联合使用可能增加不良反应风险</li>
+                    <li><strong>华法林等抗凝药</strong>：可能增加出血风险，需密切监测凝血功能</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-user-friends mr-2 text-orange-500"></i>特殊人群用药</h2>
+            <ul class="list-disc pl-6 space-y-2">
+                <li><strong>肾功能不全</strong>：轻至中度肾功能不全患者通常无需调整剂量；重度肾功能不全患者数据有限</li>
+                <li><strong>肝功能不全</strong>：轻至中度肝功能不全（Child-Pugh A或B）患者通常无需调整剂量；重度肝功能不全患者需谨慎</li>
+                <li><strong>老年人</strong>：65岁以上患者同样适用，无需特殊剂量调整</li>
+                <li><strong>儿童</strong>：目前不适用于18岁以下患者</li>
+                <li><strong>孕妇及哺乳期</strong>：可能对胎儿造成伤害，孕妇禁用；哺乳期用药应停止哺乳</li>
+            </ul>
+
+            <!-- Price Comparison -->
+            <h2><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格参考</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>规格</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>乐卫玛®（卫材）</td>
+                        <td>4mg×30粒</td>
+                        <td class="price-tag">医保价约¥3,240/盒</td>
+                    </tr>
+                    <tr>
+                        <td>原研药</td>
+                        <td>乐卫玛®（卫材）</td>
+                        <td>10mg×30粒</td>
+                        <td class="price-tag">可咨询</td>
+                    </tr>
+                    <tr>
+                        <td>国产仿制药（集采）</td>
+                        <td>齐鲁/正大天晴等</td>
+                        <td>4mg×30粒</td>
+                        <td class="price-tag">集采价约¥380-450/盒</td>
+                    </tr>
+                    <tr>
+                        <td>仿制药</td>
+                        <td>老挝/孟加拉版本</td>
+                        <td>4mg×30粒</td>
+                        <td class="price-tag">经济版可咨询</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="text-xs text-gray-400 mt-2">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价。第七批国家集采后国产仿制药价格大幅下降。</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p class="text-lg mb-3">需要咨询仑伐替尼价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i>电话咨询：<a href="tel:13037856968">13037856968</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i>微信咨询：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong>本文章仅供信息参考，不构成医疗建议。仑伐替尼为处方药，必须在医生指导下使用。用药期间需定期监测血压、肝肾功能、甲状腺功能和尿蛋白。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。咨询热线：13037856968</p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1">电话 13037856968 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p>免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p class="mt-1">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>来那度胺胶囊用法用量 - 蓝培医疗新闻资讯</title>
+    <meta name="description" content="来那度胺胶囊(Lenalidomide/瑞复美®)用法用量详解，多发性骨髓瘤/淋巴瘤治疗，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="来那度胺,Lenalidomide,瑞复美,Revlimid,多发性骨髓瘤,淋巴瘤,来那度胺用法用量,来那度胺价格">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i>首页</a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i>新闻资讯</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com">首页</a> &gt; <a href="https://lanpeimed.com/news.html">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium">药闻速递</span> &gt; 来那度胺胶囊
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">来那度胺胶囊</h1>
+            <p class="text-gray-500 mb-6">Lenalidomide（瑞复美®/Revlimid®） | 白血病/淋巴瘤 | 品牌名：Lemide</p>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>药品简介</h2>
+            <div class="info-box">
+                <p>来那度胺（Lenalidomide）是沙利度胺的类似物，属于免疫调节剂（IMiDs）。通过多种机制发挥抗肿瘤作用：抑制肿瘤血管生成、调节免疫系统、诱导肿瘤细胞凋亡、抑制骨髓瘤细胞增殖等。来那度胺于2005年获FDA批准上市（商品名Revlimid®），2013年在中国上市（商品名瑞复美®），2017年纳入国家医保目录，在多发性骨髓瘤和淋巴瘤治疗中发挥着重要作用。</p>
+            </div>
+
+            <h2><i class="fas fa-notes-medical mr-2 text-orange-500"></i>适应症</h2>
+            <div class="info-box">
+                <p>来那度胺胶囊在国内外获批用于以下适应症：</p>
+                <ul class="list-disc pl-6 mt-2 space-y-2">
+                    <li><strong>多发性骨髓瘤（MM）</strong>：
+                        <ul class="list-disc pl-6 mt-1">
+                            <li>与地塞米松合用，治疗此前未经治疗且不适合接受移植的多发性骨髓瘤成年患者</li>
+                            <li>与地塞米松合用，治疗曾接受过至少一种疗法的多发性骨髓瘤成年患者</li>
+                        </ul>
+                    </li>
+                    <li><strong>滤泡性淋巴瘤（FL）</strong>：与利妥昔单抗（R²方案）合用，治疗既往接受过治疗的滤泡性淋巴瘤（1-3a级）成年患者</li>
+                    <li><strong>骨髓增生异常综合征（MDS）</strong>：伴del(5q)异常的骨髓增生异常综合征伴输血依赖性贫血患者</li>
+                    <li><strong>套细胞淋巴瘤（MCL）</strong>：复发或难治性套细胞淋巴瘤患者（部分国家获批）</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-prescription mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>多发性骨髓瘤推荐剂量</h3>
+            <div class="info-box">
+                <p><strong>推荐起始剂量：25mg口服，每日一次</strong></p>
+                <p class="mt-2">在每个28天治疗周期的第1-21天给药，直至疾病进展或出现不可耐受的毒性</p>
+                <ul class="list-disc pl-6 mt-3 space-y-2">
+                    <li><strong>地塞米松联合方案</strong>：推荐在每28天周期的第1、8、15和22天口服地塞米松</li>
+                    <li><strong>服用方式</strong>：整粒吞服胶囊，可与食物同服或空腹服用，大致固定时间服用</li>
+                    <li><strong>漏服处理</strong>：漏服时间＜12小时可补服；≥12小时则跳过，次日正常服药</li>
+                </ul>
+            </div>
+
+            <h3>滤泡性淋巴瘤推荐剂量</h3>
+            <div class="info-box">
+                <p><strong>推荐起始剂量：20mg口服，每日一次</strong></p>
+                <p class="mt-2">每28天为1个周期，每个周期的第1-21天给药，最长可给药12个周期</p>
+            </div>
+
+            <h3>剂量调整</h3>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>血液学指标</th>
+                        <th>剂量调整建议</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>ANC＜1.0×10⁹/L 和/或 血小板＜50×10⁹/L</td>
+                        <td>不得开始治疗</td>
+                    </tr>
+                    <tr>
+                        <td>中性粒细胞减少</td>
+                        <td>暂停给药，必要时给予G-CSF支持，恢复后可减量继续</td>
+                    </tr>
+                    <tr>
+                        <td>血小板减少</td>
+                        <td>暂停给药，恢复后可减量继续</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2><i class="fas fa-exclamation-circle mr-2 text-orange-500"></i>黑框警告与重要注意事项</h2>
+            <div class="warning-box">
+                <p><strong>⚠️ 黑框警告（重要安全信息）：</strong></p>
+                <ul class="list-disc pl-6 mt-2 space-y-2">
+                    <li><strong>胚胎-胎儿毒性</strong>：来那度胺为沙利度胺类似物，可能导致严重的出生缺陷。妊娠期禁用。用药期间及停药后4周内（男性停药后90天内）需采取有效避孕措施</li>
+                    <li><strong>血液学毒性</strong>：可能出现严重中性粒细胞减少和血小板减少，需定期监测血常规</li>
+                    <li><strong>静脉和动脉血栓栓塞</strong>：多发性骨髓瘤患者接受来那度胺联合地塞米松治疗时，血栓风险显著增加，建议预防性抗凝治疗</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-handshake mr-2 text-orange-500"></i>药物相互作用</h2>
+            <div class="warning-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>地塞米松</strong>：联合使用增加血栓风险，需评估抗凝治疗必要性</li>
+                    <li><strong>促红细胞生成素</strong>：可能增加血栓风险</li>
+                    <li><strong>免疫抑制剂</strong>：联合使用需谨慎</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-user-friends mr-2 text-orange-500"></i>特殊人群</h2>
+            <ul class="list-disc pl-6 space-y-2">
+                <li><strong>肾功能不全</strong>：肾功能不全患者可能需要调整剂量，需在医生指导下使用</li>
+                <li><strong>肝功能不全</strong>：轻至中度肝功能不全患者通常无需调整剂量</li>
+                <li><strong>老年人</strong>：65岁以上患者同样适用，无需特殊剂量调整</li>
+                <li><strong>孕妇及哺乳期</strong>：<strong>绝对禁用</strong>。可能对胎儿造成严重伤害；哺乳期用药应停止哺乳</li>
+            </ul>
+
+            <!-- Price Comparison -->
+            <h2><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格参考</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>规格</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>瑞复美®（BMS/新基）</td>
+                        <td>25mg×21粒</td>
+                        <td class="price-tag">约¥17,050/盒起</td>
+                    </tr>
+                    <tr>
+                        <td>国产仿制药（集采）</td>
+                        <td>齐鲁/正大天晴等</td>
+                        <td>25mg×21粒</td>
+                        <td class="price-tag">集采价约¥315/盒</td>
+                    </tr>
+                    <tr>
+                        <td>国产仿制药（非集采）</td>
+                        <td>齐鲁/正大天晴等</td>
+                        <td>25mg×21粒</td>
+                        <td class="price-tag">约¥3,980-5,380/盒</td>
+                    </tr>
+                    <tr>
+                        <td>仿制药</td>
+                        <td>印度/老挝版本</td>
+                        <td>25mg×30粒</td>
+                        <td class="price-tag">经济版可咨询</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="text-xs text-gray-400 mt-2">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价。第九批国家集采后国产仿制药价格大幅下降。</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p class="text-lg mb-3">需要咨询来那度胺价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i>电话咨询：<a href="tel:13037856968">13037856968</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i>微信咨询：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong>本文章仅供信息参考，不构成医疗建议。来那度胺为处方药，必须在血液科/肿瘤科医生指导下使用。用药期间需定期监测血常规和凝血功能。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。咨询热线：13037856968</p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1">电话 13037856968 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p>免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p class="mt-1">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>洛拉替尼片用法用量 - 蓝培医疗新闻资讯</title>
+    <meta name="description" content="洛拉替尼片(Lorlatinib/博瑞纳®)用法用量详解，第三代ALK抑制剂，ALK阳性非小细胞肺癌，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="洛拉替尼,Lorlatinib,博瑞纳,LORBRENA,劳拉替尼,ALK阳性肺癌,第三代ALK抑制剂,洛拉替尼用法用量,洛拉替尼价格">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i>首页</a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i>新闻资讯</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com">首页</a> &gt; <a href="https://lanpeimed.com/news.html">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium">药闻速递</span> &gt; 洛拉替尼片
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">洛拉替尼片</h1>
+            <p class="text-gray-500 mb-6">Lorlatinib（博瑞纳®/LORBRENA®） | 肺癌 | 品牌名：Lorlatini</p>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>药品简介</h2>
+            <div class="info-box">
+                <p>洛拉替尼（Lorlatinib）是第三代高选择性ALK/ROS1酪氨酸激酶抑制剂，属于"大环类"结构TKI。通过基于结构的药物设计，增加了亲脂性和血脑屏障穿透性，能够有效抑制多种ALK耐药突变（包括G1202R、I1171T等守门突变），对脑转移病灶具有显著活性。洛拉替尼于2018年获FDA批准上市，2022年在中国获批上市（商品名博瑞纳®），2023年纳入国家医保乙类目录，为ALK阳性非小细胞肺癌患者提供了强有力的治疗选择。</p>
+            </div>
+
+            <h2><i class="fas fa-notes-medical mr-2 text-orange-500"></i>适应症</h2>
+            <div class="info-box">
+                <p>洛拉替尼片获批用于治疗间变性淋巴瘤激酶（ALK）阳性的局部晚期或转移性非小细胞肺癌患者：</p>
+                <ul class="list-disc pl-6 mt-2 space-y-2">
+                    <li><strong>一线治疗</strong>：既往未经治疗的ALK阳性晚期NSCLC患者</li>
+                    <li><strong>后线治疗</strong>：接受克唑替尼或其他ALK抑制剂（如塞瑞替尼、阿来替尼、布格替尼等）治疗后进展的患者</li>
+                    <li><strong>ROS1阳性NSCLC</strong>：部分国家获批用于ROS1阳性晚期NSCLC</li>
+                </ul>
+                <p class="mt-3 text-sm text-gray-600">CROWN研究显示，洛拉替尼一线治疗ALK阳性NSCLC的5年无进展生存率达64%，显著优于一代药物克唑替尼（10%）。</p>
+            </div>
+
+            <h2><i class="fas fa-prescription mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>推荐剂量</h3>
+            <div class="info-box">
+                <p><strong>推荐剂量：100mg口服，每日一次</strong></p>
+                <ul class="list-disc pl-6 mt-3 space-y-2">
+                    <li><strong>服用方式</strong>：整片吞服，不要咀嚼、掰碎或分割药片</li>
+                    <li><strong>服用时间</strong>：每日大致相同时间服用，与食物同服或不同服均可</li>
+                    <li><strong>漏服处理</strong>：漏服可在记起时补服，除非距下次给药时间不足4小时</li>
+                    <li><strong>呕吐处理</strong>：服药后呕吐不要追加剂量，继续下一次计划剂量</li>
+                </ul>
+            </div>
+
+            <h3>剂量调整方案</h3>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>剂量调整</th>
+                        <th>剂量方案</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>标准剂量</td>
+                        <td class="price-tag">100mg，每日一次</td>
+                    </tr>
+                    <tr>
+                        <td>第一次减量</td>
+                        <td class="price-tag">75mg，每日一次</td>
+                    </tr>
+                    <tr>
+                        <td>第二次减量</td>
+                        <td class="price-tag">50mg，每日一次</td>
+                    </tr>
+                    <tr>
+                        <td>无法耐受50mg</td>
+                        <td>永久停药</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2><i class="fas fa-brain mr-2 text-orange-500"></i>血脑屏障穿透与脑转移</h2>
+            <div class="info-box">
+                <p>洛拉替尼是第三代ALK抑制剂中血脑屏障穿透性最强的药物之一：</p>
+                <ul class="list-disc pl-6 mt-2 space-y-1">
+                    <li>大环结构赋予更高的血脑屏障穿透率</li>
+                    <li>对脑转移病灶的客观缓解率（ORR）达61%</li>
+                    <li>对G1202R等耐药突变保持亚纳摩尔级抑制活性</li>
+                    <li>伴中枢神经系统（CNS）转移患者可优先考虑使用</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-exclamation-circle mr-2 text-orange-500"></i>不良反应与注意事项</h2>
+            <div class="warning-box">
+                <p><strong>常见不良反应：</strong></p>
+                <ul class="list-disc pl-6 mt-2 space-y-1">
+                    <li><strong>高脂血症</strong>（最常见）：高胆固醇血症（52%）、高甘油三酯血症（46%），需使用降脂药物控制</li>
+                    <li><strong>中枢神经系统</strong>：认知障碍（16%）、情绪障碍（15%）、睡眠障碍（12%）</li>
+                    <li><strong>外周水肿</strong>（26%）</li>
+                    <li><strong>体重增加</strong>（24%）</li>
+                    <li><strong>关节痛</strong>（17%）</li>
+                    <li><strong>视觉障碍</strong>（12%）</li>
+                </ul>
+                <p class="mt-3"><strong>需注意：</strong>高脂血症通常发生在治疗早期，需定期监测血脂，必要时使用降脂药物。</p>
+            </div>
+
+            <h2><i class="fas fa-handshake mr-2 text-orange-500"></i>药物相互作用</h2>
+            <div class="warning-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>强效CYP3A诱导剂</strong>（如利福平、卡马西平、苯妥英、圣约翰草）：<strong>禁止合用</strong>，可能严重增加洛拉替尼代谢</li>
+                    <li><strong>强效CYP3A抑制剂</strong>（如酮康唑、伊曲康唑）：可能需要减量至75mg每日一次</li>
+                    <li><strong>中效CYP3A抑制剂</strong>：密切监测不良反应</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-user-friends mr-2 text-orange-500"></i>特殊人群用药</h2>
+            <ul class="list-disc pl-6 space-y-2">
+                <li><strong>肾功能不全</strong>：重度肾损害（CLcr 15-30mL/min）患者推荐剂量75mg每日一次；轻度至中度肾损害无需调整</li>
+                <li><strong>肝功能不全</strong>：重度肝损害（Child-Pugh C）推荐剂量50mg每日一次；轻至中度肝损害无需调整</li>
+                <li><strong>老年人</strong>：65岁以上患者同样适用，无需特殊剂量调整</li>
+                <li><strong>儿童</strong>：目前不适用于18岁以下患者</li>
+                <li><strong>孕妇及哺乳期</strong>：可能对胎儿造成伤害，孕妇禁用；哺乳期用药应停止哺乳</li>
+            </ul>
+
+            <!-- Price Comparison -->
+            <h2><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格参考</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>规格</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>博瑞纳®（辉瑞）</td>
+                        <td>100mg×30片</td>
+                        <td class="price-tag">医保价约¥15,800/盒</td>
+                    </tr>
+                    <tr>
+                        <td>原研药</td>
+                        <td>博瑞纳®（辉瑞）</td>
+                        <td>25mg×90片</td>
+                        <td class="price-tag">医保价可咨询</td>
+                    </tr>
+                    <tr>
+                        <td>仿制药</td>
+                        <td>老挝/孟加拉版本</td>
+                        <td>100mg×30片</td>
+                        <td class="price-tag">经济版可咨询</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="text-xs text-gray-400 mt-2">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价。2023年纳入医保后患者用药负担大幅降低。</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p class="text-lg mb-3">需要咨询洛拉替尼价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i>电话咨询：<a href="tel:13037856968">13037856968</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i>微信咨询：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong>本文章仅供信息参考，不构成医疗建议。洛拉替尼为处方药，必须在医生指导下使用。使用前必须进行ALK基因检测确认阳性。用药期间需定期监测血脂和神经系统症状。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。咨询热线：13037856968</p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1">电话 13037856968 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p>免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p class="mt-1">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+</body>
+</html>
+
+【洛拉替尼】ALK阳性肺癌患者的"天花板"级药物
+
+今天介绍第三代ALK靶向药——洛拉替尼，江湖人称"劳拉替尼"。
+
+【为什么叫"天花板"？】
+
+在ALK阳性非小细胞肺癌的治疗领域，洛拉替尼是目前"天花板"级别的药物。主要体现在三个方面：
+
+1️⃣ 对耐药突变覆盖广：能克服包括G1202R在内的多种ALK耐药突变
+
+2️⃣ 血脑屏障穿透力强：对脑转移病灶效果特别好，颅内缓解率高
+
+3️⃣ 生存数据亮眼：一线治疗ALK阳性晚期肺癌，5年无进展生存率高达64%
+
+【适合哪些患者？】
+
+两大类人群：
+
+一线治疗：ALK阳性晚期非小细胞肺癌初治患者
+
+后线治疗：使用过克唑替尼、塞瑞替尼、阿来替尼等ALK靶向药后进展的患者
+
+【怎么服用？】
+
+标准剂量：每次100毫克，每天一次，整片吞服。
+
+可以空腹也可以跟饭一起吃，每天固定时间服用。
+
+漏服了怎么办？距离下次服药超过4小时可以补上，不到4小时就别补了。
+
+【剂量调整】
+
+出现副作用时可能需要减量：
+- 第一次减量：75毫克每天一次
+- 第二次减量：50毫克每天一次
+- 如果50毫克还受不了，就可能要停药了
+
+【常见副作用】
+
+1、高脂血症：最常见，用药后要定期监测血脂，必要时吃降脂药
+2、中枢神经系统反应：可能出现情绪波动、记忆力下降、睡眠问题等
+3、其他：外周水肿、体重增加、关节痛等
+
+【大概费用】
+
+洛拉替尼2023年纳入医保后，患者负担大幅降低。原研药医保报销后自付部分可以咨询。海外经济版选择也比较多。
+
+---
+
+ALK阳性肺癌的治疗选择比较多，从一代到三代药物都有。如果考虑使用洛拉替尼，建议到有经验的肺癌专科医院就诊，让专业医生评估。
+
+有需要的朋友欢迎咨询~
+
+📞 咨询热线：17844531559
+💬 微信咨询：17844531559
+📱 WhatsApp：+639685838435
+🌐 了解更多：www.lanpeimed.com
+
+（温馨提示：具体用药方案请遵医嘱，本文仅供参考）
+
+
+
+
+================================================================================
+
+                文件合并完成
+
+================================================================================
+================================================================================
+                            公众号版本文章
+================================================================================
+
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>拉罗替尼胶囊用法用量 - 蓝培医疗新闻资讯</title>
+    <meta name="description" content="拉罗替尼胶囊(Larotrectinib/维泰凯®)用法用量详解，NTRK融合不限癌种靶向药，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="拉罗替尼,Larotrectinib,维泰凯,Vitrakvi,NTRK融合,不限癌种,拉罗替尼用法用量,拉罗替尼价格">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i>首页</a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i>新闻资讯</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com">首页</a> &gt; <a href="https://lanpeimed.com/news.html">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium">药闻速递</span> &gt; 拉罗替尼胶囊
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">拉罗替尼胶囊</h1>
+            <p class="text-gray-500 mb-6">Larotrectinib（维泰凯®/Vitrakvi®） | 实体瘤 | 品牌名：Larotreni</p>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>药品简介</h2>
+            <div class="info-box">
+                <p>拉罗替尼（Larotrectinib）是全球首个且唯一获批的"不限癌种"靶向药物，属于高选择性原肌球蛋白受体激酶（TRK）抑制剂。通过抑制TRKA、TRKB和TRKC激酶，阻断NTRK基因融合导致的肿瘤细胞增殖信号。拉罗替尼于2018年获FDA批准上市，2022年在中国获批上市（商品名维泰凯®），开创了肿瘤精准治疗"不限癌种"的新时代。该药物覆盖全年龄段人群（含新生儿），是目前唯一含儿童适应症的NTRK融合靶向药。</p>
+            </div>
+
+            <h2><i class="fas fa-notes-medical mr-2 text-orange-500"></i>适应症</h2>
+            <div class="info-box">
+                <p>拉罗替尼获批用于治疗携带NTRK基因融合的成人和儿童实体瘤患者：</p>
+                <ul class="list-disc pl-6 mt-2 space-y-2">
+                    <li><strong>局部晚期或转移性实体瘤</strong>：经充分验证的检测方法证实携带NTRK融合基因</li>
+                    <li><strong>无已知获得性耐药突变</strong>：肿瘤不存在已知的NTRK耐药突变</li>
+                    <li><strong>转移性或手术切除可能导致严重并发症</strong>：包括局部晚期不可切除病例</li>
+                    <li><strong>无满意替代治疗或既往治疗失败</strong>：在其他治疗选择受限或失败的情况下使用</li>
+                </ul>
+                <p class="mt-3 text-sm text-gray-600">常见NTRK融合阳性肿瘤包括：婴儿型纤维肉瘤、先天性中胚叶肾瘤、分泌性乳腺癌、甲状腺癌、肺癌、结直肠癌等25种以上肿瘤类型。</p>
+            </div>
+
+            <h2><i class="fas fa-prescription mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>成人推荐剂量</h3>
+            <div class="info-box">
+                <p><strong>成人及体表面积≥1.0m²的儿童患者：</strong></p>
+                <p class="text-xl font-bold text-orange-600 mt-2">100mg口服，每日两次</p>
+                <p class="mt-2">直至疾病进展或出现不可耐受的毒性</p>
+            </div>
+
+            <h3>儿童推荐剂量（体表面积<1.0m²）</h3>
+            <div class="info-box">
+                <p><strong>体表面积＜1.0m²的儿童患者：</strong></p>
+                <p class="text-xl font-bold text-orange-600 mt-2">100mg/m²口服，每日两次</p>
+                <p class="mt-2">直至疾病进展或出现不可耐受的毒性</p>
+            </div>
+
+            <h3>服用方式</h3>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>服用时间</strong>：每日两次，大致固定时间服用</li>
+                    <li><strong>服用方式</strong>：整粒吞服胶囊，可与食物同服或空腹服用</li>
+                    <li><strong>口服溶液</strong>：也可选择口服溶液剂型，草莓味，便于儿童和有吞咽困难的患者</li>
+                    <li><strong>胶囊与口服溶液</strong>：可互换使用</li>
+                </ul>
+            </div>
+
+            <h3>剂量调整方案</h3>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>不良反应级别</th>
+                        <th>剂量调整建议</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1级或2级肝功能异常</td>
+                        <td>维持当前剂量，密切监测</td>
+                    </tr>
+                    <tr>
+                        <td>3级或4级肝功能异常</td>
+                        <td class="price-tag">暂停给药，监测肝功能，恢复后减量</td>
+                    </tr>
+                    <tr>
+                        <td>其他3级不良反应</td>
+                        <td>暂停给药至恢复至1级或基线，减量恢复</td>
+                    </tr>
+                    <tr>
+                        <td>4级不良反应</td>
+                        <td>永久停药或减量恢复（根据医生判断）</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2><i class="fas fa-exclamation-circle mr-2 text-orange-500"></i>不良反应</h2>
+            <div class="warning-box">
+                <p><strong>常见不良反应（3-4级毒性发生率<5%）：</strong></p>
+                <ul class="list-disc pl-6 mt-2 space-y-1">
+                    <li><strong>神经系统</strong>：头晕（15%）、认知障碍（6%）、情绪障碍（5%）</li>
+                    <li><strong>胃肠道</strong>：恶心（14%）、呕吐（11%）、腹泻（10%）</li>
+                    <li><strong>全身反应</strong>：疲乏（19%）、体重增加（13%）</li>
+                    <li><strong>其他</strong>：高血压（6%）、呼吸困难（5%）</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-user-friends mr-2 text-orange-500"></i>特殊人群用药</h2>
+            <ul class="list-disc pl-6 space-y-2">
+                <li><strong>老年人</strong>：无需特殊剂量调整，65岁以上患者同样适用</li>
+                <li><strong>肾功能不全</strong>：轻至中度肾功能不全患者通常无需调整剂量；重度肾功能不全患者数据有限</li>
+                <li><strong>肝功能不全</strong>：轻至中度肝功能不全患者无需调整剂量</li>
+                <li><strong>儿童</strong>：已获批用于所有年龄段儿童（含新生儿），剂型专为儿童设计</li>
+                <li><strong>孕妇及哺乳期</strong>：可能对胎儿造成伤害，孕妇禁用；哺乳期用药应停止哺乳</li>
+            </ul>
+
+            <!-- Price Comparison -->
+            <h2><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格参考</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>规格</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>维泰凯®（拜耳）</td>
+                        <td>100mg×30粒</td>
+                        <td class="price-tag">医保价约¥31,500/盒</td>
+                    </tr>
+                    <tr>
+                        <td>原研药口服溶液</td>
+                        <td>维泰凯®（拜耳）</td>
+                        <td>50ml:1.0g</td>
+                        <td class="price-tag">¥5,625/瓶起</td>
+                    </tr>
+                    <tr>
+                        <td>仿制药</td>
+                        <td>老挝/孟加拉版本</td>
+                        <td>100mg×30粒</td>
+                        <td class="price-tag">经济版可咨询</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="text-xs text-gray-400 mt-2">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价。2025年医保谈判后价格大幅下降，降幅超50%。</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p class="text-lg mb-3">需要咨询拉罗替尼价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i>电话咨询：<a href="tel:13037856968">13037856968</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i>微信咨询：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong>本文章仅供信息参考，不构成医疗建议。拉罗替尼为处方药，必须在医生指导下使用。使用前必须进行NTRK基因融合检测确认阳性。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。咨询热线：13037856968</p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1">电话 13037856968 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p>免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p class="mt-1">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+</body>
+</html>
+================================================================================
+【第六篇】公众号版 - 克唑替尼胶囊
+================================================================================
+
+【克唑替尼胶囊】肺癌靶向治疗那些事儿
+
+今天来聊聊很多肺癌患者关心的克唑替尼。
+
+说起克唑替尼，可能有些朋友还是第一次听说。但如果告诉你，这是专门针对ALK基因突变和ROS1基因突变肺癌的"精准武器"，可能就容易理解了。
+
+【什么是克唑替尼？】
+
+克唑替尼是一种口服的小分子靶向药物，主要作用是抑制ALK和ROS1这两种激酶的活性。简单来说，就是"堵住"驱动肿瘤生长的"开关"，让癌细胞没法继续增殖扩散。
+
+它是全球第一个获批用于治疗ALK阳性非小细胞肺癌的靶向药，2013年在中国上市，2018年进入医保。
+
+【谁适合用？】
+
+两个关键条件：
+
+第一，基因检测确认ALK阳性或ROS1阳性。不是说所有肺癌患者都能用，必须先做基因检测。
+
+第二，适用于局部晚期或转移性非小细胞肺癌。
+
+【怎么服用？】
+
+标准剂量是每天250毫克，分两次服用，也就是每天两粒胶囊。饭前饭后都行，关键是每天大致固定时间，整粒吞服，不要咬开。
+
+漏服了怎么办？离下次服药超过6小时的话，可以补上；如果不到6小时，就别补了，下一顿正常吃就行。
+
+【注意事项】
+
+1、治疗前必须做基因检测，确认阳性才有效
+2、用药期间定期复查肝功能和心电图
+3、有些药物会影响克唑替尼的效果，就诊时要告诉医生你正在服用的所有药物
+4、服药期间避免吃葡萄柚
+
+【大概费用】
+
+原研药医保报销后，自付部分大概几千到一万多一盒。国产仿制药和海外经济版的价格更有优势，可以具体咨询。
+
+---
+
+如果你或家人正在考虑使用这个药物，建议先到正规医院找专业医生评估，了解清楚再做决定。
+
+有更多疑问的朋友，欢迎私信咨询~
+
+📞 咨询热线：17844531559
+💬 微信咨询：17844531559
+📱 WhatsApp：+639685838435
+🌐 了解更多：www.lanpeimed.com
+
+（温馨提示：具体用药方案请遵医嘱，本文仅供参考）

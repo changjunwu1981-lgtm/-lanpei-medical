@@ -1,0 +1,667 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""生成蓝培医疗药品文章HTML - 2026-06-25批次（154-158）"""
+import os
+os.chdir("/app/data/所有对话/主对话/蓝培医疗文章")
+
+# 完整HTML模板（参照news-153-relgin.html结构，含7语言切换、咨询浮窗、article-meta）
+def build_html(d):
+    return f'''<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{d['seo_title']}</title>
+    <meta name="description" content="{d['seo_desc']}">
+    <meta name="keywords" content="{d['seo_keywords']}">
+    <script>
+var _hmt = _hmt || []; (function() {{ var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); }});
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {{ --primary: #1e3a5f; --accent: #f97316; }}
+        body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }}
+        .gradient-bg {{ background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }}
+        a {{ color: #1e3a5f; text-decoration: none; }}
+        a:hover {{ color: #f97316; }}
+        .info-box {{ background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }}
+        .price-table {{ width: 100%; border-collapse: collapse; margin: 16px 0; }}
+        .price-table th {{ background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }}
+        .price-table td {{ padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }}
+        .price-table tr:hover td {{ background: #f9fafb; }}
+        .price-tag {{ color: #f97316; font-weight: bold; font-size: 18px; }}
+        .cta-box {{ background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }}
+        .cta-box a {{ color: #fb923c; font-weight: bold; font-size: 18px; }}
+        .warning-box {{ background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }}
+        .breadcrumb {{ font-size: 14px; color: #6b7280; margin-bottom: 20px; }}
+        .breadcrumb a {{ color: #6b7280; }}
+        .breadcrumb a:hover {{ color: #f97316; }}
+        h2 {{ color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }}
+        h3 {{ color: #2d5a87; margin-top: 20px; }}
+        .lang-btn.active {{ background: #f97316; color: white; }}
+        .article-meta {{ margin-top: 6px; font-size: 12px; color: #6b7280; display: flex; align-items: center; flex-wrap: wrap; gap: 4px; }}
+        .article-date {{ display: inline-flex; align-items: center; color: #9ca3af; font-size: 12px; }}
+        .tag {{ display: inline-block; padding: 2px 10px; border-radius: 12px; font-size: 12px; margin-right: 6px; }}
+        .tag-drug {{ background: #fff3e0; color: #e65100; }}
+    </style>
+    <script>
+    const translations = {{
+        zh: {{site_name:"蓝培医疗",back_home:"返回首页",news:"新闻资讯",cta_title:"需要咨询药品价格和咨询渠道?",phone_label:"电话咨询",whatsapp_label:"WhatsApp",wechat_label:"微信咨询",disclaimer_title:"重要提示",disclaimer_text:"本文章仅供信息参考,不构成医疗建议。药品为处方药,必须在医生指导下使用。",hotline:"咨询热线",footer_platform:"全球优质医疗资源咨询平台",footer_disclaimer:"免责声明:本网站展示的医药信息仅供参考",footer_copyright:"© 2026 蓝培医疗 lanpeimed.com",chat_title:"蓝培医疗在线咨询",phone_consult:"电话咨询",wechat_scan:"微信扫一扫添加咨询",wechat_copy:"加微信",wechat_copied:"已复制!",phone_placeholder:"请输入手机号码",callback_btn:"给您回电",chat_footer:"蓝培医疗 · 全球优质医疗资源咨询",bottom_cta_title:"蓝培医疗 · 全球优质医疗资源咨询",price_reference:"* 价格仅供参考,实际价格以咨询为准",original_vs_generic:"原研药 vs 海外经济版价格对比",type:"类型",brand:"品牌/厂家",origin:"产地",price:"参考价格",tab_drug:"药闻速递"}},
+        en: {{site_name:"Lanpei Medical",back_home:"Back to Home",news:"News",cta_title:"Need to consult?",phone_label:"Phone",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Important Notice",disclaimer_text:"For reference only.",hotline:"Hotline",footer_platform:"Global Medical Platform",footer_disclaimer:"For reference only.",footer_copyright:"© 2026 Lanpei Medical",chat_title:"Online Consultation",phone_consult:"Phone",wechat_scan:"Scan QR",wechat_copy:"Add WeChat",wechat_copied:"Copied!",phone_placeholder:"Phone number",callback_btn:"Callback",chat_footer:"Lanpei Medical",bottom_cta_title:"Global Medical Resources",price_reference:"* For reference only.",original_vs_generic:"Original vs Generic",type:"Type",brand:"Brand",origin:"Origin",price:"Price",tab_drug:"Drug Updates"}},
+        ru: {{site_name:"蓝培医疗",back_home:"На главную",news:"Новости",cta_title:"Нужна консультация?",phone_label:"Телефон",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Важное уведомление",disclaimer_text:"Для справки.",hotline:"Горячая линия",footer_platform:"Мед платформа",footer_disclaimer:"Для справки.",footer_copyright:"© 2026 Lanpei Medical",chat_title:"Онлайн консультация",phone_consult:"Консультация",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Скопировано!",phone_placeholder:"Телефон",callback_btn:"Звонок",chat_footer:"Lanpei Medical",bottom_cta_title:"Глобальные мед ресурсы",price_reference:"* Для справки.",original_vs_generic:"Оригинал vs Дженерик",type:"Тип",brand:"Бренд",origin:"Страна",price:"Цена",tab_drug:"Новости лекарств"}},
+        vi: {{site_name:"Lanpei Medical",back_home:"Về trang chủ",news:"Tin tức",cta_title:"Cần tư vấn?",phone_label:"Điện thoại",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Thông báo",disclaimer_text:"Tham khảo.",hotline:"Hotline",footer_platform:"Nền tảng y tế",footer_disclaimer:"Tham khảo.",footer_copyright:"© 2026 Lanpei",chat_title:"Tư vấn online",phone_consult:"Tư vấn",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Đã sao chép!",phone_placeholder:"Số ĐT",callback_btn:"Gọi lại",chat_footer:"Lanpei Medical",bottom_cta_title:"Tài nguyên y tế toàn cầu",price_reference:"* Tham khảo.",original_vs_generic:"Original vs Generic",type:"Loại",brand:"Nhãn",origin:"Xuất xứ",price:"Giá",tab_drug:"Tin thuốc"}},
+        id: {{site_name:"Lanpei Medical",back_home:"Kembali",news:"Berita",cta_title:"Konsultasi?",phone_label:"Telepon",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Penting",disclaimer_text:"Referensi.",hotline:"Hotline",footer_platform:"Platform medis",footer_disclaimer:"Referensi.",footer_copyright:"© 2026 Lanpei",chat_title:"Konsultasi online",phone_consult:"Telepon",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Disalin!",phone_placeholder:"Nomor",callback_btn:"Panggil",chat_footer:"Lanpei Medical",bottom_cta_title:"Sumber daya medis global",price_reference:"* Referensi.",original_vs_generic:"Original vs Generic",type:"Tipe",brand:"Merek",origin:"Asal",price:"Harga",tab_drug:"Info Obat"}},
+        my: {{site_name:"Lanpei Medical",back_home:"ပင်မ",news:"သတင်း",cta_title:"လိုသလား?",phone_label:"ဖုန်း",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"အရေးကြီး",disclaimer_text:"ရည်ရွယ်ချက်။",hotline:"Hotline",footer_platform:"ပလက်ဖောင်း",footer_disclaimer:"ရည်ရွယ်ချက်။",footer_copyright:"© 2026 Lanpei",chat_title:"တိုင်ပင်",phone_consult:"ဖုန်း",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"ကူယူပြီ!",phone_placeholder:"နံပါတ်",callback_btn:"ပြန်ခေါ်",chat_footer:"Lanpei Medical",bottom_cta_title:"ကမ္ဘာလုံးဆိုင်ရာ ဆေး",price_reference:"*။",original_vs_generic:"Original vs Generic",type:"အမျိုးအစား",brand:"အမှတ်",origin:"မူလ",price:"စျေး",tab_drug:"ဆေးသတင်း"}},
+        bd: {{site_name:"Lanpei Medical",back_home:"হোম",news:"সংবাদ",cta_title:"দরকার?",phone_label:"ফোন",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"বিজ্ঞপ্তি",disclaimer_text:"রেফারেন্স।",hotline:"হটলাইন",footer_platform:"প্ল্যাটফর্ম",footer_disclaimer:"রেফারেন্স।",footer_copyright:"© 2026 Lanpei",chat_title:"পরামর্শ",phone_consult:"ফোন",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"কপি!",phone_placeholder:"নম্বর",callback_btn:"কল",chat_footer:"Lanpei Medical",bottom_cta_title:"বিশ্ব মেডিকেল রিসোর্স",price_reference:"*।",original_vs_generic:"Original vs Generic",type:"টাইপ",brand:"ব্র্যান্ড",origin:"উৎস",price:"দাম",tab_drug:"ওষুধ সংবাদ"}}
+    }};
+    let currentLang = 'zh';
+    function changeLanguage(lang) {{ currentLang = lang; document.querySelectorAll('.lang-btn').forEach(btn => {{ btn.classList.remove('bg-[#f97316]','text-white'); if(btn.dataset.lang===lang) btn.classList.add('bg-[#f97316]','text-white'); }}); updateTranslations(); }}
+    function updateTranslations() {{ const t = translations[currentLang]; document.querySelectorAll('[data-i18n]').forEach(el => {{ const key = el.getAttribute('data-i18n'); if(t[key]) el.textContent = t[key]; }}); document.getElementById('footer-platform')&&(document.getElementById('footer-platform').textContent=t.footer_platform); document.getElementById('footer-disclaimer')&&(document.getElementById('footer-disclaimer').textContent=t.footer_disclaimer); document.getElementById('cta-title')&&(document.getElementById('cta-title').textContent=t.cta_title); document.getElementById('price-title')&&(document.getElementById('price-title').innerHTML='<i class="fas fa-tags mr-2 text-orange-500"></i>'+t.original_vs_generic); document.getElementById('price-reference')&&(document.getElementById('price-reference').textContent=t.price_reference); document.getElementById('disclaimer-text')&&(document.getElementById('disclaimer-text').textContent=t.disclaimer_text); document.getElementById('bottom-cta')&&(document.getElementById('bottom-cta').innerHTML='<p class="font-bold">'+t.bottom_cta_title+'</p><p class="text-sm mt-1">'+t.phone_label+' 17844531559 | '+t.whatsapp_label+' +639685838435 | '+t.wechat_label+' 17844531559</p>'); document.querySelector('.chat-header-left span')&&(document.querySelector('.chat-header-left span').textContent=t.chat_title); document.getElementById('wechatLabel')&&(document.getElementById('wechatLabel').textContent=t.wechat_copy); document.querySelector('.chat-input-area button')&&(document.querySelector('.chat-input-area button').textContent=t.callback_btn); document.querySelector('.chat-footer')&&(document.querySelector('.chat-footer').textContent=t.chat_footer); }}
+    document.addEventListener('DOMContentLoaded', updateTranslations);
+    </script>
+    <script type="application/ld+json">
+    {{
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "{d['seo_title']}",
+        "description": "{d['seo_desc']}",
+        "url": "https://lanpeimed.com/{d['filename']}",
+        "about": {{
+            "@type": "Drug",
+            "name": "{d['name_zh']}",
+            "alternateName": "{d['name_en']}"
+        }}
+    }}
+    </script>
+</head>
+<body class="bg-gray-50">
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
+            <div class="flex items-center gap-4 flex-wrap"><span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span><span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span></div>
+            <div class="flex items-center gap-3">
+                <div class="flex gap-2">
+                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
+                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
+                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
+                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
+                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
+                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
+                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
+                </div>
+                <div class="flex gap-2 ml-4"><a href="https://wa.me/639685838435" target="_blank" class="hover:text-green-400"><i class="fab fa-whatsapp"></i></a></div>
+            </div>
+        </div>
+    </div>
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white" data-i18n="site_name">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i><span data-i18n="back_home">首页</span></a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i><span data-i18n="news">新闻资讯</span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb"><a href="https://lanpeimed.com" data-i18n="back_home">首页</a> &gt; <a href="https://lanpeimed.com/news.html" data-i18n="news">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium" data-i18n="tab_drug">药闻速递</span> &gt; {d['name_zh']}</div>
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">{d['name_zh']}</h1>
+            <p class="text-gray-500 mb-2">{d['subtitle']}</p>
+            <div class="article-meta mb-6"><span class="tag tag-drug">药闻速递</span><span class="article-date"><i class="far fa-calendar-alt mr-1"></i>2026-06-25</span></div>
+{d['content']}
+            <h2 id="price-title"><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 海外经济版价格对比</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>产地</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+{d['price_rows']}
+                </tbody>
+            </table>
+            <p id="price-reference" class="text-xs text-gray-400 mt-2">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价</p>
+
+            <div class="cta-box">
+                <p id="cta-title" class="text-lg mb-3" data-i18n="cta_title">需要咨询{d['name_zh']}药品渠道和价格信息?</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i><span data-i18n="phone_label">电话咨询</span>:<a href="tel:17844531559">17844531559</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i><span data-i18n="whatsapp_label">WhatsApp</span>:<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i><span data-i18n="wechat_label">微信咨询</span>:17844531559</p>
+            </div>
+            <div class="warning-box">
+                <p><strong id="disclaimer-title" data-i18n="disclaimer_title"><i class="fas fa-exclamation-triangle mr-1"></i>重要提示:</strong><span id="disclaimer-text" data-i18n="disclaimer_text">本文章仅供信息参考,不构成医疗建议。药品为处方药,必须在医生指导下使用。如有用药需求,请先咨询专业医生,再联系我们了解咨询渠道。</span></p>
+            </div>
+        </article>
+        <div id="bottom-cta" class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold" data-i18n="bottom_cta_title">蓝培医疗 · 全球优质医疗资源咨询</p>
+            <p class="text-sm mt-1">电话 17844531559 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p id="footer-platform" data-i18n="footer_platform">全球优质医疗资源咨询平台</p>
+            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明:本网站展示的医药信息仅供参考,具体疾病治疗和用药细节请务必咨询医生和药师,蓝培不承担任何责任</p>
+            <p id="footer-copyright" class="mt-1" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+<style>
+.chat-widget-btn{{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}}
+.chat-widget-btn:hover{{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}}
+.chat-widget-btn i{{color:#fff;font-size:24px}}
+.chat-widget-btn .pulse-ring{{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}}
+@keyframes chatPulse{{0%,100%{{transform:scale(1);opacity:1}}50%{{transform:scale(1.4);opacity:0}}}}
+.chat-box{{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}}
+@keyframes chatSlideUp{{from{{opacity:0;transform:translateY(20px)}}to{{opacity:1;transform:translateY(0)}}}}
+.chat-box.active{{display:flex}}
+.chat-header{{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}}
+.chat-header-left{{display:flex;align-items:center;gap:10px}}
+.chat-header-left .logo{{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}}
+.chat-header-left span{{font-size:15px;font-weight:600}}
+.chat-header .close-btn{{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}}
+.chat-body{{padding:16px;flex:1}}
+.chat-notice{{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}}
+.chat-notice .phone-red{{color:#dc2626;font-weight:bold;font-size:16px}}
+.chat-contact-row{{display:flex;gap:10px;margin-bottom:14px}}
+.chat-contact-item{{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}}
+.chat-contact-item:hover{{background:#e0efff;transform:translateY(-2px)}}
+.chat-contact-item i{{font-size:20px;margin-bottom:4px;display:block}}
+.chat-contact-item .label{{font-weight:600;margin-top:4px}}
+.chat-input-area{{display:flex;gap:8px;margin-top:10px}}
+.chat-input-area input{{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}}
+.chat-input-area input:focus{{border-color:#1e3a5f}}
+.chat-input-area button{{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}}
+.chat-input-area button:hover{{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}}
+.chat-footer{{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}}
+</style>
+<div class="chat-widget-btn" onclick="toggleChat()"><div class="pulse-ring"></div><i class="fas fa-headset"></i></div>
+<div class="chat-box" id="chatBox">
+    <div class="chat-header"><div class="chat-header-left"><div class="logo">蓝培</div><span data-i18n="chat_title">蓝培医疗在线咨询</span></div><button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button></div>
+    <div class="chat-body">
+        <div class="chat-notice">因咨询人数多,如未及时回复,请致电:<span class="phone-red">17844531559</span>,或扫码加微信沟通:</div>
+        <div style="text-align:center;margin-bottom:14px"><img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px"></div>
+        <div class="chat-contact-row">
+            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none"><i class="fas fa-phone-alt" style="color:#1e3a5f"></i><div class="label" data-i18n="phone_consult">电话咨询</div></a>
+            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none"><i class="fab fa-whatsapp" style="color:#25d366"></i><div class="label" data-i18n="whatsapp_label">WhatsApp</div></a>
+            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none"><i class="fab fa-weixin" style="color:#07c160"></i><div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div></a>
+        </div>
+        <div class="chat-input-area"><input type="tel" id="chatPhone" placeholder="请输入手机号码"><button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button></div>
+    </div>
+    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
+</div>
+<script>
+function toggleChat(){{var b=document.getElementById('chatBox');b.classList.toggle('active')}}
+function copyWechat(){{navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){{l.textContent=translations[currentLang].wechat_copy}},2000)}}
+function requestCallback(){{var p=document.getElementById('chatPhone').value;if(!p||p.length<8){{alert('请输入正确的手机号码');return}}var msg='咨询回电请求:'+p+',请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}}
+</script>
+</body>
+</html>'''
+
+
+# 154: 帕唑帕尼片 Pazonat (Pazopanib) - 肾癌 - 200/400mg
+drug_154 = {
+    "filename": "news-154-pazonat.html",
+    "name_zh": "帕唑帕尼片 Pazonat",
+    "name_en": "Pazopanib",
+    "seo_title": "帕唑帕尼片Pazonat用法用量详解｜珠峰药业印度版 200/400mg多靶点TKI 晚期肾细胞癌RCC一线口服靶向",
+    "seo_desc": "帕唑帕尼片Pazonat(Pazopanib Tablets 200/400mg,孟加拉珠峰药业印度版)用法用量详解,晚期肾细胞癌(RCC)一线治疗,软组织肉瘤(STS)二线治疗,海外肾癌靶向药咨询,全球优质医疗资源",
+    "seo_keywords": "帕唑帕尼片,Pazonat,Pazopanib,珠峰药业,维全特,Votrient,肾细胞癌,RCC,软组织肉瘤,STS,多靶点TKI",
+    "subtitle": "Pazopanib Tablets 200/400mg (Pazonat, 孟加拉珠峰药业) - 多靶点酪氨酸激酶抑制剂 | 品牌:Votrient维全特(Novartis诺华/葛兰素史克)",
+    "content": '''<h2><i class="fas fa-info-circle mr-2 text-orange-500"></i>药品概述</h2>
+<div class="info-box">
+<p><strong>通用名称:</strong>培唑帕尼/帕唑帕尼 (Pazopanib)</p>
+<p><strong>英文名称:</strong>Pazopanib Tablets 200mg/400mg (Pazonat, 孟加拉珠峰药业Everest Pharma) - Multi-Target Tyrosine Kinase Inhibitor (TKI)</p>
+<p><strong>品牌名称:</strong>原研药Votrient维全特(Novartis诺华,2009年10月FDA批准),海外经济版Pazonat(珠峰药业)、Pazocare(CIPLA)、Pazokon(印度多家)等</p>
+<p><strong>规格:</strong>200mg/片(粉红色胶囊形薄膜衣片,刻有"GS JT"字样);400mg/片(白色胶囊形薄膜衣片,刻有"GS UHL"字样)</p>
+<p><strong>药物类型:</strong>多靶点受体酪氨酸激酶抑制剂(TKI);主要抑制VEGFR-1/2/3、PDGFR-α/β、FGFR-1/3、c-Kit等,与ATP竞争性结合,阻断下游信号通路,抑制血管生成和肿瘤细胞增殖;Pazonat是孟加拉珠峰药业(Everest Pharma,孟加拉领先仿制药企业,产品线覆盖肿瘤/心血管/抗病毒等领域)生产的印度经济版,活性成分、剂型、规格、给药途径与原研Votrient基本一致,经孟加拉国药监局DGDA严格审查批准上市,为Ph+晚期肾癌患者提供经济可及的治疗选择</p>
+</div>
+
+<h2><i class="fas fa-briefcase-medical mr-2 text-orange-500"></i>适应症</h2>
+<p>帕唑帕尼片 Pazonat适用于以下情况:</p>
+<ul>
+<li><strong>晚期肾细胞癌(RCC)一线治疗</strong>:用于既往未接受过治疗或曾接受细胞因子治疗的成人晚期肾细胞癌患者</li>
+<li><strong>软组织肉瘤(STS)二线治疗</strong>:用于既往化疗失败的特定亚型晚期软组织肉瘤患者</li>
+<li><strong>用药前提</strong>:须由具有肿瘤治疗经验的专科医生启动;用药前评估肝功能(ALT/AST/胆红素)、心电图(基线+定期)、血压、尿蛋白、甲状腺功能</li>
+</ul>
+
+<h2><i class="fas fa-cogs mr-2 text-orange-500"></i>作用机制</h2>
+<p>帕唑帕尼是一种多靶点受体酪氨酸激酶抑制剂,主要通过抑制VEGFR-1/2/3(血管内皮生长因子受体)阻断肿瘤血管生成;同时抑制PDGFR-α/β(血小板衍生生长因子受体)抑制肿瘤间质细胞生长;抑制c-Kit抑制部分GIST亚型;抑制FGFR-1/3影响成纤维细胞生长信号;通过阻断下游RAF/MEK/ERK和PI3K/AKT/mTOR信号通路,实现抗肿瘤增殖和抗血管生成双重作用。口服后吸收,2-4小时达峰;高脂饮食使AUC增加约2倍;血浆蛋白结合率>99%;主要经CYP3A4代谢,半衰期约31小时;主要经粪便排泄(>77%),尿排泄<5%。Pazonat由珠峰药业生产,活性成分、剂型、规格、给药途径与原研Votrient基本一致</p>
+
+<h2><i class="fas fa-pills mr-2 text-orange-500"></i>用法用量</h2>
+<h3>标准剂量</h3>
+<ul>
+<li><strong>成人晚期RCC/STS</strong>:推荐剂量 <strong>800 mg/次,口服,每日1次</strong>;</li>
+<li>应<strong>空腹服用</strong>(餐前至少1小时或餐后至少2小时),不可与食物同服;</li>
+<li>不可掰开或嚼碎,整片用水吞服;</li>
+<li>持续治疗直至疾病进展或不可耐受;</li>
+<li><strong>剂量调整</strong>:按 200 mg 的幅度逐步递增或递减,以控制不良反应,最大剂量不超过 800 mg/日</li>
+</ul>
+
+<h3>特殊人群</h3>
+<ul>
+<li><strong>老年人(≥65岁)</strong>:无需调整剂量</li>
+<li><strong>肾功能不全</strong>:CrCl>30 mL/min 无需调整;CrCl<30 mL/min 慎用</li>
+<li><strong>肝功能不全</strong>:<br>
+&nbsp;&nbsp;• 轻度(胆红素正常但ALT升高,或胆红素≤1.5×ULN):<strong>800 mg/日</strong><br>
+&nbsp;&nbsp;• 中度(胆红素1.5-3×ULN):<strong>200 mg/日</strong><br>
+&nbsp;&nbsp;• 重度(胆红素>3×ULN):<strong>不推荐使用</strong></li>
+<li><strong>儿童(<18岁)</strong>:安全性未确立,不推荐</li>
+<li><strong>妊娠/哺乳期</strong>:有胎儿毒性,孕妇禁用;哺乳期停药或停止哺乳</li>
+</ul>
+
+<h2><i class="fas fa-exclamation-triangle mr-2 text-orange-500"></i>重要安全提示</h2>
+<div class="warning-box">
+<strong>⚠️ 严重毒性警告</strong>(可能致命):<br>
+• <strong>肝毒性</strong>:曾发生严重致死性肝毒性,用药前+治疗期间定期监测肝功能(ALT/AST/胆红素),<strong>至少每4周1次</strong>,持续8-12周;若ALT>8×ULN或ALT>3×ULN伴胆红素>2×ULN应永久停药<br>
+• <strong>出血</strong>:曾报道致死性出血事件(咯血、脑出血、胃肠道出血),<strong>6个月内有过这些出血史者禁用</strong><br>
+• <strong>动脉血栓事件</strong>:心肌梗死、脑缺血发作可能致死,风险增加者慎用<br>
+• <strong>高血压</strong>:常见且需积极控制,基线+定期监测,>140/90 mmHg需降压治疗<br>
+• <strong>QT间期延长</strong>和<strong>尖端扭转型室速</strong>,定期心电图监测<br>
+• <strong>胃肠道穿孔/瘘管</strong>:风险增加者慎用,发生即停药<br>
+</div>
+<ul>
+<li><strong>蛋白尿</strong>:定期监测,4级蛋白尿需停药</li>
+<li><strong>甲状腺功能减退</strong>:定期监测TSH</li>
+<li><strong>伤口愈合延迟</strong>:术前<strong>至少停药7天</strong>,术后恢复再启用</li>
+<li><strong>CYP3A4相互作用</strong>:强CYP3A4抑制剂(酮康唑、伊曲康唑、克拉霉素)显著升高血药浓度,避免合用;CYP3A4诱导剂(利福平、卡马西平、苯妥英)显著降低疗效,避免合用</li>
+<li><strong>胃pH升高剂</strong>:质子泵抑制剂(埃索美拉唑)降低生物利用度40%,避免合用</li>
+<li><strong>避免葡萄柚/西柚制品</strong></li>
+</ul>
+
+<h2><i class="fas fa-prescription-bottle-alt mr-2 text-orange-500"></i>规格与保存</h2>
+<ul>
+<li><strong>规格</strong>:200mg / 400mg 片剂</li>
+<li><strong>包装</strong>:珠峰药业Pazonat 常见 30片/盒(200mg) 或 60片/盒(400mg)</li>
+<li><strong>保存</strong>:低于30°C干燥处,避光防潮,儿童不可触及</li>
+</ul>''',
+    "price_rows": '''<tr><td>原研药</td><td>Votrient 维全特 (Novartis诺华)</td><td>瑞士/美国</td><td>由实际咨询为准</td></tr>
+<tr><td>海外经济版</td><td>Pazonat (孟加拉珠峰药业) / Pazocare (CIPLA) / 印度多家</td><td>孟加拉/印度</td><td>由实际咨询为准</td></tr>''',
+}
+
+# 155: 舒尼替尼胶囊 SUTIB (Sunitinib) - 肾癌/GIST/pNET
+drug_155 = {
+    "filename": "news-155-sutib.html",
+    "name_zh": "舒尼替尼胶囊 SUTIB",
+    "name_en": "Sunitinib Malate",
+    "seo_title": "舒尼替尼胶囊SUTIB用法用量详解｜珠峰药业印度版 12.5/25/50mg多靶点TKI 晚期肾癌RCC/GIST/胰腺神经内分泌瘤",
+    "seo_desc": "舒尼替尼胶囊SUTIB(Sunitinib Malate Capsules 12.5/25/50mg,孟加拉珠峰药业印度版)用法用量详解,晚期肾细胞癌(RCC)/胃肠道间质瘤(GIST)/胰腺神经内分泌瘤(pNET)一线治疗,海外肿瘤靶向药咨询,全球优质医疗资源",
+    "seo_keywords": "舒尼替尼胶囊,SUTIB,Sunitinib,珠峰药业,Sutent,舒坦森,肾细胞癌,RCC,GIST,胰腺神经内分泌瘤,pNET,多靶点TKI",
+    "subtitle": "Sunitinib Malate Capsules 12.5/25/50mg (SUTIB, 孟加拉珠峰药业Everest Pharma) - 多靶点酪氨酸激酶抑制剂 | 品牌:Sutent舒坦森(Pfizer辉瑞)",
+    "content": '''<h2><i class="fas fa-info-circle mr-2 text-orange-500"></i>药品概述</h2>
+<div class="info-box">
+<p><strong>通用名称:</strong>苹果酸舒尼替尼 (Sunitinib Malate)</p>
+<p><strong>英文名称:</strong>Sunitinib Malate Capsules 12.5mg/25mg/50mg (SUTIB, 孟加拉珠峰药业Everest Pharma) - Multi-Target Tyrosine Kinase Inhibitor (TKI)</p>
+<p><strong>品牌名称:</strong>原研药Sutent舒坦森(Pfizer辉瑞,2006年1月FDA批准),海外经济版SUTIB(珠峰药业)、Sunitix(Sun Pharma)、Sutent通用名(印度多家)等</p>
+<p><strong>规格:</strong>12.5mg/粒(橙色+白色硬明胶胶囊,印Pfizer);25mg/粒(焦糖色+橙色硬明胶胶囊,印Pfizer);50mg/粒(焦糖色+焦糖色硬明胶胶囊,印Pfizer)</p>
+<p><strong>药物类型:</strong>多靶点受体酪氨酸激酶抑制剂(TKI);抑制PDGFR-α/β、VEGFR-1/2/3、c-Kit、FLT3、Ret等多靶点,通过阻断肿瘤血管生成和直接抑制肿瘤细胞增殖实现抗肿瘤作用;SUTIB是孟加拉珠峰药业(Everest Pharma)生产的印度经济版,活性成分、剂型、规格、给药途径与原研Sutent基本一致,经孟加拉国药监局DGDA严格审查批准上市</p>
+</div>
+
+<h2><i class="fas fa-briefcase-medical mr-2 text-orange-500"></i>适应症</h2>
+<p>舒尼替尼胶囊 SUTIB适用于以下情况:</p>
+<ul>
+<li><strong>晚期肾细胞癌(RCC)</strong>:既往未接受过治疗或细胞因子治疗失败的成人晚期肾细胞癌</li>
+<li><strong>胃肠道间质瘤(GIST)</strong>:甲磺酸伊马替尼治疗失败或不耐受的成人GIST患者</li>
+<li><strong>胰腺神经内分泌瘤(pNET)</strong>:不可切除的、局部晚期或转移性的成人进行性胰腺神经内分泌瘤(高分化)</li>
+<li><strong>用药前提</strong>:须由具有肿瘤治疗经验的专科医生启动;用药前评估肝功能、肾功能、心电图(基线+定期)、血压、心脏功能(超声心动图基线LVEF)</li>
+</ul>
+
+<h2><i class="fas fa-cogs mr-2 text-orange-500"></i>作用机制</h2>
+<p>舒尼替尼及其主要活性代谢物SU012662是多靶点酪氨酸激酶抑制剂,主要抑制PDGFR(血小板衍生生长因子受体)、VEGFR(血管内皮生长因子受体)、c-Kit、FLT3和Ret。通过抑制PDGFR/VEGFR阻断肿瘤血管生成,抑制肿瘤营养供应;抑制c-Kit直接作用于GIST细胞(伊马替尼耐药机制之一);抑制FLT3作用于部分白血病;抑制Ret作用于甲状腺髓样癌。口服后6-12小时达峰;高脂饮食不影响生物利用度;血浆蛋白结合率95-97%;主要经CYP3A4代谢为SU012662(同样有效),原药半衰期40-60小时,活性代谢物80-110小时;主要经粪便排泄(61%)。SUTIB由珠峰药业生产,与原研Sutent在活性成分、剂型、规格、给药途径上完全一致</p>
+
+<h2><i class="fas fa-pills mr-2 text-orange-500"></i>用法用量</h2>
+<h3>标准剂量</h3>
+<ul>
+<li><strong>晚期RCC/GIST</strong>:推荐剂量 <strong>50 mg/次,口服,每日1次</strong>;</li>
+<li>采用<strong>4/2方案</strong>:<strong>连用4周后停2周</strong>,6周为一个治疗周期,直至疾病进展或不可耐受</li>
+<li><strong>pNET</strong>:推荐剂量 <strong>37.5 mg/次,每日1次,持续给药</strong>(无停药期),直至疾病进展或不可耐受</li>
+<li><strong>服用方法</strong>:可餐前或餐后服用(高脂饮食不影响AUC),整粒吞服,不可打开/咀嚼/压碎/分散</li>
+<li><strong>剂量调整</strong>:按 12.5 mg 幅度递增/递减,根据个体耐受性调整;RCC/GIST 最低12.5 mg/日,pNET 最低25 mg/日</li>
+</ul>
+
+<h3>特殊人群</h3>
+<ul>
+<li><strong>老年人(≥65岁)</strong>:无需调整剂量</li>
+<li><strong>肾功能不全</strong>:轻中度无需调整;重度无数据,慎用</li>
+<li><strong>肝功能不全</strong>:<br>
+&nbsp;&nbsp;• Child-Pugh A-B(轻中度):无需调整起始剂量<br>
+&nbsp;&nbsp;• Child-Pugh C(重度):无数据,不推荐</li>
+<li><strong>儿童(<18岁)</strong>:安全性未确立,不推荐</li>
+<li><strong>妊娠/哺乳期</strong>:有胎儿毒性,孕妇禁用;哺乳期停药或停止哺乳</li>
+</ul>
+
+<h2><i class="fas fa-exclamation-triangle mr-2 text-orange-500"></i>重要安全提示</h2>
+<div class="warning-box">
+<strong>⚠️ 严重毒性警告</strong>(可能致命):<br>
+• <strong>肝毒性</strong>:可能致命,用药前+治疗期间定期监测肝功能<br>
+• <strong>心血管事件</strong>:充血性心衰(部分致死),基线+定期LVEF监测;基线LVEF低于正常下限者慎用;QT间期延长,定期心电图监测<br>
+• <strong>高血压</strong>:常见(>30%)需积极控制,基线+定期监测<br>
+• <strong>出血</strong>:可能严重甚至致死,6个月内咯血/脑出血/胃肠道出血者禁用<br>
+• <strong>动脉血栓事件</strong>:心肌梗死/脑血管意外可能致死,风险增加者慎用<br>
+• <strong>蛋白尿/肾病综合征</strong>:定期监测尿蛋白<br>
+• <strong>甲状腺功能减退</strong>:定期监测TSH,可能需甲状腺素替代治疗<br>
+</div>
+<ul>
+<li><strong>骨髓抑制</strong>:3-4级中性粒细胞减少/血小板减少/贫血,定期血常规监测</li>
+<li><strong>皮肤毒性</strong>:手足综合征、皮疹、脱发、皮肤/毛发/黏膜色素脱失/黄染</li>
+<li><strong>胃肠道</strong>:恶心、呕吐、腹泻、消化不良、口腔炎、味觉异常</li>
+<li><strong>伤口愈合延迟</strong>:术前<strong>至少停药3周</strong>,术后恢复再启用</li>
+<li><strong>骨坏死</strong>(特别是下颌骨):用药前+期间保持口腔卫生,避免侵入性牙科操作</li>
+<li><strong>CYP3A4相互作用</strong>:强CYP3A4抑制剂(酮康唑、伊曲康唑、克拉霉素)显著升高血药浓度,避免合用;CYP3A4诱导剂(利福平、卡马西平、苯妥英)显著降低疗效,避免合用</li>
+<li><strong>避免葡萄柚/西柚制品</strong></li>
+</ul>
+
+<h2><i class="fas fa-prescription-bottle-alt mr-2 text-orange-500"></i>规格与保存</h2>
+<ul>
+<li><strong>规格</strong>:12.5 mg / 25 mg / 50 mg 胶囊</li>
+<li><strong>包装</strong>:珠峰药业SUTIB 常见 30粒/盒(7粒/板x4板+2粒/板x1板)或28粒/盒</li>
+<li><strong>保存</strong>:低于25°C干燥处,避光防潮,儿童不可触及</li>
+</ul>''',
+    "price_rows": '''<tr><td>原研药</td><td>Sutent 舒坦森 (Pfizer辉瑞)</td><td>美国/德国</td><td>由实际咨询为准</td></tr>
+<tr><td>海外经济版</td><td>SUTIB (孟加拉珠峰药业) / Sunitix (Sun Pharma) / 印度多家</td><td>孟加拉/印度</td><td>由实际咨询为准</td></tr>''',
+}
+
+# 156: 伊马替尼片 IMANIB (Imatinib) - CML/GIST
+drug_156 = {
+    "filename": "news-156-imanib.html",
+    "name_zh": "伊马替尼片 IMANIB",
+    "name_en": "Imatinib Mesylate",
+    "seo_title": "伊马替尼片IMANIB用法用量详解｜珠峰药业印度版 100/400mg一代TKI 慢性粒细胞白血病CML/胃肠间质瘤GIST",
+    "seo_desc": "伊马替尼片IMANIB(Imatinib Mesylate Tablets 100/400mg,孟加拉珠峰药业印度版)用法用量详解,费城染色体阳性慢性粒细胞白血病(Ph+ CML)/胃肠间质瘤(GIST)/Ph+急性淋巴细胞白血病一线治疗,海外白血病靶向药咨询,全球优质医疗资源",
+    "seo_keywords": "伊马替尼片,IMANIB,Imatinib,珠峰药业,格列卫,Glivec,Gleevec,CML,慢性粒细胞白血病,GIST,胃肠间质瘤,Ph+,一代TKI",
+    "subtitle": "Imatinib Mesylate Tablets 100/400mg (IMANIB, 孟加拉珠峰药业Everest Pharma) - 第一代酪氨酸激酶抑制剂 | 品牌:Glivec格列卫/Gleevec(Novartis诺华)",
+    "content": '''<h2><i class="fas fa-info-circle mr-2 text-orange-500"></i>药品概述</h2>
+<div class="info-box">
+<p><strong>通用名称:</strong>甲磺酸伊马替尼 (Imatinib Mesylate)</p>
+<p><strong>英文名称:</strong>Imatinib Mesylate Tablets 100mg/400mg (IMANIB, 孟加拉珠峰药业Everest Pharma) - 1st Generation Tyrosine Kinase Inhibitor (TKI)</p>
+<p><strong>品牌名称:</strong>原研药Glivec格列卫/Gleevec(Novartis诺华,2001年5月FDA批准),海外经济版IMANIB(珠峰药业)、Imatib(Accord)、Imatros(Mylan)、Imalek(Biological E)等</p>
+<p><strong>规格:</strong>100mg/片(深黄色至棕橙色薄膜衣片,刻有"NVR"+"DC");400mg/片(深黄色至棕橙色薄膜衣片,刻有"GLIVEC"或"NVR"+"ST");可分散片/胶囊剂型</p>
+<p><strong>药物类型:</strong>第一代酪氨酸激酶抑制剂(TKI),针对BCR-ABL融合蛋白(Ph+白血病)、c-Kit(GIST)、PDGFR(部分罕见病)的ATP竞争性抑制剂;IMANIB是孟加拉珠峰药业(Everest Pharma)生产的印度经济版,活性成分、剂型、规格、给药途径与原研Glivec基本一致,经孟加拉国药监局DGDA严格审查批准上市,为Ph+白血病/GIST患者提供经济可及的治疗选择</p>
+</div>
+
+<h2><i class="fas fa-briefcase-medical mr-2 text-orange-500"></i>适应症</h2>
+<p>伊马替尼片 IMANIB适用于以下情况:</p>
+<ul>
+<li><strong>新诊断Ph+慢性粒细胞白血病(CML)慢性期</strong>:不适合骨髓移植的一线治疗</li>
+<li><strong>Ph+ CML 干扰素-α治疗失败者</strong>(慢性期/加速期/急变期)</li>
+<li><strong>新诊断Ph+急性淋巴细胞白血病(Ph+ ALL)</strong>:与化疗联用</li>
+<li><strong>复发/难治Ph+ ALL</strong>:单药治疗</li>
+<li><strong>骨髓增生异常/骨髓增殖性疾病(MDS/MPD)</strong>:伴PDGFR基因重排者</li>
+<li><strong>晚期高嗜酸性粒细胞综合征/慢性嗜酸性粒细胞白血病(HES/CEL)</strong>:伴FIP1L1-PDGFRα重排者</li>
+<li><strong>不可切除/转移性恶性胃肠道间质瘤(GIST)</strong>:Kit(CD117)阳性成人</li>
+<li><strong>GIST切除术后辅助治疗</strong>:显著复发风险者</li>
+<li><strong>不可切除/复发/转移性隆突性皮肤纤维肉瘤(DFSP)</strong></li>
+<li><strong>儿童(1岁及以上)</strong>:按BSA给药,适用于Ph+ CML各期和Ph+ ALL联合化疗</li>
+</ul>
+
+<h2><i class="fas fa-cogs mr-2 text-orange-500"></i>作用机制</h2>
+<p>伊马替尼是2-苯基氨基嘧啶类小分子TKI,通过竞争性结合BCR-ABL融合蛋白的ATP结合位点,阻断酪氨酸残基磷酸化,抑制下游信号传导,导致Ph+白血病细胞凋亡;对c-Kit突变型GIST细胞有相似作用机制(kit基因突变导致蛋白持续激活);对PDGFR重排的罕见病(高嗜酸性粒细胞综合征等)同样有效。口服后吸收迅速,2-4小时达峰;生物利用度98%;餐时服用AUC略升高;血浆蛋白结合率约95%;主要经CYP3A4代谢(主要代谢物N-去甲基哌嗪衍生物,活性较弱),半衰期约18小时(原药)/40小时(活性代谢物);主要经粪便排泄(68%),尿排泄13%。IMANIB由珠峰药业生产,与原研Glivec在活性成分、剂型、规格、给药途径上完全一致</p>
+
+<h2><i class="fas fa-pills mr-2 text-orange-500"></i>用法用量</h2>
+<h3>成人标准剂量</h3>
+<ul>
+<li><strong>Ph+ CML 慢性期</strong>:<strong>400 mg/日</strong>,1次服用,与食物和一大杯水同服;</li>
+<li><strong>Ph+ CML 加速期/急变期</strong>:<strong>600 mg/日</strong>,1次服用;</li>
+<li><strong>Ph+ ALL</strong>:<strong>600 mg/日</strong>,1次服用,联合化疗;</li>
+<li><strong>GIST(不可切除/转移性)</strong>:<strong>400 mg/日</strong>,1次服用;</li>
+<li><strong>GIST 辅助治疗(切除后)</strong>:<strong>400 mg/日</strong>,推荐疗程3年;</li>
+<li><strong>DFSP</strong>:<strong>400 mg/日</strong>,必要时可增至800 mg/日(分2次);</li>
+<li><strong>HES/CEL、MDS/MPD</strong>:<strong>100 mg/日</strong>起始,根据反应增量,无反应可至400 mg/日</li>
+</ul>
+
+<h3>儿童剂量(Ph+ CML)</h3>
+<ul>
+<li><strong>3岁及以上</strong>:推荐 <strong>340 mg/m²/日</strong>,1次或分2次服用(早/晚),总剂量不超过600 mg/日</li>
+<li><strong>3岁以下</strong>:无治疗经验</li>
+</ul>
+
+<h3>服用方法</h3>
+<ul>
+<li><strong>必须餐时服用</strong>(与食物+一大杯水),减少胃肠道刺激</li>
+<li>整片用水送服,避免接触破损药片(可能引起皮肤刺激)</li>
+<li>400 mg/600 mg 每日1次;800 mg 分2次服用(早+晚)</li>
+<li>不能吞咽者可分散于<strong>无气水或苹果汁中</strong>(100mg/50mL,400mg/200mL),立即服用</li>
+<li><strong>漏服处理</strong>:想起尽快补服,接近下次则跳过,不可双倍补服</li>
+</ul>
+
+<h3>特殊人群</h3>
+<ul>
+<li><strong>老年人</strong>:无需调整剂量</li>
+<li><strong>肝功能不全</strong>:根据肝功能调整剂量(详见肝毒性剂量调整);严重肝损需显著减量</li>
+<li><strong>肾功能不全</strong>:轻度无需调整;中重度需谨慎,严重者密切监测</li>
+</ul>
+
+<h2><i class="fas fa-exclamation-triangle mr-2 text-orange-500"></i>重要安全提示</h2>
+<div class="warning-box">
+<strong>⚠️ 严重毒性警告</strong>:<br>
+• <strong>体液潴留和水肿</strong>:常见且严重(胸腔积液/心包积液/肺水肿/腹水);严重者减量/停药+利尿<br>
+• <strong>肝毒性</strong>:可能致命;若胆红素>3×ULN或转氨酶>5×ULN,宜停药至恢复(胆红素≤1.5×ULN、转氨酶≤2.5×ULN)后减量;成人400→300mg,600→400mg,800→600mg<br>
+• <strong>骨髓抑制</strong>:3-4级中性粒细胞减少/血小板减少;根据血象调整剂量(见药品说明书详细方案)<br>
+• <strong>充血性心衰和左心功能不全</strong>:定期监测心功能,有心血管疾病者慎用<br>
+• <strong>胃肠道刺激</strong>:与食物+水同服可减轻<br>
+• <strong>肿瘤溶解综合征</strong>:高肿瘤负荷者,开始治疗前给予充分水化和别嘌醇<br>
+</div>
+<ul>
+<li><strong>CYP3A4抑制剂/诱导剂</strong>:显著影响血药浓度,避免合用或调整剂量</li>
+<li><strong>CYP3A4底物</strong>(辛伐他汀、环孢素、匹莫范色林等):血药浓度可能升高,需调整</li>
+<li><strong>圣约翰草</strong>:显著降低伊马替尼血药浓度,避免合用</li>
+<li><strong>对乙酰氨基酚(扑热息痛)</strong>:合用可能增加肝毒性,避免或限制剂量</li>
+<li><strong>华法林</strong>:合用可能增加出血风险,需密切监测INR或换用低分子肝素</li>
+<li><strong>左甲状腺素</strong>:伊马替尼可能干扰其代谢,甲状腺切除患者需监测TSH</li>
+<li>孕妇:有胎儿毒性,孕妇禁用;育龄期用药需避孕至停药后1个月</li>
+</ul>
+
+<h2><i class="fas fa-prescription-bottle-alt mr-2 text-orange-500"></i>规格与保存</h2>
+<ul>
+<li><strong>规格</strong>:100 mg / 400 mg 片剂(或可分散片);部分剂型为100 mg 胶囊</li>
+<li><strong>包装</strong>:珠峰药业IMANIB 常见 100mg×60片/盒,400mg×30片/盒</li>
+<li><strong>保存</strong>:低于30°C干燥处,避光防潮,儿童不可触及</li>
+</ul>''',
+    "price_rows": '''<tr><td>原研药</td><td>Glivec 格列卫 / Gleevec (Novartis诺华)</td><td>瑞士/美国</td><td>由实际咨询为准</td></tr>
+<tr><td>海外经济版</td><td>IMANIB (孟加拉珠峰药业) / Imatib (Accord) / Imatros (Mylan) / 印度多家</td><td>孟加拉/印度</td><td>由实际咨询为准</td></tr>''',
+}
+
+# 157: 达沙替尼片 Dasanat (Dasatinib) - CML/Ph+ALL
+drug_157 = {
+    "filename": "news-157-dasanat.html",
+    "name_zh": "达沙替尼片 Dasanat",
+    "name_en": "Dasatinib",
+    "seo_title": "达沙替尼片Dasanat用法用量详解｜珠峰药业印度版 50/100mg二代TKI 慢性粒细胞白血病CML/Ph+急性淋巴白血病",
+    "seo_desc": "达沙替尼片Dasanat(Dasatinib Tablets 50/100mg,孟加拉珠峰药业印度版)用法用量详解,慢性期/加速期/急变期Ph+慢性粒细胞白血病(CML)/Ph+急性淋巴细胞白血病(Ph+ ALL)治疗,伊马替尼耐药或不耐受二线方案,海外白血病靶向药咨询,全球优质医疗资源",
+    "seo_keywords": "达沙替尼片,Dasanat,Dasatinib,珠峰药业,Sprycel,施达赛,CML,慢性粒细胞白血病,Ph+ALL,二代TKI,伊马替尼耐药",
+    "subtitle": "Dasatinib Tablets 50mg/100mg (Dasanat, 孟加拉珠峰药业Everest Pharma) - 第二代酪氨酸激酶抑制剂 | 品牌:Sprycel施达赛(BMS百时美施贵宝)",
+    "content": '''<h2><i class="fas fa-info-circle mr-2 text-orange-500"></i>药品概述</h2>
+<div class="info-box">
+<p><strong>通用名称:</strong>达沙替尼 (Dasatinib)</p>
+<p><strong>英文名称:</strong>Dasatinib Tablets 20mg/50mg/100mg/140mg (Dasanat, 孟加拉珠峰药业Everest Pharma) - 2nd Generation Tyrosine Kinase Inhibitor (TKI)</p>
+<p><strong>品牌名称:</strong>原研药Sprycel施达赛(Bristol-Myers Squibb,2006年6月FDA批准),海外经济版Dasanat(珠峰药业)、Dasanix(Beacon)、Dasatrue(Sun Pharma)、Dasacare(CIPLA)等</p>
+<p><strong>规格:</strong>20mg/50mg/100mg/140mg片剂;白色或类白色薄膜衣片</p>
+<p><strong>药物类型:</strong>第二代酪氨酸激酶抑制剂(TKI),针对BCR-ABL融合蛋白(对野生型及多数耐药突变有效,但T315I突变耐药)、SRC家族激酶、c-Kit、PDGFR、EPHA2等;分子量小,可透过血脑屏障;对伊马替尼耐药/不耐受CML患者有显著优势;Dasanat是孟加拉珠峰药业(Everest Pharma)生产的印度经济版,活性成分、剂型、规格、给药途径与原研Sprycel基本一致,经孟加拉国药监局DGDA严格审查批准上市</p>
+</div>
+
+<h2><i class="fas fa-briefcase-medical mr-2 text-orange-500"></i>适应症</h2>
+<p>达沙替尼片 Dasanat适用于以下情况:</p>
+<ul>
+<li><strong>新诊断Ph+慢性期CML(成人)</strong></li>
+<li><strong>慢性期/加速期/急变期Ph+ CML</strong>(成人):既往治疗(包括伊马替尼)耐药或不耐受者</li>
+<li><strong>Ph+急性淋巴细胞白血病(Ph+ ALL)</strong>(成人):既往治疗耐药或不耐受者</li>
+<li><strong>儿童(1岁及以上)</strong>:Ph+ 慢性期CML;新诊断Ph+ ALL与化疗联合</li>
+<li><strong>用药前提</strong>:须由具有白血病管理经验血液/肿瘤专科医生启动;用药前评估血常规、肝功能、心电图(基线+定期)、肺动脉高压症状评估</li>
+</ul>
+
+<h2><i class="fas fa-cogs mr-2 text-orange-500"></i>作用机制</h2>
+<p>达沙替尼是强效第二代BCR-ABL TKI,分子量小(488 Da)能透过血脑屏障;可同时抑制BCR-ABL融合蛋白和SRC家族激酶;对野生型BCR-ABL活性约为伊马替尼的325倍;对大多数伊马替尼耐药突变(M244V、G250E、Q252H、E255K/V、F317L、F359V等)有活性,但<strong>T315I和V299L突变耐药</strong>(此情况下应换用博纳替尼/Ponatinib);通过阻断ATP结合位点,抑制酪氨酸残基自身磷酸化,阻断下游RAS/RAF/MEK/ERK和PI3K/AKT信号通路,导致BCR-ABL阳性白血病细胞凋亡。口服后30分钟-3小时达峰;餐时服用AUC无显著变化;血浆蛋白结合率约93-96%;主要经CYP3A4代谢,半衰期3-5小时(原药)/71小时(活性代谢物);主要经粪便排泄(85%),尿排泄4%。Dasanat由珠峰药业生产,与原研Sprycel在活性成分、剂型、规格、给药途径上完全一致</p>
+
+<h2><i class="fas fa-pills mr-2 text-orange-500"></i>用法用量</h2>
+<h3>成人标准剂量</h3>
+<ul>
+<li><strong>Ph+ CML 慢性期</strong>:<strong>100 mg/次,每日1次</strong>,口服,餐时/空腹均可;</li>
+<li><strong>Ph+ CML 加速期/急变期、Ph+ ALL</strong>:<strong>140 mg/次,每日1次</strong>,口服;</li>
+<li><strong>治疗持续时间</strong>:持续治疗直至疾病进展或不可耐受;新诊断CP CML 临床试验中位治疗时间5年以上</li>
+<li><strong>剂量递增</strong>:对100 mg/日CP CML 3个月未达主要细胞遗传学缓解(MCyR)且无3-4级不良反应者,可考虑递增至140 mg/日</li>
+</ul>
+
+<h3>儿童剂量(Ph+ CML / Ph+ ALL)</h3>
+<ul>
+<li><strong>1岁及以上,按体重</strong>:<br>
+&nbsp;&nbsp;• 10-<20 kg:40 mg/日<br>
+&nbsp;&nbsp;• 20-<30 kg:60 mg/日<br>
+&nbsp;&nbsp;• 30-<45 kg:70 mg/日<br>
+&nbsp;&nbsp;• ≥45 kg:100 mg/日</li>
+<li>每3个月根据体重变化重新计算剂量</li>
+<li>Ph+ ALL儿童应在化疗诱导第15天或确诊后尽早开始,持续2年</li>
+</ul>
+
+<h3>服用方法</h3>
+<ul>
+<li>整片用水吞服,<strong>不可压碎/切割/咀嚼</strong>(活性成分可能引起皮肤刺激)</li>
+<li>餐时餐后均可(无需特殊)</li>
+<li>每日固定时间服用</li>
+<li><strong>漏服处理</strong>:想起尽快补服,接近下次则跳过,不可双倍补服</li>
+<li>不能吞咽片剂的儿童:可分散于<strong>无气水或苹果汁中</strong>(需详细方案,遵医嘱)</li>
+</ul>
+
+<h3>特殊人群</h3>
+<ul>
+<li><strong>老年人(≥65岁)</strong>:无需调整剂量,但需密切监测体液潴留和心血管事件</li>
+<li><strong>肝功能不全</strong>:<br>
+&nbsp;&nbsp;• Child-Pugh A(轻度):无需调整<br>
+&nbsp;&nbsp;• Child-Pugh B-C(中重度):起始剂量需减半并密切监测</li>
+<li><strong>肾功能不全</strong>:达沙替尼及代谢物<4%经肾排泄,一般无需调整</li>
+</ul>
+
+<h2><i class="fas fa-exclamation-triangle mr-2 text-orange-500"></i>重要安全提示</h2>
+<div class="warning-box">
+<strong>⚠️ 严重毒性警告</strong>:<br>
+• <strong>骨髓抑制</strong>:3-4级血小板减少/中性粒细胞减少/贫血常见,定期血常规监测(前2个月每周,之后每月)<br>
+• <strong>出血事件</strong>:5级(致死)出血,与血小板减少相关;与抗血小板/抗凝药合用需谨慎<br>
+• <strong>体液潴留</strong>:胸腔积液(35% CP患者)、心包积液、肺水肿、腹水、外周水肿;<strong>胸腔积液发生率显著高于其他TKI</strong>(<br>
+&nbsp;&nbsp;• 100 mg/日:5%<br>
+&nbsp;&nbsp;• 140 mg/日:10-15%)<br>
+• <strong>充血性心衰和左心功能不全</strong>:定期监测心功能,基线+定期超声心动图<br>
+• <strong>QT间期延长</strong>:定期心电图监测,低钾/低镁者先纠正<br>
+• <strong>肺动脉高压(PAH)</strong>:罕见但严重,用药期间出现呼吸困难/胸痛/疲乏等应立即评估;<strong>确诊PAH即永久停用达沙替尼</strong><br>
+• <strong>严重皮肤反应</strong>:罕见Stevens-Johnson综合征、中毒性表皮坏死松解症等<br>
+• <strong>肝毒性</strong>:用药前+每月监测肝功能<br>
+</div>
+<ul>
+<li><strong>儿童发育影响</strong>:骨骺延迟融合、骨质减少、生长迟缓、男性乳房发育;定期监测生长发育</li>
+<li><strong>胚胎-胎儿毒性</strong>:有胎儿毒性,孕妇禁用;育龄期用药需避孕至停药后1个月</li>
+<li><strong>CYP3A4相互作用</strong>:<br>
+&nbsp;&nbsp;• 强CYP3A4抑制剂(酮康唑、伊曲康唑、克拉霉素):<strong>显著升高达沙替尼血药浓度</strong>,应避免合用;若必须合用,达沙替尼减量:140→40mg/日,100→20mg/日,70→20mg/日<br>
+&nbsp;&nbsp;• 强CYP3A4诱导剂(利福平、卡马西平、苯妥英):<strong>显著降低达沙替尼血药浓度</strong>,避免合用;若必须合用,需增加达沙替尼剂量并密切监测<br>
+&nbsp;&nbsp;• <strong>避免葡萄柚/西柚制品</strong></li>
+<li><strong>抗酸剂</strong>:同时服用降低达沙替尼吸收,需间隔2小时</li>
+<li><strong>H2受体拮抗剂(法莫替丁等)和质子泵抑制剂(奥美拉唑等)</strong>:避免合用(降低达沙替尼吸收)</li>
+<li><strong>圣约翰草</strong>:降低达沙替尼血药浓度,避免合用</li>
+</ul>
+
+<h2><i class="fas fa-prescription-bottle-alt mr-2 text-orange-500"></i>规格与保存</h2>
+<ul>
+<li><strong>规格</strong>:20 mg / 50 mg / 70 mg / 100 mg / 140 mg 片剂</li>
+<li><strong>包装</strong>:珠峰药业Dasanat 常见 100mg×30片/盒(10片/板x3板)</li>
+<li><strong>保存</strong>:低于30°C干燥处,避光防潮,儿童不可触及</li>
+</ul>''',
+    "price_rows": '''<tr><td>原研药</td><td>Sprycel 施达赛 (BMS百时美施贵宝)</td><td>美国/欧盟</td><td>由实际咨询为准</td></tr>
+<tr><td>海外经济版</td><td>Dasanat (孟加拉珠峰药业) / Dasanix (Beacon) / Dasatrue (Sun Pharma) / 印度多家</td><td>孟加拉/印度</td><td>由实际咨询为准</td></tr>''',
+}
+
+# 158: 比卡鲁胺片 Calutide (Bicalutamide) - 前列腺癌
+drug_158 = {
+    "filename": "news-158-calutide.html",
+    "name_zh": "比卡鲁胺片 Calutide",
+    "name_en": "Bicalutamide",
+    "seo_title": "比卡鲁胺片Calutide用法用量详解｜珠峰药业印度版 50mg非甾体抗雄激素 晚期前列腺癌与LHRH类似物联合治疗",
+    "seo_desc": "比卡鲁胺片Calutide(Bicalutamide Tablets 50mg,孟加拉珠峰药业印度版)用法用量详解,晚期前列腺癌与LHRH类似物联合治疗/局部晚期前列腺癌单药治疗,海外前列腺癌抗雄激素靶向药咨询,全球优质医疗资源",
+    "seo_keywords": "比卡鲁胺片,Calutide,Bicalutamide,珠峰药业,康士得,Casodex,前列腺癌,非甾体抗雄激素,LHRH,联合治疗",
+    "subtitle": "Bicalutamide Tablets 50mg/150mg (Calutide, 孟加拉珠峰药业Everest Pharma) - 非甾体抗雄激素药物 | 品牌:Casodex康士得(AstraZeneca阿斯利康)",
+    "content": '''<h2><i class="fas fa-info-circle mr-2 text-orange-500"></i>药品概述</h2>
+<div class="info-box">
+<p><strong>通用名称:</strong>比卡鲁胺 (Bicalutamide)</p>
+<p><strong>英文名称:</strong>Bicalutamide Tablets 50mg/150mg (Calutide, 孟加拉珠峰药业Everest Pharma) - Non-Steroidal Anti-Androgen (NSAA)</p>
+<p><strong>品牌名称:</strong>原研药Casodex康士得(AstraZeneca阿斯利康,1995年FDA批准),海外经济版Calutide(珠峰药业)、Bicatero(Hetero)、Bicalut(Accord)、Bic(BDR Pharma)等</p>
+<p><strong>规格:</strong>50mg/片(白色至类白色圆形双凸薄膜衣片);150mg/片(白色至类白色圆形双凸薄膜衣片);</p>
+<p><strong>药物类型:</strong>非甾体抗雄激素药物(NSAA),通过竞争性结合雄激素受体(AR)阻断睾酮和双氢睾酮(DHT)的作用,抑制雄激素依赖性前列腺癌细胞的生长;Calutide是孟加拉珠峰药业(Everest Pharma)生产的印度经济版,活性成分、剂型、规格、给药途径与原研Casodex基本一致,经孟加拉国药监局DGDA严格审查批准上市</p>
+</div>
+
+<h2><i class="fas fa-briefcase-medical mr-2 text-orange-500"></i>适应症</h2>
+<p>比卡鲁胺片 Calutide适用于以下情况:</p>
+<ul>
+<li><strong>50mg规格-晚期前列腺癌联合治疗</strong>:与LHRH(黄体生成素释放激素)类似物(如戈舍瑞林、亮丙瑞林)或外科睾丸切除术<strong>联合</strong>应用,治疗D2期转移性前列腺癌</li>
+<li><strong>150mg规格-局部晚期前列腺癌单药治疗</strong>:作为<strong>根治性前列腺切除术或放疗的辅助</strong>,治疗局部晚期、无远处转移但具有高疾病进展风险的前列腺癌患者;这些患者不适宜或不愿接受外科去势术或其他内科治疗</li>
+<li><strong>用药前提</strong>:须由泌尿/肿瘤专科医生启动;用药前评估肝功能(基线+定期)、PSA(基线+定期)</li>
+</ul>
+
+<h2><i class="fas fa-cogs mr-2 text-orange-500"></i>作用机制</h2>
+<p>比卡鲁胺是外周选择性非甾体抗雄激素药物,与雄激素受体(AR)结合能力强;竞争性抑制睾酮和双氢睾酮(DHT)与AR的结合,阻断雄激素介导的信号传导,抑制前列腺癌细胞增殖;对中枢AR作用弱,不引起睾酮升高(LHRH激动剂治疗的"睾酮激增"现象可被比卡鲁胺阻断);属于R-比卡鲁胺单一异构体(活性形式);口服后吸收迅速,血浆蛋白结合率96%;半衰期长(5.9-10.4天,活性R-异构体),每日1次给药即可维持稳定血药浓度;主要经肝脏代谢(葡萄糖醛酸化+氧化),肝功能不全者半衰期延长;经胆汁/粪便(约43%)和尿(约34%)排泄。Calutide由珠峰药业生产,与原研Casodex在活性成分、剂型、规格、给药途径上完全一致</p>
+
+<h2><i class="fas fa-pills mr-2 text-orange-500"></i>用法用量</h2>
+<h3>标准剂量</h3>
+<ul>
+<li><strong>50mg(晚期前列腺癌联合治疗)</strong>:<strong>1片(50 mg)/次,每日1次</strong>,口服;</li>
+<li>应<strong>在LHRH类似物治疗前至少3天开始</strong>,或与外科睾丸切除术同时开始</li>
+<li>餐时餐后均可(无食物效应)</li>
+<li>每日固定时间服用</li>
+<li><strong>150mg(局部晚期前列腺癌单药治疗)</strong>:<strong>1片(150 mg)/次,每日1次</strong>,口服;或3片50mg(等效);</li>
+<li>应<strong>持续服用至少2年</strong>或至疾病进展</li>
+</ul>
+
+<h3>服用方法</h3>
+<ul>
+<li>整片用水吞服,餐时餐后均可(食物不影响吸收)</li>
+<li>建议每日固定时间服用</li>
+<li><strong>漏服处理</strong>:想起尽快补服,接近下次则跳过,不可双倍补服</li>
+</ul>
+
+<h3>特殊人群</h3>
+<ul>
+<li><strong>老年人(≥65岁)</strong>:无需调整剂量</li>
+<li><strong>肾功能不全</strong>:无需调整剂量(经肾排泄<1/3)</li>
+<li><strong>肝功能不全</strong>:<br>
+&nbsp;&nbsp;• 轻度:无需调整<br>
+&nbsp;&nbsp;• 中重度:可能发生药物蓄积(半衰期延长),需谨慎使用,密切监测肝功能</li>
+<li><strong>儿童/青少年</strong>:禁用(无适应症)</li>
+<li><strong>女性</strong>:禁用(无适应症)</li>
+<li><strong>妊娠期女性伴侣的男性患者</strong>:伴侣怀孕期间男性患者需使用有效避孕措施</li>
+</ul>
+
+<h2><i class="fas fa-exclamation-triangle mr-2 text-orange-500"></i>重要安全提示</h2>
+<div class="warning-box">
+<strong>⚠️ 严重毒性警告</strong>:<br>
+• <strong>肝毒性</strong>:可能致命(<strong>严重肝损伤/肝衰竭</strong>已观察到死亡/住院病例);用药前检测ALT/AST,治疗<strong>最初4个月定期监测</strong>,之后按需;若出现黄疸/ALT>2×ULN立即停药,随访肝功能<br>
+• <strong>男性乳房增生/乳房疼痛</strong>:50mg联合治疗较少(约5%);150mg单药治疗较常见(约50-70%)<br>
+• <strong>香豆素抗凝剂相互作用</strong>:与华法林合用<strong>显著延长PT/INR</strong>,增加出血风险;<strong>密切监测PT/INR,必要时调整抗凝剂剂量</strong><br>
+• <strong>QT间期延长</strong>:雄激素剥夺治疗可能延长QT间期;有QT延长史/风险因素者评估获益-风险比<br>
+</div>
+<ul>
+<li><strong>糖耐量降低</strong>:与LHRH激动剂联用时观察到此效应,糖尿病患者需监测血糖</li>
+<li><strong>CYP3A4底物</strong>:比卡鲁胺是CYP3A4抑制剂,与CYP3A4底物(辛伐他汀、匹莫范色林等)合用需谨慎</li>
+<li><strong>禁忌合用</strong>:特非那定、阿司咪唑、西沙比利(CYP3A4底物,合用可能致死性心律失常)</li>
+<li><strong>PSA监测</strong>:定期监测PSA,PSA升高需评估临床进展</li>
+<li><strong>光敏反应</strong>(罕见):服用150mg期间避免直接暴露于强阳光或UV,可使用防晒霜</li>
+<li><strong>精子形态改变</strong>:服药期间及治疗后<strong>130天内</strong>需采取有效避孕措施</li>
+<li><strong>遗传性半乳糖不耐受/Lapp乳糖酶缺乏/葡萄糖-半乳糖吸收障碍者</strong>:禁用(片剂含乳糖)</li>
+<li><strong>驾驶/操作机器</strong>:无直接影响,但偶尔嗜睡需注意</li>
+</ul>
+
+<h2><i class="fas fa-prescription-bottle-alt mr-2 text-orange-500"></i>规格与保存</h2>
+<ul>
+<li><strong>规格</strong>:50 mg / 150 mg 片剂</li>
+<li><strong>包装</strong>:珠峰药业Calutide 常见 50mg×28片/盒(14片/板x2板)或50mg×30片/盒</li>
+<li><strong>保存</strong>:低于30°C干燥处,避光防潮,儿童不可触及</li>
+</ul>''',
+    "price_rows": '''<tr><td>原研药</td><td>Casodex 康士得 (AstraZeneca阿斯利康)</td><td>英国/美国</td><td>由实际咨询为准</td></tr>
+<tr><td>海外经济版</td><td>Calutide (孟加拉珠峰药业) / Bicatero (Hetero) / Bicalut (Accord) / 印度多家</td><td>孟加拉/印度</td><td>由实际咨询为准</td></tr>''',
+}
+
+# 生成5个HTML文件
+drugs = [drug_154, drug_155, drug_156, drug_157, drug_158]
+for d in drugs:
+    with open(d['filename'], 'w', encoding='utf-8') as f:
+        f.write(build_html(d))
+    print(f"已生成 {d['filename']}")
+
+print(f"\n共生成 {len(drugs)} 个HTML文件")

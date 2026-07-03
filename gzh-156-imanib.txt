@@ -1,0 +1,110 @@
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; line-height: 1.8; max-width: 750px; margin: 0 auto; padding: 20px;">
+<h1 style="font-size: 24px; text-align: center; color: #43A047;">伊马替尼片IMANIB用法用量详解｜珠峰药业印度版 100/400mg一代TKI 慢性粒细胞白血病CML/胃肠间质瘤GIST</h1>
+<p style="color: #666; font-size: 14px; text-align: center;">蓝培医疗 · 全球优质医疗资源咨询</p>
+<hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">
+
+<h2 style="color: #43A047; font-size: 18px;">一、什么是伊马替尼？</h2>
+<p>伊马替尼(英文名Imatinib Mesylate)是<strong>全球第一个靶向抗癌药</strong>——第一代酪氨酸激酶抑制剂(TKI),原研药是诺华Novartis生产的<strong>格列卫 Glivec/Gleevec</strong>,2001年5月获美国FDA批准上市。它的诞生开启了"分子靶向治疗"时代,通过竞争性结合BCR-ABL融合蛋白的ATP结合位点,精准打击Ph+慢性粒细胞白血病(CML)细胞,把曾经的"血癌"变成可长期控制的慢性病。此外还广泛用于Ph+急性淋巴细胞白血病(ALL)、胃肠间质瘤(GIST)、骨髓增生异常综合征等。</p>
+<p>IMANIB是<strong>孟加拉珠峰药业(Everest Pharma)</strong>生产的印度经济版,100mg×60片装/400mg×30片装,活性成分、剂型、规格、给药途径与原研格列卫基本一致,经孟加拉国药监局DGDA严格审查批准上市,为Ph+白血病/GIST患者提供经济可及的治疗选择。</p>
+
+<h2 style="color: #43A047; font-size: 18px;">二、伊马替尼的核心适应症</h2>
+<ul>
+<li><strong>新诊断Ph+慢性粒细胞白血病(CML)慢性期</strong>：不适合骨髓移植的一线治疗</li>
+<li><strong>Ph+ CML 干扰素-α治疗失败者</strong>(慢性期/加速期/急变期)</li>
+<li><strong>新诊断Ph+急性淋巴细胞白血病(Ph+ ALL)</strong>：与化疗联用</li>
+<li><strong>不可切除/转移性恶性胃肠道间质瘤(GIST)</strong>：Kit(CD117)阳性成人</li>
+<li><strong>GIST切除术后辅助治疗</strong>：显著复发风险者</li>
+<li><strong>晚期高嗜酸性粒细胞综合征/慢性嗜酸性粒细胞白血病(HES/CEL)</strong></li>
+<li><strong>儿童(1岁及以上)</strong>：按BSA给药,适用于Ph+ CML各期</li>
+</ul>
+<div style="background: #e8f5e9; padding: 15px; border-radius: 8px; margin: 15px 0;">
+<p style="margin: 0;"><strong>温馨提示：</strong>伊马替尼须由具有白血病管理经验血液/肿瘤专科医生启动。用药前评估血常规、肝功能、心功能,治疗期间持续监测(血象前3个月每周1次,之后每月)。</p>
+</div>
+
+<h2 style="color: #43A047; font-size: 18px;">三、用法用量详解</h2>
+<h3 style="color: #2e7d32; font-size: 16px;">成人标准剂量</h3>
+<ul>
+<li><strong>Ph+ CML 慢性期</strong>：<strong>400 mg/日</strong>,1次服用,与食物和一大杯水同服</li>
+<li><strong>Ph+ CML 加速期/急变期</strong>：<strong>600 mg/日</strong>,1次服用</li>
+<li><strong>Ph+ ALL</strong>：<strong>600 mg/日</strong>,1次服用,联合化疗</li>
+<li><strong>GIST(不可切除/转移性)</strong>：<strong>400 mg/日</strong>,1次服用</li>
+<li><strong>GIST 辅助治疗(切除后)</strong>：<strong>400 mg/日</strong>,推荐疗程3年</li>
+<li><strong>DFSP</strong>：<strong>400 mg/日</strong>,必要时可增至800 mg/日(分2次)</li>
+</ul>
+
+<h3 style="color: #2e7d32; font-size: 16px;">儿童剂量(Ph+ CML)</h3>
+<ul>
+<li><strong>3岁及以上</strong>：推荐 <strong>340 mg/m²/日</strong>,1次或分2次服用(早/晚),总剂量不超过600 mg/日</li>
+</ul>
+
+<h3 style="color: #2e7d32; font-size: 16px;">服用方法</h3>
+<ul>
+<li><strong>必须餐时服用</strong>(与食物+一大杯水),减少胃肠道刺激</li>
+<li>400 mg/600 mg 每日1次;800 mg 分2次服用(早+晚)</li>
+<li>整片用水送服,不能吞咽者可分散于<strong>无气水或苹果汁中</strong>(100mg/50mL,400mg/200mL),立即服用</li>
+</ul>
+
+<h3 style="color: #2e7d32; font-size: 16px;">特殊人群</h3>
+<ul>
+<li><strong>老年人</strong>：无需调整剂量</li>
+<li><strong>肝功能不全</strong>：根据肝功能调整剂量;严重肝损需显著减量</li>
+<li><strong>肾功能不全</strong>：轻度无需调整;中重度需谨慎,严重者密切监测</li>
+</ul>
+
+<h2 style="color: #43A047; font-size: 18px;">四、重要安全提示</h2>
+<div style="background: #fff7ed; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f97316;">
+<p style="margin: 0;"><strong>⚠️ 严重毒性警告：</strong><br>
+• <strong>体液潴留和水肿</strong>：常见且严重(胸腔/心包/肺水肿),严重者减量/停药+利尿<br>
+• <strong>肝毒性</strong>：可能致命;胆红素>3×ULN或转氨酶>5×ULN 宜停药<br>
+• <strong>骨髓抑制</strong>：3-4级中性粒细胞减少/血小板减少;根据血象调整剂量<br>
+• <strong>充血性心衰和左心功能不全</strong>：定期监测心功能<br>
+• <strong>胃肠道刺激</strong>：与食物+水同服可减轻<br>
+• <strong>肿瘤溶解综合征</strong>：高肿瘤负荷者,开始治疗前给予充分水化和别嘌醇</p>
+</div>
+
+<h2 style="color: #43A047; font-size: 18px;">五、用药注意事项</h2>
+<ul>
+<li><strong>CYP3A4抑制剂/诱导剂</strong>：显著影响血药浓度,避免合用或调整剂量</li>
+<li><strong>圣约翰草</strong>：显著降低伊马替尼血药浓度,避免合用</li>
+<li><strong>对乙酰氨基酚(扑热息痛)</strong>：合用可能增加肝毒性,避免或限制剂量</li>
+<li><strong>华法林</strong>：合用可能增加出血风险,需密切监测INR或换用低分子肝素</li>
+<li><strong>左甲状腺素</strong>：伊马替尼可能干扰其代谢,甲状腺切除患者需监测TSH</li>
+<li>孕妇禁用(有胎儿毒性),育龄期用药需避孕至停药后1个月</li>
+</ul>
+
+<h2 style="color: #43A047; font-size: 18px;">六、原研药 vs 海外经济版</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 15px 0;">
+<thead>
+<tr style="background: #43A047; color: white;">
+<th style="padding: 10px; text-align: left;">类型</th>
+<th style="padding: 10px; text-align: left;">品牌/厂家</th>
+<th style="padding: 10px; text-align: left;">参考价格</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">原研药</td>
+<td style="padding: 10px;">Glivec 格列卫 / Gleevec (Novartis诺华)</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">由实际咨询为准(美国400mg×30片约6000-9000美元/瓶)</td>
+</tr>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">海外经济版</td>
+<td style="padding: 10px;">IMANIB (孟加拉珠峰药业) / Imatib (Accord) / Imatros (Mylan) / 印度多家</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">由实际咨询为准(经济版显著低于原研,详情请咨询)</td>
+</tr>
+</tbody>
+</table>
+<p style="font-size: 12px; color: #999;">* 价格仅供参考,实际价格以咨询为准</p>
+
+<div style="background: linear-gradient(135deg, #1e3a5f, #2d5a87); color: white; padding: 20px; border-radius: 12px; text-align: center; margin: 30px 0;">
+<p style="margin: 0; font-size: 16px;"><strong>蓝培医疗 · 全球优质医疗资源咨询</strong></p>
+<p style="margin: 10px 0;">📞 电话咨询：17844531559</p>
+<p style="margin: 10px 0;">💬 WhatsApp：+63-968-583-8435</p>
+<p style="margin: 10px 0;">🌐 微信咨询：17844531559</p>
+<p style="margin: 10px 0; font-size: 14px;">如需咨询伊马替尼IMANIB药品渠道和价格信息,请联系我们</p>
+</div>
+
+<div style="background: #fff7ed; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f97316;">
+<p style="margin: 0; font-size: 13px;"><strong>⚠️ 免责声明：</strong>本文章仅供信息参考,不构成医疗建议。伊马替尼为处方药,必须在专科医生指导下使用。价格信息可能随市场变化,请以咨询时的实际信息为准。</p>
+</div>
+</div>

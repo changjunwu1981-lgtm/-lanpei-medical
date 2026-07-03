@@ -1,0 +1,105 @@
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; line-height: 1.8; max-width: 750px; margin: 0 auto; padding: 20px;">
+<h1 style="font-size: 24px; text-align: center; color: #1e3a5f;">富马酸丙酚替诺福韦片HepBest用法用量详解｜Mylan印度版TAF 25mg乙肝一线口服抗病毒</h1>
+<p style="color: #666; font-size: 14px; text-align: center;">蓝培医疗 · 全球优质医疗资源咨询</p>
+<hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">
+
+<h2 style="color: #1e3a5f; font-size: 18px;">一、什么是HepBest？</h2>
+<p>富马酸丙酚替诺福韦片(英文名Tenofovir Alafenamide Fumarate，简称TAF)是新一代核苷(酸)类逆转录酶抑制剂，国内外肝病防治指南共同推荐的<strong>慢性乙型肝炎一线口服抗病毒药物</strong>。原研药是吉利德(Gilead Sciences)生产的韦立得(Vemlidy)。</p>
+<p>HepBest是Mylan(后并入Viatris，全球最大仿制药企业之一)印度经济版TAF，活性成分、剂型、规格与原研Vemlidy基本一致，25mg/片，经印度DCGI严格审查批准上市，在多个新兴市场乙肝治疗领域占据重要地位。</p>
+
+<h2 style="color: #1e3a5f; font-size: 18px;">二、TAF的核心优势</h2>
+<ul>
+<li><strong>肾毒性显著降低</strong>：血肌酐升高、尿蛋白发生率较TDF降低约70%</li>
+<li><strong>骨密度保护</strong>：30-50%患者骨密度损失减少60%</li>
+<li><strong>剂量更小</strong>：25mg/天 vs TDF 300mg/天</li>
+<li><strong>病毒抑制同等</strong>：疗效不打折</li>
+</ul>
+<div style="background: #f0f7ff; padding: 15px; border-radius: 8px; margin: 15px 0;">
+<p style="margin: 0;"><strong>温馨提示：</strong>特别适用于需要长期治疗的慢性乙型肝炎患者，以及伴有肾功能不全、骨质疏松高风险或已存在骨骼/肾脏问题的患者。</p>
+</div>
+
+<h2 style="color: #1e3a5f; font-size: 18px;">三、适应症人群</h2>
+<p>适用于治疗<strong>成人和12岁及以上、体重至少35kg的慢性乙型肝炎(CHB)患者</strong>，伴代偿性肝病。</p>
+<p><strong>重要前提：</strong>①须由具有慢性乙型肝炎管理经验专科医生启动；②用药前需检测HIV抗体(HIV阳性者不可单用TAF)；③合并肾功能不全、骨质疏松高风险者优先选用TAF。</p>
+
+<h2 style="color: #1e3a5f; font-size: 18px;">四、用法用量</h2>
+<h3 style="color: #2d5a87; font-size: 16px;">标准剂量</h3>
+<p>成人和12岁及以上、体重至少35kg的青少年：<strong>每日一次，每次一片(25mg)</strong>，口服，<strong>需随食物服用</strong>。</p>
+
+<h3 style="color: #2d5a87; font-size: 16px;">服药方式</h3>
+<ul>
+<li>整片吞服，不可咀嚼、压碎或掰开</li>
+<li>建议固定每日同一时间服药</li>
+<li><strong>漏服处理</strong>：不足18小时尽快补服，超过18小时跳过</li>
+<li><strong>呕吐处理</strong>：服药后1小时内呕吐补服一片，超过1小时无需补服</li>
+</ul>
+
+<h3 style="color: #2d5a87; font-size: 16px;">特殊人群</h3>
+<ul>
+<li>老年人：无需调整剂量，定期监测肾功能</li>
+<li>肾功能不全：CrCl≥15mL/min或正在透析者无需调整(透析后服药)；CrCl<15mL/min且未透析者不推荐</li>
+<li>肝功能损害：代偿性无需调整；失代偿期(Child-Pugh B/C)不推荐</li>
+<li>12岁以下儿童或体重<35kg者禁用</li>
+</ul>
+
+<h2 style="color: #1e3a5f; font-size: 18px;">五、监测要求</h2>
+<p>长期服用TAF需定期监测(每3-6个月)：</p>
+<ul>
+<li>HBV DNA、肝功能、肾功能、eGFR</li>
+<li>长期用药每6个月评估血磷、必要时骨密度</li>
+<li>甲胎蛋白+肝脏超声(肝癌筛查)</li>
+</ul>
+<div style="background: #fff7ed; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f97316;">
+<p style="margin: 0;"><strong>重要提示：</strong>停药后至少6个月监测肝功能(警惕停药后肝炎急性加重)。不可自行停药。</p>
+</div>
+
+<h2 style="color: #1e3a5f; font-size: 18px;">六、常见不良反应</h2>
+<p>常见(≥5%)：头痛、腹痛、疲乏、咳嗽、恶心、背痛。</p>
+<p>部分患者可能出现血脂、血糖升高和体重增加。</p>
+<p>罕见但严重：急性肾损伤、范可尼综合征、乳酸酸中毒伴严重肝肿大脂肪变性。</p>
+
+<h2 style="color: #1e3a5f; font-size: 18px;">七、用药注意事项</h2>
+<ul>
+<li><strong>HIV筛查</strong>：用药前必查HIV</li>
+<li><strong>肾功能监测</strong>：定期监测</li>
+<li><strong>骨密度</strong>：长期用药可能致骨密度下降</li>
+<li><strong>禁忌合用</strong>：不可与含TDF、TAF或阿德福韦酯的任何产品合用</li>
+<li>强效P-gp/BCRP抑制剂可能升高替诺福韦血药浓度</li>
+<li>抗惊厥药、抗真菌药、利福平等合用可降低TAF血药浓度</li>
+</ul>
+
+<h2 style="color: #1e3a5f; font-size: 18px;">八、原研药 vs 海外经济版价格对比</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 15px 0;">
+<thead>
+<tr style="background: #1e3a5f; color: white;">
+<th style="padding: 10px; text-align: left;">类型</th>
+<th style="padding: 10px; text-align: left;">品牌/厂家</th>
+<th style="padding: 10px; text-align: left;">参考价格</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">原研药</td>
+<td style="padding: 10px;">Vemlidy 韦立得 (Gilead)</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">美国25mg×30片约1万元；中国约500-1000元/瓶(医保乙类)</td>
+</tr>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">海外经济版</td>
+<td style="padding: 10px;">HepBest (Mylan) / Tafnat (ZYDUS) / 多家印度仿制</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">HepBest 25mg×30片印度约120元(约原研1/30至1/60)</td>
+</tr>
+</tbody>
+</table>
+<p style="color: #999; font-size: 12px;">* 价格仅供参考，实际价格以咨询为准</p>
+
+<hr style="border: none; border-top: 1px solid #eee; margin: 30px 0;">
+
+<div style="text-align: center; background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 30px; border-radius: 12px;">
+<h3 style="margin: 0 0 15px;">蓝培医疗 · 专业全球医疗资源咨询</h3>
+<p style="margin: 0 0 10px;">如需了解更多药品信息或寻求咨询渠道</p>
+<p style="margin: 0;">请添加下方微信咨询：<strong style="font-size: 18px;">17844531559</strong></p>
+<p style="margin: 10px 0 0;">WhatsApp：+63-968-583-8435</p>
+</div>
+
+<p style="color: #999; font-size: 12px; text-align: center; margin-top: 20px;">免责声明：本文仅供信息参考，不构成医疗建议。药品为处方药，请在医生指导下使用。</p>
+</div>

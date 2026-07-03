@@ -1,0 +1,99 @@
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; line-height: 1.8; max-width: 750px; margin: 0 auto; padding: 20px;">
+<h1 style="font-size: 24px; text-align: center; color: #43A047;">舒尼替尼胶囊SUTIB用法用量详解｜珠峰药业印度版 12.5/25/50mg多靶点TKI 晚期肾癌RCC/GIST/胰腺神经内分泌瘤</h1>
+<p style="color: #666; font-size: 14px; text-align: center;">蓝培医疗 · 全球优质医疗资源咨询</p>
+<hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">
+
+<h2 style="color: #43A047; font-size: 18px;">一、什么是舒尼替尼？</h2>
+<p>舒尼替尼(英文名Sunitinib Malate)是一种<strong>多靶点受体酪氨酸激酶抑制剂(TKI)</strong>,原研药是辉瑞Pfizer生产的<strong>舒坦森 Sutent</strong>,2006年1月获美国FDA批准上市。它主要抑制PDGFR、VEGFR、c-Kit、FLT3、Ret等多靶点,通过阻断肿瘤血管生成和直接抑制肿瘤细胞增殖实现抗肿瘤作用。在晚期肾细胞癌(RCC)、胃肠道间质瘤(GIST)、胰腺神经内分泌瘤(pNET)三大适应症中表现突出,是肿瘤靶向治疗的经典选择。</p>
+<p>SUTIB是<strong>孟加拉珠峰药业(Everest Pharma)</strong>生产的印度经济版,12.5mg/25mg/50mg三种规格,活性成分、剂型、规格、给药途径与原研舒坦森基本一致,经孟加拉国药监局DGDA严格审查批准上市。</p>
+
+<h2 style="color: #43A047; font-size: 18px;">二、舒尼替尼的核心适应症</h2>
+<ul>
+<li><strong>晚期肾细胞癌(RCC)</strong>：既往未接受过治疗或细胞因子治疗失败的成人晚期肾细胞癌</li>
+<li><strong>胃肠道间质瘤(GIST)</strong>：甲磺酸伊马替尼治疗失败或不耐受的成人GIST患者</li>
+<li><strong>胰腺神经内分泌瘤(pNET)</strong>：不可切除的、局部晚期或转移性的成人进行性胰腺神经内分泌瘤(高分化)</li>
+</ul>
+<div style="background: #e8f5e9; padding: 15px; border-radius: 8px; margin: 15px 0;">
+<p style="margin: 0;"><strong>温馨提示：</strong>舒尼替尼须由具有肿瘤治疗经验的专科医生启动。用药前需评估肝功能、肾功能、心电图(基线+定期)、血压、心脏功能(超声心动图基线LVEF),治疗期间定期监测。</p>
+</div>
+
+<h2 style="color: #43A047; font-size: 18px;">三、用法用量详解</h2>
+<h3 style="color: #2e7d32; font-size: 16px;">标准剂量(4/2方案)</h3>
+<ul>
+<li><strong>晚期RCC/GIST</strong>：推荐<strong>50 mg/次,每日1次</strong>,口服</li>
+<li>采用<strong>4/2方案</strong>：<strong>连用4周后停2周</strong>,6周为一个治疗周期,直至疾病进展或不可耐受</li>
+<li><strong>pNET</strong>：推荐<strong>37.5 mg/次,每日1次,持续给药</strong>(无停药期),直至疾病进展或不可耐受</li>
+</ul>
+
+<h3 style="color: #2e7d32; font-size: 16px;">服用方法</h3>
+<ul>
+<li>可餐前或餐后服用(高脂饮食不影响AUC)</li>
+<li>整粒吞服,不可打开/咀嚼/压碎/分散</li>
+<li><strong>剂量调整</strong>：按 12.5 mg 幅度递增/递减;RCC/GIST 最低12.5 mg/日,pNET 最低25 mg/日</li>
+</ul>
+
+<h3 style="color: #2e7d32; font-size: 16px;">特殊人群</h3>
+<ul>
+<li><strong>老年人(≥65岁)</strong>：无需调整剂量</li>
+<li><strong>肾功能不全</strong>：轻中度无需调整;重度无数据,慎用</li>
+<li><strong>肝功能不全</strong>：Child-Pugh A-B(轻中度)无需调整;Child-Pugh C(重度)不推荐</li>
+<li><strong>儿童(<18岁)</strong>：安全性未确立,不推荐</li>
+</ul>
+
+<h2 style="color: #43A047; font-size: 18px;">四、重要安全提示</h2>
+<div style="background: #fff7ed; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f97316;">
+<p style="margin: 0;"><strong>⚠️ 严重毒性警告(可能致命)：</strong><br>
+• <strong>肝毒性</strong>：可能致命,用药前+治疗期间定期监测肝功能<br>
+• <strong>心血管事件</strong>：充血性心衰(部分致死),基线+定期LVEF监测;QT间期延长,定期心电图监测<br>
+• <strong>高血压</strong>：常见(>30%)需积极控制,基线+定期监测<br>
+• <strong>出血</strong>：可能严重甚至致死,6个月内咯血/脑出血/胃肠道出血者禁用<br>
+• <strong>动脉血栓事件</strong>：心肌梗死/脑血管意外可能致死,风险增加者慎用<br>
+• <strong>甲状腺功能减退</strong>：定期监测TSH<br>
+• <strong>伤口愈合延迟</strong>：术前<strong>至少停药3周</strong><br>
+• <strong>骨坏死</strong>(特别是下颌骨)：用药前+期间保持口腔卫生,避免侵入性牙科操作</p>
+</div>
+
+<h2 style="color: #43A047; font-size: 18px;">五、用药注意事项</h2>
+<ul>
+<li><strong>CYP3A4抑制剂</strong>(酮康唑、伊曲康唑、克拉霉素)显著升高血药浓度,避免合用</li>
+<li><strong>CYP3A4诱导剂</strong>(利福平、卡马西平、苯妥英、圣约翰草)显著降低疗效,避免合用</li>
+<li>避免葡萄柚/西柚制品</li>
+<li>孕妇禁用(有胎儿毒性),哺乳期停药或停止哺乳</li>
+</ul>
+
+<h2 style="color: #43A047; font-size: 18px;">六、原研药 vs 海外经济版</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 15px 0;">
+<thead>
+<tr style="background: #43A047; color: white;">
+<th style="padding: 10px; text-align: left;">类型</th>
+<th style="padding: 10px; text-align: left;">品牌/厂家</th>
+<th style="padding: 10px; text-align: left;">参考价格</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">原研药</td>
+<td style="padding: 10px;">Sutent 舒坦森 (Pfizer辉瑞)</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">由实际咨询为准(美国50mg×28粒约8000-12000美元/瓶)</td>
+</tr>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">海外经济版</td>
+<td style="padding: 10px;">SUTIB (孟加拉珠峰药业) / Sunitix (Sun Pharma) / 印度多家</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">由实际咨询为准(经济版显著低于原研,详情请咨询)</td>
+</tr>
+</tbody>
+</table>
+<p style="font-size: 12px; color: #999;">* 价格仅供参考,实际价格以咨询为准</p>
+
+<div style="background: linear-gradient(135deg, #1e3a5f, #2d5a87); color: white; padding: 20px; border-radius: 12px; text-align: center; margin: 30px 0;">
+<p style="margin: 0; font-size: 16px;"><strong>蓝培医疗 · 全球优质医疗资源咨询</strong></p>
+<p style="margin: 10px 0;">📞 电话咨询：17844531559</p>
+<p style="margin: 10px 0;">💬 WhatsApp：+63-968-583-8435</p>
+<p style="margin: 10px 0;">🌐 微信咨询：17844531559</p>
+<p style="margin: 10px 0; font-size: 14px;">如需咨询舒尼替尼SUTIB药品渠道和价格信息,请联系我们</p>
+</div>
+
+<div style="background: #fff7ed; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f97316;">
+<p style="margin: 0; font-size: 13px;"><strong>⚠️ 免责声明：</strong>本文章仅供信息参考,不构成医疗建议。舒尼替尼为处方药,必须在专科医生指导下使用。价格信息可能随市场变化,请以咨询时的实际信息为准。</p>
+</div>
+</div>

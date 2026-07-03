@@ -1,0 +1,102 @@
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; line-height: 1.8; max-width: 750px; margin: 0 auto; padding: 20px;">
+<h1 style="font-size: 24px; text-align: center; color: #43A047;">依普利酮片EPTUS用法用量详解｜Natco印度版 25/50mg选择性醛固酮受体拮抗剂心衰高血压</h1>
+<p style="color: #666; font-size: 14px; text-align: center;">蓝培医疗 · 全球优质医疗资源咨询</p>
+<hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">
+
+<h2 style="color: #43A047; font-size: 18px;">一、什么是依普利酮(Eplerenone)？</h2>
+<p>依普利酮(英文名Eplerenone)是新一代选择性醛固酮受体拮抗剂(MRA)，原研药是Viatris(原辉瑞Upjohn)生产的Inspra，2002年获美国FDA批准。它能选择性阻断盐皮质激素受体，抑制醛固酮介导的钠水潴留和钾镁排泄，发挥降压、减轻心衰、抗心肌/血管纤维化作用。</p>
+<p>相比传统MRA螺内酯(安体舒通)，依普利酮对盐皮质激素受体选择性高100-1000倍，几乎无抗雄激素/孕激素副作用——男性乳房增生、性功能障碍、月经紊乱发生率显著降低，<strong>特别适合长期用药的男性患者</strong>。EPHESUS研究证实，它能降低急性心梗后心衰(HFrEF)患者的死亡率。</p>
+<p>EPTUS是Natco(印度知名仿制药企业，以抗病毒/抗肿瘤/心血管仿制领域见长)生产的印度经济版，活性成分、剂型、规格与原研Inspra基本一致，经印度DCGI严格审查批准上市。</p>
+
+<h2 style="color: #43A047; font-size: 18px;">二、依普利酮的适应症</h2>
+<ul>
+<li><strong>急性心梗后充血性心衰(HFrEF)</strong>：改善急性心肌梗死后LVEF≤40%的稳定心衰患者生存率</li>
+<li><strong>原发性高血压</strong>：单独使用或与其他降压药联合</li>
+</ul>
+<div style="background: #e8f5e9; padding: 15px; border-radius: 8px; margin: 15px 0;">
+<p style="margin: 0;"><strong>温馨提示：</strong>用药前必须检测血钾(必须<5.0mmol/L)和血肌酐(eGFR)。血钾>5.0mmol/L、eGFR<30、合用强CYP3A4抑制剂者禁用。</p>
+</div>
+
+<h2 style="color: #43A047; font-size: 18px;">三、用法用量详解</h2>
+<h3 style="color: #2e7d32; font-size: 16px;">标准剂量</h3>
+<ul>
+<li><strong>急性心梗后心衰(HFrEF)</strong>：起始25mg/次，每日1次；4周内逐渐增加至目标剂量50mg/日</li>
+<li><strong>原发性高血压</strong>：起始50mg/次，每日1次；4周后效果不显著可增至50mg/次，每日2次(最大100mg/日)</li>
+</ul>
+
+<h3 style="color: #2e7d32; font-size: 16px;">服药方式</h3>
+<ul>
+<li>整片吞服，可餐时或空腹服用</li>
+<li>建议每日固定时间服用(建议早晨或下午4点前)</li>
+<li>漏服处理：想起尽快补服，接近下次则跳过，不可双倍补服</li>
+<li>建议低钾饮食，避免高钾食物过量摄入</li>
+<li>避免葡萄柚/西柚制品</li>
+</ul>
+
+<h3 style="color: #2e7d32; font-size: 16px;">特殊人群</h3>
+<ul>
+<li><strong>老年人(≥75岁)</strong>：无需调整起始剂量，密切监测血钾</li>
+<li><strong>肾功能不全</strong>：eGFR<30者25mg隔日1次起始，最大25mg/日；透析者不推荐</li>
+<li><strong>肝功能不全</strong>：轻中度无需调整；重度不推荐</li>
+<li><strong>与中度CYP3A4抑制剂合用</strong>：起始25mg/日，最大25mg/日</li>
+<li><strong>儿童</strong>：<18岁不推荐</li>
+</ul>
+
+<h2 style="color: #43A047; font-size: 18px;">四、监测与不良反应</h2>
+<p>依普利酮的最大风险是<strong>高钾血症</strong>，可致命！必须严格监测：</p>
+<ul>
+<li>用药前：血钾(必须<5.0mmol/L)、血肌酐/eGFR、肝功能</li>
+<li>用药期间：起始/调整剂量后第1周、第4周、之后每3个月监测血钾</li>
+<li>血钾>5.5mmol/L：减量或停药；血钾>6.0mmol/L：立即停药</li>
+</ul>
+<p><strong>常见不良反应：</strong>高钾血症、腹泻、恶心、咳嗽、头晕、疲乏、血肌酐升高。少见：男性乳房增生(显著低于螺内酯)、低血压、头痛。</p>
+<div style="background: #fff7ed; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f97316;">
+<p style="margin: 0;"><strong>重要提示：</strong>尤其老年/糖尿病/肾损/合用ACEI/ARB/补钾剂者，需特别警惕高钾血症。建议定期去医院复查血钾。</p>
+</div>
+
+<h2 style="color: #43A047; font-size: 18px;">五、用药注意事项</h2>
+<ul>
+<li><strong>禁与强CYP3A4抑制剂(酮康唑、伊曲康唑、克拉霉素、利托那韦)合用</strong></li>
+<li>慎与中度CYP3A4抑制剂合用(需减量至25mg/日)</li>
+<li>ACEI/ARB/补钾剂/保钾利尿剂增加高钾血症风险</li>
+<li>NSAIDs减少降压效果并增加肾损伤风险</li>
+<li>圣约翰草/利福平降低血药浓度</li>
+<li>孕妇仅利大于弊时使用；哺乳期治疗期间及最后剂量后1周内避免哺乳</li>
+</ul>
+
+<h2 style="color: #43A047; font-size: 18px;">六、原研药 vs 海外经济版价格对比</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 15px 0;">
+<thead>
+<tr style="background: #43A047; color: white;">
+<th style="padding: 10px; text-align: left;">类型</th>
+<th style="padding: 10px; text-align: left;">品牌/厂家</th>
+<th style="padding: 10px; text-align: left;">参考价格</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">原研药</td>
+<td style="padding: 10px;">Inspra 依普利酮 (Viatris)</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">美国50mg×30片约120-150美元/瓶(约850-1050人民币/月)</td>
+</tr>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">海外经济版</td>
+<td style="padding: 10px;">EPTUS (Natco) / EPLECARD (Intas) / Eplerite (印度多家)</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">EPTUS 50mg×30片约25-38人民币/月(约原研1/20至1/30)</td>
+</tr>
+</tbody>
+</table>
+<p style="font-size: 12px; color: #999;">* 价格仅供参考，实际价格以咨询为准</p>
+
+<div style="background: linear-gradient(135deg, #1e3a5f, #2d5a87); color: white; padding: 20px; border-radius: 12px; text-align: center; margin: 30px 0;">
+<p style="margin: 0; font-size: 16px;"><strong>蓝培医疗 · 全球优质医疗资源咨询</strong></p>
+<p style="margin: 10px 0;">📞 电话咨询：17844531559</p>
+<p style="margin: 10px 0;">💬 WhatsApp：+63-968-583-8435</p>
+<p style="margin: 10px 0;">🌐 微信咨询：17844531559</p>
+<p style="margin: 10px 0; font-size: 14px;">如需咨询依普利酮EPTUS药品渠道和价格信息，请联系我们</p>
+</div>
+
+<div style="background: #fff7ed; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f97316;">
+<p style="margin: 0; font-size: 13px;"><strong>⚠️ 免责声明：</strong>本文章仅供信息参考，不构成医疗建议。依普利酮为处方药，必须在专科医生指导下使用。价格信息可能随市场变化，请以咨询时的实际信息为准。</p>
+</div>
+</div>

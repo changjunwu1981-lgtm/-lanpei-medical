@@ -1,0 +1,96 @@
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; line-height: 1.8; max-width: 750px; margin: 0 auto; padding: 20px;">
+<h1 style="font-size: 24px; text-align: center; color: #43A047;">帕唑帕尼片Pazonat用法用量详解｜珠峰药业印度版 200/400mg多靶点TKI 晚期肾细胞癌RCC一线口服靶向</h1>
+<p style="color: #666; font-size: 14px; text-align: center;">蓝培医疗 · 全球优质医疗资源咨询</p>
+<hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">
+
+<h2 style="color: #43A047; font-size: 18px;">一、什么是帕唑帕尼？</h2>
+<p>帕唑帕尼(英文名Pazopanib)是一种<strong>多靶点受体酪氨酸激酶抑制剂(TKI)</strong>，原研药是诺华Novartis(原葛兰素史克GSK)生产的<strong>维全特 Votrient</strong>，2009年10月获美国FDA批准上市。它通过抑制VEGFR-1/2/3、PDGFR-α/β、c-Kit等多靶点,既阻断肿瘤血管生成(切断营养供应),又直接抑制肿瘤细胞增殖,实现"双管齐下"治疗效果。在晚期肾细胞癌(RCC)一线治疗和软组织肉瘤(STS)二线治疗中广泛应用。</p>
+<p>Pazonat是<strong>孟加拉珠峰药业(Everest Pharma)</strong>生产的印度经济版,200mg×30片装/400mg×60片装,活性成分、剂型、规格、给药途径与原研维全特基本一致,经孟加拉国药监局DGDA严格审查批准上市,为Ph+晚期肾癌患者提供经济可及的治疗选择。</p>
+
+<h2 style="color: #43A047; font-size: 18px;">二、帕唑帕尼的核心适应症</h2>
+<ul>
+<li><strong>晚期肾细胞癌(RCC)一线治疗</strong>：用于既往未接受过治疗或曾接受细胞因子治疗的成人晚期肾细胞癌患者</li>
+<li><strong>软组织肉瘤(STS)二线治疗</strong>：用于既往化疗失败的特定亚型晚期软组织肉瘤患者</li>
+</ul>
+<div style="background: #e8f5e9; padding: 15px; border-radius: 8px; margin: 15px 0;">
+<p style="margin: 0;"><strong>温馨提示：</strong>帕唑帕尼须由具有肿瘤治疗经验的专科医生启动。用药前需评估肝功能(ALT/AST/胆红素)、心电图(基线+定期)、血压、尿蛋白、甲状腺功能,治疗期间持续监测肝功能(至少每4周1次)。</p>
+</div>
+
+<h2 style="color: #43A047; font-size: 18px;">三、用法用量详解</h2>
+<h3 style="color: #2e7d32; font-size: 16px;">标准剂量</h3>
+<ul>
+<li><strong>成人晚期RCC/STS</strong>：推荐<strong>800 mg/次,每日1次</strong>,口服</li>
+<li>应<strong>空腹服用</strong>(餐前至少1小时或餐后至少2小时),不可与食物同服</li>
+<li>不可掰开或嚼碎,整片用水吞服</li>
+<li>持续治疗直至疾病进展或不可耐受</li>
+</ul>
+
+<h3 style="color: #2e7d32; font-size: 16px;">特殊人群</h3>
+<ul>
+<li><strong>老年人(≥65岁)</strong>：无需调整剂量</li>
+<li><strong>肾功能不全</strong>：CrCl>30 mL/min 无需调整;CrCl<30 mL/min 慎用</li>
+<li><strong>肝功能不全</strong>：<br>
+&nbsp;&nbsp;• 轻度(胆红素正常但ALT升高,或胆红素≤1.5×ULN)：<strong>800 mg/日</strong><br>
+&nbsp;&nbsp;• 中度(胆红素1.5-3×ULN)：<strong>200 mg/日</strong><br>
+&nbsp;&nbsp;• 重度(胆红素>3×ULN)：<strong>不推荐使用</strong></li>
+<li><strong>儿童(<18岁)</strong>：安全性未确立,不推荐</li>
+</ul>
+
+<h2 style="color: #43A047; font-size: 18px;">四、重要安全提示</h2>
+<div style="background: #fff7ed; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f97316;">
+<p style="margin: 0;"><strong>⚠️ 严重毒性警告(可能致命)：</strong><br>
+• <strong>肝毒性</strong>：曾发生严重致死性肝毒性,用药前+治疗期间定期监测肝功能<br>
+• <strong>出血事件</strong>：6个月内有咯血/脑出血/胃肠道出血者<strong>禁用</strong><br>
+• <strong>动脉血栓事件</strong>：心肌梗死/脑缺血可能致死,风险增加者慎用<br>
+• <strong>高血压</strong>：常见且需积极控制,>140/90 mmHg需降压治疗<br>
+• <strong>QT间期延长/尖端扭转型室速</strong>,定期心电图监测<br>
+• <strong>胃肠道穿孔/瘘管</strong>：风险增加者慎用,发生即停药<br>
+• <strong>甲状腺功能减退</strong>：定期监测TSH<br>
+• <strong>伤口愈合延迟</strong>：术前<strong>至少停药7天</strong></p>
+</div>
+
+<h2 style="color: #43A047; font-size: 18px;">五、用药注意事项</h2>
+<ul>
+<li><strong>CYP3A4抑制剂</strong>(酮康唑、伊曲康唑、克拉霉素)显著升高血药浓度,避免合用</li>
+<li><strong>CYP3A4诱导剂</strong>(利福平、卡马西平、苯妥英、圣约翰草)显著降低疗效,避免合用</li>
+<li><strong>质子泵抑制剂</strong>(埃索美拉唑等)降低生物利用度40%,避免合用</li>
+<li>避免葡萄柚/西柚制品</li>
+<li>孕妇禁用(有胎儿毒性),哺乳期停药或停止哺乳</li>
+</ul>
+
+<h2 style="color: #43A047; font-size: 18px;">六、原研药 vs 海外经济版</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 15px 0;">
+<thead>
+<tr style="background: #43A047; color: white;">
+<th style="padding: 10px; text-align: left;">类型</th>
+<th style="padding: 10px; text-align: left;">品牌/厂家</th>
+<th style="padding: 10px; text-align: left;">参考价格</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">原研药</td>
+<td style="padding: 10px;">Votrient 维全特 (Novartis诺华)</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">由实际咨询为准(美国200mg×120片约6000-8000美元/瓶)</td>
+</tr>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">海外经济版</td>
+<td style="padding: 10px;">Pazonat (孟加拉珠峰药业) / Pazocare (CIPLA) / 印度多家</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">由实际咨询为准(经济版显著低于原研,详情请咨询)</td>
+</tr>
+</tbody>
+</table>
+<p style="font-size: 12px; color: #999;">* 价格仅供参考,实际价格以咨询为准</p>
+
+<div style="background: linear-gradient(135deg, #1e3a5f, #2d5a87); color: white; padding: 20px; border-radius: 12px; text-align: center; margin: 30px 0;">
+<p style="margin: 0; font-size: 16px;"><strong>蓝培医疗 · 全球优质医疗资源咨询</strong></p>
+<p style="margin: 10px 0;">📞 电话咨询：17844531559</p>
+<p style="margin: 10px 0;">💬 WhatsApp：+63-968-583-8435</p>
+<p style="margin: 10px 0;">🌐 微信咨询：17844531559</p>
+<p style="margin: 10px 0; font-size: 14px;">如需咨询帕唑帕尼Pazonat药品渠道和价格信息,请联系我们</p>
+</div>
+
+<div style="background: #fff7ed; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f97316;">
+<p style="margin: 0; font-size: 13px;"><strong>⚠️ 免责声明：</strong>本文章仅供信息参考,不构成医疗建议。帕唑帕尼为处方药,必须在专科医生指导下使用。价格信息可能随市场变化,请以咨询时的实际信息为准。</p>
+</div>
+</div>

@@ -1,0 +1,98 @@
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; line-height: 1.8; max-width: 750px; margin: 0 auto; padding: 20px;">
+<h1 style="font-size: 24px; text-align: center; color: #43A047;">比卡鲁胺片Calutide用法用量详解｜珠峰药业印度版 50mg非甾体抗雄激素 晚期前列腺癌与LHRH类似物联合治疗</h1>
+<p style="color: #666; font-size: 14px; text-align: center;">蓝培医疗 · 全球优质医疗资源咨询</p>
+<hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">
+
+<h2 style="color: #43A047; font-size: 18px;">一、什么是比卡鲁胺？</h2>
+<p>比卡鲁胺(英文名Bicalutamide)是<strong>非甾体抗雄激素药物(NSAA)</strong>,原研药是阿斯利康AstraZeneca生产的<strong>康士得 Casodex</strong>,1995年获美国FDA批准上市。它通过竞争性结合雄激素受体(AR),阻断睾酮和双氢睾酮(DHT)对前列腺癌细胞的作用,属于"内分泌治疗"的核心药物。在晚期前列腺癌(与LHRH类似物联合治疗)和局部晚期前列腺癌(单药治疗/辅助治疗)中广泛应用。相比第一代抗雄激素(如氟他胺、尼鲁米特),比卡鲁胺半衰期长(约1周),每日1次给药,肝脏毒性更低。</p>
+<p>Calutide是<strong>孟加拉珠峰药业(Everest Pharma)</strong>生产的印度经济版,50mg×28-30片装,活性成分、剂型、规格、给药途径与原研康士得基本一致,经孟加拉国药监局DGDA严格审查批准上市。</p>
+
+<h2 style="color: #43A047; font-size: 18px;">二、比卡鲁胺的核心适应症</h2>
+<ul>
+<li><strong>50mg规格-晚期前列腺癌联合治疗</strong>：与LHRH(黄体生成素释放激素)类似物(如戈舍瑞林、亮丙瑞林)或外科睾丸切除术<strong>联合</strong>应用,治疗D2期转移性前列腺癌</li>
+<li><strong>150mg规格-局部晚期前列腺癌单药治疗</strong>：作为<strong>根治性前列腺切除术或放疗的辅助</strong>,治疗局部晚期、无远处转移但具有高疾病进展风险的前列腺癌患者;这些患者不适宜或不愿接受外科去势术或其他内科治疗</li>
+</ul>
+<div style="background: #e8f5e9; padding: 15px; border-radius: 8px; margin: 15px 0;">
+<p style="margin: 0;"><strong>温馨提示：</strong>比卡鲁胺须由泌尿/肿瘤专科医生启动。用药前评估肝功能(基线+定期)、PSA(基线+定期);治疗最初4个月定期监测肝功能,之后按需。</p>
+</div>
+
+<h2 style="color: #43A047; font-size: 18px;">三、用法用量详解</h2>
+<h3 style="color: #2e7d32; font-size: 16px;">标准剂量</h3>
+<ul>
+<li><strong>50mg(晚期前列腺癌联合治疗)</strong>：<strong>1片(50 mg)/次,每日1次</strong>,口服</li>
+<li>应<strong>在LHRH类似物治疗前至少3天开始</strong>,或与外科睾丸切除术同时开始</li>
+<li><strong>150mg(局部晚期前列腺癌单药治疗)</strong>：<strong>1片(150 mg)/次,每日1次</strong>,口服;或3片50mg(等效)</li>
+<li>应<strong>持续服用至少2年</strong>或至疾病进展</li>
+</ul>
+
+<h3 style="color: #2e7d32; font-size: 16px;">服用方法</h3>
+<ul>
+<li>整片用水吞服,餐时餐后均可(食物不影响吸收)</li>
+<li>建议每日固定时间服用</li>
+</ul>
+
+<h3 style="color: #2e7d32; font-size: 16px;">特殊人群</h3>
+<ul>
+<li><strong>老年人(≥65岁)</strong>：无需调整剂量</li>
+<li><strong>肾功能不全</strong>：无需调整剂量(经肾排泄<1/3)</li>
+<li><strong>肝功能不全</strong>：轻度无需调整;中重度可能发生药物蓄积(半衰期延长),需谨慎使用,密切监测肝功能</li>
+<li><strong>儿童/青少年</strong>：禁用(无适应症)</li>
+<li><strong>女性</strong>：禁用(无适应症)</li>
+</ul>
+
+<h2 style="color: #43A047; font-size: 18px;">四、重要安全提示</h2>
+<div style="background: #fff7ed; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f97316;">
+<p style="margin: 0;"><strong>⚠️ 严重毒性警告：</strong><br>
+• <strong>肝毒性</strong>：可能致命(<strong>严重肝损伤/肝衰竭</strong>已观察到死亡/住院病例);用药前检测ALT/AST,治疗<strong>最初4个月定期监测</strong>,之后按需;若出现黄疸/ALT>2×ULN立即停药,随访肝功能<br>
+• <strong>男性乳房增生/乳房疼痛</strong>：50mg联合治疗较少(约5%);150mg单药治疗较常见(约50-70%)<br>
+• <strong>香豆素抗凝剂相互作用</strong>：与华法林合用<strong>显著延长PT/INR</strong>,增加出血风险;<strong>密切监测PT/INR,必要时调整抗凝剂剂量</strong><br>
+• <strong>QT间期延长</strong>：雄激素剥夺治疗可能延长QT间期;有QT延长史/风险因素者评估获益-风险比</p>
+</div>
+
+<h2 style="color: #43A047; font-size: 18px;">五、用药注意事项</h2>
+<ul>
+<li><strong>糖耐量降低</strong>：与LHRH激动剂联用时观察到此效应,糖尿病患者需监测血糖</li>
+<li><strong>CYP3A4底物</strong>：比卡鲁胺是CYP3A4抑制剂,与CYP3A4底物(辛伐他汀、匹莫范色林等)合用需谨慎</li>
+<li><strong>禁忌合用</strong>：特非那定、阿司咪唑、西沙比利(CYP3A4底物,合用可能致死性心律失常)</li>
+<li><strong>PSA监测</strong>：定期监测PSA,PSA升高需评估临床进展</li>
+<li><strong>光敏反应</strong>(罕见)：服用150mg期间避免直接暴露于强阳光或UV,可使用防晒霜</li>
+<li><strong>精子形态改变</strong>：服药期间及治疗后<strong>130天内</strong>需采取有效避孕措施</li>
+<li><strong>遗传性半乳糖不耐受/Lapp乳糖酶缺乏/葡萄糖-半乳糖吸收障碍者</strong>：禁用(片剂含乳糖)</li>
+</ul>
+
+<h2 style="color: #43A047; font-size: 18px;">六、原研药 vs 海外经济版</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 15px 0;">
+<thead>
+<tr style="background: #43A047; color: white;">
+<th style="padding: 10px; text-align: left;">类型</th>
+<th style="padding: 10px; text-align: left;">品牌/厂家</th>
+<th style="padding: 10px; text-align: left;">参考价格</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">原研药</td>
+<td style="padding: 10px;">Casodex 康士得 (AstraZeneca阿斯利康)</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">由实际咨询为准(美国50mg×30片约600-900美元/瓶)</td>
+</tr>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">海外经济版</td>
+<td style="padding: 10px;">Calutide (孟加拉珠峰药业) / Bicatero (Hetero) / Bicalut (Accord) / 印度多家</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">由实际咨询为准(经济版显著低于原研,详情请咨询)</td>
+</tr>
+</tbody>
+</table>
+<p style="font-size: 12px; color: #999;">* 价格仅供参考,实际价格以咨询为准</p>
+
+<div style="background: linear-gradient(135deg, #1e3a5f, #2d5a87); color: white; padding: 20px; border-radius: 12px; text-align: center; margin: 30px 0;">
+<p style="margin: 0; font-size: 16px;"><strong>蓝培医疗 · 全球优质医疗资源咨询</strong></p>
+<p style="margin: 10px 0;">📞 电话咨询：17844531559</p>
+<p style="margin: 10px 0;">💬 WhatsApp：+63-968-583-8435</p>
+<p style="margin: 10px 0;">🌐 微信咨询：17844531559</p>
+<p style="margin: 10px 0; font-size: 14px;">如需咨询比卡鲁胺Calutide药品渠道和价格信息,请联系我们</p>
+</div>
+
+<div style="background: #fff7ed; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f97316;">
+<p style="margin: 0; font-size: 13px;"><strong>⚠️ 免责声明：</strong>本文章仅供信息参考,不构成医疗建议。比卡鲁胺为处方药,必须在专科医生指导下使用。价格信息可能随市场变化,请以咨询时的实际信息为准。</p>
+</div>
+</div>

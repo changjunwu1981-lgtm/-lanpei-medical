@@ -1,0 +1,1533 @@
+========================================
+蓝培医疗·药闻速递文章 - 2026-05-29
+========================================
+
+【网站版】共5篇文章 + 首页
+
+--- 文章1: 泊马度胺胶囊 (006-pomalidomide.html) ---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>泊马度胺胶囊用法用量 - 蓝培医疗药闻速递</title>
+    <meta name="description" content="泊马度胺胶囊(Pomalidomide)用法用量详解，多发性骨髓瘤治疗方案，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="泊马度胺,泊马度胺胶囊,Pomalidomide,多发性骨髓瘤用法用量,泊马度胺价格">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+    </style>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "泊马度胺胶囊用法用量指南",
+        "description": "泊马度胺胶囊(Pomalidomide)用法用量详解及多发性骨髓瘤治疗方案",
+        "url": "https://lanpeimed.com/药闻速递/006-pomalidomide.html",
+        "about": {
+            "@type": "Drug",
+            "name": "泊马度胺胶囊",
+            "alternateName": "Pomalidomide"
+        }
+    }
+    </script>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i>首页</a>
+                    <a href="https://lanpeimed.com/药闻速递/" class="text-blue-200 hover:text-white"><i class="fas fa-book-medical mr-1"></i>药闻速递</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com">首页</a> &gt; <a href="https://lanpeimed.com/药闻速递/">药闻速递</a> &gt; 泊马度胺胶囊
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">泊马度胺胶囊</h1>
+            <p class="text-gray-500 mb-6">Pomalidomide | 白血病/多发性骨髓瘤 | 品牌名：Bolemide</p>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>药品简介</h2>
+            <div class="info-box">
+                <p>泊马度胺（pomalidomide）是第三代免疫调节剂（IMiD），属于沙利度胺类似物。它具有独特的抗肿瘤、免疫调节和抗血管生成作用，主要用于治疗多发性骨髓瘤（MM）和AIDS相关卡波西肉瘤（KS）。泊马度胺是沙利度胺的类似物，但其活性更强，副作用谱有所不同。</p>
+            </div>
+
+            <h2><i class="fas fa-notes-medical mr-2 text-orange-500"></i>适应症</h2>
+            <ul class="list-disc pl-6 space-y-2">
+                <li><strong>多发性骨髓瘤（MM）</strong>：与地塞米松联用，用于既往接受过至少两种治疗（包括来那度胺和蛋白酶体抑制剂）且在治疗期间或完成后60天内出现疾病进展的成年患者</li>
+                <li><strong>三药联合方案</strong>：与硼替佐米和地塞米松联用，用于既往至少接受过一种治疗（包括来那度胺）的多发性骨髓瘤成年患者</li>
+                <li><strong>AIDS相关卡波西肉瘤（KS）</strong>：用于高活性抗逆转录病毒治疗（HAART）无效或失败的AIDS相关KS患者，以及HIV阴性的KS患者</li>
+            </ul>
+
+            <h2><i class="fas fa-prescription mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>多发性骨髓瘤（MM）标准方案</h3>
+            <div class="info-box">
+                <p><strong>泊马度胺单药联合地塞米松方案：</strong></p>
+                <ul class="list-disc pl-6 mt-2">
+                    <li><strong>泊马度胺</strong>：4mg，口服，每日一次</li>
+                    <li><strong>给药周期</strong>：每28天为一个周期，Day 1-21连续给药，Day 22-28停药</li>
+                    <li><strong>地塞米松</strong>：40mg，口服，每周一次（可根据患者耐受性调整剂量）</li>
+                    <li><strong>持续治疗</strong>：直至疾病进展或出现不可耐受的毒性</li>
+                </ul>
+            </div>
+
+            <h3>三药联合方案（泊马度胺+硼替佐米+地塞米松）</h3>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>泊马度胺</strong>：4mg，口服，每日一次，Day 1-14（21天周期）</li>
+                    <li><strong>硼替佐米</strong>：1.3mg/m²，皮下或静脉注射，Day 1, 4, 8, 11</li>
+                    <li><strong>地塞米松</strong>：20mg，口服，每日一次，Day 1, 4, 8, 11</li>
+                </ul>
+            </div>
+
+            <h3>AIDS相关卡波西肉瘤（KS）方案</h3>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>泊马度胺</strong>：5mg，口服，每日一次</li>
+                    <li><strong>给药周期</strong>：每28天为一个周期，Day 1-21连续给药</li>
+                    <li><strong>持续治疗</strong>：直至疾病进展或出现不可耐受的毒性</li>
+                    <li><strong>重要提示</strong>：AIDS相关KS患者应继续接受HAART治疗</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-exclamation-circle mr-2 text-orange-500"></i>重要警告与注意事项</h2>
+            <div class="warning-box">
+                <p><strong>⚠️ 胚胎-胎儿毒性：</strong>泊马度胺是沙利度胺的类似物，具有致畸风险。妊娠期间禁止使用。有生育能力的女性在开始治疗前必须进行2次妊娠检测，治疗期间及停药后4周内必须同时使用两种有效避孕方法。</p>
+            </div>
+            <div class="warning-box">
+                <p><strong>⚠️ 静脉和动脉血栓栓塞：</strong>多发性骨髓瘤患者使用泊马度胺治疗期间，可能发生深静脉血栓（DVT）、肺栓塞（PE）、心肌梗塞和中风。推荐在治疗期间接受预防性抗血栓治疗（如阿司匹林）。</p>
+            </div>
+            <ul class="list-disc pl-6 space-y-2 mt-4">
+                <li>血液学毒性：需定期监测血常规，中性粒细胞减少和血小板减少是常见不良反应</li>
+                <li>肝脏毒性：定期监测肝功能</li>
+                <li>感染风险：可能增加感染风险，需警惕</li>
+                <li>肾功能：轻至中度肾功能不全患者通常无需调整剂量，重度肾功能不全患者需谨慎</li>
+            </ul>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>常见不良反应</h2>
+            <div class="info-box">
+                <p>泊马度胺在临床试验中观察到的不良反应包括：</p>
+                <ul class="list-disc pl-6 mt-2 space-y-1">
+                    <li><strong>血液系统</strong>：中性粒细胞减少（50-60%）、贫血、血小板减少</li>
+                    <li><strong>全身反应</strong>：疲乏、发热、水肿</li>
+                    <li><strong>胃肠道</strong>：腹泻、恶心、便秘、呕吐</li>
+                    <li><strong>呼吸系统</strong>：呼吸困难、咳嗽</li>
+                    <li><strong>感染</strong>：肺炎、尿路感染、败血症</li>
+                </ul>
+            </div>
+
+            <!-- Price Comparison -->
+            <h2><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格参考</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>产地</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>Pomalyst®（百时美施贵宝）</td>
+                        <td>美国</td>
+                        <td class="price-tag">约$12,000/月</td>
+                    </tr>
+                    <tr>
+                        <td>仿制药</td>
+                        <td>多国仿制药</td>
+                        <td>老挝/孟加拉等</td>
+                        <td class="price-tag">经济版可咨询</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="text-xs text-gray-400 mt-2">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p class="text-lg mb-3">需要咨询泊马度胺价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i>电话咨询：<a href="tel:13037856968">13037856968</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i>微信咨询：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong>本文章仅供信息参考，不构成医疗建议。泊马度胺为处方药，必须在医生指导下使用。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。咨询热线：13037856968</p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1">电话 13037856968 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p>免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p class="mt-1">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+</body>
+</html>
+
+--- 文章2: 塞瑞替尼胶囊 (007-ceritinib.html) ---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>塞瑞替尼胶囊用法用量 - 蓝培医疗药闻速递</title>
+    <meta name="description" content="塞瑞替尼胶囊(Ceritinib)用法用量详解，ALK阳性肺癌靶向药，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="塞瑞替尼,塞瑞替尼胶囊,Ceritinib,ALK肺癌靶向药,塞瑞替尼用法用量,塞瑞替尼价格">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+    </style>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "塞瑞替尼胶囊用法用量指南",
+        "description": "塞瑞替尼胶囊(Ceritinib)用法用量详解及ALK阳性肺癌靶向治疗方案",
+        "url": "https://lanpeimed.com/药闻速递/007-ceritinib.html",
+        "about": {
+            "@type": "Drug",
+            "name": "塞瑞替尼胶囊",
+            "alternateName": "Ceritinib"
+        }
+    }
+    </script>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i>首页</a>
+                    <a href="https://lanpeimed.com/药闻速递/" class="text-blue-200 hover:text-white"><i class="fas fa-book-medical mr-1"></i>药闻速递</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com">首页</a> &gt; <a href="https://lanpeimed.com/药闻速递/">药闻速递</a> &gt; 塞瑞替尼胶囊
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">塞瑞替尼胶囊</h1>
+            <p class="text-gray-500 mb-6">Ceritinib（赞可达/Zykadia） | 肺癌 | 品牌名：Cerini</p>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>药品简介</h2>
+            <div class="info-box">
+                <p>塞瑞替尼（ceritinib）是一种高选择性间变性淋巴瘤激酶（ALK）小分子抑制剂，属于酪氨酸激酶抑制剂（TKI）家族。通过阻断ALK自身磷酸化及下游信号通路，抑制依赖ALK的癌细胞增殖，从而发挥抗肿瘤作用。塞瑞替尼对ALK的抑制活性比第一代药物克唑替尼强约20倍，且能有效穿透血脑屏障。</p>
+            </div>
+
+            <h2><i class="fas fa-notes-medical mr-2 text-orange-500"></i>适应症</h2>
+            <ul class="list-disc pl-6 space-y-2">
+                <li><strong>ALK阳性非小细胞肺癌一线治疗</strong>：FDA批准用于ALK阳性晚期NSCLC的一线治疗，中位无进展生存期（mPFS）可达26.3个月</li>
+                <li><strong>ALK阳性非小细胞肺癌二线治疗</strong>：用于既往接受克唑替尼治疗后进展的，或对克唑替尼不耐受的ALK阳性局部晚期或转移性NSCLC患者</li>
+                <li><strong>重要提示</strong>：使用前必须通过FDA或NMPA批准的检测方法确认ALK阳性状态</li>
+            </ul>
+
+            <h2><i class="fas fa-prescription mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>标准给药方案</h3>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>推荐剂量</strong>：450mg（3粒150mg胶囊），口服，每日一次</li>
+                    <li><strong>服用方式</strong>：每天在同一时间服药，应与食物同时服用（随餐服用的新方案可减少胃肠道刺激）</li>
+                    <li><strong>服用要求</strong>：整粒胶囊吞服，不要打开、弄破或咀嚼</li>
+                    <li><strong>持续治疗</strong>：只要观察到临床获益，应持续治疗直至疾病进展或出现不可耐受的毒性</li>
+                </ul>
+            </div>
+
+            <h3>漏服处理</h3>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li>如果忘记服药，且距下次服药时间间隔<strong>12小时以上</strong>时，患者应补服漏服的剂量</li>
+                    <li>如果距下次服药时间<strong>≤12小时</strong>，则跳过漏服的剂量，不要服用双倍剂量</li>
+                    <li>如果治疗期间发生呕吐，不要服用额外剂量，但应继续服用下次计划剂量</li>
+                </ul>
+            </div>
+
+            <h3>剂量调整方案</h3>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>减量级别</th>
+                        <th>每日剂量</th>
+                        <th>说明</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>标准剂量</td>
+                        <td>450mg</td>
+                        <td>随餐服用</td>
+                    </tr>
+                    <tr>
+                        <td>一级减量</td>
+                        <td>300mg</td>
+                        <td>—</td>
+                    </tr>
+                    <tr>
+                        <td>二级减量</td>
+                        <td>150mg</td>
+                        <td>最低剂量</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2><i class="fas fa-exclamation-circle mr-2 text-orange-500"></i>剂量调整指征</h2>
+            <div class="warning-box">
+                <p><strong>需要减量或停药的情况：</strong></p>
+                <ul class="list-disc pl-6 mt-2 space-y-1">
+                    <li>ALT/AST升高超过正常上限5倍，或总胆红素超过正常上限3倍</li>
+                    <li>QTc间期超过500ms，或≥2级心律失常</li>
+                    <li>≥3级腹泻、呕吐或间质性肺病</li>
+                    <li>其他3级及以上不良事件</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-brain mr-2 text-orange-500"></i>颅内转移活性</h2>
+            <div class="info-box">
+                <p>塞瑞替尼具有较好的血脑屏障穿透能力，临床研究显示：</p>
+                <ul class="list-disc pl-6 mt-2 space-y-1">
+                    <li>基线伴可测量脑转移者，颅内客观缓解率（ORR）达<strong>35%-45%</strong></li>
+                    <li>出现中枢缓解的中位时间为<strong>7.3周</strong></li>
+                    <li>对血脑屏障穿透要求高的患者同样有效</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>常见不良反应</h2>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-1">
+                    <li><strong>胃肠道反应</strong>：腹泻（80%）、恶心（60%）、呕吐（50%）、腹痛（40%）</li>
+                    <li><strong>肝脏毒性</strong>：转氨酶升高（ALT/AST）</li>
+                    <li><strong>全身反应</strong>：疲乏（40%）、食欲减退（30%）</li>
+                    <li><strong>代谢异常</strong>：高血糖</li>
+                    <li><strong>心脏毒性</strong>：QT间期延长（少见）</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-capsules mr-2 text-orange-500"></i>药物相互作用</h2>
+            <div class="warning-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>强效CYP3A4抑制剂</strong>（如克拉霉素、酮康唑、伊曲康唑）：可使塞瑞替尼暴露量增加2.7倍，必须合用时需减少剂量约1/3</li>
+                    <li><strong>强效CYP3A4诱导剂</strong>（如利福平、利福布汀、苯妥英）：可降低塞瑞替尼疗效，应尽量避免合用</li>
+                    <li><strong>葡萄柚/柚子</strong>：服药期间避免食用，可能增加药物不良反应</li>
+                </ul>
+            </div>
+
+            <!-- Price Comparison -->
+            <h2><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格参考</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>规格</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>赞可达（诺华）</td>
+                        <td>150mg×150粒</td>
+                        <td class="price-tag">约¥18,000-30,000/盒</td>
+                    </tr>
+                    <tr>
+                        <td>医保后</td>
+                        <td>—</td>
+                        <td>150mg×150粒</td>
+                        <td class="price-tag">约¥600-1,500/盒（自付）</td>
+                    </tr>
+                    <tr>
+                        <td>仿制药</td>
+                        <td>多国仿制药</td>
+                        <td>150mg</td>
+                        <td class="price-tag">经济版可咨询</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="text-xs text-gray-400 mt-2">* 价格仅供参考，实际价格以咨询为准。塞瑞替尼已纳入国家医保乙类目录，符合条件的患者可享受医保报销</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p class="text-lg mb-3">需要咨询塞瑞替尼价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i>电话咨询：<a href="tel:13037856968">13037856968</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i>微信咨询：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong>本文章仅供信息参考，不构成医疗建议。塞瑞替尼为处方药，必须在医生指导下使用，ALK基因检测阳性方可使用。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。咨询热线：13037856968</p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1">电话 13037856968 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p>免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p class="mt-1">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+</body>
+</html>
+
+--- 文章3: 达泊西汀 (008-dapoxetine.html) ---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>达泊西汀片用法用量 - 蓝培医疗药闻速递</title>
+    <meta name="description" content="达泊西汀片(Dapoxetine)用法用量详解，男性早泄治疗药物，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="达泊西汀,达泊西汀片,Dapoxetine,早泄治疗,达泊西汀用法用量,达泊西汀价格">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+    </style>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "达泊西汀片用法用量指南",
+        "description": "达泊西汀片(Dapoxetine)用法用量详解及男性早泄治疗方案",
+        "url": "https://lanpeimed.com/药闻速递/008-dapoxetine.html",
+        "about": {
+            "@type": "Drug",
+            "name": "达泊西汀片",
+            "alternateName": "Dapoxetine"
+        }
+    }
+    </script>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i>首页</a>
+                    <a href="https://lanpeimed.com/药闻速递/" class="text-blue-200 hover:text-white"><i class="fas fa-book-medical mr-1"></i>药闻速递</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com">首页</a> &gt; <a href="https://lanpeimed.com/药闻速递/">药闻速递</a> &gt; 达泊西汀片
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">达泊西汀片</h1>
+            <p class="text-gray-500 mb-6">Dapoxetine | 男科 | 品牌名：Dapocitin</p>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>药品简介</h2>
+            <div class="info-box">
+                <p>达泊西汀（dapoxetine）是目前唯一被批准用于治疗早泄（Premature Ejaculation, PE）的口服药物，属于选择性5-羟色胺再摄取抑制剂（SSRI）类药物。与其他需要长期服用的SSRI不同，达泊西汀专为按需服用设计，起效快速，代谢迅速，可在1-3小时内发挥延长射精潜伏期的作用。</p>
+            </div>
+
+            <h2><i class="fas fa-notes-medical mr-2 text-orange-500"></i>适应症</h2>
+            <div class="info-box">
+                <p>达泊西汀适用于符合以下所有条件的<strong>18-64岁男性</strong>早泄患者：</p>
+                <ul class="list-disc pl-6 mt-2 space-y-1">
+                    <li>阴茎在插入阴道之前、过程当中或者插入后不久，以及未获性满足之前仅仅由于极小的性刺激即发生持续的或反复的射精</li>
+                    <li>因早泄而导致的显著性个人苦恼或人际交往障碍</li>
+                    <li>射精控制能力不佳</li>
+                </ul>
+            </div>
+            <div class="warning-box">
+                <p><strong>⚠️ 重要提示：</strong>达泊西汀不适用于勃起功能障碍（ED）患者。如同时存在ED和PE，应首先治疗勃起功能障碍。</p>
+            </div>
+
+            <h2><i class="fas fa-prescription mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>标准给药方案</h3>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>推荐起始剂量</strong>：30mg</li>
+                    <li><strong>服用时间</strong>：在预期性生活前1-3小时服用</li>
+                    <li><strong>服用方式</strong>：用足量水送服，整片吞服，不要咀嚼或压碎</li>
+                    <li><strong>服用频率</strong>：24小时内仅限服用一次</li>
+                    <li><strong>效果不佳时</strong>：可在医生指导下将剂量增加至60mg</li>
+                </ul>
+            </div>
+
+            <h3>剂量调整</h3>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>剂量级别</th>
+                        <th>剂量</th>
+                        <th>适用情况</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>起始剂量</td>
+                        <td>30mg</td>
+                        <td>大多数患者起始使用</td>
+                    </tr>
+                    <tr>
+                        <td>最大剂量</td>
+                        <td>60mg</td>
+                        <td>30mg效果不佳且能耐受</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2><i class="fas fa-clock mr-2 text-orange-500"></i>药代动力学特点</h2>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>起效时间</strong>：服药后1-2小时达到血药浓度峰值</li>
+                    <li><strong>半衰期</strong>：约为1.5-2小时（原型药物），代谢迅速</li>
+                    <li><strong>代谢</strong>：主要经肝脏代谢，不良反应通常轻微且短暂</li>
+                    <li><strong>适合按需服用</strong>：不同于其他需要每日服用的SSRI，达泊西汀专为按需服用设计</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-exclamation-circle mr-2 text-orange-500"></i>禁忌症与注意事项</h2>
+            <div class="warning-box">
+                <p><strong>⚠️ 禁忌症：</strong></p>
+                <ul class="list-disc pl-6 mt-2 space-y-1">
+                    <li>对达泊西汀或其任何成分过敏者禁用</li>
+                    <li>严重肝功能不全患者禁用</li>
+                    <li>严重肾功能不全患者禁用</li>
+                    <li>有心血管疾病史（如心力衰竭、传导阻滞等）的患者慎用</li>
+                    <li>正在服用单胺氧化酶抑制剂（MAOIs）或其他SSRIs的患者禁用</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>常见不良反应</h2>
+            <div class="info-box">
+                <p>达泊西汀的常见不良反应通常轻微且短暂，主要包括：</p>
+                <ul class="list-disc pl-6 mt-2 space-y-1">
+                    <li><strong>神经系统</strong>：头晕（10-15%）、头痛（5-10%）</li>
+                    <li><strong>胃肠道</strong>：恶心（10-20%）、腹泻（3-7%）</li>
+                    <li><strong>其他</strong>：失眠（3-5%）、疲劳（2-5%）</li>
+                </ul>
+                <p class="mt-2 text-gray-600">这些不良反应多为一过性，随用药时间延长可逐渐减轻或消失。</p>
+            </div>
+
+            <h2><i class="fas fa-handshake mr-2 text-orange-500"></i>药物相互作用</h2>
+            <div class="warning-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>禁止合用</strong>：单胺氧化酶抑制剂（MAOIs）、硫利达嗪、 serotonergic drugs</li>
+                    <li><strong>需谨慎合用</strong>：其他SSRI类药物、三环类抗抑郁药、其他影响5-HT系统的药物</li>
+                    <li><strong>酒精</strong>：服药期间应避免饮酒，可能增加晕厥风险</li>
+                </ul>
+            </div>
+
+            <!-- Price Comparison -->
+            <h2><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格参考</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>规格</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>必利劲（德国柏林化学/美纳里尼）</td>
+                        <td>30mg×3片</td>
+                        <td class="price-tag">约¥150-200/盒</td>
+                    </tr>
+                    <tr>
+                        <td>仿制药</td>
+                        <td>多国仿制药</td>
+                        <td>30mg/60mg</td>
+                        <td class="price-tag">经济版可咨询</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="text-xs text-gray-400 mt-2">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p class="text-lg mb-3">需要咨询达泊西汀价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i>电话咨询：<a href="tel:13037856968">13037856968</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i>微信咨询：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong>本文章仅供信息参考，不构成医疗建议。达泊西汀为处方药，请在医生指导下使用。如有相关困扰，建议先咨询专业医生，获取正确的诊断和治疗方案。咨询热线：13037856968</p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1">电话 13037856968 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p>免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p class="mt-1">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+</body>
+</html>
+
+--- 文章4: 艾曲泊帕乙醇胺片 (009-eltrombopag.html) ---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>艾曲泊帕乙醇胺片用法用量 - 蓝培医疗药闻速递</title>
+    <meta name="description" content="艾曲泊帕乙醇胺片(Eltrombopag)用法用量详解，血小板减少症治疗药物，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="艾曲泊帕,艾曲泊帕乙醇胺片,Eltrombopag,血小板减少症,ITP用法用量,艾曲泊帕价格">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+    </style>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "艾曲泊帕乙醇胺片用法用量指南",
+        "description": "艾曲泊帕乙醇胺片(Eltrombopag)用法用量详解及血小板减少症治疗方案",
+        "url": "https://lanpeimed.com/药闻速递/009-eltrombopag.html",
+        "about": {
+            "@type": "Drug",
+            "name": "艾曲泊帕乙醇胺片",
+            "alternateName": "Eltrombopag"
+        }
+    }
+    </script>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i>首页</a>
+                    <a href="https://lanpeimed.com/药闻速递/" class="text-blue-200 hover:text-white"><i class="fas fa-book-medical mr-1"></i>药闻速递</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com">首页</a> &gt; <a href="https://lanpeimed.com/药闻速递/">药闻速递</a> &gt; 艾曲泊帕乙醇胺片
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">艾曲泊帕乙醇胺片</h1>
+            <p class="text-gray-500 mb-6">Eltrombopag（瑞弗兰®/Revolade®/Promacta®） | 综合药品 | 品牌名：Elobopa</p>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>药品简介</h2>
+            <div class="info-box">
+                <p>艾曲泊帕乙醇胺片（eltrombopag olamine）是全球首个上市的口服小分子非肽类血小板生成素受体激动剂（TPO-RA）。它通过模拟血小板生成素（TPO）的作用，刺激骨髓巨核细胞增殖分化，从而促进血小板生成。2017年在中国获批上市，是目前唯一在中国获批儿童ITP适应症的TPO-RA类药物。</p>
+            </div>
+
+            <h2><i class="fas fa-notes-medical mr-2 text-orange-500"></i>适应症</h2>
+            <ul class="list-disc pl-6 space-y-2">
+                <li><strong>免疫性血小板减少症（ITP）</strong>：用于既往糖皮质激素、免疫球蛋白等治疗反应不佳的慢性ITP成人及6岁以上儿童患者</li>
+                <li><strong>慢性丙型肝炎相关血小板减少症</strong>：用于慢性HCV感染患者血小板减少症的治疗，以支持干扰素为基础的抗病毒治疗</li>
+                <li><strong>重度再生障碍性贫血（SAA）</strong>：
+                    <ul class="list-disc pl-6 mt-1">
+                        <li>一线治疗：联合标准免疫抑制疗法（IST）用于成人和2岁以上儿童SAA患者</li>
+                        <li>后线治疗：用于既往免疫抑制治疗反应不佳的重度再生障碍性贫血（SAA）患者</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h2><i class="fas fa-prescription mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>免疫性血小板减少症（ITP）</h3>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>成人及6岁以上儿童</strong>：起始剂量50mg，口服，每日一次</li>
+                    <li><strong>东亚/东南亚裔患者</strong>：起始剂量25mg，口服，每日一次</li>
+                    <li><strong>1-5岁儿童</strong>：起始剂量25mg，口服，每日一次</li>
+                    <li><strong>最大日剂量</strong>：75mg（成人）/ 50mg（6-11岁儿童）</li>
+                    <li><strong>目标血小板计数</strong>：≥50,000/µL，以降低出血风险</li>
+                </ul>
+            </div>
+
+            <h3>慢性丙型肝炎相关血小板减少症</h3>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>起始剂量</strong>：25mg，口服，每日一次（所有患者）</li>
+                    <li><strong>目标</strong>：使血小板计数达到能够启动或维持干扰素抗病毒治疗的最低要求</li>
+                    <li><strong>最大日剂量</strong>：100mg</li>
+                </ul>
+            </div>
+
+            <h3>重度再生障碍性贫血（SAA）</h3>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>成人及2岁以上儿童</strong>：起始剂量50mg，口服，每日一次</li>
+                    <li><strong>东亚/东南亚裔患者</strong>：起始剂量25mg，口服，每日一次</li>
+                    <li><strong>最大日剂量</strong>：150mg（仅用于SAA患者）</li>
+                </ul>
+            </div>
+
+            <h3>服用注意事项</h3>
+            <div class="warning-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>服用时间</strong>：至少在含多价阳离子药物或食物（如抗酸剂、乳制品、含钙食物、矿物质补充剂）前2小时或后4小时服用</li>
+                    <li><strong>与食物同服</strong>：应与低钙饮食（≤50mg钙）同服，或空腹服用</li>
+                    <li><strong>整片吞服</strong>：不要碾碎或咀嚼，应整片吞服</li>
+                    <li><strong>定期监测</strong>：治疗期间需定期监测血小板计数和肝功能</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-chart-line mr-2 text-orange-500"></i>起效与疗效</h2>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>起效时间</strong>：通常在开始治疗后1-2周内血小板计数开始上升</li>
+                    <li><strong>停药反应</strong>：停药后1-2周内血小板计数可能下降</li>
+                    <li><strong>持续治疗</strong>：可长期使用维持血小板计数在安全范围</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-exclamation-circle mr-2 text-orange-500"></i>重要注意事项</h2>
+            <div class="warning-box">
+                <p><strong>⚠️ 肝脏毒性：</strong>艾曲泊帕可能引起肝功能异常，用药期间需定期监测肝功能指标（ALT、AST、胆红素）。</p>
+            </div>
+            <div class="warning-box">
+                <p><strong>⚠️ 骨髓网硬蛋白沉积：</strong>有报告显示长期使用TPO-RA类药物可能出现骨髓网硬蛋白沉积，需定期进行血常规检查。</p>
+            </div>
+            <ul class="list-disc pl-6 space-y-2 mt-4">
+                <li>食物相互作用：避免与富含钙的食物（牛奶、奶酪等）同服</li>
+                <li>药物相互作用：避免与多价阳离子螯合剂（如抗酸药、钙片、铁剂等）同时服用</li>
+                <li>出血风险：即使血小板计数正常化，仍需警惕出血风险</li>
+            </ul>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>常见不良反应</h2>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-1">
+                    <li><strong>感染</strong>：上呼吸道感染、鼻咽炎</li>
+                    <li><strong>肝脏</strong>：转氨酶升高</li>
+                    <li><strong>血液系统</strong>：血小板减少、白细胞减少</li>
+                    <li><strong>胃肠道</strong>：恶心、呕吐、腹泻</li>
+                    <li><strong>其他</strong>：头痛、发热、疲劳</li>
+                </ul>
+            </div>
+
+            <!-- Price Comparison -->
+            <h2><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格参考</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>规格</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>瑞弗兰®（诺华）</td>
+                        <td>25mg×28片</td>
+                        <td class="price-tag">约¥4,396/盒</td>
+                    </tr>
+                    <tr>
+                        <td>原研药</td>
+                        <td>Promacta®（葛兰素史克）</td>
+                        <td>50mg</td>
+                        <td class="price-tag">原研海外版可咨询</td>
+                    </tr>
+                    <tr>
+                        <td>仿制药</td>
+                        <td>多国仿制药</td>
+                        <td>25mg/50mg</td>
+                        <td class="price-tag">经济版可咨询</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="text-xs text-gray-400 mt-2">* 价格仅供参考，实际价格以咨询为准。成人和12岁及以上ITP适应症已纳入医保报销范围</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p class="text-lg mb-3">需要咨询艾曲泊帕价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i>电话咨询：<a href="tel:13037856968">13037856968</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i>微信咨询：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong>本文章仅供信息参考，不构成医疗建议。艾曲泊帕为处方药，必须在医生指导下使用。治疗期间需定期监测血小板计数和肝功能。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。咨询热线：13037856968</p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1">电话 13037856968 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p>免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p class="mt-1">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+</body>
+</html>
+
+--- 文章5: 伊布替尼胶囊 (010-ibrutinib.html) ---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>伊布替尼胶囊用法用量 - 蓝培医疗药闻速递</title>
+    <meta name="description" content="伊布替尼胶囊(Ibrutinib/Imbruvica)用法用量详解，套细胞淋巴瘤/慢性淋巴细胞白血病治疗，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="伊布替尼,伊布替尼胶囊,Ibrutinib,Imbruvica,套细胞淋巴瘤,慢性淋巴细胞白血病,伊布替尼用法用量,伊布替尼价格">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+    </style>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "伊布替尼胶囊用法用量指南",
+        "description": "伊布替尼胶囊(Ibrutinib)用法用量详解及套细胞淋巴瘤、慢性淋巴细胞白血病治疗方案",
+        "url": "https://lanpeimed.com/药闻速递/010-ibrutinib.html",
+        "about": {
+            "@type": "Drug",
+            "name": "伊布替尼胶囊",
+            "alternateName": "Ibrutinib"
+        }
+    }
+    </script>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i>首页</a>
+                    <a href="https://lanpeimed.com/药闻速递/" class="text-blue-200 hover:text-white"><i class="fas fa-book-medical mr-1"></i>药闻速递</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com">首页</a> &gt; <a href="https://lanpeimed.com/药闻速递/">药闻速递</a> &gt; 伊布替尼胶囊
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">伊布替尼胶囊</h1>
+            <p class="text-gray-500 mb-6">Ibrutinib（亿珂®/Imbruvica®） | 白血病/淋巴瘤 | 品牌名：Emlutini</p>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>药品简介</h2>
+            <div class="info-box">
+                <p>伊布替尼（ibrutinib）是全球首个获批的布鲁顿酪氨酸激酶（BTK）抑制剂，属于小分子靶向药物。通过不可逆地与BTK结合，抑制BTK自磷酸化及下游信号通路，从而抑制恶性B细胞的增殖和存活。伊布替尼于2013年获FDA批准上市，2017年在中国获批上市（商品名亿珂®），已在全球使用超过10年。</p>
+            </div>
+
+            <h2><i class="fas fa-notes-medical mr-2 text-orange-500"></i>适应症</h2>
+            <div class="info-box">
+                <p>伊布替尼在多个国家获批用于治疗多种B细胞恶性肿瘤：</p>
+                <ul class="list-disc pl-6 mt-2 space-y-2">
+                    <li><strong>套细胞淋巴瘤（MCL）</strong>：既往至少接受过一种治疗的成年MCL患者</li>
+                    <li><strong>慢性淋巴细胞白血病/小淋巴细胞淋巴瘤（CLL/SLL）</strong>：
+                        <ul class="list-disc pl-6 mt-1">
+                            <li>初治CLL/SLL成年患者</li>
+                            <li>既往接受过至少一种治疗的CLL/SLL成年患者</li>
+                            <li>17p缺失的CLL/SLL成年患者</li>
+                        </ul>
+                    </li>
+                    <li><strong>华氏巨球蛋白血症（WM）</strong>：既往接受过至少一种治疗的WM成年患者，或不适合化学免疫疗法的WM患者</li>
+                    <li><strong>慢性移植物抗宿主病（cGVHD）</strong>：经过1种或多种系统性治疗失败的成人和1岁及以上儿童cGVHD患者</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-prescription mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>不同适应症的推荐剂量</h3>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>适应症</th>
+                        <th>推荐剂量</th>
+                        <th>胶囊数量</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>套细胞淋巴瘤（MCL）</td>
+                        <td class="price-tag">560mg，每日一次</td>
+                        <td>4粒140mg胶囊</td>
+                    </tr>
+                    <tr>
+                        <td>慢性淋巴细胞白血病（CLL）/小淋巴细胞淋巴瘤（SLL）</td>
+                        <td class="price-tag">420mg，每日一次</td>
+                        <td>3粒140mg胶囊</td>
+                    </tr>
+                    <tr>
+                        <td>华氏巨球蛋白血症（WM）</td>
+                        <td class="price-tag">420mg，每日一次</td>
+                        <td>3粒140mg胶囊</td>
+                    </tr>
+                    <tr>
+                        <td>慢性移植物抗宿主病（cGVHD）</td>
+                        <td class="price-tag">420mg，每日一次</td>
+                        <td>3粒140mg胶囊</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3>服用方式</h3>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>服用时间</strong>：每日一次，大致固定时间服用</li>
+                    <li><strong>服用方式</strong>：用一杯水整粒吞服胶囊，不要打开、弄破或咀嚼</li>
+                    <li><strong>持续治疗</strong>：直至疾病进展或出现不可耐受的毒性</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-exclamation-circle mr-2 text-orange-500"></i>剂量调整指南</h2>
+            <div class="warning-box">
+                <p><strong>发生不良反应时的剂量调整：</strong></p>
+                <ul class="list-disc pl-6 mt-2 space-y-2">
+                    <li><strong>3级非血液学毒性</strong>：暂停用药，待毒性缓解至1级或基线后，可按原剂量或减量（根据医生判断）重新开始</li>
+                    <li><strong>3级血液学毒性</strong>（需基于血细胞计数延迟给药）：暂停用药，每周监测血常规，待毒性缓解至1级或基线后重新开始</li>
+                    <li><strong>4级血液学毒性</strong>：暂停用药，可考虑减量重新开始</li>
+                    <li><strong>剂量减量方案</strong>：CLL/SLL/WM可从420mg减至280mg（2粒），仍不耐受可进一步减量或停药</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>常见不良反应</h2>
+            <div class="info-box">
+                <ul class="list-disc pl-6 space-y-1">
+                    <li><strong>血液系统</strong>：中性粒细胞减少（30-40%）、血小板减少（20-30%）、贫血（15-25%）</li>
+                    <li><strong>胃肠道</strong>：腹泻（50-60%）、恶心（20-30%）、便秘（15-20%）</li>
+                    <li><strong>全身反应</strong>：疲乏（30-40%）、发热（15-20%）</li>
+                    <li><strong>肌肉骨骼</strong>：肌肉痉挛（20-30%）、关节痛（15-20%）</li>
+                    <li><strong>出血相关</strong>：瘀斑、出血倾向（需注意手术前暂停用药）</li>
+                    <li><strong>感染</strong>：上呼吸道感染（20-30%）、肺炎（10-15%）</li>
+                </ul>
+            </div>
+
+            <h2><i class="fas fa-heartbeat mr-2 text-orange-500"></i>特殊人群用药</h2>
+            <ul class="list-disc pl-6 space-y-2">
+                <li><strong>老年人</strong>：无需特殊剂量调整，65岁以上患者同样适用</li>
+                <li><strong>肾功能不全</strong>：轻至中度肾功能不全（CrCl≥30mL/min）患者通常无需调整剂量；重度肾功能不全或透析患者需谨慎</li>
+                <li><strong>肝功能不全</strong>：轻至中度肝功能不全患者需谨慎，可能需要减量</li>
+                <li><strong>手术</strong>：大型手术前应暂停伊布替尼3-7天</li>
+            </ul>
+
+            <h2><i class="fas fa-handshake mr-2 text-orange-500"></i>药物相互作用</h2>
+            <div class="warning-box">
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>强效CYP3A4抑制剂</strong>（如酮康唑、伊曲康唑、克拉霉素、利托那韦）：可能增加伊布替尼暴露量，需避免合用或减量</li>
+                    <li><strong>中效CYP3A4抑制剂</strong>（如氟康唑、红霉素）：合用时需调整伊布替尼剂量</li>
+                    <li><strong>抗凝药/抗血小板药</strong>：可能增加出血风险，需谨慎合用</li>
+                </ul>
+            </div>
+
+            <!-- Price Comparison -->
+            <h2><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格参考</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>规格</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>亿珂®（杨森/艾伯维）</td>
+                        <td>140mg×90粒</td>
+                        <td class="price-tag">约¥48,600/盒</td>
+                    </tr>
+                    <tr>
+                        <td>原研药（印度版）</td>
+                        <td>Imbruvica®</td>
+                        <td>140mg</td>
+                        <td class="price-tag">可咨询</td>
+                    </tr>
+                    <tr>
+                        <td>仿制药</td>
+                        <td>多国仿制药</td>
+                        <td>140mg</td>
+                        <td class="price-tag">经济版可咨询</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="text-xs text-gray-400 mt-2">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p class="text-lg mb-3">需要咨询伊布替尼价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i>电话咨询：<a href="tel:13037856968">13037856968</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i>微信咨询：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong>本文章仅供信息参考，不构成医疗建议。伊布替尼为处方药，必须在医生指导下使用。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。咨询热线：13037856968</p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1">电话 13037856968 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p>免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p class="mt-1">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+</body>
+</html>
+
+--- 博客首页: index.html ---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>药闻速递 - 蓝培医疗</title>
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .article-card { background: white; border-radius: 12px; padding: 24px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); transition: all 0.3s; border-left: 4px solid transparent; }
+        .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); border-left-color: #f97316; transform: translateY(-2px); }
+        .tag { display: inline-block; background: #f0f7ff; color: #1e3a5f; padding: 2px 10px; border-radius: 12px; font-size: 12px; margin-right: 6px; }
+        .contact-bar { background: linear-gradient(135deg, #f97316 0%, #fb923c 100%); color: white; padding: 16px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .contact-bar a { color: white; font-weight: bold; }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-6">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h1 class="text-2xl font-bold"><a href="https://lanpeimed.com" class="text-white hover:text-orange-300">蓝培医疗</a></h1>
+                    <p class="text-blue-200 text-sm mt-1">专业海外药品直邮 · 药闻速递</p>
+                </div>
+                <a href="https://lanpeimed.com" class="bg-orange-500 hover:bg-orange-600 text-white px-4 py-2 rounded-lg text-sm">
+                    <i class="fas fa-pills mr-1"></i>返回首页
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Contact Bar -->
+    <div class="max-w-4xl mx-auto px-4 mt-6">
+        <div class="contact-bar">
+            <i class="fas fa-phone-alt mr-2"></i>咨询热线：<a href="tel:13037856968">13037856968</a> | 
+            <i class="fab fa-whatsapp mr-1"></i>WhatsApp：<a href="https://wa.me/639685838435">+63-968-583-8435</a> | 
+            <i class="fab fa-weixin mr-1"></i>微信：17844531559
+        </div>
+    </div>
+
+    <!-- Article List -->
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <h2 class="text-xl font-bold text-gray-800 mb-6"><i class="fas fa-book-medical mr-2 text-orange-500"></i>药闻速递</h2>
+        <div id="article-list">
+            <div class="article-card">
+    <h3><a href="001-abitelong.html">阿比特龙片用法用量详解</a></h3>
+    <p class="text-sm text-gray-500 mt-1">醋酸阿比特龙 (Abiraterone Acetate) · 前列腺癌</p>
+    <p class="text-gray-600 mt-2">阿比特龙片是一种选择性CYP17抑制剂，用于治疗转移性去势抵抗性前列腺癌（mCRPC）和新诊断的高危转移性内分泌治疗敏感性前列腺癌（mHSPC）。推荐剂量为每次1000mg口服每日一次，需与泼尼松联用...</p>
+    <div class="mt-3"><span class="tag">前列腺癌</span><span class="tag">用法用量</span><span class="tag">价格对比</span></div>
+</div>
+<div class="article-card">
+    <h3><a href="002-entrectinib.html">恩曲替尼胶囊用法用量详解</a></h3>
+    <p class="text-sm text-gray-500 mt-1">Entrectinib · 肺癌/实体瘤</p>
+    <p class="text-gray-600 mt-2">恩曲替尼是一种新一代口服酪氨酸激酶抑制剂，可穿透血脑屏障，对ROS1阳性非小细胞肺癌和NTRK融合基因阳性实体瘤患者具有显著疗效。成人推荐剂量为600mg口服，每日一次，可与食物同服...</p>
+    <div class="mt-3"><span class="tag">肺癌</span><span class="tag">用法用量</span><span class="tag">价格对比</span></div>
+</div>
+<div class="article-card">
+    <h3><a href="003-alectinib.html">阿来替尼胶囊用法用量详解</a></h3>
+    <p class="text-sm text-gray-500 mt-1">盐酸阿来替尼 (Alectinib Hydrochloride) · 肺癌</p>
+    <p class="text-gray-600 mt-2">阿来替尼是第二代ALK抑制剂，一线使用无进展生存期可达34.8个月。推荐剂量为每次600mg（4粒150mg胶囊），口服，每日两次，与食物同服。可有效控制脑转移，副作用低于同类药物...</p>
+    <div class="mt-3"><span class="tag">肺癌</span><span class="tag">用法用量</span><span class="tag">价格对比</span></div>
+</div>
+<div class="article-card">
+    <h3><a href="004-avatrombopag.html">马来酸阿伐曲泊帕片用法用量详解</a></h3>
+    <p class="text-sm text-gray-500 mt-1">Avatrombopag Maleate · 综合药品（血小板减少症）</p>
+    <p class="text-gray-600 mt-2">马来酸阿伐曲泊帕片是中国唯一拥有CLDT和ITP双适应症的口服TPO-RA药物。CLDT患者术前10-13天开始给药，每日一次连续5天；ITP患者起始剂量20mg每日一次。安全性高，≥3级不良事件发生率仅4.2%...</p>
+    <div class="mt-3"><span class="tag">综合药品</span><span class="tag">用法用量</span><span class="tag">价格对比</span></div>
+</div>
+<div class="article-card">
+    <h3><a href="005-brigatinib.html">布格替尼用法用量详解</a></h3>
+    <p class="text-sm text-gray-500 mt-1">Brigatinib（布加替尼） · 肺癌</p>
+    <p class="text-gray-600 mt-2">布格替尼是新一代ALK抑制剂，采用独特的"7天导入+维持"给药方案：前7天90mg每日一次，之后增至180mg每日一次。可有效控制脑转移，国内外指南推荐用于ALK+非小细胞肺癌的一线和二线治疗...</p>
+    <div class="mt-3"><span class="tag">肺癌</span><span class="tag">用法用量</span><span class="tag">价格对比</span></div>
+</div>
+<div class="article-card">
+    <h3><a href="006-pomalidomide.html">泊马度胺胶囊用法用量详解</a></h3>
+    <p class="text-sm text-gray-500 mt-1">Pomalidomide · 多发性骨髓瘤</p>
+    <p class="text-gray-600 mt-2">泊马度胺是第三代免疫调节剂，适用于既往接受过至少两种治疗的多发性骨髓瘤患者。推荐剂量为4mg口服每日一次，Day 1-21 of each 28-day cycle，需与地塞米松联用。重要警告包括胚胎-胎儿毒性和静脉血栓风险...</p>
+    <div class="mt-3"><span class="tag">白血病</span><span class="tag">用法用量</span><span class="tag">价格对比</span></div>
+</div>
+<div class="article-card">
+    <h3><a href="007-ceritinib.html">塞瑞替尼胶囊用法用量详解</a></h3>
+    <p class="text-sm text-gray-500 mt-1">Ceritinib · 肺癌</p>
+    <p class="text-gray-600 mt-2">塞瑞替尼是第二代ALK抑制剂，2019年更新用法为450mg随餐每日一次（原750mg空腹）。具有良好血脑屏障穿透能力，对脑转移患者效果显著。已纳入国家医保乙类，医保后自付约600-1500元/盒...</p>
+    <div class="mt-3"><span class="tag">肺癌</span><span class="tag">用法用量</span><span class="tag">价格对比</span></div>
+</div>
+<div class="article-card">
+    <h3><a href="008-dapoxetine.html">达泊西汀片用法用量详解</a></h3>
+    <p class="text-sm text-gray-500 mt-1">Dapoxetine · 男科</p>
+    <p class="text-gray-600 mt-2">达泊西汀是目前唯一获批治疗早泄的口服SSRI类药物，按需服用1-3小时起效。推荐起始剂量30mg，效果不佳可增至60mg，24小时内限服一次。副作用轻微且一过性，是改善射精控制能力的有效选择...</p>
+    <div class="mt-3"><span class="tag">男科</span><span class="tag">用法用量</span><span class="tag">价格对比</span></div>
+</div>
+<div class="article-card">
+    <h3><a href="009-eltrombopag.html">艾曲泊帕乙醇胺片用法用量详解</a></h3>
+    <p class="text-sm text-gray-500 mt-1">Eltrombopag · 综合药品（血小板减少症）</p>
+    <p class="text-gray-600 mt-2">艾曲泊帕是全球首个口服TPO-RA药物，中国唯一获批儿童ITP适应症的TPO-RA。成人起始剂量50mg每日一次，东亚人群起始25mg。1-2周起效，需空腹或与低钙饮食同服，避免与多价阳离子同服...</p>
+    <div class="mt-3"><span class="tag">综合药品</span><span class="tag">用法用量</span><span class="tag">价格对比</span></div>
+</div>
+<div class="article-card">
+    <h3><a href="010-ibrutinib.html">伊布替尼胶囊用法用量详解</a></h3>
+    <p class="text-sm text-gray-500 mt-1">Ibrutinib（亿珂®） · 白血病/淋巴瘤</p>
+    <p class="text-gray-600 mt-2">伊布替尼是全球首个BTK抑制剂，2017年中国上市。CLL/SLL/WM剂量420mg每日一次，MCL剂量560mg每日一次。整粒吞服，持续治疗直至疾病进展。常见副作用包括腹泻、疲乏、肌肉痉挛等...</p>
+    <div class="mt-3"><span class="tag">白血病</span><span class="tag">用法用量</span><span class="tag">价格对比</span></div>
+</div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="gradient-bg text-white py-8 mt-10">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p>蓝培医疗 - 专业海外药品直邮平台</p>
+            <p class="mt-2">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p class="mt-2">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+</body>
+</html>
+
+
+【公众号版】共5篇文章
+
+--- 公众号文章1: 泊马度胺胶囊 ---
+💊 【多发性骨髓瘤耐药后怎么办？泊马度胺或成新选择】
+
+👋 今天来聊聊泊马度胺（pomalidomide），一个很多病友可能听说过但不太熟悉的"救命药"。
+
+📌 先说说什么是泊马度胺
+
+泊马度胺是第三代免疫调节剂，属于沙利度胺的"升级版"。虽然也是免疫调节药物，但它的活性比前辈们更强，主要用于：
+
+✅ 多发性骨髓瘤（MM）三线及以后治疗
+✅ 对来那度胺、硼替佐米都耐药的患者
+✅ AIDS相关的卡波西肉瘤
+
+💉 用法用量（重点记好）
+
+多发性骨髓瘤标准方案：
+• 泊马度胺 4mg，每天一次
+• 口服，28天一个周期，前21天连续吃
+• 需要和地塞米松联合使用
+• 直至疾病进展或不能耐受
+
+⚠️ 重要提醒：
+1️⃣ 这是处方药，必须在医生指导下使用
+2️⃣ 有生育能力的朋友要注意——该药有致畸风险，务必做好避孕
+3️⃣ 治疗期间可能需要预防血栓
+
+💰 价格方面
+
+原研药（百时美施贵宝Pomalyst）在美国价格较高。好消息是，现在有多个海外版本可选，经济压力相对小一些。
+
+📞 有用药疑问？
+
+如需了解泊马度胺的海外渠道和价格信息，可拨打13037856968咨询，我们的专业团队会根据您的情况提供个性化建议。
+
+━━━━━━━━━━━━━━━━━
+💊 蓝培医疗 · 专业海外药品直邮
+
+📞 咨询热线：13037856968
+💬 WhatsApp：+63-968-583-8435
+🔍 微信咨询：17844531559
+🌐 官网：lanpeimed.com
+
+⚠️ 免责声明：本文仅供信息参考，不构成医疗建议。处方药须在医生指导下使用。
+
+--- 公众号文章2: 塞瑞替尼胶囊 ---
+💊 【ALK肺癌耐药了？塞瑞替尼这些变化你必须知道】
+
+👋 大家好，今天说说ALK阳性肺癌病友圈的"老朋友"——塞瑞替尼（ceritinib）。
+
+🔍 先认识一下塞瑞替尼
+
+塞瑞替尼是一种高选择性ALK抑制剂，比第一代药物克唑替尼强约20倍，而且能穿透血脑屏障，对脑转移患者特别友好。
+
+📌 适应症
+
+✅ ALK阳性非小细胞肺癌一线治疗
+✅ 克唑替尼耐药或不耐受患者的二线治疗
+
+💡 重要变化：用法用量更新了！
+
+以前塞瑞替尼需要空腹服用，每天750mg。现在更新了：
+
+📌 新方案（推荐）：
+• 剂量：450mg/天（比原来少了300mg）
+• 随餐服用（和食物一起吃，减少胃肠道刺激）
+• 每天同一时间，整粒胶囊吞服
+
+📌 为什么减量了效果反而更好？
+临床研究（ASCEND-8）显示，450mg随餐组的客观缓解率（ORR）达到78.1%，和750mg空腹组效果相当，但副作用更小！
+
+💊 漏服怎么办？
+• 距离下次服药>12小时 → 补服漏掉的
+• 距离下次服药≤12小时 → 跳过这次，不用补
+
+⚠️ 需要减量的情况：
+• ALT/AST升高超过正常5倍
+• QT间期延长
+• 严重腹泻/呕吐
+• 间质性肺病
+
+💰 价格参考
+
+原研药（诺华赞可达）国内已纳入医保乙类，医保后自付约600-1500元/盒。有用药疑问的朋友，可拨打13037856968咨询。
+
+━━━━━━━━━━━━━━━━━
+💊 蓝培医疗 · 专业海外药品直邮
+
+📞 咨询热线：13037856968
+💬 WhatsApp：+63-968-583-8435
+🔍 微信咨询：17844531559
+🌐 官网：lanpeimed.com
+
+⚠️ 免责声明：本文仅供信息参考，不构成医疗建议。处方药须在医生指导下使用。
+
+--- 公众号文章3: 达泊西汀 ---
+💊 【“时间太短”太尴尬？达泊西汀或许能帮到你】
+
+👋 今天聊一个比较私密但困扰很多人的问题——早泄（PE）。
+
+根据流行病学数据，早泄影响约20%-30%的男性，是最常见的男性性功能障碍之一。
+
+💊 达泊西汀是什么？
+
+达泊西汀是目前全球唯一获批专治早泄的口服药，属于选择性5-羟色胺再摄取抑制剂（SSRI）。和需要每天吃的其他SSRI不同，它是按需服用，起效快、代谢也快。
+
+📌 适用人群
+
+符合以下条件的18-64岁男性：
+✅ 插入前/过程中/不久后就射精
+✅ 因早泄导致明显心理困扰或人际交往障碍
+✅ 射精控制能力差
+
+💡 用法用量（记好！）
+
+📌 标准方案：
+• 起始剂量：30mg
+• 性活动前1-3小时服用
+• 24小时内只能吃一次
+• 效果不好可咨询医生增至60mg
+
+📌 服用方式：
+• 用足量水送服
+• 整片吞下，不要嚼碎
+
+⚠️ 注意事项：
+
+1️⃣ 服药期间避免饮酒
+2️⃣ 有严重肝肾问题的人不能吃
+3️⃣ 正在吃其他抗抑郁药（SSRIs）的朋友要提前告知医生
+4️⃣ 常见副作用：轻微恶心、头晕，通常一过性
+
+💰 价格参考
+
+原研药（必利劲）30mg×3片约150-200元。现在也有多个海外版本可选，有需要可拨打13037856968了解。
+
+📞 有疑问？
+如对达泊西汀的使用有任何困惑，可拨打13037856968咨询我们的专业人员。
+
+━━━━━━━━━━━━━━━━━
+💊 蓝培医疗 · 专业海外药品直邮
+
+📞 咨询热线：13037856968
+💬 WhatsApp：+63-968-583-8435
+🔍 微信咨询：17844531559
+🌐 官网：lanpeimed.com
+
+⚠️ 免责声明：本文仅供信息参考，不构成医疗建议。如有相关困扰，建议先咨询专业医生获取诊断和个性化建议。
+
+--- 公众号文章4: 艾曲泊帕乙醇胺片 ---
+💊 【血小板总也升不上去？试试这个口服新药】
+
+👋 今天聊聊血小板减少症病友圈的一个"升板利器"——艾曲泊帕乙醇胺片（eltrombopag）。
+
+🔍 先认识一下艾曲泊帕
+
+艾曲泊帕是全球首个口服小分子血小板生成素受体激动剂（TPO-RA），2017年来到中国，商品名瑞弗兰®。
+
+它的工作原理简单说就是：模拟血小板生成素，刺激骨髓产生更多血小板。
+
+📌 适应症
+
+✅ 免疫性血小板减少症（ITP）- 6岁及以上
+✅ 慢性丙肝血小板减少症
+✅ 重度再生障碍性贫血（SAA）- 2岁及以上
+
+💡 用法用量（重要！）
+
+📌 ITP成人患者：
+• 起始剂量：50mg，每天一次
+• 东亚/东南亚朋友：起始25mg（亚洲人体质差异）
+• 最大剂量：75mg/天
+
+📌 儿童患者（6-11岁）：
+• 起始剂量：25mg，每天一次
+• 最大剂量：50mg/天
+
+📌 服用技巧：
+• 至少在含钙食物/药物前2小时或后4小时服用
+• 与低钙饮食同服或空腹服用
+• 整片吞服，不要嚼碎
+
+⏰ 起效时间
+通常1-2周就能看到血小板上升，停药后1-2周可能回落。
+
+⚠️ 注意事项
+
+1️⃣ 定期监测肝功能
+2️⃣ 避免与抗酸药、钙片、铁剂等同服
+3️⃣ 有肝脏问题的人慎用
+4️⃣ 治疗期间定期复查血常规
+
+💰 价格参考
+
+原研药（瑞弗兰）25mg×28片约4,396元，成人ITP适应症已纳入医保。也有多个海外版本可选，如需了解可拨打13037856968咨询。
+
+━━━━━━━━━━━━━━━━━
+💊 蓝培医疗 · 专业海外药品直邮
+
+📞 咨询热线：13037856968
+💬 WhatsApp：+63-968-583-8435
+🔍 微信咨询：17844531559
+🌐 官网：lanpeimed.com
+
+⚠️ 免责声明：本文仅供信息参考，不构成医疗建议。处方药须在医生指导下使用，定期监测很重要。
+
+--- 公众号文章5: 伊布替尼胶囊 ---
+💊 【白血病/淋巴瘤病友注意：伊布替尼用法剂量最新解读】
+
+👋 今天说说血液肿瘤领域的经典靶向药——伊布替尼（ibrutinib，商品名亿珂®）。
+
+🔍 先认识伊布替尼
+
+伊布替尼是全球首个BTK（布鲁顿酪氨酸激酶）抑制剂，2013年获FDA批准，2017年来到中国，已在全球使用了10多年。
+
+它通过不可逆抑制BTK，阻止恶性B细胞增殖和存活，对多种B细胞肿瘤有效。
+
+📌 适应症
+
+✅ 套细胞淋巴瘤（MCL）- 既往治疗过的
+✅ 慢性淋巴细胞白血病/小淋巴细胞淋巴瘤（CLL/SLL）
+✅ 华氏巨球蛋白血症（WM）
+✅ 慢性移植物抗宿主病（cGVHD）
+
+💊 用法用量（按适应症分清楚！）
+
+📌 套细胞淋巴瘤：560mg/天（4粒）
+📌 CLL/SLL/WM/cGVHD：420mg/天（3粒）
+
+📌 服用方式：
+• 每天一次，固定时间
+• 整粒胶囊用一杯水送服
+• 不要打开、嚼碎或咬破胶囊
+• 持续服用直至疾病进展或不能耐受
+
+⚠️ 剂量调整
+
+出现不良反应时需要调整：
+• 3级非血液学毒性 → 暂停用药，好转后继续
+• 3级血液学毒性 → 暂停用药，每周查血常规
+• 4级血液学毒性 → 暂停用药，可能需要减量
+
+常见副作用：
+• 腹泻（最常见，注意补充水分）
+• 疲乏
+• 肌肉痉挛
+• 轻度出血倾向
+
+💰 价格参考
+
+原研药（亿珂）140mg×90粒约48,600元/盒。有多个海外版本可选，经济负担更小。
+
+📞 如有疑问，可拨打13037856968了解伊布替尼的海外渠道和价格信息。
+
+━━━━━━━━━━━━━━━━━
+💊 蓝培医疗 · 专业海外药品直邮
+
+📞 咨询热线：13037856968
+💬 WhatsApp：+63-968-583-8435
+🔍 微信咨询：17844531559
+🌐 官网：lanpeimed.com
+
+⚠️ 免责声明：本文仅供信息参考，不构成医疗建议。处方药须在医生指导下使用。
+

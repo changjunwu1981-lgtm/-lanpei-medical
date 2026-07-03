@@ -1,0 +1,113 @@
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; line-height: 1.8; max-width: 750px; margin: 0 auto; padding: 20px;">
+<h1 style="font-size: 24px; text-align: center; color: #1e3a5f;">甲磺酸达比加群酯胶囊Dabistar用法用量详解｜Natco印度版 150mg非瓣膜性房颤卒中预防口服抗凝</h1>
+<p style="color: #666; font-size: 14px; text-align: center;">蓝培医疗 · 全球优质医疗资源咨询</p>
+<hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">
+
+<h2 style="color: #1e3a5f; font-size: 18px;">一、什么是甲磺酸达比加群酯胶囊？</h2>
+<p>甲磺酸达比加群酯胶囊(英文名Dabigatran Etexilate Mesilate Capsules)是<strong>直接凝血酶抑制剂(DTI)</strong>，口服抗凝药。达比加群酯是小分子前体药物，本身无药理活性，口服后经酯酶催化水解转化为活性达比加群，强效竞争性、可逆性抑制凝血酶，从而预防血栓形成。</p>
+<p>原研药是勃林格殷格翰(Boehringer Ingelheim)生产的泰毕全(Pradaxa)。Dabistar是Natco(印度领先的仿制药企业)印度经济版，活性成分、剂型、规格与原研Pradaxa基本一致，规格有110mg/粒和150mg/粒。</p>
+<div style="background: #f0f7ff; padding: 15px; border-radius: 8px; margin: 15px 0;">
+<p style="margin: 0;"><strong>关键特点：</strong>无需常规凝血监测(与传统华法林相比)，但不可打开胶囊(可能致生物利用度增加75%)。</p>
+</div>
+
+<h2 style="color: #1e3a5f; font-size: 18px;">二、适应症人群</h2>
+<p>甲磺酸达比加群酯胶囊适用于：</p>
+<ul>
+<li><strong>非瓣膜性房颤(NVAF)卒中预防</strong>：预防存在一个或多个危险因素的成人NVAF患者的卒中和全身性栓塞(SEE)</li>
+<li><strong>急性DVT/PE治疗</strong>：治疗急性深静脉血栓形成(DVT)和/或肺栓塞(PE)，预防相关死亡</li>
+<li><strong>预防复发性DVT/PE</strong></li>
+<li><strong>髋/膝置换术后VTE预防</strong>：择期全髋/全膝关节置换术后预防VTE</li>
+</ul>
+<p>NVAF危险因素：先前曾有卒中/TIA/SEE、左心室射血分数<40%、伴有症状的心力衰竭(NYHA≥2级)、年龄≥75岁、年龄≥65岁伴糖尿病/冠心病/高血压。</p>
+
+<h2 style="color: #1e3a5f; font-size: 18px;">三、用法用量</h2>
+<h3 style="color: #2d5a87; font-size: 16px;">NVAF卒中预防</h3>
+<p>成人推荐<strong>300mg/日，即150mg bid(口服)</strong>，维持长期治疗。</p>
+<p><strong>80岁+或同用维拉帕米：</strong>减至220mg/日(110mg bid)。</p>
+
+<h3 style="color: #2d5a87; font-size: 16px;">急性DVT/PE治疗</h3>
+<p>推荐300mg/日(150mg bid)，应在至少5天肠外抗凝治疗后开始。</p>
+
+<h3 style="color: #2d5a87; font-size: 16px;">预防复发性DVT/PE</h3>
+<p>推荐300mg/日(150mg bid)；持续时间依据个体风险评估。</p>
+
+<h3 style="color: #2d5a87; font-size: 16px;">髋/膝置换术后VTE预防</h3>
+<p>术后1-4小时单次110mg(确认止血后开始)，之后220mg/日×28-35天(髋)/10天(膝)。</p>
+
+<h3 style="color: #2d5a87; font-size: 16px;">服药方式</h3>
+<ul>
+<li><strong>整粒吞服</strong>，不可打开/咀嚼</li>
+<li>餐时或餐后服用均可</li>
+<li>如出现胃肠道症状建议随餐服用和/或加用PPI(如泮托拉唑)</li>
+<li>用水送服</li>
+<li><strong>漏服处理：</strong>若距下次用药>6小时，仍可补服；若<6小时，忽略漏服剂量，不可双倍补服</li>
+</ul>
+
+<h3 style="color: #2d5a87; font-size: 16px;">特殊人群</h3>
+<ul>
+<li>老年人：75-80岁通常300mg/日；80岁+减至220mg/日</li>
+<li>肾功能不全：CrCL≥50mL/min无需调整；CrCL 30-50mL/min考虑220mg/日；CrCL<30mL/min禁用</li>
+<li>胃炎/食管炎/GERD：考虑220mg/日</li>
+<li>儿童：<18岁不推荐</li>
+</ul>
+
+<h2 style="color: #1e3a5f; font-size: 18px;">四、监测要求</h2>
+<ul>
+<li>用药前：肾功能(Scr/CrCL)、肝功能、血常规</li>
+<li>用药期间：每年至少1次肾功能评估</li>
+<li>无需常规抗凝监测(INR不适用)</li>
+<li>出血/贫血征象密切监测</li>
+</ul>
+<div style="background: #fff7ed; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #f97316;">
+<p style="margin: 0;"><strong>重要警告：</strong>机械心脏瓣膜患者禁用(RE-ALIGN试验显示血栓和出血风险显著增加)。</p>
+</div>
+
+<h2 style="color: #1e3a5f; font-size: 18px;">五、常见不良反应</h2>
+<p>最常见：<strong>出血</strong>(约16.5%患者发生不同程度出血，包括大出血)。</p>
+<p>胃肠道：腹痛、腹泻、恶心、消化不良、肝功能异常。</p>
+<p>其他：血小板减少、皮疹、吞咽困难。</p>
+
+<h2 style="color: #1e3a5f; font-size: 18px;">六、用药注意事项</h2>
+<ul>
+<li><strong>出血风险</strong>：机体任何部位都可能发生出血</li>
+<li><strong>肾功能不全</strong>：CrCL下降显著增加血药浓度</li>
+<li><strong>心肌梗死风险</strong>：RE-LY研究中MI年化率略高于华法林</li>
+<li><strong>禁忌</strong>：CrCL<30mL/min；活动性临床显著出血；合用强效P-gp抑制剂；机械心脏瓣膜</li>
+<li><strong>药物相互作用</strong>：禁与强效P-gp抑制剂合用；慎与其他抗凝药/抗血小板药/NSAIDs/SSRIs/SNRIs合用</li>
+</ul>
+
+<h2 style="color: #1e3a5f; font-size: 18px;">七、原研药 vs 海外经济版价格对比</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 15px 0;">
+<thead>
+<tr style="background: #1e3a5f; color: white;">
+<th style="padding: 10px; text-align: left;">类型</th>
+<th style="padding: 10px; text-align: left;">品牌/厂家</th>
+<th style="padding: 10px; text-align: left;">参考价格</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">原研药</td>
+<td style="padding: 10px;">Pradaxa 泰毕全 (Boehringer Ingelheim)</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">美国150mg×60粒约3200-3500元；中国约900-1300元/瓶(医保乙类)</td>
+</tr>
+<tr style="border-bottom: 1px solid #e5e7eb;">
+<td style="padding: 10px;">海外经济版</td>
+<td style="padding: 10px;">Dabistar (Natco) / Dabigat (Taj Pharma) / 多家印度仿制</td>
+<td style="padding: 10px; color: #f97316; font-weight: bold;">Dabistar 150mg×30粒印度约100-130元(约原研1/15至1/30)</td>
+</tr>
+</tbody>
+</table>
+<p style="color: #999; font-size: 12px;">* 价格仅供参考，实际价格以咨询为准</p>
+
+<hr style="border: none; border-top: 1px solid #eee; margin: 30px 0;">
+
+<div style="text-align: center; background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 30px; border-radius: 12px;">
+<h3 style="margin: 0 0 15px;">蓝培医疗 · 专业全球医疗资源咨询</h3>
+<p style="margin: 0 0 10px;">如需了解更多药品信息或寻求咨询渠道</p>
+<p style="margin: 0;">请添加下方微信咨询：<strong style="font-size: 18px;">17844531559</strong></p>
+<p style="margin: 10px 0 0;">WhatsApp：+63-968-583-8435</p>
+</div>
+
+<p style="color: #999; font-size: 12px; text-align: center; margin-top: 20px;">免责声明：本文仅供信息参考，不构成医疗建议。药品为处方药，请在医生指导下使用。</p>
+</div>

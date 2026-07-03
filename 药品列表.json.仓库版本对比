@@ -183,79 +183,79 @@
     "name": "丙酚替诺福韦片",
     "brand": "Telarfe",
     "category": "乙肝",
-    "covered": true
+    "covered": false
   },
   {
     "name": "维奈克拉片",
     "brand": "Ventok",
     "category": "白血病",
-    "covered": true
+    "covered": false
   },
   {
     "name": "阿可替尼片",
     "brand": "Akadx",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "阿昔替尼片",
     "brand": "ASIDX",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "巴瑞替尼片",
     "brand": "BARUDX",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "贝舒地尔片",
     "brand": "BEISUDX",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "阿贝西利片",
     "brand": "BESIDX",
     "category": "乳腺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "恩考芬尼胶囊",
     "brand": "Bratodx",
     "category": "黑色素瘤",
-    "covered": true
+    "covered": false
   },
   {
     "name": "盐酸卡马替尼片",
     "brand": "Campmadx",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "卡匹色替片",
     "brand": "CAPIVADX",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "达拉非尼",
     "brand": "Dabradx",
     "category": "黑色素瘤",
-    "covered": true
+    "covered": false
   },
   {
     "name": "氘可来昔替尼片",
     "brand": "Duvacidx",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "枸橼酸伊沙佐米胶囊",
     "brand": "ISADX",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "硫酸拉罗替尼胶囊",
@@ -273,367 +273,367 @@
     "name": "来特莫韦片",
     "brand": "LETEDX",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "芦曲泊帕片",
     "brand": "Lutrodx",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "米托坦片",
     "brand": "Mitodx",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "奥希替尼片",
     "brand": "Oysiendx",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "泊那替尼片",
     "brand": "PONADX",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "普拉替尼胶囊",
     "brand": "PRASEDX",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "瑞普替尼胶囊",
     "brand": "Repodx",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "甲苯磺酸利特昔替尼胶囊",
     "brand": "RITEDX",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "芦可替尼片",
     "brand": "Rusodx",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "塞利尼索片",
     "brand": "Sallydx",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "硫酸氢司美替尼",
     "brand": "Semedx",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "塞普替尼胶囊",
     "brand": "Sepadx",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "索磷布韦 / 维帕他韦",
     "brand": "SODADX",
     "category": "丙肝",
-    "covered": true
+    "covered": false
   },
   {
     "name": "他泽司他",
     "brand": "Tazedx",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "特泊替尼片",
     "brand": "Tepodx",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "托法替布",
     "brand": "Tofadx",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "曲美替尼片",
     "brand": "Tramedx",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "乌帕替尼缓释片",
     "brand": "Upadx",
-    "category": "综合药品",
-    "covered": true
+    "category": "肺癌",
+    "covered": false
   },
   {
     "name": "万塞维/缬更昔洛韦",
     "brand": "VALSYDX",
     "category": "抗病毒",
-    "covered": true
+    "covered": false
   },
   {
     "name": "Belzutifan",
     "brand": "Welidx",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "阿布昔替尼片",
     "brand": "ALIABROCITINB",
-    "category": "特应性皮炎",
-    "covered": true
+    "category": "肺癌",
+    "covered": false
   },
   {
     "name": "甲磺酸贝舒地尔",
     "brand": "ALIBELUMOSU",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "玛巴洛沙韦片",
     "brand": "ALIMABALOXAVIR",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "盐酸特泊替尼片",
     "brand": "ALITEPOTNIB",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "维莫非尼片",
     "brand": "ALIVEMURA",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "盐酸阿思尼布片",
     "brand": "ALIASSIMINI",
     "category": "白血病",
-    "covered": true
+    "covered": false
   },
   {
     "name": "甲磺酸达拉非尼胶囊",
     "brand": "ALIDABRAFENIB",
     "category": "黑色素瘤",
-    "covered": true
+    "covered": false
   },
   {
     "name": "普托马尼片",
     "brand": "PRETOSIS",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "阿那格雷",
     "brand": "LuciAnagre",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "阿伐替尼片",
     "brand": "LuciAvap",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "尼达尼布",
     "brand": "LuciNinted",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "非奈利酮片",
     "brand": "LuciFine",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "依维莫司片",
     "brand": "LUCIEVER",
     "category": "肾癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "马昔腾坦片",
     "brand": "LuciMaci",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "舒尼替尼胶囊",
     "brand": "LuciSuni",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "波生坦片",
     "brand": "LuciBose",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "厄洛替尼",
     "brand": "LuciErlo",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "达可替尼片",
     "brand": "LuciDac",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "培唑帕尼片",
     "brand": "LuciPazo",
     "category": "肾癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "吡非尼酮",
     "brand": "LuciPirfe",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "甲苯磺酸索拉非尼片",
     "brand": "LuciSora",
     "category": "肝癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "琥珀酸瑞波西利片",
     "brand": "LuciRibo",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "达沙替尼片",
     "brand": "LuciDasa",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "司替戊醇",
     "brand": "LuciStir ",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "玛伐凯泰胶囊",
     "brand": "LuciMava",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "来那帕韦钠片",
     "brand": "LuciLenacap",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "盐酸替那帕诺片",
     "brand": "LuciTena",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "莫博赛替尼",
     "brand": "LuciMob",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "奈拉替尼片",
     "brand": "LuciNera",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "阿法替尼",
     "brand": "LuciAfa",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "贝组替凡片",
     "brand": "LuciBelzu",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "比克恩丙诺片",
     "brand": "LUCIBET",
     "category": "抗病毒",
-    "covered": true
+    "covered": false
   },
   {
     "name": "安立生坦片",
     "brand": "LuciAmb",
     "category": "综合药品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "兰泽替尼片",
     "brand": "LuciLazer",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "劳拉替尼",
     "brand": "Novo Nordisk诺和诺德",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "阿帕他胺片",
     "brand": "Ajanta Pharma Limited",
     "category": "前列腺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "吉瑞替尼片",
     "brand": "MYLAN",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "宗艾替尼片",
     "brand": "Natco",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "君必强 | 黑喷喷雾 男科",
     "brand": "TORRENT",
     "category": "男科",
-    "covered": true
+    "covered": false
   },
   {
     "name": "司美格鲁肽片(口服) 诺和忻 Rybelsus 索马鲁肽",
     "brand": "ALKEM",
     "category": "保健品",
-    "covered": true
+    "covered": false
   },
   {
     "name": "索磷布韦维帕他韦片 丙通沙 吉三代 MyhepAll",
     "brand": "ZYDUS",
     "category": "丙肝",
-    "covered": true
+    "covered": false
   },
   {
     "name": "仑伐替尼胶囊 GLENVAS 多靶点抗肿瘤",
@@ -645,13 +645,13 @@
     "name": "【甜甜圈】西地那非单效咀嚼片",
     "brand": "Intas",
     "category": "男科",
-    "covered": true
+    "covered": false
   },
   {
     "name": "【卡玛格果冻】西地那非单效果冻",
     "brand": "CIPLA",
     "category": "男科",
-    "covered": true
+    "covered": false
   },
   {
     "name": "【卡玛格菱形】西地那非&达泊西汀双效片",
@@ -663,259 +663,259 @@
     "name": "伐地那非片 Valif",
     "brand": "MYLAN",
     "category": "男科",
-    "covered": true
+    "covered": false
   },
   {
     "name": "口服用苯丁酸甘油酯",
     "brand": "Medicamen",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "盐酸托莫西汀片 Axepta",
     "brand": "Natco",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "奥贝胆酸片 Eticholic",
     "brand": "Lupin",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "奥贝胆酸片 OCANAT",
     "brand": "Glenmark",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "奥贝胆酸片 Ocabile",
     "brand": "SUN",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "奥贝胆酸片 Obetohep",
     "brand": "Cadila",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "缬更昔洛韦片 VIROFIL",
     "brand": "Glenmark",
     "category": "抗病毒",
-    "covered": true
+    "covered": false
   },
   {
     "name": "缬更昔洛韦片 VAGACYTE",
     "brand": "ALEMBIC",
     "category": "抗病毒",
-    "covered": true
+    "covered": false
   },
   {
     "name": "缬更昔洛韦片 VALGACEL",
     "brand": "SUN",
     "category": "抗病毒",
-    "covered": true
+    "covered": false
   },
   {
     "name": "缬更昔洛韦片 Valgan",
     "brand": "CIPLA",
     "category": "抗病毒",
-    "covered": true
+    "covered": false
   },
   {
     "name": "富马酸丙酚替诺福韦片 Tafnat",
     "brand": "ZYDUS",
     "category": "乙肝",
-    "covered": true
+    "covered": false
   },
   {
     "name": "富马酸丙酚替诺福韦片 HepBest",
     "brand": "Glenmark",
     "category": "乙肝",
-    "covered": true
+    "covered": false
   },
   {
     "name": "艾曲泊帕乙醇胺片 ELTROPAG",
     "brand": "SUN",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "达比加群酯胶囊 Dabigat",
     "brand": "Taj Pharma",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "甲磺酸达比加群酯胶囊 Dabistar",
     "brand": "Natco",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "博舒替尼片 Bosuvi",
     "brand": "Intas",
     "category": "白血病",
-    "covered": true
+    "covered": false
   },
   {
     "name": "博舒替尼片 BONITAR",
     "brand": "TORRENT",
     "category": "白血病",
-    "covered": true
+    "covered": false
   },
   {
     "name": "依普利酮片 EPLECARD",
     "brand": "Intas",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "依普利酮片 EPTUS",
     "brand": "Natco",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "依普利酮片 EXENTA",
     "brand": "Glenmark",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "非布司他片",
     "brand": "Intas",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "吡非尼酮片 Pirfenex",
     "brand": "Natco",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "尼达尼布胶囊 NINDEV",
     "brand": "CIPLA",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "尼达尼布胶囊 Nindanib",
     "brand": "SUN",
     "category": "肺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "地拉罗司口服混悬片 DEFRIJET",
     "brand": "Glenmark",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "地拉罗司分散片 DEFRATAJ",
     "brand": "MANKIND",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "瑞戈非尼片 Regonat",
     "brand": "CIPLA",
     "category": "肝癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "曲氟尿苷替匹嘧啶片 COMTRIPSY",
     "brand": "Natco",
     "category": "结直肠癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "沙芬酰胺片 ZAFIMOVE",
     "brand": "Emcure",
     "category": "帕金森",
-    "covered": true
+    "covered": false
   },
   {
     "name": "雷沙吉兰片 RELGIN",
     "brand": "Hetero",
     "category": "帕金森",
-    "covered": true
+    "covered": false
   },
   {
     "name": "帕唑帕尼片 Pazonat",
     "brand": "孟加拉珠峰药业",
     "category": "肾癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "舒尼替尼胶囊 SUTIB",
     "brand": "孟加拉珠峰药业",
     "category": "肾癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "伊马替尼片 IMANIB",
     "brand": "孟加拉珠峰药业",
     "category": "白血病",
-    "covered": true
+    "covered": false
   },
   {
     "name": "达沙替尼片 Dasanat",
     "brand": "孟加拉珠峰药业",
     "category": "白血病",
-    "covered": true
+    "covered": false
   },
   {
     "name": "比卡鲁胺片 Calutide",
     "brand": "孟加拉珠峰药业",
     "category": "前列腺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "恩杂鲁胺胶囊 ENZYL",
     "brand": "孟加拉珠峰药业",
     "category": "前列腺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "醋酸阿比特龙片 ABIRAPRO",
     "brand": "孟加拉珠峰药业",
     "category": "前列腺癌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "巴瑞替尼片 BARIKIND",
     "brand": "孟加拉珠峰药业",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "托法替尼片 TOFAJAK",
     "brand": "孟加拉珠峰药业",
     "category": "其他",
-    "covered": true
+    "covered": false
   },
   {
     "name": "伏立康唑片 Vorizol",
     "brand": "老挝大熊制药",
     "category": "抗真菌",
-    "covered": true
+    "covered": false
   },
   {
     "name": "多替阿巴拉米片 INBEC",
     "brand": "老挝大熊制药",
     "category": "抗病毒",
-    "covered": true
+    "covered": false
   },
   {
     "name": "必妥维 TAFFIC",
     "brand": "老挝大熊制药",
     "category": "抗病毒",
-    "covered": true
+    "covered": false
   },
   {
     "name": "奥希替尼/泰瑞沙",
@@ -969,7 +969,7 @@
     "name": "吉瑞替尼Gilteritinib",
     "brand": "Vosevi",
     "category": "白血病",
-    "covered": true
+    "covered": false
   },
   {
     "name": "司美替尼10mg",

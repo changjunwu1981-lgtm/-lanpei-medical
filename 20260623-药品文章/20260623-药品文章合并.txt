@@ -1,0 +1,3119 @@
+<!-- news-144-febuxostat.html -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>非布司他片用法用量 - 蓝培医疗新闻资讯</title>
+    <meta name="description" content="非布司他片用法用量详解，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="非布司他片,非布司他片用法用量,非布司他片价格,非布司他 (Febuxostat)仿制药,Feburic / 优立通 (Intas 印度版)">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+        .lang-btn.active { background: #f97316; color: white; }
+    </style>
+
+    <script>
+    // ===================== 多语言支持 =====================
+    const translations = {
+        zh: {
+            site_name: "蓝培医疗",
+            back_home: "返回首页",
+            news: "新闻资讯",
+            cta_title: "需要咨询药品价格和购买渠道？",
+            phone_label: "电话咨询",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "微信咨询",
+            disclaimer_title: "重要提示",
+            disclaimer_text: "本文章仅供信息参考，不构成医疗建议。药品为处方药，必须在医生指导下使用。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。",
+            hotline: "咨询热线",
+            footer_platform: "全球优质医疗资源咨询平台",
+            footer_disclaimer: "免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任",
+            footer_copyright: "© 2026 蓝培医疗 lanpeimed.com",
+            chat_title: "蓝培医疗在线咨询",
+            phone_consult: "电话咨询",
+            wechat_scan: "微信扫一扫添加咨询",
+            wechat_copy: "加微信",
+            wechat_copied: "已复制!",
+            phone_placeholder: "请输入手机号码",
+            callback_btn: "给您回电",
+            chat_footer: "蓝培医疗 · 全球优质医疗资源咨询",
+            bottom_cta_title: "蓝培医疗 · 专业海外药品直邮",
+            price_reference: "* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价",
+            original_vs_generic: "原研药 vs 仿制药价格对比",
+            type: "类型",
+            brand: "品牌/厂家",
+            origin: "产地",
+            price: "参考价格"
+        },
+        en: {
+            site_name: "Lanpei Medical",
+            back_home: "Back to Home",
+            news: "News",
+            cta_title: "Need to consult medicine prices and purchase channels?",
+            phone_label: "Phone",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Important Notice",
+            disclaimer_text: "This article is for reference only and does not constitute medical advice. Medicines are prescription drugs and must be used under medical supervision.",
+            hotline: "Hotline",
+            footer_platform: "Global Quality Medical Resources Platform",
+            footer_disclaimer: "Disclaimer: The medical information displayed on this website is for reference only. Please consult doctors and pharmacists for specific treatment details.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei Medical Online Consultation",
+            phone_consult: "Phone Consultation",
+            wechat_scan: "Scan QR code to add WeChat",
+            wechat_copy: "Add WeChat",
+            wechat_copied: "Copied!",
+            phone_placeholder: "Enter phone number",
+            callback_btn: "Callback Request",
+            chat_footer: "Lanpei Medical · Global Medical Resources",
+            bottom_cta_title: "Lanpei Medical · Professional Overseas Medicine Direct Mail",
+            price_reference: "* Prices are for reference only. Contact us for the latest quotes.",
+            original_vs_generic: "Original vs Generic Medicine Price Comparison",
+            type: "Type",
+            brand: "Brand/Manufacturer",
+            origin: "Origin",
+            price: "Reference Price"
+        },
+        ru: {
+            site_name: "蓝培医疗",
+            back_home: "На главную",
+            news: "Новости",
+            cta_title: "Нужна консультация по ценам на лекарства?",
+            phone_label: "Телефон",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Важное уведомление",
+            disclaimer_text: "Эта статья только для справки и не является медицинской рекомендацией. Лекарства требуют рецепта врача.",
+            hotline: "Горячая линия",
+            footer_platform: "Платформа глобальных медицинских ресурсов",
+            footer_disclaimer: "Отказ от ответственности: информация только для справки. Проконсультируйтесь с врачом.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Онлайн консультация Lanpei",
+            phone_consult: "Телефонная консультация",
+            wechat_scan: "Сканируйте QR для добавления WeChat",
+            wechat_copy: "Добавить WeChat",
+            wechat_copied: "Скопировано!",
+            phone_placeholder: "Введите номер телефона",
+            callback_btn: "Обратный звонок",
+            chat_footer: "Lanpei Medical · Глобальные медицинские ресурсы",
+            bottom_cta_title: "Lanpei Medical · Профессиональная доставка лекарств",
+            price_reference: "* Цены только для справки. Свяжитесь с нами для актуальных цен.",
+            original_vs_generic: "Оригинал vs Дженерик Сравнение цен",
+            type: "Тип",
+            brand: "Бренд/Производитель",
+            origin: "Страна",
+            price: "Цена"
+        },
+        vi: {
+            site_name: "Lanpei Medical",
+            back_home: "Về trang chủ",
+            news: "Tin tức",
+            cta_title: "Cần tư vấn giá và cách mua thuốc?",
+            phone_label: "Điện thoại",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Thông báo quan trọng",
+            disclaimer_text: "Bài viết này chỉ để tham khảo, không phải tư vấn y tế. Thuốc theo toa bắt buộc.",
+            hotline: "Đường dây nóng",
+            footer_platform: "Nền tảng tài nguyên y tế toàn cầu",
+            footer_disclaimer: "Tuyên bố miễn trừ: Thông tin chỉ để tham khảo. Hãy hỏi ý kiến bác sĩ.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Tư vấn trực tuyến Lanpei",
+            phone_consult: "Tư vấn điện thoại",
+            wechat_scan: "Quét QR để thêm WeChat",
+            wechat_copy: "Thêm WeChat",
+            wechat_copied: "Đã sao chép!",
+            phone_placeholder: "Nhập số điện thoại",
+            callback_btn: "Yêu cầu gọi lại",
+            chat_footer: "Lanpei Medical · Tài nguyên y tế toàn cầu",
+            bottom_cta_title: "Lanpei Medical · Gửi thuốc quốc tế chuyên nghiệp",
+            price_reference: "* Giá chỉ để tham khảo. Liên hệ để biết giá mới nhất.",
+            original_vs_generic: "Thuốc Original vs Generic - So sánh giá",
+            type: "Loại",
+            brand: "Nhãn hiệu/Nhà sản xuất",
+            origin: "Xuất xứ",
+            price: "Giá tham khảo"
+        },
+        id: {
+            site_name: "Lanpei Medical",
+            back_home: "Kembali ke Beranda",
+            news: "Berita",
+            cta_title: "Perlu konsultasi harga dan cara beli obat?",
+            phone_label: "Telepon",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Pemberitahuan Penting",
+            disclaimer_text: "Artikel ini hanya untuk referensi, bukan saran medis. Obat resep harus digunakan di bawah pengawasan dokter.",
+            hotline: "Hotline",
+            footer_platform: "Platform Sumber Daya Medis Global",
+            footer_disclaimer: "Penafian: Informasi hanya untuk referensi. Konsultasikan dengan dokter.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Konsultasi Online Lanpei",
+            phone_consult: "Konsultasi Telepon",
+            wechat_scan: "Pindai QR untuk tambah WeChat",
+            wechat_copy: "Tambah WeChat",
+            wechat_copied: "Disalin!",
+            phone_placeholder: "Masukkan nomor telepon",
+            callback_btn: "Minta Panggilan",
+            chat_footer: "Lanpei Medical · Sumber Daya Medis Global",
+            bottom_cta_title: "Lanpei Medical · Kirim Obat Internasional",
+            price_reference: "* Harga untuk referensi saja. Hubungi kami untuk penawaran terbaru.",
+            original_vs_generic: "Original vs Generic - Perbandingan Harga",
+            type: "Tipe",
+            brand: "Merek/Pabrikan",
+            origin: "Asal",
+            price: "Harga Referensi"
+        },
+        my: {
+            site_name: "Lanpei Medical",
+            back_home: "ပင်မသို့ ပြန်သွားရန်",
+            news: "သတင်း",
+            cta_title: "ဆေးဝါးစျေးနှုန်းနှင့် ဝယ်ယူပုံမေးမြန်းလိုပါသလား?",
+            phone_label: "ဖုန်း",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "အရေးကြီးသတိပေးချက်",
+            disclaimer_text: "ဤဆောင်းပါးသည် ရည်ရွယ်ချက်တစ်ခုဖြစ်သည်။ ဆေးဝါးများသည် ဆရာဝန်ညွှန်ကြားချက်ဖြင့်သာသုံးသင့်သည်။",
+            hotline: "ဖုန်းလိုင်း",
+            footer_platform: "ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါးအရင်းအမြစ်ပလက်ဖောင်း",
+            footer_disclaimer: "သတိပေးချက်- ဤဝက်ဘ်ဆိုဒ်တွင်တင်ပြထားသော ဆေးဝါးအချက်အလက်များသည် ရည်ရွယ်ချက်တစ်ခုဖြစ်သည်။",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei အွန်လိုင်းတိုင်ပင်ဆွေးနွေးမှု",
+            phone_consult: "ဖုန်းဖြင့်တိုင်ပင်ဆွေးနွေးမှု",
+            wechat_scan: "QR ကုဒ်ဖတ်ပြီး WeChat ထည့်ပါ",
+            wechat_copy: "WeChat ထည့်ရန်",
+            wechat_copied: "ကူယူပြီး!",
+            phone_placeholder: "ဖုန်းနံပါတ် ထည့်ပါ",
+            callback_btn: "ပြန်ခေါ်ရန်တောင်းဆိုမှု",
+            chat_footer: "Lanpei Medical · ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါး",
+            bottom_cta_title: "Lanpei Medical · နိုင်ငံတကာ ဆေးဝါးပို့ဆောင်ရေး",
+            price_reference: "* စျေးနှုန်းများသည် ရည်ရွယ်ချက်ဖြစ်သည်။ နောက်ဆုံးစျေးနှုန်းများအတွက် ကျွန်ုပ်တို့အား ဆက်သွယ်ပါ။",
+            original_vs_generic: "Original vs Generic - စျေးနှုန်းနှိုင်းယှဉ်မှု",
+            type: "အမျိုးအစား",
+            brand: "အမှတ်တံ/ထုတ်လုပ်သူ",
+            origin: "မူလနေရာ",
+            price: "စျေးနှုန်းရည်ညွှန်း"
+        },
+        bd: {
+            site_name: "Lanpei Medical",
+            back_home: "হোম পেজে ফিরে যান",
+            news: "সংবাদ",
+            cta_title: "ওষুধের দাম ও কেনার উপায় জানতে চান?",
+            phone_label: "ফোন",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "উইচ্যাট",
+            disclaimer_title: "গুরুত্বপূর্ণ বিজ্ঞপ্তি",
+            disclaimer_text: "এই নিবন্ধটি শুধুমাত্র রেফারেন্সের জন্য, চিকিৎসা পরামর্শ নয়। প্রেসক্রিপশন ওষুধ অবশ্যই ডাক্তারের তত্ত্বাবধানে ব্যবহার করতে হবে।",
+            hotline: "হটলাইন",
+            footer_platform: "বিশ্বমানের মেডিকেল রিসোর্স প্ল্যাটফর্ম",
+            footer_disclaimer: "দ্বায়িত্ব: এই সাইটে প্রদর্শিত মেডিকেল তথ্য শুধুমাত্র রেফারেন্সের জন্য। অনুগ্রহ করে ডাক্তারের পরামর্শ নিন।",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei অনলাইন পরামর্শ",
+            phone_consult: "ফোনে পরামর্শ",
+            wechat_scan: "QR কোড স্ক্যান করে উইচ্যাট যোগ করুন",
+            wechat_copy: "উইচ্যাট যোগ",
+            wechat_copied: "কপি হয়েছে!",
+            phone_placeholder: "ফোন নম্বর দিন",
+            callback_btn: "কল ব্যাক চান",
+            chat_footer: "Lanpei Medical · বিশ্ব মেডিকেল রিসোর্স",
+            bottom_cta_title: "Lanpei Medical · প্রফেশনাল ওভারসিজ ওষুধ ডেলিভারি",
+            price_reference: "* দাম শুধুমাত্র রেফারেন্সের জন্য। সর্বশেষ দামের জন্য আমাদের সাথে যোগাযোগ করুন।",
+            original_vs_generic: "Original vs Generic - দামের তুলনা",
+            type: "টাইপ",
+            brand: "ব্র্যান্ড/প্রস্তুতকারক",
+            origin: "উৎস",
+            price: "রেফারেন্স দাম"
+        }
+    };
+
+    let currentLang = 'zh';
+
+    function changeLanguage(lang) {
+        currentLang = lang;
+        
+        // 更新语言按钮状态
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+            btn.classList.remove('bg-[#f97316]', 'text-white');
+            if (btn.dataset.lang === lang) {
+                btn.classList.add('bg-[#f97316]', 'text-white');
+            }
+        });
+        
+        // 更新页面标题
+        updateTranslations();
+    }
+
+    function updateTranslations() {
+        const t = translations[currentLang];
+        
+        // 更新所有翻译元素
+        document.querySelectorAll('[data-i18n]').forEach(el => {
+            const key = el.getAttribute('data-i18n');
+            if (t[key]) {
+                el.textContent = t[key];
+            }
+        });
+        
+        // 更新页脚
+        const footerPlatform = document.getElementById('footer-platform');
+        if (footerPlatform) footerPlatform.textContent = t.footer_platform;
+        
+        const footerDisclaimer = document.getElementById('footer-disclaimer');
+        if (footerDisclaimer) footerDisclaimer.textContent = t.footer_disclaimer;
+        
+        // 更新CTA区域
+        const ctaTitle = document.getElementById('cta-title');
+        if (ctaTitle) ctaTitle.textContent = t.cta_title;
+        
+        const priceTitle = document.getElementById('price-title');
+        if (priceTitle) priceTitle.innerHTML = '<i class="fas fa-tags mr-2 text-orange-500"></i>' + t.original_vs_generic;
+        
+        const priceRef = document.getElementById('price-reference');
+        if (priceRef) priceRef.textContent = t.price_reference;
+        
+        // 更新价格表头
+        const typeHeader = document.querySelector('.price-table th:nth-child(1)');
+        if (typeHeader) typeHeader.textContent = t.type;
+        const brandHeader = document.querySelector('.price-table th:nth-child(2)');
+        if (brandHeader) brandHeader.textContent = t.brand;
+        const originHeader = document.querySelector('.price-table th:nth-child(3)');
+        if (originHeader) originHeader.textContent = t.origin;
+        const priceHeader = document.querySelector('.price-table th:nth-child(4)');
+        if (priceHeader) priceHeader.textContent = t.price;
+        
+        // 更新免责声明
+        const disclaimerTitle = document.getElementById('disclaimer-title');
+        if (disclaimerTitle) disclaimerTitle.textContent = t.disclaimer_title;
+        const disclaimerText = document.getElementById('disclaimer-text');
+        if (disclaimerText) disclaimerText.textContent = t.disclaimer_text;
+        
+        // 更新底部CTA
+        const bottomCta = document.getElementById('bottom-cta');
+        if (bottomCta) bottomCta.innerHTML = '<p class="font-bold">' + t.bottom_cta_title + '</p><p class="text-sm mt-1">' + t.phone_label + ' 17844531559 | ' + t.whatsapp_label + ' +639685838435 | ' + t.wechat_label + ' 17844531559</p>';
+        
+        // 更新咨询浮窗
+        const chatTitle = document.querySelector('.chat-header-left span');
+        if (chatTitle) chatTitle.textContent = t.chat_title;
+        
+        const wechatScanText = document.querySelector('.chat-body > div:nth-child(2) p');
+        if (wechatScanText) wechatScanText.textContent = t.wechat_scan;
+        
+        const phoneConsultLabel = document.querySelector('.chat-contact-item:nth-child(1) .label');
+        if (phoneConsultLabel) phoneConsultLabel.textContent = t.phone_consult;
+        
+        const whatsappLabel = document.querySelector('.chat-contact-item:nth-child(2) .label');
+        if (whatsappLabel) whatsappLabel.textContent = t.whatsapp_label;
+        
+        const wechatCopyLabel = document.getElementById('wechatLabel');
+        if (wechatCopyLabel) wechatCopyLabel.textContent = t.wechat_copy;
+        
+        const phoneInput = document.getElementById('chatPhone');
+        if (phoneInput) phoneInput.placeholder = t.phone_placeholder;
+        
+        const callbackBtn = document.querySelector('.chat-input-area button');
+        if (callbackBtn) callbackBtn.textContent = t.callback_btn;
+        
+        const chatFooter = document.querySelector('.chat-footer');
+        if (chatFooter) chatFooter.textContent = t.chat_footer;
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "非布司他片用法用量指南",
+        "description": "非布司他片用法用量详解及原研药仿制药价格对比",
+        "url": "https://lanpeimed.com/news-144-febuxostat.html",
+        "about": {
+            "@type": "Drug",
+            "name": "非布司他片",
+            "alternateName": "非布司他 (Febuxostat)"
+        }
+    }
+    </script>
+</head>
+<body class="bg-gray-50">
+    <!-- Top Bar with Language Switcher -->
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
+            <div class="flex items-center gap-4 flex-wrap">
+                <span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span>
+                <span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span>
+            </div>
+            <div class="flex items-center gap-3">
+                <div class="flex gap-2">
+                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
+                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
+                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
+                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
+                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
+                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
+                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
+                </div>
+                <div class="flex gap-2 ml-4">
+                    <a href="https://wa.me/639685838435" target="_blank" class="hover:text-green-400"><i class="fab fa-whatsapp"></i></a>
+                    <a href="javascript:void(0)" onclick="showWechat()" class="hover:text-green-400"><i class="fab fa-weixin"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white" data-i18n="site_name">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i><span data-i18n="back_home">首页</span></a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i><span data-i18n="news">新闻资讯</span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com" data-i18n="back_home">首页</a> &gt; <a href="https://lanpeimed.com/news.html" data-i18n="news">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium" data-i18n="tab_drug">痛风用药</span> &gt; 非布司他片
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">非布司他片</h1>
+            <p class="text-gray-500 mb-6">非布司他 (Febuxostat) | 痛风 / 高尿酸血症 | 品牌名：Feburic / 优立通 (Intas 印度版)</p>
+
+            <!-- ARTICLE_CONTENT_PLACEHOLDER -->
+
+            <!-- Price Comparison -->
+            <h2 id="price-title"><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格对比</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>产地</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- PRICE_ROWS_PLACEHOLDER -->
+                </tbody>
+            </table>
+            <p id="price-reference" class="text-xs text-gray-400 mt-2" data-i18n="price_reference">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p id="cta-title" class="text-lg mb-3" data-i18n="cta_title">需要咨询药品价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i><span data-i18n="phone_label">电话咨询</span>：<a href="tel:17844531559">17844531559</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i><span data-i18n="whatsapp_label">WhatsApp</span>：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i><span data-i18n="wechat_label">微信咨询</span>：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong id="disclaimer-title" data-i18n="disclaimer_title"><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong><span id="disclaimer-text" data-i18n="disclaimer_text">本文章仅供信息参考，不构成医疗建议。药品为处方药，必须在医生指导下使用。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。</span></p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div id="bottom-cta" class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold" data-i18n="bottom_cta_title">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1" data-i18n="bottom_cta_contact">电话 17844531559 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p id="footer-platform" data-i18n="footer_platform">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p id="footer-copyright" class="mt-1" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+
+<!-- 在线咨询浮窗 -->
+<style>
+.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
+.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
+.chat-widget-btn i{color:#fff;font-size:24px}
+.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
+@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
+.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
+@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.chat-box.active{display:flex}
+.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
+.chat-header-left{display:flex;align-items:center;gap:10px}
+.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
+.chat-header-left span{font-size:15px;font-weight:600}
+.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
+.chat-body{padding:16px;flex:1}
+.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
+.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
+.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
+.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
+.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
+.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
+.chat-contact-item .label{font-weight:600;margin-top:4px}
+.chat-input-area{display:flex;gap:8px;margin-top:10px}
+.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
+.chat-input-area input:focus{border-color:#1e3a5f}
+.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
+.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
+.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
+</style>
+<div class="chat-widget-btn" onclick="toggleChat()">
+    <div class="pulse-ring"></div>
+    <i class="fas fa-headset"></i>
+</div>
+<div class="chat-box" id="chatBox">
+    <div class="chat-header">
+        <div class="chat-header-left">
+            <div class="logo">蓝培</div>
+            <span data-i18n="chat_title">蓝培医疗在线咨询</span>
+        </div>
+        <button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="chat-body">
+        <div class="chat-notice">
+            因咨询人数多，如未及时回复，请致电：<span class="phone-red">17844531559</span>，或扫码加微信沟通：
+        </div>
+        <div style="text-align:center;margin-bottom:14px">
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px">
+            <p style="font-size:12px;color:#6b7280;margin-top:6px" data-i18n="wechat_scan">微信扫一扫添加咨询</p>
+        </div>
+        <div class="chat-contact-row">
+            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none">
+                <i class="fas fa-phone-alt" style="color:#1e3a5f"></i>
+                <div class="label" data-i18n="phone_consult">电话咨询</div>
+            </a>
+            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-whatsapp" style="color:#25d366"></i>
+                <div class="label" data-i18n="whatsapp_label">WhatsApp</div>
+            </a>
+            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-weixin" style="color:#07c160"></i>
+                <div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div>
+            </a>
+        </div>
+        <div class="chat-input-area">
+            <input type="tel" id="chatPhone" placeholder="请输入手机号码" data-i18n-placeholder="phone_placeholder">
+            <button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button>
+        </div>
+    </div>
+    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
+</div>
+<script>
+function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
+function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){l.textContent=translations[currentLang].wechat_copy},2000)}
+function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求：'+p+'，请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
+function showWechat(){document.getElementById('wechatModal').style.display='flex';document.body.style.overflow='hidden'}
+
+// 页面加载完成后初始化语言
+document.addEventListener('DOMContentLoaded', function() {
+    updateTranslations();
+});
+</script>
+
+</body>
+</html>
+
+<!-- news-145-pirfenidone.html -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>吡非尼酮片用法用量 - 蓝培医疗新闻资讯</title>
+    <meta name="description" content="吡非尼酮片用法用量详解，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="吡非尼酮片,吡非尼酮片用法用量,吡非尼酮片价格,吡非尼酮 (Pirfenidone)仿制药,Pirfenex / 艾思瑞">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+        .lang-btn.active { background: #f97316; color: white; }
+    </style>
+
+    <script>
+    // ===================== 多语言支持 =====================
+    const translations = {
+        zh: {
+            site_name: "蓝培医疗",
+            back_home: "返回首页",
+            news: "新闻资讯",
+            cta_title: "需要咨询药品价格和购买渠道？",
+            phone_label: "电话咨询",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "微信咨询",
+            disclaimer_title: "重要提示",
+            disclaimer_text: "本文章仅供信息参考，不构成医疗建议。药品为处方药，必须在医生指导下使用。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。",
+            hotline: "咨询热线",
+            footer_platform: "全球优质医疗资源咨询平台",
+            footer_disclaimer: "免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任",
+            footer_copyright: "© 2026 蓝培医疗 lanpeimed.com",
+            chat_title: "蓝培医疗在线咨询",
+            phone_consult: "电话咨询",
+            wechat_scan: "微信扫一扫添加咨询",
+            wechat_copy: "加微信",
+            wechat_copied: "已复制!",
+            phone_placeholder: "请输入手机号码",
+            callback_btn: "给您回电",
+            chat_footer: "蓝培医疗 · 全球优质医疗资源咨询",
+            bottom_cta_title: "蓝培医疗 · 专业海外药品直邮",
+            price_reference: "* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价",
+            original_vs_generic: "原研药 vs 仿制药价格对比",
+            type: "类型",
+            brand: "品牌/厂家",
+            origin: "产地",
+            price: "参考价格"
+        },
+        en: {
+            site_name: "Lanpei Medical",
+            back_home: "Back to Home",
+            news: "News",
+            cta_title: "Need to consult medicine prices and purchase channels?",
+            phone_label: "Phone",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Important Notice",
+            disclaimer_text: "This article is for reference only and does not constitute medical advice. Medicines are prescription drugs and must be used under medical supervision.",
+            hotline: "Hotline",
+            footer_platform: "Global Quality Medical Resources Platform",
+            footer_disclaimer: "Disclaimer: The medical information displayed on this website is for reference only. Please consult doctors and pharmacists for specific treatment details.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei Medical Online Consultation",
+            phone_consult: "Phone Consultation",
+            wechat_scan: "Scan QR code to add WeChat",
+            wechat_copy: "Add WeChat",
+            wechat_copied: "Copied!",
+            phone_placeholder: "Enter phone number",
+            callback_btn: "Callback Request",
+            chat_footer: "Lanpei Medical · Global Medical Resources",
+            bottom_cta_title: "Lanpei Medical · Professional Overseas Medicine Direct Mail",
+            price_reference: "* Prices are for reference only. Contact us for the latest quotes.",
+            original_vs_generic: "Original vs Generic Medicine Price Comparison",
+            type: "Type",
+            brand: "Brand/Manufacturer",
+            origin: "Origin",
+            price: "Reference Price"
+        },
+        ru: {
+            site_name: "蓝培医疗",
+            back_home: "На главную",
+            news: "Новости",
+            cta_title: "Нужна консультация по ценам на лекарства?",
+            phone_label: "Телефон",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Важное уведомление",
+            disclaimer_text: "Эта статья только для справки и не является медицинской рекомендацией. Лекарства требуют рецепта врача.",
+            hotline: "Горячая линия",
+            footer_platform: "Платформа глобальных медицинских ресурсов",
+            footer_disclaimer: "Отказ от ответственности: информация только для справки. Проконсультируйтесь с врачом.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Онлайн консультация Lanpei",
+            phone_consult: "Телефонная консультация",
+            wechat_scan: "Сканируйте QR для добавления WeChat",
+            wechat_copy: "Добавить WeChat",
+            wechat_copied: "Скопировано!",
+            phone_placeholder: "Введите номер телефона",
+            callback_btn: "Обратный звонок",
+            chat_footer: "Lanpei Medical · Глобальные медицинские ресурсы",
+            bottom_cta_title: "Lanpei Medical · Профессиональная доставка лекарств",
+            price_reference: "* Цены только для справки. Свяжитесь с нами для актуальных цен.",
+            original_vs_generic: "Оригинал vs Дженерик Сравнение цен",
+            type: "Тип",
+            brand: "Бренд/Производитель",
+            origin: "Страна",
+            price: "Цена"
+        },
+        vi: {
+            site_name: "Lanpei Medical",
+            back_home: "Về trang chủ",
+            news: "Tin tức",
+            cta_title: "Cần tư vấn giá và cách mua thuốc?",
+            phone_label: "Điện thoại",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Thông báo quan trọng",
+            disclaimer_text: "Bài viết này chỉ để tham khảo, không phải tư vấn y tế. Thuốc theo toa bắt buộc.",
+            hotline: "Đường dây nóng",
+            footer_platform: "Nền tảng tài nguyên y tế toàn cầu",
+            footer_disclaimer: "Tuyên bố miễn trừ: Thông tin chỉ để tham khảo. Hãy hỏi ý kiến bác sĩ.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Tư vấn trực tuyến Lanpei",
+            phone_consult: "Tư vấn điện thoại",
+            wechat_scan: "Quét QR để thêm WeChat",
+            wechat_copy: "Thêm WeChat",
+            wechat_copied: "Đã sao chép!",
+            phone_placeholder: "Nhập số điện thoại",
+            callback_btn: "Yêu cầu gọi lại",
+            chat_footer: "Lanpei Medical · Tài nguyên y tế toàn cầu",
+            bottom_cta_title: "Lanpei Medical · Gửi thuốc quốc tế chuyên nghiệp",
+            price_reference: "* Giá chỉ để tham khảo. Liên hệ để biết giá mới nhất.",
+            original_vs_generic: "Thuốc Original vs Generic - So sánh giá",
+            type: "Loại",
+            brand: "Nhãn hiệu/Nhà sản xuất",
+            origin: "Xuất xứ",
+            price: "Giá tham khảo"
+        },
+        id: {
+            site_name: "Lanpei Medical",
+            back_home: "Kembali ke Beranda",
+            news: "Berita",
+            cta_title: "Perlu konsultasi harga dan cara beli obat?",
+            phone_label: "Telepon",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Pemberitahuan Penting",
+            disclaimer_text: "Artikel ini hanya untuk referensi, bukan saran medis. Obat resep harus digunakan di bawah pengawasan dokter.",
+            hotline: "Hotline",
+            footer_platform: "Platform Sumber Daya Medis Global",
+            footer_disclaimer: "Penafian: Informasi hanya untuk referensi. Konsultasikan dengan dokter.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Konsultasi Online Lanpei",
+            phone_consult: "Konsultasi Telepon",
+            wechat_scan: "Pindai QR untuk tambah WeChat",
+            wechat_copy: "Tambah WeChat",
+            wechat_copied: "Disalin!",
+            phone_placeholder: "Masukkan nomor telepon",
+            callback_btn: "Minta Panggilan",
+            chat_footer: "Lanpei Medical · Sumber Daya Medis Global",
+            bottom_cta_title: "Lanpei Medical · Kirim Obat Internasional",
+            price_reference: "* Harga untuk referensi saja. Hubungi kami untuk penawaran terbaru.",
+            original_vs_generic: "Original vs Generic - Perbandingan Harga",
+            type: "Tipe",
+            brand: "Merek/Pabrikan",
+            origin: "Asal",
+            price: "Harga Referensi"
+        },
+        my: {
+            site_name: "Lanpei Medical",
+            back_home: "ပင်မသို့ ပြန်သွားရန်",
+            news: "သတင်း",
+            cta_title: "ဆေးဝါးစျေးနှုန်းနှင့် ဝယ်ယူပုံမေးမြန်းလိုပါသလား?",
+            phone_label: "ဖုန်း",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "အရေးကြီးသတိပေးချက်",
+            disclaimer_text: "ဤဆောင်းပါးသည် ရည်ရွယ်ချက်တစ်ခုဖြစ်သည်။ ဆေးဝါးများသည် ဆရာဝန်ညွှန်ကြားချက်ဖြင့်သာသုံးသင့်သည်။",
+            hotline: "ဖုန်းလိုင်း",
+            footer_platform: "ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါးအရင်းအမြစ်ပလက်ဖောင်း",
+            footer_disclaimer: "သတိပေးချက်- ဤဝက်ဘ်ဆိုဒ်တွင်တင်ပြထားသော ဆေးဝါးအချက်အလက်များသည် ရည်ရွယ်ချက်တစ်ခုဖြစ်သည်။",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei အွန်လိုင်းတိုင်ပင်ဆွေးနွေးမှု",
+            phone_consult: "ဖုန်းဖြင့်တိုင်ပင်ဆွေးနွေးမှု",
+            wechat_scan: "QR ကုဒ်ဖတ်ပြီး WeChat ထည့်ပါ",
+            wechat_copy: "WeChat ထည့်ရန်",
+            wechat_copied: "ကူယူပြီး!",
+            phone_placeholder: "ဖုန်းနံပါတ် ထည့်ပါ",
+            callback_btn: "ပြန်ခေါ်ရန်တောင်းဆိုမှု",
+            chat_footer: "Lanpei Medical · ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါး",
+            bottom_cta_title: "Lanpei Medical · နိုင်ငံတကာ ဆေးဝါးပို့ဆောင်ရေး",
+            price_reference: "* စျေးနှုန်းများသည် ရည်ရွယ်ချက်ဖြစ်သည်။ နောက်ဆုံးစျေးနှုန်းများအတွက် ကျွန်ုပ်တို့အား ဆက်သွယ်ပါ။",
+            original_vs_generic: "Original vs Generic - စျေးနှုန်းနှိုင်းယှဉ်မှု",
+            type: "အမျိုးအစား",
+            brand: "အမှတ်တံ/ထုတ်လုပ်သူ",
+            origin: "မူလနေရာ",
+            price: "စျေးနှုန်းရည်ညွှန်း"
+        },
+        bd: {
+            site_name: "Lanpei Medical",
+            back_home: "হোম পেজে ফিরে যান",
+            news: "সংবাদ",
+            cta_title: "ওষুধের দাম ও কেনার উপায় জানতে চান?",
+            phone_label: "ফোন",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "উইচ্যাট",
+            disclaimer_title: "গুরুত্বপূর্ণ বিজ্ঞপ্তি",
+            disclaimer_text: "এই নিবন্ধটি শুধুমাত্র রেফারেন্সের জন্য, চিকিৎসা পরামর্শ নয়। প্রেসক্রিপশন ওষুধ অবশ্যই ডাক্তারের তত্ত্বাবধানে ব্যবহার করতে হবে।",
+            hotline: "হটলাইন",
+            footer_platform: "বিশ্বমানের মেডিকেল রিসোর্স প্ল্যাটফর্ম",
+            footer_disclaimer: "দ্বায়িত্ব: এই সাইটে প্রদর্শিত মেডিকেল তথ্য শুধুমাত্র রেফারেন্সের জন্য। অনুগ্রহ করে ডাক্তারের পরামর্শ নিন।",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei অনলাইন পরামর্শ",
+            phone_consult: "ফোনে পরামর্শ",
+            wechat_scan: "QR কোড স্ক্যান করে উইচ্যাট যোগ করুন",
+            wechat_copy: "উইচ্যাট যোগ",
+            wechat_copied: "কপি হয়েছে!",
+            phone_placeholder: "ফোন নম্বর দিন",
+            callback_btn: "কল ব্যাক চান",
+            chat_footer: "Lanpei Medical · বিশ্ব মেডিকেল রিসোর্স",
+            bottom_cta_title: "Lanpei Medical · প্রফেশনাল ওভারসিজ ওষুধ ডেলিভারি",
+            price_reference: "* দাম শুধুমাত্র রেফারেন্সের জন্য। সর্বশেষ দামের জন্য আমাদের সাথে যোগাযোগ করুন।",
+            original_vs_generic: "Original vs Generic - দামের তুলনা",
+            type: "টাইপ",
+            brand: "ব্র্যান্ড/প্রস্তুতকারক",
+            origin: "উৎস",
+            price: "রেফারেন্স দাম"
+        }
+    };
+
+    let currentLang = 'zh';
+
+    function changeLanguage(lang) {
+        currentLang = lang;
+        
+        // 更新语言按钮状态
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+            btn.classList.remove('bg-[#f97316]', 'text-white');
+            if (btn.dataset.lang === lang) {
+                btn.classList.add('bg-[#f97316]', 'text-white');
+            }
+        });
+        
+        // 更新页面标题
+        updateTranslations();
+    }
+
+    function updateTranslations() {
+        const t = translations[currentLang];
+        
+        // 更新所有翻译元素
+        document.querySelectorAll('[data-i18n]').forEach(el => {
+            const key = el.getAttribute('data-i18n');
+            if (t[key]) {
+                el.textContent = t[key];
+            }
+        });
+        
+        // 更新页脚
+        const footerPlatform = document.getElementById('footer-platform');
+        if (footerPlatform) footerPlatform.textContent = t.footer_platform;
+        
+        const footerDisclaimer = document.getElementById('footer-disclaimer');
+        if (footerDisclaimer) footerDisclaimer.textContent = t.footer_disclaimer;
+        
+        // 更新CTA区域
+        const ctaTitle = document.getElementById('cta-title');
+        if (ctaTitle) ctaTitle.textContent = t.cta_title;
+        
+        const priceTitle = document.getElementById('price-title');
+        if (priceTitle) priceTitle.innerHTML = '<i class="fas fa-tags mr-2 text-orange-500"></i>' + t.original_vs_generic;
+        
+        const priceRef = document.getElementById('price-reference');
+        if (priceRef) priceRef.textContent = t.price_reference;
+        
+        // 更新价格表头
+        const typeHeader = document.querySelector('.price-table th:nth-child(1)');
+        if (typeHeader) typeHeader.textContent = t.type;
+        const brandHeader = document.querySelector('.price-table th:nth-child(2)');
+        if (brandHeader) brandHeader.textContent = t.brand;
+        const originHeader = document.querySelector('.price-table th:nth-child(3)');
+        if (originHeader) originHeader.textContent = t.origin;
+        const priceHeader = document.querySelector('.price-table th:nth-child(4)');
+        if (priceHeader) priceHeader.textContent = t.price;
+        
+        // 更新免责声明
+        const disclaimerTitle = document.getElementById('disclaimer-title');
+        if (disclaimerTitle) disclaimerTitle.textContent = t.disclaimer_title;
+        const disclaimerText = document.getElementById('disclaimer-text');
+        if (disclaimerText) disclaimerText.textContent = t.disclaimer_text;
+        
+        // 更新底部CTA
+        const bottomCta = document.getElementById('bottom-cta');
+        if (bottomCta) bottomCta.innerHTML = '<p class="font-bold">' + t.bottom_cta_title + '</p><p class="text-sm mt-1">' + t.phone_label + ' 17844531559 | ' + t.whatsapp_label + ' +639685838435 | ' + t.wechat_label + ' 17844531559</p>';
+        
+        // 更新咨询浮窗
+        const chatTitle = document.querySelector('.chat-header-left span');
+        if (chatTitle) chatTitle.textContent = t.chat_title;
+        
+        const wechatScanText = document.querySelector('.chat-body > div:nth-child(2) p');
+        if (wechatScanText) wechatScanText.textContent = t.wechat_scan;
+        
+        const phoneConsultLabel = document.querySelector('.chat-contact-item:nth-child(1) .label');
+        if (phoneConsultLabel) phoneConsultLabel.textContent = t.phone_consult;
+        
+        const whatsappLabel = document.querySelector('.chat-contact-item:nth-child(2) .label');
+        if (whatsappLabel) whatsappLabel.textContent = t.whatsapp_label;
+        
+        const wechatCopyLabel = document.getElementById('wechatLabel');
+        if (wechatCopyLabel) wechatCopyLabel.textContent = t.wechat_copy;
+        
+        const phoneInput = document.getElementById('chatPhone');
+        if (phoneInput) phoneInput.placeholder = t.phone_placeholder;
+        
+        const callbackBtn = document.querySelector('.chat-input-area button');
+        if (callbackBtn) callbackBtn.textContent = t.callback_btn;
+        
+        const chatFooter = document.querySelector('.chat-footer');
+        if (chatFooter) chatFooter.textContent = t.chat_footer;
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "吡非尼酮片用法用量指南",
+        "description": "吡非尼酮片用法用量详解及原研药仿制药价格对比",
+        "url": "https://lanpeimed.com/news-145-pirfenidone.html",
+        "about": {
+            "@type": "Drug",
+            "name": "吡非尼酮片",
+            "alternateName": "吡非尼酮 (Pirfenidone)"
+        }
+    }
+    </script>
+</head>
+<body class="bg-gray-50">
+    <!-- Top Bar with Language Switcher -->
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
+            <div class="flex items-center gap-4 flex-wrap">
+                <span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span>
+                <span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span>
+            </div>
+            <div class="flex items-center gap-3">
+                <div class="flex gap-2">
+                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
+                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
+                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
+                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
+                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
+                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
+                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
+                </div>
+                <div class="flex gap-2 ml-4">
+                    <a href="https://wa.me/639685838435" target="_blank" class="hover:text-green-400"><i class="fab fa-whatsapp"></i></a>
+                    <a href="javascript:void(0)" onclick="showWechat()" class="hover:text-green-400"><i class="fab fa-weixin"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white" data-i18n="site_name">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i><span data-i18n="back_home">首页</span></a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i><span data-i18n="news">新闻资讯</span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com" data-i18n="back_home">首页</a> &gt; <a href="https://lanpeimed.com/news.html" data-i18n="news">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium" data-i18n="tab_drug">肺纤维化用药</span> &gt; 吡非尼酮片
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">吡非尼酮片</h1>
+            <p class="text-gray-500 mb-6">吡非尼酮 (Pirfenidone) | 特发性肺纤维化（IPF） | 品牌名：Pirfenex / 艾思瑞</p>
+
+            <!-- ARTICLE_CONTENT_PLACEHOLDER -->
+
+            <!-- Price Comparison -->
+            <h2 id="price-title"><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格对比</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>产地</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- PRICE_ROWS_PLACEHOLDER -->
+                </tbody>
+            </table>
+            <p id="price-reference" class="text-xs text-gray-400 mt-2" data-i18n="price_reference">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p id="cta-title" class="text-lg mb-3" data-i18n="cta_title">需要咨询药品价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i><span data-i18n="phone_label">电话咨询</span>：<a href="tel:17844531559">17844531559</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i><span data-i18n="whatsapp_label">WhatsApp</span>：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i><span data-i18n="wechat_label">微信咨询</span>：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong id="disclaimer-title" data-i18n="disclaimer_title"><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong><span id="disclaimer-text" data-i18n="disclaimer_text">本文章仅供信息参考，不构成医疗建议。药品为处方药，必须在医生指导下使用。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。</span></p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div id="bottom-cta" class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold" data-i18n="bottom_cta_title">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1" data-i18n="bottom_cta_contact">电话 17844531559 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p id="footer-platform" data-i18n="footer_platform">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p id="footer-copyright" class="mt-1" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+
+<!-- 在线咨询浮窗 -->
+<style>
+.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
+.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
+.chat-widget-btn i{color:#fff;font-size:24px}
+.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
+@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
+.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
+@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.chat-box.active{display:flex}
+.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
+.chat-header-left{display:flex;align-items:center;gap:10px}
+.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
+.chat-header-left span{font-size:15px;font-weight:600}
+.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
+.chat-body{padding:16px;flex:1}
+.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
+.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
+.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
+.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
+.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
+.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
+.chat-contact-item .label{font-weight:600;margin-top:4px}
+.chat-input-area{display:flex;gap:8px;margin-top:10px}
+.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
+.chat-input-area input:focus{border-color:#1e3a5f}
+.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
+.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
+.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
+</style>
+<div class="chat-widget-btn" onclick="toggleChat()">
+    <div class="pulse-ring"></div>
+    <i class="fas fa-headset"></i>
+</div>
+<div class="chat-box" id="chatBox">
+    <div class="chat-header">
+        <div class="chat-header-left">
+            <div class="logo">蓝培</div>
+            <span data-i18n="chat_title">蓝培医疗在线咨询</span>
+        </div>
+        <button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="chat-body">
+        <div class="chat-notice">
+            因咨询人数多，如未及时回复，请致电：<span class="phone-red">17844531559</span>，或扫码加微信沟通：
+        </div>
+        <div style="text-align:center;margin-bottom:14px">
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px">
+            <p style="font-size:12px;color:#6b7280;margin-top:6px" data-i18n="wechat_scan">微信扫一扫添加咨询</p>
+        </div>
+        <div class="chat-contact-row">
+            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none">
+                <i class="fas fa-phone-alt" style="color:#1e3a5f"></i>
+                <div class="label" data-i18n="phone_consult">电话咨询</div>
+            </a>
+            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-whatsapp" style="color:#25d366"></i>
+                <div class="label" data-i18n="whatsapp_label">WhatsApp</div>
+            </a>
+            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-weixin" style="color:#07c160"></i>
+                <div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div>
+            </a>
+        </div>
+        <div class="chat-input-area">
+            <input type="tel" id="chatPhone" placeholder="请输入手机号码" data-i18n-placeholder="phone_placeholder">
+            <button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button>
+        </div>
+    </div>
+    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
+</div>
+<script>
+function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
+function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){l.textContent=translations[currentLang].wechat_copy},2000)}
+function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求：'+p+'，请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
+function showWechat(){document.getElementById('wechatModal').style.display='flex';document.body.style.overflow='hidden'}
+
+// 页面加载完成后初始化语言
+document.addEventListener('DOMContentLoaded', function() {
+    updateTranslations();
+});
+</script>
+
+</body>
+</html>
+
+<!-- news-146-nintedanib-cipla.html -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>尼达尼布胶囊用法用量 - 蓝培医疗新闻资讯</title>
+    <meta name="description" content="尼达尼布胶囊用法用量详解，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="尼达尼布胶囊,尼达尼布胶囊用法用量,尼达尼布胶囊价格,尼达尼布 (Nintedanib)仿制药,Nintib / Ofev（维加特）">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+        .lang-btn.active { background: #f97316; color: white; }
+    </style>
+
+    <script>
+    // ===================== 多语言支持 =====================
+    const translations = {
+        zh: {
+            site_name: "蓝培医疗",
+            back_home: "返回首页",
+            news: "新闻资讯",
+            cta_title: "需要咨询药品价格和购买渠道？",
+            phone_label: "电话咨询",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "微信咨询",
+            disclaimer_title: "重要提示",
+            disclaimer_text: "本文章仅供信息参考，不构成医疗建议。药品为处方药，必须在医生指导下使用。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。",
+            hotline: "咨询热线",
+            footer_platform: "全球优质医疗资源咨询平台",
+            footer_disclaimer: "免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任",
+            footer_copyright: "© 2026 蓝培医疗 lanpeimed.com",
+            chat_title: "蓝培医疗在线咨询",
+            phone_consult: "电话咨询",
+            wechat_scan: "微信扫一扫添加咨询",
+            wechat_copy: "加微信",
+            wechat_copied: "已复制!",
+            phone_placeholder: "请输入手机号码",
+            callback_btn: "给您回电",
+            chat_footer: "蓝培医疗 · 全球优质医疗资源咨询",
+            bottom_cta_title: "蓝培医疗 · 专业海外药品直邮",
+            price_reference: "* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价",
+            original_vs_generic: "原研药 vs 仿制药价格对比",
+            type: "类型",
+            brand: "品牌/厂家",
+            origin: "产地",
+            price: "参考价格"
+        },
+        en: {
+            site_name: "Lanpei Medical",
+            back_home: "Back to Home",
+            news: "News",
+            cta_title: "Need to consult medicine prices and purchase channels?",
+            phone_label: "Phone",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Important Notice",
+            disclaimer_text: "This article is for reference only and does not constitute medical advice. Medicines are prescription drugs and must be used under medical supervision.",
+            hotline: "Hotline",
+            footer_platform: "Global Quality Medical Resources Platform",
+            footer_disclaimer: "Disclaimer: The medical information displayed on this website is for reference only. Please consult doctors and pharmacists for specific treatment details.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei Medical Online Consultation",
+            phone_consult: "Phone Consultation",
+            wechat_scan: "Scan QR code to add WeChat",
+            wechat_copy: "Add WeChat",
+            wechat_copied: "Copied!",
+            phone_placeholder: "Enter phone number",
+            callback_btn: "Callback Request",
+            chat_footer: "Lanpei Medical · Global Medical Resources",
+            bottom_cta_title: "Lanpei Medical · Professional Overseas Medicine Direct Mail",
+            price_reference: "* Prices are for reference only. Contact us for the latest quotes.",
+            original_vs_generic: "Original vs Generic Medicine Price Comparison",
+            type: "Type",
+            brand: "Brand/Manufacturer",
+            origin: "Origin",
+            price: "Reference Price"
+        },
+        ru: {
+            site_name: "蓝培医疗",
+            back_home: "На главную",
+            news: "Новости",
+            cta_title: "Нужна консультация по ценам на лекарства?",
+            phone_label: "Телефон",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Важное уведомление",
+            disclaimer_text: "Эта статья только для справки и не является медицинской рекомендацией. Лекарства требуют рецепта врача.",
+            hotline: "Горячая линия",
+            footer_platform: "Платформа глобальных медицинских ресурсов",
+            footer_disclaimer: "Отказ от ответственности: информация только для справки. Проконсультируйтесь с врачом.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Онлайн консультация Lanpei",
+            phone_consult: "Телефонная консультация",
+            wechat_scan: "Сканируйте QR для добавления WeChat",
+            wechat_copy: "Добавить WeChat",
+            wechat_copied: "Скопировано!",
+            phone_placeholder: "Введите номер телефона",
+            callback_btn: "Обратный звонок",
+            chat_footer: "Lanpei Medical · Глобальные медицинские ресурсы",
+            bottom_cta_title: "Lanpei Medical · Профессиональная доставка лекарств",
+            price_reference: "* Цены только для справки. Свяжитесь с нами для актуальных цен.",
+            original_vs_generic: "Оригинал vs Дженерик Сравнение цен",
+            type: "Тип",
+            brand: "Бренд/Производитель",
+            origin: "Страна",
+            price: "Цена"
+        },
+        vi: {
+            site_name: "Lanpei Medical",
+            back_home: "Về trang chủ",
+            news: "Tin tức",
+            cta_title: "Cần tư vấn giá và cách mua thuốc?",
+            phone_label: "Điện thoại",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Thông báo quan trọng",
+            disclaimer_text: "Bài viết này chỉ để tham khảo, không phải tư vấn y tế. Thuốc theo toa bắt buộc.",
+            hotline: "Đường dây nóng",
+            footer_platform: "Nền tảng tài nguyên y tế toàn cầu",
+            footer_disclaimer: "Tuyên bố miễn trừ: Thông tin chỉ để tham khảo. Hãy hỏi ý kiến bác sĩ.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Tư vấn trực tuyến Lanpei",
+            phone_consult: "Tư vấn điện thoại",
+            wechat_scan: "Quét QR để thêm WeChat",
+            wechat_copy: "Thêm WeChat",
+            wechat_copied: "Đã sao chép!",
+            phone_placeholder: "Nhập số điện thoại",
+            callback_btn: "Yêu cầu gọi lại",
+            chat_footer: "Lanpei Medical · Tài nguyên y tế toàn cầu",
+            bottom_cta_title: "Lanpei Medical · Gửi thuốc quốc tế chuyên nghiệp",
+            price_reference: "* Giá chỉ để tham khảo. Liên hệ để biết giá mới nhất.",
+            original_vs_generic: "Thuốc Original vs Generic - So sánh giá",
+            type: "Loại",
+            brand: "Nhãn hiệu/Nhà sản xuất",
+            origin: "Xuất xứ",
+            price: "Giá tham khảo"
+        },
+        id: {
+            site_name: "Lanpei Medical",
+            back_home: "Kembali ke Beranda",
+            news: "Berita",
+            cta_title: "Perlu konsultasi harga dan cara beli obat?",
+            phone_label: "Telepon",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Pemberitahuan Penting",
+            disclaimer_text: "Artikel ini hanya untuk referensi, bukan saran medis. Obat resep harus digunakan di bawah pengawasan dokter.",
+            hotline: "Hotline",
+            footer_platform: "Platform Sumber Daya Medis Global",
+            footer_disclaimer: "Penafian: Informasi hanya untuk referensi. Konsultasikan dengan dokter.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Konsultasi Online Lanpei",
+            phone_consult: "Konsultasi Telepon",
+            wechat_scan: "Pindai QR untuk tambah WeChat",
+            wechat_copy: "Tambah WeChat",
+            wechat_copied: "Disalin!",
+            phone_placeholder: "Masukkan nomor telepon",
+            callback_btn: "Minta Panggilan",
+            chat_footer: "Lanpei Medical · Sumber Daya Medis Global",
+            bottom_cta_title: "Lanpei Medical · Kirim Obat Internasional",
+            price_reference: "* Harga untuk referensi saja. Hubungi kami untuk penawaran terbaru.",
+            original_vs_generic: "Original vs Generic - Perbandingan Harga",
+            type: "Tipe",
+            brand: "Merek/Pabrikan",
+            origin: "Asal",
+            price: "Harga Referensi"
+        },
+        my: {
+            site_name: "Lanpei Medical",
+            back_home: "ပင်မသို့ ပြန်သွားရန်",
+            news: "သတင်း",
+            cta_title: "ဆေးဝါးစျေးနှုန်းနှင့် ဝယ်ယူပုံမေးမြန်းလိုပါသလား?",
+            phone_label: "ဖုန်း",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "အရေးကြီးသတိပေးချက်",
+            disclaimer_text: "ဤဆောင်းပါးသည် ရည်ရွယ်ချက်တစ်ခုဖြစ်သည်။ ဆေးဝါးများသည် ဆရာဝန်ညွှန်ကြားချက်ဖြင့်သာသုံးသင့်သည်။",
+            hotline: "ဖုန်းလိုင်း",
+            footer_platform: "ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါးအရင်းအမြစ်ပလက်ဖောင်း",
+            footer_disclaimer: "သတိပေးချက်- ဤဝက်ဘ်ဆိုဒ်တွင်တင်ပြထားသော ဆေးဝါးအချက်အလက်များသည် ရည်ရွယ်ချက်တစ်ခုဖြစ်သည်။",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei အွန်လိုင်းတိုင်ပင်ဆွေးနွေးမှု",
+            phone_consult: "ဖုန်းဖြင့်တိုင်ပင်ဆွေးနွေးမှု",
+            wechat_scan: "QR ကုဒ်ဖတ်ပြီး WeChat ထည့်ပါ",
+            wechat_copy: "WeChat ထည့်ရန်",
+            wechat_copied: "ကူယူပြီး!",
+            phone_placeholder: "ဖုန်းနံပါတ် ထည့်ပါ",
+            callback_btn: "ပြန်ခေါ်ရန်တောင်းဆိုမှု",
+            chat_footer: "Lanpei Medical · ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါး",
+            bottom_cta_title: "Lanpei Medical · နိုင်ငံတကာ ဆေးဝါးပို့ဆောင်ရေး",
+            price_reference: "* စျေးနှုန်းများသည် ရည်ရွယ်ချက်ဖြစ်သည်။ နောက်ဆုံးစျေးနှုန်းများအတွက် ကျွန်ုပ်တို့အား ဆက်သွယ်ပါ။",
+            original_vs_generic: "Original vs Generic - စျေးနှုန်းနှိုင်းယှဉ်မှု",
+            type: "အမျိုးအစား",
+            brand: "အမှတ်တံ/ထုတ်လုပ်သူ",
+            origin: "မူလနေရာ",
+            price: "စျေးနှုန်းရည်ညွှန်း"
+        },
+        bd: {
+            site_name: "Lanpei Medical",
+            back_home: "হোম পেজে ফিরে যান",
+            news: "সংবাদ",
+            cta_title: "ওষুধের দাম ও কেনার উপায় জানতে চান?",
+            phone_label: "ফোন",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "উইচ্যাট",
+            disclaimer_title: "গুরুত্বপূর্ণ বিজ্ঞপ্তি",
+            disclaimer_text: "এই নিবন্ধটি শুধুমাত্র রেফারেন্সের জন্য, চিকিৎসা পরামর্শ নয়। প্রেসক্রিপশন ওষুধ অবশ্যই ডাক্তারের তত্ত্বাবধানে ব্যবহার করতে হবে।",
+            hotline: "হটলাইন",
+            footer_platform: "বিশ্বমানের মেডিকেল রিসোর্স প্ল্যাটফর্ম",
+            footer_disclaimer: "দ্বায়িত্ব: এই সাইটে প্রদর্শিত মেডিকেল তথ্য শুধুমাত্র রেফারেন্সের জন্য। অনুগ্রহ করে ডাক্তারের পরামর্শ নিন।",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei অনলাইন পরামর্শ",
+            phone_consult: "ফোনে পরামর্শ",
+            wechat_scan: "QR কোড স্ক্যান করে উইচ্যাট যোগ করুন",
+            wechat_copy: "উইচ্যাট যোগ",
+            wechat_copied: "কপি হয়েছে!",
+            phone_placeholder: "ফোন নম্বর দিন",
+            callback_btn: "কল ব্যাক চান",
+            chat_footer: "Lanpei Medical · বিশ্ব মেডিকেল রিসোর্স",
+            bottom_cta_title: "Lanpei Medical · প্রফেশনাল ওভারসিজ ওষুধ ডেলিভারি",
+            price_reference: "* দাম শুধুমাত্র রেফারেন্সের জন্য। সর্বশেষ দামের জন্য আমাদের সাথে যোগাযোগ করুন।",
+            original_vs_generic: "Original vs Generic - দামের তুলনা",
+            type: "টাইপ",
+            brand: "ব্র্যান্ড/প্রস্তুতকারক",
+            origin: "উৎস",
+            price: "রেফারেন্স দাম"
+        }
+    };
+
+    let currentLang = 'zh';
+
+    function changeLanguage(lang) {
+        currentLang = lang;
+        
+        // 更新语言按钮状态
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+            btn.classList.remove('bg-[#f97316]', 'text-white');
+            if (btn.dataset.lang === lang) {
+                btn.classList.add('bg-[#f97316]', 'text-white');
+            }
+        });
+        
+        // 更新页面标题
+        updateTranslations();
+    }
+
+    function updateTranslations() {
+        const t = translations[currentLang];
+        
+        // 更新所有翻译元素
+        document.querySelectorAll('[data-i18n]').forEach(el => {
+            const key = el.getAttribute('data-i18n');
+            if (t[key]) {
+                el.textContent = t[key];
+            }
+        });
+        
+        // 更新页脚
+        const footerPlatform = document.getElementById('footer-platform');
+        if (footerPlatform) footerPlatform.textContent = t.footer_platform;
+        
+        const footerDisclaimer = document.getElementById('footer-disclaimer');
+        if (footerDisclaimer) footerDisclaimer.textContent = t.footer_disclaimer;
+        
+        // 更新CTA区域
+        const ctaTitle = document.getElementById('cta-title');
+        if (ctaTitle) ctaTitle.textContent = t.cta_title;
+        
+        const priceTitle = document.getElementById('price-title');
+        if (priceTitle) priceTitle.innerHTML = '<i class="fas fa-tags mr-2 text-orange-500"></i>' + t.original_vs_generic;
+        
+        const priceRef = document.getElementById('price-reference');
+        if (priceRef) priceRef.textContent = t.price_reference;
+        
+        // 更新价格表头
+        const typeHeader = document.querySelector('.price-table th:nth-child(1)');
+        if (typeHeader) typeHeader.textContent = t.type;
+        const brandHeader = document.querySelector('.price-table th:nth-child(2)');
+        if (brandHeader) brandHeader.textContent = t.brand;
+        const originHeader = document.querySelector('.price-table th:nth-child(3)');
+        if (originHeader) originHeader.textContent = t.origin;
+        const priceHeader = document.querySelector('.price-table th:nth-child(4)');
+        if (priceHeader) priceHeader.textContent = t.price;
+        
+        // 更新免责声明
+        const disclaimerTitle = document.getElementById('disclaimer-title');
+        if (disclaimerTitle) disclaimerTitle.textContent = t.disclaimer_title;
+        const disclaimerText = document.getElementById('disclaimer-text');
+        if (disclaimerText) disclaimerText.textContent = t.disclaimer_text;
+        
+        // 更新底部CTA
+        const bottomCta = document.getElementById('bottom-cta');
+        if (bottomCta) bottomCta.innerHTML = '<p class="font-bold">' + t.bottom_cta_title + '</p><p class="text-sm mt-1">' + t.phone_label + ' 17844531559 | ' + t.whatsapp_label + ' +639685838435 | ' + t.wechat_label + ' 17844531559</p>';
+        
+        // 更新咨询浮窗
+        const chatTitle = document.querySelector('.chat-header-left span');
+        if (chatTitle) chatTitle.textContent = t.chat_title;
+        
+        const wechatScanText = document.querySelector('.chat-body > div:nth-child(2) p');
+        if (wechatScanText) wechatScanText.textContent = t.wechat_scan;
+        
+        const phoneConsultLabel = document.querySelector('.chat-contact-item:nth-child(1) .label');
+        if (phoneConsultLabel) phoneConsultLabel.textContent = t.phone_consult;
+        
+        const whatsappLabel = document.querySelector('.chat-contact-item:nth-child(2) .label');
+        if (whatsappLabel) whatsappLabel.textContent = t.whatsapp_label;
+        
+        const wechatCopyLabel = document.getElementById('wechatLabel');
+        if (wechatCopyLabel) wechatCopyLabel.textContent = t.wechat_copy;
+        
+        const phoneInput = document.getElementById('chatPhone');
+        if (phoneInput) phoneInput.placeholder = t.phone_placeholder;
+        
+        const callbackBtn = document.querySelector('.chat-input-area button');
+        if (callbackBtn) callbackBtn.textContent = t.callback_btn;
+        
+        const chatFooter = document.querySelector('.chat-footer');
+        if (chatFooter) chatFooter.textContent = t.chat_footer;
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "尼达尼布胶囊用法用量指南",
+        "description": "尼达尼布胶囊用法用量详解及原研药仿制药价格对比",
+        "url": "https://lanpeimed.com/news-146-nintedanib-cipla.html",
+        "about": {
+            "@type": "Drug",
+            "name": "尼达尼布胶囊",
+            "alternateName": "尼达尼布 (Nintedanib)"
+        }
+    }
+    </script>
+</head>
+<body class="bg-gray-50">
+    <!-- Top Bar with Language Switcher -->
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
+            <div class="flex items-center gap-4 flex-wrap">
+                <span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span>
+                <span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span>
+            </div>
+            <div class="flex items-center gap-3">
+                <div class="flex gap-2">
+                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
+                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
+                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
+                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
+                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
+                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
+                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
+                </div>
+                <div class="flex gap-2 ml-4">
+                    <a href="https://wa.me/639685838435" target="_blank" class="hover:text-green-400"><i class="fab fa-whatsapp"></i></a>
+                    <a href="javascript:void(0)" onclick="showWechat()" class="hover:text-green-400"><i class="fab fa-weixin"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white" data-i18n="site_name">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i><span data-i18n="back_home">首页</span></a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i><span data-i18n="news">新闻资讯</span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com" data-i18n="back_home">首页</a> &gt; <a href="https://lanpeimed.com/news.html" data-i18n="news">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium" data-i18n="tab_drug">肺纤维化用药</span> &gt; 尼达尼布胶囊
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">尼达尼布胶囊</h1>
+            <p class="text-gray-500 mb-6">尼达尼布 (Nintedanib) | 特发性肺纤维化（IPF） | 品牌名：Nintib / Ofev（维加特）</p>
+
+            <!-- ARTICLE_CONTENT_PLACEHOLDER -->
+
+            <!-- Price Comparison -->
+            <h2 id="price-title"><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格对比</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>产地</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- PRICE_ROWS_PLACEHOLDER -->
+                </tbody>
+            </table>
+            <p id="price-reference" class="text-xs text-gray-400 mt-2" data-i18n="price_reference">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p id="cta-title" class="text-lg mb-3" data-i18n="cta_title">需要咨询药品价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i><span data-i18n="phone_label">电话咨询</span>：<a href="tel:17844531559">17844531559</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i><span data-i18n="whatsapp_label">WhatsApp</span>：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i><span data-i18n="wechat_label">微信咨询</span>：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong id="disclaimer-title" data-i18n="disclaimer_title"><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong><span id="disclaimer-text" data-i18n="disclaimer_text">本文章仅供信息参考，不构成医疗建议。药品为处方药，必须在医生指导下使用。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。</span></p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div id="bottom-cta" class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold" data-i18n="bottom_cta_title">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1" data-i18n="bottom_cta_contact">电话 17844531559 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p id="footer-platform" data-i18n="footer_platform">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p id="footer-copyright" class="mt-1" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+
+<!-- 在线咨询浮窗 -->
+<style>
+.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
+.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
+.chat-widget-btn i{color:#fff;font-size:24px}
+.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
+@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
+.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
+@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.chat-box.active{display:flex}
+.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
+.chat-header-left{display:flex;align-items:center;gap:10px}
+.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
+.chat-header-left span{font-size:15px;font-weight:600}
+.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
+.chat-body{padding:16px;flex:1}
+.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
+.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
+.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
+.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
+.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
+.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
+.chat-contact-item .label{font-weight:600;margin-top:4px}
+.chat-input-area{display:flex;gap:8px;margin-top:10px}
+.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
+.chat-input-area input:focus{border-color:#1e3a5f}
+.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
+.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
+.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
+</style>
+<div class="chat-widget-btn" onclick="toggleChat()">
+    <div class="pulse-ring"></div>
+    <i class="fas fa-headset"></i>
+</div>
+<div class="chat-box" id="chatBox">
+    <div class="chat-header">
+        <div class="chat-header-left">
+            <div class="logo">蓝培</div>
+            <span data-i18n="chat_title">蓝培医疗在线咨询</span>
+        </div>
+        <button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="chat-body">
+        <div class="chat-notice">
+            因咨询人数多，如未及时回复，请致电：<span class="phone-red">17844531559</span>，或扫码加微信沟通：
+        </div>
+        <div style="text-align:center;margin-bottom:14px">
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px">
+            <p style="font-size:12px;color:#6b7280;margin-top:6px" data-i18n="wechat_scan">微信扫一扫添加咨询</p>
+        </div>
+        <div class="chat-contact-row">
+            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none">
+                <i class="fas fa-phone-alt" style="color:#1e3a5f"></i>
+                <div class="label" data-i18n="phone_consult">电话咨询</div>
+            </a>
+            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-whatsapp" style="color:#25d366"></i>
+                <div class="label" data-i18n="whatsapp_label">WhatsApp</div>
+            </a>
+            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-weixin" style="color:#07c160"></i>
+                <div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div>
+            </a>
+        </div>
+        <div class="chat-input-area">
+            <input type="tel" id="chatPhone" placeholder="请输入手机号码" data-i18n-placeholder="phone_placeholder">
+            <button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button>
+        </div>
+    </div>
+    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
+</div>
+<script>
+function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
+function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){l.textContent=translations[currentLang].wechat_copy},2000)}
+function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求：'+p+'，请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
+function showWechat(){document.getElementById('wechatModal').style.display='flex';document.body.style.overflow='hidden'}
+
+// 页面加载完成后初始化语言
+document.addEventListener('DOMContentLoaded', function() {
+    updateTranslations();
+});
+</script>
+
+</body>
+</html>
+
+<!-- news-147-nintedanib-sun.html -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>尼达尼布胶囊用法用量 - 蓝培医疗新闻资讯</title>
+    <meta name="description" content="尼达尼布胶囊用法用量详解，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="尼达尼布胶囊,尼达尼布胶囊用法用量,尼达尼布胶囊价格,尼达尼布 (Nintedanib)仿制药,Nindanib / Ofev（维加特）">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+        .lang-btn.active { background: #f97316; color: white; }
+    </style>
+
+    <script>
+    // ===================== 多语言支持 =====================
+    const translations = {
+        zh: {
+            site_name: "蓝培医疗",
+            back_home: "返回首页",
+            news: "新闻资讯",
+            cta_title: "需要咨询药品价格和购买渠道？",
+            phone_label: "电话咨询",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "微信咨询",
+            disclaimer_title: "重要提示",
+            disclaimer_text: "本文章仅供信息参考，不构成医疗建议。药品为处方药，必须在医生指导下使用。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。",
+            hotline: "咨询热线",
+            footer_platform: "全球优质医疗资源咨询平台",
+            footer_disclaimer: "免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任",
+            footer_copyright: "© 2026 蓝培医疗 lanpeimed.com",
+            chat_title: "蓝培医疗在线咨询",
+            phone_consult: "电话咨询",
+            wechat_scan: "微信扫一扫添加咨询",
+            wechat_copy: "加微信",
+            wechat_copied: "已复制!",
+            phone_placeholder: "请输入手机号码",
+            callback_btn: "给您回电",
+            chat_footer: "蓝培医疗 · 全球优质医疗资源咨询",
+            bottom_cta_title: "蓝培医疗 · 专业海外药品直邮",
+            price_reference: "* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价",
+            original_vs_generic: "原研药 vs 仿制药价格对比",
+            type: "类型",
+            brand: "品牌/厂家",
+            origin: "产地",
+            price: "参考价格"
+        },
+        en: {
+            site_name: "Lanpei Medical",
+            back_home: "Back to Home",
+            news: "News",
+            cta_title: "Need to consult medicine prices and purchase channels?",
+            phone_label: "Phone",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Important Notice",
+            disclaimer_text: "This article is for reference only and does not constitute medical advice. Medicines are prescription drugs and must be used under medical supervision.",
+            hotline: "Hotline",
+            footer_platform: "Global Quality Medical Resources Platform",
+            footer_disclaimer: "Disclaimer: The medical information displayed on this website is for reference only. Please consult doctors and pharmacists for specific treatment details.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei Medical Online Consultation",
+            phone_consult: "Phone Consultation",
+            wechat_scan: "Scan QR code to add WeChat",
+            wechat_copy: "Add WeChat",
+            wechat_copied: "Copied!",
+            phone_placeholder: "Enter phone number",
+            callback_btn: "Callback Request",
+            chat_footer: "Lanpei Medical · Global Medical Resources",
+            bottom_cta_title: "Lanpei Medical · Professional Overseas Medicine Direct Mail",
+            price_reference: "* Prices are for reference only. Contact us for the latest quotes.",
+            original_vs_generic: "Original vs Generic Medicine Price Comparison",
+            type: "Type",
+            brand: "Brand/Manufacturer",
+            origin: "Origin",
+            price: "Reference Price"
+        },
+        ru: {
+            site_name: "蓝培医疗",
+            back_home: "На главную",
+            news: "Новости",
+            cta_title: "Нужна консультация по ценам на лекарства?",
+            phone_label: "Телефон",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Важное уведомление",
+            disclaimer_text: "Эта статья только для справки и не является медицинской рекомендацией. Лекарства требуют рецепта врача.",
+            hotline: "Горячая линия",
+            footer_platform: "Платформа глобальных медицинских ресурсов",
+            footer_disclaimer: "Отказ от ответственности: информация только для справки. Проконсультируйтесь с врачом.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Онлайн консультация Lanpei",
+            phone_consult: "Телефонная консультация",
+            wechat_scan: "Сканируйте QR для добавления WeChat",
+            wechat_copy: "Добавить WeChat",
+            wechat_copied: "Скопировано!",
+            phone_placeholder: "Введите номер телефона",
+            callback_btn: "Обратный звонок",
+            chat_footer: "Lanpei Medical · Глобальные медицинские ресурсы",
+            bottom_cta_title: "Lanpei Medical · Профессиональная доставка лекарств",
+            price_reference: "* Цены только для справки. Свяжитесь с нами для актуальных цен.",
+            original_vs_generic: "Оригинал vs Дженерик Сравнение цен",
+            type: "Тип",
+            brand: "Бренд/Производитель",
+            origin: "Страна",
+            price: "Цена"
+        },
+        vi: {
+            site_name: "Lanpei Medical",
+            back_home: "Về trang chủ",
+            news: "Tin tức",
+            cta_title: "Cần tư vấn giá và cách mua thuốc?",
+            phone_label: "Điện thoại",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Thông báo quan trọng",
+            disclaimer_text: "Bài viết này chỉ để tham khảo, không phải tư vấn y tế. Thuốc theo toa bắt buộc.",
+            hotline: "Đường dây nóng",
+            footer_platform: "Nền tảng tài nguyên y tế toàn cầu",
+            footer_disclaimer: "Tuyên bố miễn trừ: Thông tin chỉ để tham khảo. Hãy hỏi ý kiến bác sĩ.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Tư vấn trực tuyến Lanpei",
+            phone_consult: "Tư vấn điện thoại",
+            wechat_scan: "Quét QR để thêm WeChat",
+            wechat_copy: "Thêm WeChat",
+            wechat_copied: "Đã sao chép!",
+            phone_placeholder: "Nhập số điện thoại",
+            callback_btn: "Yêu cầu gọi lại",
+            chat_footer: "Lanpei Medical · Tài nguyên y tế toàn cầu",
+            bottom_cta_title: "Lanpei Medical · Gửi thuốc quốc tế chuyên nghiệp",
+            price_reference: "* Giá chỉ để tham khảo. Liên hệ để biết giá mới nhất.",
+            original_vs_generic: "Thuốc Original vs Generic - So sánh giá",
+            type: "Loại",
+            brand: "Nhãn hiệu/Nhà sản xuất",
+            origin: "Xuất xứ",
+            price: "Giá tham khảo"
+        },
+        id: {
+            site_name: "Lanpei Medical",
+            back_home: "Kembali ke Beranda",
+            news: "Berita",
+            cta_title: "Perlu konsultasi harga dan cara beli obat?",
+            phone_label: "Telepon",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Pemberitahuan Penting",
+            disclaimer_text: "Artikel ini hanya untuk referensi, bukan saran medis. Obat resep harus digunakan di bawah pengawasan dokter.",
+            hotline: "Hotline",
+            footer_platform: "Platform Sumber Daya Medis Global",
+            footer_disclaimer: "Penafian: Informasi hanya untuk referensi. Konsultasikan dengan dokter.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Konsultasi Online Lanpei",
+            phone_consult: "Konsultasi Telepon",
+            wechat_scan: "Pindai QR untuk tambah WeChat",
+            wechat_copy: "Tambah WeChat",
+            wechat_copied: "Disalin!",
+            phone_placeholder: "Masukkan nomor telepon",
+            callback_btn: "Minta Panggilan",
+            chat_footer: "Lanpei Medical · Sumber Daya Medis Global",
+            bottom_cta_title: "Lanpei Medical · Kirim Obat Internasional",
+            price_reference: "* Harga untuk referensi saja. Hubungi kami untuk penawaran terbaru.",
+            original_vs_generic: "Original vs Generic - Perbandingan Harga",
+            type: "Tipe",
+            brand: "Merek/Pabrikan",
+            origin: "Asal",
+            price: "Harga Referensi"
+        },
+        my: {
+            site_name: "Lanpei Medical",
+            back_home: "ပင်မသို့ ပြန်သွားရန်",
+            news: "သတင်း",
+            cta_title: "ဆေးဝါးစျေးနှုန်းနှင့် ဝယ်ယူပုံမေးမြန်းလိုပါသလား?",
+            phone_label: "ဖုန်း",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "အရေးကြီးသတိပေးချက်",
+            disclaimer_text: "ဤဆောင်းပါးသည် ရည်ရွယ်ချက်တစ်ခုဖြစ်သည်။ ဆေးဝါးများသည် ဆရာဝန်ညွှန်ကြားချက်ဖြင့်သာသုံးသင့်သည်။",
+            hotline: "ဖုန်းလိုင်း",
+            footer_platform: "ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါးအရင်းအမြစ်ပလက်ဖောင်း",
+            footer_disclaimer: "သတိပေးချက်- ဤဝက်ဘ်ဆိုဒ်တွင်တင်ပြထားသော ဆေးဝါးအချက်အလက်များသည် ရည်ရွယ်ချက်တစ်ခုဖြစ်သည်။",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei အွန်လိုင်းတိုင်ပင်ဆွေးနွေးမှု",
+            phone_consult: "ဖုန်းဖြင့်တိုင်ပင်ဆွေးနွေးမှု",
+            wechat_scan: "QR ကုဒ်ဖတ်ပြီး WeChat ထည့်ပါ",
+            wechat_copy: "WeChat ထည့်ရန်",
+            wechat_copied: "ကူယူပြီး!",
+            phone_placeholder: "ဖုန်းနံပါတ် ထည့်ပါ",
+            callback_btn: "ပြန်ခေါ်ရန်တောင်းဆိုမှု",
+            chat_footer: "Lanpei Medical · ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါး",
+            bottom_cta_title: "Lanpei Medical · နိုင်ငံတကာ ဆေးဝါးပို့ဆောင်ရေး",
+            price_reference: "* စျေးနှုန်းများသည် ရည်ရွယ်ချက်ဖြစ်သည်။ နောက်ဆုံးစျေးနှုန်းများအတွက် ကျွန်ုပ်တို့အား ဆက်သွယ်ပါ။",
+            original_vs_generic: "Original vs Generic - စျေးနှုန်းနှိုင်းယှဉ်မှု",
+            type: "အမျိုးအစား",
+            brand: "အမှတ်တံ/ထုတ်လုပ်သူ",
+            origin: "မူလနေရာ",
+            price: "စျေးနှုန်းရည်ညွှန်း"
+        },
+        bd: {
+            site_name: "Lanpei Medical",
+            back_home: "হোম পেজে ফিরে যান",
+            news: "সংবাদ",
+            cta_title: "ওষুধের দাম ও কেনার উপায় জানতে চান?",
+            phone_label: "ফোন",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "উইচ্যাট",
+            disclaimer_title: "গুরুত্বপূর্ণ বিজ্ঞপ্তি",
+            disclaimer_text: "এই নিবন্ধটি শুধুমাত্র রেফারেন্সের জন্য, চিকিৎসা পরামর্শ নয়। প্রেসক্রিপশন ওষুধ অবশ্যই ডাক্তারের তত্ত্বাবধানে ব্যবহার করতে হবে।",
+            hotline: "হটলাইন",
+            footer_platform: "বিশ্বমানের মেডিকেল রিসোর্স প্ল্যাটফর্ম",
+            footer_disclaimer: "দ্বায়িত্ব: এই সাইটে প্রদর্শিত মেডিকেল তথ্য শুধুমাত্র রেফারেন্সের জন্য। অনুগ্রহ করে ডাক্তারের পরামর্শ নিন।",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei অনলাইন পরামর্শ",
+            phone_consult: "ফোনে পরামর্শ",
+            wechat_scan: "QR কোড স্ক্যান করে উইচ্যাট যোগ করুন",
+            wechat_copy: "উইচ্যাট যোগ",
+            wechat_copied: "কপি হয়েছে!",
+            phone_placeholder: "ফোন নম্বর দিন",
+            callback_btn: "কল ব্যাক চান",
+            chat_footer: "Lanpei Medical · বিশ্ব মেডিকেল রিসোর্স",
+            bottom_cta_title: "Lanpei Medical · প্রফেশনাল ওভারসিজ ওষুধ ডেলিভারি",
+            price_reference: "* দাম শুধুমাত্র রেফারেন্সের জন্য। সর্বশেষ দামের জন্য আমাদের সাথে যোগাযোগ করুন।",
+            original_vs_generic: "Original vs Generic - দামের তুলনা",
+            type: "টাইপ",
+            brand: "ব্র্যান্ড/প্রস্তুতকারক",
+            origin: "উৎস",
+            price: "রেফারেন্স দাম"
+        }
+    };
+
+    let currentLang = 'zh';
+
+    function changeLanguage(lang) {
+        currentLang = lang;
+        
+        // 更新语言按钮状态
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+            btn.classList.remove('bg-[#f97316]', 'text-white');
+            if (btn.dataset.lang === lang) {
+                btn.classList.add('bg-[#f97316]', 'text-white');
+            }
+        });
+        
+        // 更新页面标题
+        updateTranslations();
+    }
+
+    function updateTranslations() {
+        const t = translations[currentLang];
+        
+        // 更新所有翻译元素
+        document.querySelectorAll('[data-i18n]').forEach(el => {
+            const key = el.getAttribute('data-i18n');
+            if (t[key]) {
+                el.textContent = t[key];
+            }
+        });
+        
+        // 更新页脚
+        const footerPlatform = document.getElementById('footer-platform');
+        if (footerPlatform) footerPlatform.textContent = t.footer_platform;
+        
+        const footerDisclaimer = document.getElementById('footer-disclaimer');
+        if (footerDisclaimer) footerDisclaimer.textContent = t.footer_disclaimer;
+        
+        // 更新CTA区域
+        const ctaTitle = document.getElementById('cta-title');
+        if (ctaTitle) ctaTitle.textContent = t.cta_title;
+        
+        const priceTitle = document.getElementById('price-title');
+        if (priceTitle) priceTitle.innerHTML = '<i class="fas fa-tags mr-2 text-orange-500"></i>' + t.original_vs_generic;
+        
+        const priceRef = document.getElementById('price-reference');
+        if (priceRef) priceRef.textContent = t.price_reference;
+        
+        // 更新价格表头
+        const typeHeader = document.querySelector('.price-table th:nth-child(1)');
+        if (typeHeader) typeHeader.textContent = t.type;
+        const brandHeader = document.querySelector('.price-table th:nth-child(2)');
+        if (brandHeader) brandHeader.textContent = t.brand;
+        const originHeader = document.querySelector('.price-table th:nth-child(3)');
+        if (originHeader) originHeader.textContent = t.origin;
+        const priceHeader = document.querySelector('.price-table th:nth-child(4)');
+        if (priceHeader) priceHeader.textContent = t.price;
+        
+        // 更新免责声明
+        const disclaimerTitle = document.getElementById('disclaimer-title');
+        if (disclaimerTitle) disclaimerTitle.textContent = t.disclaimer_title;
+        const disclaimerText = document.getElementById('disclaimer-text');
+        if (disclaimerText) disclaimerText.textContent = t.disclaimer_text;
+        
+        // 更新底部CTA
+        const bottomCta = document.getElementById('bottom-cta');
+        if (bottomCta) bottomCta.innerHTML = '<p class="font-bold">' + t.bottom_cta_title + '</p><p class="text-sm mt-1">' + t.phone_label + ' 17844531559 | ' + t.whatsapp_label + ' +639685838435 | ' + t.wechat_label + ' 17844531559</p>';
+        
+        // 更新咨询浮窗
+        const chatTitle = document.querySelector('.chat-header-left span');
+        if (chatTitle) chatTitle.textContent = t.chat_title;
+        
+        const wechatScanText = document.querySelector('.chat-body > div:nth-child(2) p');
+        if (wechatScanText) wechatScanText.textContent = t.wechat_scan;
+        
+        const phoneConsultLabel = document.querySelector('.chat-contact-item:nth-child(1) .label');
+        if (phoneConsultLabel) phoneConsultLabel.textContent = t.phone_consult;
+        
+        const whatsappLabel = document.querySelector('.chat-contact-item:nth-child(2) .label');
+        if (whatsappLabel) whatsappLabel.textContent = t.whatsapp_label;
+        
+        const wechatCopyLabel = document.getElementById('wechatLabel');
+        if (wechatCopyLabel) wechatCopyLabel.textContent = t.wechat_copy;
+        
+        const phoneInput = document.getElementById('chatPhone');
+        if (phoneInput) phoneInput.placeholder = t.phone_placeholder;
+        
+        const callbackBtn = document.querySelector('.chat-input-area button');
+        if (callbackBtn) callbackBtn.textContent = t.callback_btn;
+        
+        const chatFooter = document.querySelector('.chat-footer');
+        if (chatFooter) chatFooter.textContent = t.chat_footer;
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "尼达尼布胶囊用法用量指南",
+        "description": "尼达尼布胶囊用法用量详解及原研药仿制药价格对比",
+        "url": "https://lanpeimed.com/news-147-nintedanib-sun.html",
+        "about": {
+            "@type": "Drug",
+            "name": "尼达尼布胶囊",
+            "alternateName": "尼达尼布 (Nintedanib)"
+        }
+    }
+    </script>
+</head>
+<body class="bg-gray-50">
+    <!-- Top Bar with Language Switcher -->
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
+            <div class="flex items-center gap-4 flex-wrap">
+                <span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span>
+                <span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span>
+            </div>
+            <div class="flex items-center gap-3">
+                <div class="flex gap-2">
+                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
+                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
+                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
+                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
+                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
+                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
+                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
+                </div>
+                <div class="flex gap-2 ml-4">
+                    <a href="https://wa.me/639685838435" target="_blank" class="hover:text-green-400"><i class="fab fa-whatsapp"></i></a>
+                    <a href="javascript:void(0)" onclick="showWechat()" class="hover:text-green-400"><i class="fab fa-weixin"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white" data-i18n="site_name">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i><span data-i18n="back_home">首页</span></a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i><span data-i18n="news">新闻资讯</span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com" data-i18n="back_home">首页</a> &gt; <a href="https://lanpeimed.com/news.html" data-i18n="news">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium" data-i18n="tab_drug">肺纤维化用药</span> &gt; 尼达尼布胶囊
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">尼达尼布胶囊</h1>
+            <p class="text-gray-500 mb-6">尼达尼布 (Nintedanib) | 特发性肺纤维化（IPF） | 品牌名：Nindanib / Ofev（维加特）</p>
+
+            <!-- ARTICLE_CONTENT_PLACEHOLDER -->
+
+            <!-- Price Comparison -->
+            <h2 id="price-title"><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格对比</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>产地</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- PRICE_ROWS_PLACEHOLDER -->
+                </tbody>
+            </table>
+            <p id="price-reference" class="text-xs text-gray-400 mt-2" data-i18n="price_reference">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p id="cta-title" class="text-lg mb-3" data-i18n="cta_title">需要咨询药品价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i><span data-i18n="phone_label">电话咨询</span>：<a href="tel:17844531559">17844531559</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i><span data-i18n="whatsapp_label">WhatsApp</span>：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i><span data-i18n="wechat_label">微信咨询</span>：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong id="disclaimer-title" data-i18n="disclaimer_title"><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong><span id="disclaimer-text" data-i18n="disclaimer_text">本文章仅供信息参考，不构成医疗建议。药品为处方药，必须在医生指导下使用。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。</span></p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div id="bottom-cta" class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold" data-i18n="bottom_cta_title">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1" data-i18n="bottom_cta_contact">电话 17844531559 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p id="footer-platform" data-i18n="footer_platform">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p id="footer-copyright" class="mt-1" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+
+<!-- 在线咨询浮窗 -->
+<style>
+.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
+.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
+.chat-widget-btn i{color:#fff;font-size:24px}
+.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
+@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
+.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
+@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.chat-box.active{display:flex}
+.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
+.chat-header-left{display:flex;align-items:center;gap:10px}
+.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
+.chat-header-left span{font-size:15px;font-weight:600}
+.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
+.chat-body{padding:16px;flex:1}
+.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
+.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
+.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
+.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
+.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
+.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
+.chat-contact-item .label{font-weight:600;margin-top:4px}
+.chat-input-area{display:flex;gap:8px;margin-top:10px}
+.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
+.chat-input-area input:focus{border-color:#1e3a5f}
+.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
+.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
+.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
+</style>
+<div class="chat-widget-btn" onclick="toggleChat()">
+    <div class="pulse-ring"></div>
+    <i class="fas fa-headset"></i>
+</div>
+<div class="chat-box" id="chatBox">
+    <div class="chat-header">
+        <div class="chat-header-left">
+            <div class="logo">蓝培</div>
+            <span data-i18n="chat_title">蓝培医疗在线咨询</span>
+        </div>
+        <button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="chat-body">
+        <div class="chat-notice">
+            因咨询人数多，如未及时回复，请致电：<span class="phone-red">17844531559</span>，或扫码加微信沟通：
+        </div>
+        <div style="text-align:center;margin-bottom:14px">
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px">
+            <p style="font-size:12px;color:#6b7280;margin-top:6px" data-i18n="wechat_scan">微信扫一扫添加咨询</p>
+        </div>
+        <div class="chat-contact-row">
+            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none">
+                <i class="fas fa-phone-alt" style="color:#1e3a5f"></i>
+                <div class="label" data-i18n="phone_consult">电话咨询</div>
+            </a>
+            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-whatsapp" style="color:#25d366"></i>
+                <div class="label" data-i18n="whatsapp_label">WhatsApp</div>
+            </a>
+            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-weixin" style="color:#07c160"></i>
+                <div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div>
+            </a>
+        </div>
+        <div class="chat-input-area">
+            <input type="tel" id="chatPhone" placeholder="请输入手机号码" data-i18n-placeholder="phone_placeholder">
+            <button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button>
+        </div>
+    </div>
+    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
+</div>
+<script>
+function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
+function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){l.textContent=translations[currentLang].wechat_copy},2000)}
+function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求：'+p+'，请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
+function showWechat(){document.getElementById('wechatModal').style.display='flex';document.body.style.overflow='hidden'}
+
+// 页面加载完成后初始化语言
+document.addEventListener('DOMContentLoaded', function() {
+    updateTranslations();
+});
+</script>
+
+</body>
+</html>
+
+<!-- news-148-deferasirox.html -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>地拉罗司口服混悬片用法用量 - 蓝培医疗新闻资讯</title>
+    <meta name="description" content="地拉罗司口服混悬片用法用量详解，原研药与仿制药价格对比，专业海外药品直邮咨询">
+    <meta name="keywords" content="地拉罗司口服混悬片,地拉罗司口服混悬片用法用量,地拉罗司口服混悬片价格,地拉罗司 (Deferasirox)仿制药,Defrijet / Exjade（恩瑞格）">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+        .lang-btn.active { background: #f97316; color: white; }
+    </style>
+
+    <script>
+    // ===================== 多语言支持 =====================
+    const translations = {
+        zh: {
+            site_name: "蓝培医疗",
+            back_home: "返回首页",
+            news: "新闻资讯",
+            cta_title: "需要咨询药品价格和购买渠道？",
+            phone_label: "电话咨询",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "微信咨询",
+            disclaimer_title: "重要提示",
+            disclaimer_text: "本文章仅供信息参考，不构成医疗建议。药品为处方药，必须在医生指导下使用。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。",
+            hotline: "咨询热线",
+            footer_platform: "全球优质医疗资源咨询平台",
+            footer_disclaimer: "免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任",
+            footer_copyright: "© 2026 蓝培医疗 lanpeimed.com",
+            chat_title: "蓝培医疗在线咨询",
+            phone_consult: "电话咨询",
+            wechat_scan: "微信扫一扫添加咨询",
+            wechat_copy: "加微信",
+            wechat_copied: "已复制!",
+            phone_placeholder: "请输入手机号码",
+            callback_btn: "给您回电",
+            chat_footer: "蓝培医疗 · 全球优质医疗资源咨询",
+            bottom_cta_title: "蓝培医疗 · 专业海外药品直邮",
+            price_reference: "* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价",
+            original_vs_generic: "原研药 vs 仿制药价格对比",
+            type: "类型",
+            brand: "品牌/厂家",
+            origin: "产地",
+            price: "参考价格"
+        },
+        en: {
+            site_name: "Lanpei Medical",
+            back_home: "Back to Home",
+            news: "News",
+            cta_title: "Need to consult medicine prices and purchase channels?",
+            phone_label: "Phone",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Important Notice",
+            disclaimer_text: "This article is for reference only and does not constitute medical advice. Medicines are prescription drugs and must be used under medical supervision.",
+            hotline: "Hotline",
+            footer_platform: "Global Quality Medical Resources Platform",
+            footer_disclaimer: "Disclaimer: The medical information displayed on this website is for reference only. Please consult doctors and pharmacists for specific treatment details.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei Medical Online Consultation",
+            phone_consult: "Phone Consultation",
+            wechat_scan: "Scan QR code to add WeChat",
+            wechat_copy: "Add WeChat",
+            wechat_copied: "Copied!",
+            phone_placeholder: "Enter phone number",
+            callback_btn: "Callback Request",
+            chat_footer: "Lanpei Medical · Global Medical Resources",
+            bottom_cta_title: "Lanpei Medical · Professional Overseas Medicine Direct Mail",
+            price_reference: "* Prices are for reference only. Contact us for the latest quotes.",
+            original_vs_generic: "Original vs Generic Medicine Price Comparison",
+            type: "Type",
+            brand: "Brand/Manufacturer",
+            origin: "Origin",
+            price: "Reference Price"
+        },
+        ru: {
+            site_name: "蓝培医疗",
+            back_home: "На главную",
+            news: "Новости",
+            cta_title: "Нужна консультация по ценам на лекарства?",
+            phone_label: "Телефон",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Важное уведомление",
+            disclaimer_text: "Эта статья только для справки и не является медицинской рекомендацией. Лекарства требуют рецепта врача.",
+            hotline: "Горячая линия",
+            footer_platform: "Платформа глобальных медицинских ресурсов",
+            footer_disclaimer: "Отказ от ответственности: информация только для справки. Проконсультируйтесь с врачом.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Онлайн консультация Lanpei",
+            phone_consult: "Телефонная консультация",
+            wechat_scan: "Сканируйте QR для добавления WeChat",
+            wechat_copy: "Добавить WeChat",
+            wechat_copied: "Скопировано!",
+            phone_placeholder: "Введите номер телефона",
+            callback_btn: "Обратный звонок",
+            chat_footer: "Lanpei Medical · Глобальные медицинские ресурсы",
+            bottom_cta_title: "Lanpei Medical · Профессиональная доставка лекарств",
+            price_reference: "* Цены только для справки. Свяжитесь с нами для актуальных цен.",
+            original_vs_generic: "Оригинал vs Дженерик Сравнение цен",
+            type: "Тип",
+            brand: "Бренд/Производитель",
+            origin: "Страна",
+            price: "Цена"
+        },
+        vi: {
+            site_name: "Lanpei Medical",
+            back_home: "Về trang chủ",
+            news: "Tin tức",
+            cta_title: "Cần tư vấn giá và cách mua thuốc?",
+            phone_label: "Điện thoại",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Thông báo quan trọng",
+            disclaimer_text: "Bài viết này chỉ để tham khảo, không phải tư vấn y tế. Thuốc theo toa bắt buộc.",
+            hotline: "Đường dây nóng",
+            footer_platform: "Nền tảng tài nguyên y tế toàn cầu",
+            footer_disclaimer: "Tuyên bố miễn trừ: Thông tin chỉ để tham khảo. Hãy hỏi ý kiến bác sĩ.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Tư vấn trực tuyến Lanpei",
+            phone_consult: "Tư vấn điện thoại",
+            wechat_scan: "Quét QR để thêm WeChat",
+            wechat_copy: "Thêm WeChat",
+            wechat_copied: "Đã sao chép!",
+            phone_placeholder: "Nhập số điện thoại",
+            callback_btn: "Yêu cầu gọi lại",
+            chat_footer: "Lanpei Medical · Tài nguyên y tế toàn cầu",
+            bottom_cta_title: "Lanpei Medical · Gửi thuốc quốc tế chuyên nghiệp",
+            price_reference: "* Giá chỉ để tham khảo. Liên hệ để biết giá mới nhất.",
+            original_vs_generic: "Thuốc Original vs Generic - So sánh giá",
+            type: "Loại",
+            brand: "Nhãn hiệu/Nhà sản xuất",
+            origin: "Xuất xứ",
+            price: "Giá tham khảo"
+        },
+        id: {
+            site_name: "Lanpei Medical",
+            back_home: "Kembali ke Beranda",
+            news: "Berita",
+            cta_title: "Perlu konsultasi harga dan cara beli obat?",
+            phone_label: "Telepon",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "Pemberitahuan Penting",
+            disclaimer_text: "Artikel ini hanya untuk referensi, bukan saran medis. Obat resep harus digunakan di bawah pengawasan dokter.",
+            hotline: "Hotline",
+            footer_platform: "Platform Sumber Daya Medis Global",
+            footer_disclaimer: "Penafian: Informasi hanya untuk referensi. Konsultasikan dengan dokter.",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Konsultasi Online Lanpei",
+            phone_consult: "Konsultasi Telepon",
+            wechat_scan: "Pindai QR untuk tambah WeChat",
+            wechat_copy: "Tambah WeChat",
+            wechat_copied: "Disalin!",
+            phone_placeholder: "Masukkan nomor telepon",
+            callback_btn: "Minta Panggilan",
+            chat_footer: "Lanpei Medical · Sumber Daya Medis Global",
+            bottom_cta_title: "Lanpei Medical · Kirim Obat Internasional",
+            price_reference: "* Harga untuk referensi saja. Hubungi kami untuk penawaran terbaru.",
+            original_vs_generic: "Original vs Generic - Perbandingan Harga",
+            type: "Tipe",
+            brand: "Merek/Pabrikan",
+            origin: "Asal",
+            price: "Harga Referensi"
+        },
+        my: {
+            site_name: "Lanpei Medical",
+            back_home: "ပင်မသို့ ပြန်သွားရန်",
+            news: "သတင်း",
+            cta_title: "ဆေးဝါးစျေးနှုန်းနှင့် ဝယ်ယူပုံမေးမြန်းလိုပါသလား?",
+            phone_label: "ဖုန်း",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "WeChat",
+            disclaimer_title: "အရေးကြီးသတိပေးချက်",
+            disclaimer_text: "ဤဆောင်းပါးသည် ရည်ရွယ်ချက်တစ်ခုဖြစ်သည်။ ဆေးဝါးများသည် ဆရာဝန်ညွှန်ကြားချက်ဖြင့်သာသုံးသင့်သည်။",
+            hotline: "ဖုန်းလိုင်း",
+            footer_platform: "ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါးအရင်းအမြစ်ပလက်ဖောင်း",
+            footer_disclaimer: "သတိပေးချက်- ဤဝက်ဘ်ဆိုဒ်တွင်တင်ပြထားသော ဆေးဝါးအချက်အလက်များသည် ရည်ရွယ်ချက်တစ်ခုဖြစ်သည်။",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei အွန်လိုင်းတိုင်ပင်ဆွေးနွေးမှု",
+            phone_consult: "ဖုန်းဖြင့်တိုင်ပင်ဆွေးနွေးမှု",
+            wechat_scan: "QR ကုဒ်ဖတ်ပြီး WeChat ထည့်ပါ",
+            wechat_copy: "WeChat ထည့်ရန်",
+            wechat_copied: "ကူယူပြီး!",
+            phone_placeholder: "ဖုန်းနံပါတ် ထည့်ပါ",
+            callback_btn: "ပြန်ခေါ်ရန်တောင်းဆိုမှု",
+            chat_footer: "Lanpei Medical · ကမ္ဘာလုံးဆိုင်ရာ ဆေးဝါး",
+            bottom_cta_title: "Lanpei Medical · နိုင်ငံတကာ ဆေးဝါးပို့ဆောင်ရေး",
+            price_reference: "* စျေးနှုန်းများသည် ရည်ရွယ်ချက်ဖြစ်သည်။ နောက်ဆုံးစျေးနှုန်းများအတွက် ကျွန်ုပ်တို့အား ဆက်သွယ်ပါ။",
+            original_vs_generic: "Original vs Generic - စျေးနှုန်းနှိုင်းယှဉ်မှု",
+            type: "အမျိုးအစား",
+            brand: "အမှတ်တံ/ထုတ်လုပ်သူ",
+            origin: "မူလနေရာ",
+            price: "စျေးနှုန်းရည်ညွှန်း"
+        },
+        bd: {
+            site_name: "Lanpei Medical",
+            back_home: "হোম পেজে ফিরে যান",
+            news: "সংবাদ",
+            cta_title: "ওষুধের দাম ও কেনার উপায় জানতে চান?",
+            phone_label: "ফোন",
+            whatsapp_label: "WhatsApp",
+            wechat_label: "উইচ্যাট",
+            disclaimer_title: "গুরুত্বপূর্ণ বিজ্ঞপ্তি",
+            disclaimer_text: "এই নিবন্ধটি শুধুমাত্র রেফারেন্সের জন্য, চিকিৎসা পরামর্শ নয়। প্রেসক্রিপশন ওষুধ অবশ্যই ডাক্তারের তত্ত্বাবধানে ব্যবহার করতে হবে।",
+            hotline: "হটলাইন",
+            footer_platform: "বিশ্বমানের মেডিকেল রিসোর্স প্ল্যাটফর্ম",
+            footer_disclaimer: "দ্বায়িত্ব: এই সাইটে প্রদর্শিত মেডিকেল তথ্য শুধুমাত্র রেফারেন্সের জন্য। অনুগ্রহ করে ডাক্তারের পরামর্শ নিন।",
+            footer_copyright: "© 2026 Lanpei Medical lanpeimed.com",
+            chat_title: "Lanpei অনলাইন পরামর্শ",
+            phone_consult: "ফোনে পরামর্শ",
+            wechat_scan: "QR কোড স্ক্যান করে উইচ্যাট যোগ করুন",
+            wechat_copy: "উইচ্যাট যোগ",
+            wechat_copied: "কপি হয়েছে!",
+            phone_placeholder: "ফোন নম্বর দিন",
+            callback_btn: "কল ব্যাক চান",
+            chat_footer: "Lanpei Medical · বিশ্ব মেডিকেল রিসোর্স",
+            bottom_cta_title: "Lanpei Medical · প্রফেশনাল ওভারসিজ ওষুধ ডেলিভারি",
+            price_reference: "* দাম শুধুমাত্র রেফারেন্সের জন্য। সর্বশেষ দামের জন্য আমাদের সাথে যোগাযোগ করুন।",
+            original_vs_generic: "Original vs Generic - দামের তুলনা",
+            type: "টাইপ",
+            brand: "ব্র্যান্ড/প্রস্তুতকারক",
+            origin: "উৎস",
+            price: "রেফারেন্স দাম"
+        }
+    };
+
+    let currentLang = 'zh';
+
+    function changeLanguage(lang) {
+        currentLang = lang;
+        
+        // 更新语言按钮状态
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+            btn.classList.remove('bg-[#f97316]', 'text-white');
+            if (btn.dataset.lang === lang) {
+                btn.classList.add('bg-[#f97316]', 'text-white');
+            }
+        });
+        
+        // 更新页面标题
+        updateTranslations();
+    }
+
+    function updateTranslations() {
+        const t = translations[currentLang];
+        
+        // 更新所有翻译元素
+        document.querySelectorAll('[data-i18n]').forEach(el => {
+            const key = el.getAttribute('data-i18n');
+            if (t[key]) {
+                el.textContent = t[key];
+            }
+        });
+        
+        // 更新页脚
+        const footerPlatform = document.getElementById('footer-platform');
+        if (footerPlatform) footerPlatform.textContent = t.footer_platform;
+        
+        const footerDisclaimer = document.getElementById('footer-disclaimer');
+        if (footerDisclaimer) footerDisclaimer.textContent = t.footer_disclaimer;
+        
+        // 更新CTA区域
+        const ctaTitle = document.getElementById('cta-title');
+        if (ctaTitle) ctaTitle.textContent = t.cta_title;
+        
+        const priceTitle = document.getElementById('price-title');
+        if (priceTitle) priceTitle.innerHTML = '<i class="fas fa-tags mr-2 text-orange-500"></i>' + t.original_vs_generic;
+        
+        const priceRef = document.getElementById('price-reference');
+        if (priceRef) priceRef.textContent = t.price_reference;
+        
+        // 更新价格表头
+        const typeHeader = document.querySelector('.price-table th:nth-child(1)');
+        if (typeHeader) typeHeader.textContent = t.type;
+        const brandHeader = document.querySelector('.price-table th:nth-child(2)');
+        if (brandHeader) brandHeader.textContent = t.brand;
+        const originHeader = document.querySelector('.price-table th:nth-child(3)');
+        if (originHeader) originHeader.textContent = t.origin;
+        const priceHeader = document.querySelector('.price-table th:nth-child(4)');
+        if (priceHeader) priceHeader.textContent = t.price;
+        
+        // 更新免责声明
+        const disclaimerTitle = document.getElementById('disclaimer-title');
+        if (disclaimerTitle) disclaimerTitle.textContent = t.disclaimer_title;
+        const disclaimerText = document.getElementById('disclaimer-text');
+        if (disclaimerText) disclaimerText.textContent = t.disclaimer_text;
+        
+        // 更新底部CTA
+        const bottomCta = document.getElementById('bottom-cta');
+        if (bottomCta) bottomCta.innerHTML = '<p class="font-bold">' + t.bottom_cta_title + '</p><p class="text-sm mt-1">' + t.phone_label + ' 17844531559 | ' + t.whatsapp_label + ' +639685838435 | ' + t.wechat_label + ' 17844531559</p>';
+        
+        // 更新咨询浮窗
+        const chatTitle = document.querySelector('.chat-header-left span');
+        if (chatTitle) chatTitle.textContent = t.chat_title;
+        
+        const wechatScanText = document.querySelector('.chat-body > div:nth-child(2) p');
+        if (wechatScanText) wechatScanText.textContent = t.wechat_scan;
+        
+        const phoneConsultLabel = document.querySelector('.chat-contact-item:nth-child(1) .label');
+        if (phoneConsultLabel) phoneConsultLabel.textContent = t.phone_consult;
+        
+        const whatsappLabel = document.querySelector('.chat-contact-item:nth-child(2) .label');
+        if (whatsappLabel) whatsappLabel.textContent = t.whatsapp_label;
+        
+        const wechatCopyLabel = document.getElementById('wechatLabel');
+        if (wechatCopyLabel) wechatCopyLabel.textContent = t.wechat_copy;
+        
+        const phoneInput = document.getElementById('chatPhone');
+        if (phoneInput) phoneInput.placeholder = t.phone_placeholder;
+        
+        const callbackBtn = document.querySelector('.chat-input-area button');
+        if (callbackBtn) callbackBtn.textContent = t.callback_btn;
+        
+        const chatFooter = document.querySelector('.chat-footer');
+        if (chatFooter) chatFooter.textContent = t.chat_footer;
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "地拉罗司口服混悬片用法用量指南",
+        "description": "地拉罗司口服混悬片用法用量详解及原研药仿制药价格对比",
+        "url": "https://lanpeimed.com/news-148-deferasirox.html",
+        "about": {
+            "@type": "Drug",
+            "name": "地拉罗司口服混悬片",
+            "alternateName": "地拉罗司 (Deferasirox)"
+        }
+    }
+    </script>
+</head>
+<body class="bg-gray-50">
+    <!-- Top Bar with Language Switcher -->
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
+            <div class="flex items-center gap-4 flex-wrap">
+                <span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span>
+                <span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span>
+            </div>
+            <div class="flex items-center gap-3">
+                <div class="flex gap-2">
+                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
+                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
+                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
+                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
+                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
+                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
+                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
+                </div>
+                <div class="flex gap-2 ml-4">
+                    <a href="https://wa.me/639685838435" target="_blank" class="hover:text-green-400"><i class="fab fa-whatsapp"></i></a>
+                    <a href="javascript:void(0)" onclick="showWechat()" class="hover:text-green-400"><i class="fab fa-weixin"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white" data-i18n="site_name">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i><span data-i18n="back_home">首页</span></a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i><span data-i18n="news">新闻资讯</span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb">
+            <a href="https://lanpeimed.com" data-i18n="back_home">首页</a> &gt; <a href="https://lanpeimed.com/news.html" data-i18n="news">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium" data-i18n="tab_drug">祛铁用药</span> &gt; 地拉罗司口服混悬片
+        </div>
+
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">地拉罗司口服混悬片</h1>
+            <p class="text-gray-500 mb-6">地拉罗司 (Deferasirox) | 慢性铁过载 | 品牌名：Defrijet / Exjade（恩瑞格）</p>
+
+            <!-- ARTICLE_CONTENT_PLACEHOLDER -->
+
+            <!-- Price Comparison -->
+            <h2 id="price-title"><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格对比</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>产地</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- PRICE_ROWS_PLACEHOLDER -->
+                </tbody>
+            </table>
+            <p id="price-reference" class="text-xs text-gray-400 mt-2" data-i18n="price_reference">* 价格仅供参考，实际价格以咨询为准，请联系我们获取最新报价</p>
+
+            <!-- CTA -->
+            <div class="cta-box">
+                <p id="cta-title" class="text-lg mb-3" data-i18n="cta_title">需要咨询药品价格和购买渠道？</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i><span data-i18n="phone_label">电话咨询</span>：<a href="tel:17844531559">17844531559</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i><span data-i18n="whatsapp_label">WhatsApp</span>：<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i><span data-i18n="wechat_label">微信咨询</span>：17844531559</p>
+            </div>
+
+            <!-- Disclaimer -->
+            <div class="warning-box">
+                <p><strong id="disclaimer-title" data-i18n="disclaimer_title"><i class="fas fa-exclamation-triangle mr-1"></i>重要提示：</strong><span id="disclaimer-text" data-i18n="disclaimer_text">本文章仅供信息参考，不构成医疗建议。药品为处方药，必须在医生指导下使用。如有用药需求，请先咨询专业医生，再联系我们了解药品渠道。</span></p>
+            </div>
+        </article>
+
+        <!-- Bottom CTA -->
+        <div id="bottom-cta" class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold" data-i18n="bottom_cta_title">蓝培医疗 · 专业海外药品直邮</p>
+            <p class="text-sm mt-1" data-i18n="bottom_cta_contact">电话 17844531559 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p id="footer-platform" data-i18n="footer_platform">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明：本网站展示的医药信息仅供参考，具体疾病治疗和用药细节请务必咨询医生和药师，蓝培不承担任何责任</p>
+            <p id="footer-copyright" class="mt-1" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+
+<!-- 在线咨询浮窗 -->
+<style>
+.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
+.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
+.chat-widget-btn i{color:#fff;font-size:24px}
+.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
+@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
+.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
+@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.chat-box.active{display:flex}
+.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
+.chat-header-left{display:flex;align-items:center;gap:10px}
+.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
+.chat-header-left span{font-size:15px;font-weight:600}
+.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
+.chat-body{padding:16px;flex:1}
+.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
+.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
+.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
+.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
+.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
+.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
+.chat-contact-item .label{font-weight:600;margin-top:4px}
+.chat-input-area{display:flex;gap:8px;margin-top:10px}
+.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
+.chat-input-area input:focus{border-color:#1e3a5f}
+.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
+.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
+.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
+</style>
+<div class="chat-widget-btn" onclick="toggleChat()">
+    <div class="pulse-ring"></div>
+    <i class="fas fa-headset"></i>
+</div>
+<div class="chat-box" id="chatBox">
+    <div class="chat-header">
+        <div class="chat-header-left">
+            <div class="logo">蓝培</div>
+            <span data-i18n="chat_title">蓝培医疗在线咨询</span>
+        </div>
+        <button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="chat-body">
+        <div class="chat-notice">
+            因咨询人数多，如未及时回复，请致电：<span class="phone-red">17844531559</span>，或扫码加微信沟通：
+        </div>
+        <div style="text-align:center;margin-bottom:14px">
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px">
+            <p style="font-size:12px;color:#6b7280;margin-top:6px" data-i18n="wechat_scan">微信扫一扫添加咨询</p>
+        </div>
+        <div class="chat-contact-row">
+            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none">
+                <i class="fas fa-phone-alt" style="color:#1e3a5f"></i>
+                <div class="label" data-i18n="phone_consult">电话咨询</div>
+            </a>
+            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-whatsapp" style="color:#25d366"></i>
+                <div class="label" data-i18n="whatsapp_label">WhatsApp</div>
+            </a>
+            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none">
+                <i class="fab fa-weixin" style="color:#07c160"></i>
+                <div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div>
+            </a>
+        </div>
+        <div class="chat-input-area">
+            <input type="tel" id="chatPhone" placeholder="请输入手机号码" data-i18n-placeholder="phone_placeholder">
+            <button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button>
+        </div>
+    </div>
+    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
+</div>
+<script>
+function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
+function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){l.textContent=translations[currentLang].wechat_copy},2000)}
+function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求：'+p+'，请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
+function showWechat(){document.getElementById('wechatModal').style.display='flex';document.body.style.overflow='hidden'}
+
+// 页面加载完成后初始化语言
+document.addEventListener('DOMContentLoaded', function() {
+    updateTranslations();
+});
+</script>
+
+</body>
+</html>
+
+
+
+<!-- wechat-news-144-febuxostat.txt -->
+非布司他片（Febuxostat / 优立通）——痛风降酸的"二线王牌"，别嘌醇不耐受者的最优选
+
+【导语】
+痛风急性发作，让人痛不欲生。但比发作更可怕的，是血尿酸长期居高不下——它在关节、肾脏里悄悄沉积成痛风石、肾结石，甚至导致肾衰竭。别嘌醇（Allopurinol）是经典降酸药，但不少患者过敏、不耐受或疗效不佳，怎么办？
+
+今天给大家介绍一款降酸"二线王牌"——**非布司他（Febuxostat）**。
+
+---
+
+## 一、药品简介
+
+非布司他是一种**非嘌呤类选择性黄嘌呤氧化酶（XO）抑制剂**，通过抑制尿酸合成路径中的关键酶，从源头降低血尿酸浓度。
+
+该药由日本帝人制药研发，2009年获FDA批准用于临床，是20世纪80年代以来首个通过抑制尿酸合成机制治疗痛风的新药。原研品商品名为**Feburic/优立通**，已在全球60多个国家上市。
+
+**核心优势**：相比别嘌醇，非布司他降酸效果更强，且对**轻中度肾功能不全患者无需调整剂量**。
+
+---
+
+## 二、适应症
+
+✅ **痛风患者高尿酸血症的长期治疗**（仅用于别嘌醇不耐受、治疗失败或不适合的患者）
+❌ 不推荐用于无症状高尿酸血症
+
+---
+
+## 三、用法用量
+
+**起始剂量**：40mg，口服，每日1次
+
+**剂量调整**：治疗2周后检测血尿酸，若未达到目标值（<6mg/dL），可**增至80mg/日**
+
+**特殊人群**：
+- 严重肾功能不全（CrCl<30mL/min）：每日剂量**不超过40mg**
+- 轻中度肾功能不全/肝功能不全：无需调整剂量
+- 老年人/儿童（<18岁）：安全性数据不足
+
+**服用方法**：
+- 餐前餐后均可，建议固定时间每日一次
+- 整片吞服，**不可掰开或咀嚼**
+- 足量饮水（≥2L/日）有助于尿酸排泄
+
+---
+
+## 四、重要注意事项
+
+⚠️ **心血管风险**：2019年FDA黑框警告——非布司他可能增加心血管死亡风险。有心脏病史患者需严密监测。
+
+⚠️ **痛风发作预防**：开始治疗初期，因血尿酸急剧下降可能诱发痛风急性发作。医生通常会同时开具**小剂量秋水仙碱或NSAIDs**预防发作，预防用药可持续6个月。
+
+⚠️ **肝毒性**：用药前及用药期间定期监测肝功能。
+
+⚠️ **绝对禁忌**：正在接受**硫唑嘌呤、巯嘌呤**治疗的患者禁用。
+
+---
+
+## 五、生活方式配合
+
+🥤 多喝水：每日≥2000ml
+🍖 限制高嘌呤食物：动物内脏、海鲜、浓肉汤
+🚫 严格戒酒，尤其是啤酒
+🏃 适度运动，控制体重
+
+---
+
+📞 **需要咨询非布司他药品详情？**
+微信：17844531559
+WhatsApp：+63-968-583-8435
+蓝培医疗·全球优质医疗资源咨询平台
+
+
+<!-- wechat-news-145-pirfenidone.txt -->
+吡非尼酮（Pirfenidone / Pirfenex）——特发性肺纤维化一线抗纤维化靶向药
+
+【导语】
+"特发性肺纤维化（IPF）"——光听名字就知道它有多棘手：肺组织进行性纤维化，像被一层"硬壳"包裹，呼吸功能持续下降，平均生存期仅3-5年。但近年来，**吡非尼酮（Pirfenidone）**让这种"绝症"看到了希望。
+
+今天给大家详细介绍这款**全球首个IPF一线抗纤维化靶向药**。
+
+---
+
+## 一、药品简介
+
+吡非尼酮是一种具有**抗纤维化、抗炎和抗氧化**多重作用的广谱口服小分子药物，由日本盐野义制药（Shionogi）原研，2014年获FDA批准，商品名为**Esbriet**。
+
+中国同类产品名为**艾思瑞**，印度Natco、Cipla等厂家生产仿制版**Pirfenex**（200mg/片），是性价比之选。
+
+**核心作用**：通过抑制TGF-β等致纤维化因子，**延缓IPF患者用力肺活量（FVC）的下降速率**，改善生活质量、延长生存时间，但**不能治愈该疾病**。
+
+---
+
+## 二、适应症
+
+✅ **轻至中度特发性肺纤维化（IPF）**：确诊IPF且FVC%≥50%的成人患者
+✅ **进行性纤维化性间质性肺疾病（PF-ILD）**（专科医生评估后）
+✅ **慢性过敏性肺炎（CHP）**等纤维化性肺病
+
+---
+
+## 三、用法用量
+
+**剂量递增方案**（Pirfenex 200mg规格）：
+
+| 时间 | 单次剂量 | 每日3次 | 每日总量 |
+|------|---------|--------|----------|
+| 第1-7天 | 200mg（1片） | 3次 | 600mg |
+| 第8-14天 | 400mg（2片） | 3次 | 1200mg |
+| 第15天起（维持） | 600mg（3片） | 3次 | 1800mg |
+
+**服用方法**：
+- ⚠️ **必须餐后服用**（空腹时血药浓度升高，不良反应风险大）
+- 整片吞服，**勿掰开、压碎或咀嚼**
+- 每日总剂量**不可超过2400mg/日**
+
+**中断后重启**：
+- 中断≥14天：需**重新从初始剂量滴定**
+- 中断<14天：可直接恢复维持剂量
+
+---
+
+## 四、重要注意事项
+
+⚠️ **肝毒性监测**：治疗前6个月**每月**监测肝功能（ALT/AST），之后每3个月1次。肝酶≥3倍ULN需减量，≥5倍ULN应**停药**。
+
+⚠️ **光敏反应预防**：吡非尼酮可显著增加皮肤对阳光的敏感性。必须采取严格防晒：SPF50+防晒霜、长袖衣裤、宽边帽、避免正午阳光。
+
+⚠️ **胃肠道反应**：恶心、呕吐、腹泻、食欲下降（30-50%）。餐后服用、分次少量进食可缓解。
+
+⚠️ **绝对禁忌**：
+- 对吡非尼酮过敏者
+- 中重度肝病患者
+- 妊娠及哺乳期
+- 需服用氟伏沙明者
+
+**重要药物相互作用**：
+- 禁用强效CYP1A2抑制剂（**氟伏沙明、依诺沙星**）——血药浓度升高4-7倍
+- 避免CYP1A2诱导剂（利福平、卡马西平、苯妥英钠）——降低疗效
+- ⚠️ **用药期间必须戒烟**——吸烟使血药浓度降低50%以上
+
+---
+
+## 五、规格与保存
+
+- 规格：200mg/片，150片/盒（印度版Pirfenex）
+- 保存：密封，<25°C干燥处
+
+---
+
+📞 **需要咨询吡非尼酮药品详情？**
+微信：17844531559
+WhatsApp：+63-968-583-8435
+蓝培医疗·全球优质医疗资源咨询平台
+
+
+<!-- wechat-news-146-nintedanib-cipla.txt -->
+尼达尼布（Nintedanib / Nintib）——IPF抗纤维化一线用药，肺纤维化患者的"护肺卫士"
+
+【导语】
+如果说吡非尼酮是IPF抗纤维化的"经典武器"，那**尼达尼布（Nintedanib）**就是IPF治疗的"精准利器"。作为目前IPF抗纤维化的一线核心药物之一，尼达尼布能与吡非尼酮"双雄并立"，凭借其"三重血管激酶抑制"的独特机制，显著降低FVC年下降率。
+
+今天给大家介绍德国勃林格殷格翰原研的**Ofev（维加特）**及其印度Cipla仿制版**Nintib**。
+
+---
+
+## 一、药品简介
+
+尼达尼布是一种口服小分子**三重血管激酶抑制剂（triple angiokinase inhibitor）**，通过抑制VEGFR、FGFR、PDGFR等多种酪氨酸激酶活性，**减缓肺纤维化进程**。
+
+该药由德国勃林格殷格翰原研，2014年获FDA批准，商品名为**Ofev（维加特）**。印度Cipla生产仿制版**Nintib（100mg/150mg胶囊）**于2020年上市。
+
+**适应症扩展**：IPF → 进行性纤维化性间质性肺疾病（PF-ILD）→ 系统性硬化症相关间质性肺疾病（SSc-ILD），并在非小细胞肺癌（NSCLC）联合多西他赛方案中应用。
+
+---
+
+## 二、适应症
+
+✅ **特发性肺纤维化（IPF）**：成人IPF的一线治疗
+✅ **具有进行性表型的慢性纤维化性间质性肺疾病（PF-ILD）**
+✅ **系统性硬化症相关间质性肺疾病（SSc-ILD）**
+✅ **非小细胞肺癌（NSCLC）**：联合多西他赛用于腺癌二线治疗
+
+---
+
+## 三、用法用量
+
+**标准剂量**：**150mg，每日2次**（早晚各一次，间隔约12小时）
+
+**服用方法**：
+- ⚠️ **必须与餐同服**（减少胃肠道反应）
+- 整粒胶囊**吞服，勿压碎、咀嚼或打开**
+- 每日总剂量**不可超过300mg**
+
+**剂量调整**：
+- 不耐受：可**减量至100mg bid**
+- 仍不能耐受：暂停治疗，症状缓解后重启
+- ⚠️ **不可自行调整**，须遵医嘱
+
+**特殊人群**：
+- 重度肝功能不全：**禁用**
+- 中重度肾功能不全/透析：**慎用**
+- 妊娠期：**禁用**（动物实验显示生殖毒性）
+- 哺乳期：用药期间停止哺乳
+
+---
+
+## 四、重要注意事项
+
+⚠️ **腹泻管理**：腹泻是**最常见**的不良反应（>60%），首剂即可发生。处理方法：
+- 足量饮水（≥2L/日）
+- 轻症可用洛哌丁胺对症
+- 严重时医生可能减量至100mg bid
+- 配合低脂低纤维饮食
+
+⚠️ **肝毒性监测**：治疗前、治疗前3个月**每月**监测ALT/AST/胆红素，之后定期复查。肝酶≥3×ULN伴症状或≥5×ULN应**减量或停药**。
+
+⚠️ **出血风险**：因抑制VEGFR可能影响血管生成，**有出血倾向或正在抗凝治疗者慎用**。
+
+⚠️ **伤口愈合**：术前**至少停药28天**，术后评估恢复情况再考虑重启。
+
+**绝对禁忌**：对尼达尼布、**花生或大豆过敏**者；孕妇
+
+---
+
+## 五、规格与保存
+
+- 规格：软胶囊，100mg/粒、150mg/粒
+- 包装：印度Cipla版Nintib：100mg×30粒/瓶、150mg×30粒/瓶
+- 保存：<25°C，避光密封保存，**不可冷冻**
+
+---
+
+📞 **需要咨询尼达尼布药品详情？**
+微信：17844531559
+WhatsApp：+63-968-583-8435
+蓝培医疗·全球优质医疗资源咨询平台
+
+
+<!-- wechat-news-147-nintedanib-sun.txt -->
+尼达尼布（Nintedanib / Nindanib）——IPF一线抗纤维化治疗，印度Sun Pharma高性价比版本
+
+【导语】
+继德国勃林格殷格翰原研的Ofev（维加特）和印度Cipla的Nintib之后，印度另一家仿制药巨头**Sun Pharma**也推出了尼达尼布仿制版——**Nindanib**。该药与原研Ofev**生物等效**，通过WHO-GMP认证，为IPF患者提供高性价比的替代选择。
+
+今天给大家详细介绍一下Nindanib。
+
+---
+
+## 一、药品简介
+
+尼达尼布是一种口服小分子**三重血管激酶抑制剂**，通过抑制VEGFR、FGFR、PDGFR等多种酪氨酸激酶活性，**减缓肺纤维化进程**。
+
+原研品为德国勃林格殷格翰的**Ofev（维加特）**，2014年获FDA批准。印度**Sun Pharma**生产仿制版**Nindanib（150mg软胶囊）**，全球供应。
+
+**临床应用**：IPF、具有进行性表型的慢性纤维化性间质性肺疾病（PF-ILD）、系统性硬化症相关间质性肺疾病（SSc-ILD），以及非小细胞肺癌（NSCLC）联合多西他赛方案。
+
+---
+
+## 二、适应症
+
+✅ **特发性肺纤维化（IPF）**：成人IPF的一线治疗
+✅ **具有进行性表型的慢性纤维化性间质性肺疾病（PF-ILD）**
+✅ **系统性硬化症相关间质性肺疾病（SSc-ILD）**
+✅ **非小细胞肺癌（NSCLC）**：联合多西他赛
+
+---
+
+## 三、用法用量
+
+**标准剂量**：**150mg，每日2次**（早晚各一次，间隔约12小时）
+
+**服用方法**：
+- ⚠️ **必须与餐同服**，减少胃肠道反应
+- 整粒**吞服，勿压碎、咀嚼**
+- 每日总剂量**不可超过300mg**
+
+**剂量调整**：
+- 不耐受：可**减量至100mg bid**
+- 仍不能耐受：暂停治疗，症状缓解后重启
+- ⚠️ **不可自行调整**
+
+---
+
+## 四、重要注意事项
+
+⚠️ **腹泻管理**：最常见的不良反应（>60%），首剂即可出现。
+- 足量饮水
+- 轻症可用洛哌丁胺对症
+- 严重时医生可能减量至100mg bid
+
+⚠️ **肝毒性监测**：前3个月**每月**监测ALT/AST/胆红素。
+
+⚠️ **绝对禁忌**：对尼达尼布、**花生或大豆过敏**者；孕妇
+
+⚠️ **重要**：术前**至少停药28天**；治疗期间及停药后至少3个月内**有效避孕**
+
+**药物相互作用**：
+- 强效P-gp和CYP3A4抑制剂（酮康唑、红霉素）增加暴露
+- 强效P-gp诱导剂（利福平、卡马西平）降低疗效
+- 与抗凝药联用增加出血风险
+
+---
+
+## 五、规格与保存
+
+- 规格：软胶囊，100mg/粒、150mg/粒
+- 包装：印度Sun版Nindanib：150mg×10粒/盒或30粒装
+- 保存：<25°C，避光密封，**不可冷冻**
+
+---
+
+📞 **需要咨询尼达尼布药品详情？**
+微信：17844531559
+WhatsApp：+63-968-583-8435
+蓝培医疗·全球优质医疗资源咨询平台
+
+
+<!-- wechat-news-148-deferasirox.txt -->
+地拉罗司（Deferasirox / Defrijet）——口服祛铁治疗的地中海贫血"铁过载克星"
+
+【导语】
+对于输血依赖型地中海贫血、骨髓增生异常综合征（MDS）等长期输血的患者来说，**铁过载**是悬在头顶的"达摩克利斯之剑"——铁沉积在心脏、肝脏、胰腺，可能导致心衰、肝硬化、糖尿病，甚至死亡。
+
+今天给大家介绍全球第一个、也是应用最广的口服祛铁药物——**地拉罗司（Deferasirox）**。
+
+---
+
+## 一、药品简介
+
+地拉罗司是一种**口服铁螯合剂**，通过与体内过量铁离子结合形成稳定的螯合物，经粪便排出体外，从而降低体内铁负荷。
+
+该药由诺华（Novartis）原研，商品名为**Exjade（恩瑞格）**，2005年获FDA批准。印度Glenmark等多家厂家生产仿制版**Defrijet**。
+
+**重磅消息**：中国国家药品监督管理局于2024年6月批准**地拉罗司颗粒（文帝平®）**在国内上市，是国内首个且唯一获批治疗铁过载的颗粒剂，特别适合儿童患者。
+
+---
+
+## 二、适应症
+
+✅ **输血依赖型慢性铁过载**：2岁及以上患者（每月浓缩红细胞≥7mL/kg所致）
+✅ **其他输血依赖性疾病**（MDS、再生障碍性贫血、镰状细胞病等）所致铁过载
+✅ **非输血依赖性地中海贫血综合征（NTDT）**：10岁及以上患者
+
+---
+
+## 三、用法用量
+
+**输血依赖型铁过载（TDT）**：
+- 起始剂量：**14mg/kg/日**，口服，每日1次
+- 每月接受<7mL/kg者：起始可考虑**7mg/kg/日**
+- 每月接受>14mL/kg者：起始可考虑**21mg/kg/日**
+
+**非输血依赖型地中海贫血综合征（NTDT）**：
+- 起始剂量：**7mg/kg/日**
+- 基线LIC>15mg Fe/g干重者，4周后可考虑**增至20mg/kg/日**
+- **最大剂量不超过20mg/kg/日**
+
+**服用方法**：
+- ⚠️ **空腹服用**，餐前**至少30分钟**
+- ⚠️ **不可咀嚼或整片吞服**，需先分散
+- 将片剂投入**水、橙汁或苹果汁**中搅拌至形成均匀混悬液后立即饮服
+  - 剂量<1g：约100mL液体
+  - 剂量≥1g：约200mL液体
+- 饮服后用少量液体冲洗容器一并饮下
+- ⚠️ **不可与含铝抗酸药同时服用**
+
+**剂量调整**：
+- 治疗中每月监测血清铁蛋白
+- 铁蛋白<300μg/L：**暂停治疗**，并检测LIC
+- LIC<3mg Fe/g干重：**中断治疗**
+
+---
+
+## 四、重要注意事项
+
+⚠️ **黑框警告：肾/肝功能衰竭、胃肠道出血**：
+地拉罗司可能引起**急性肾损伤、肝毒性、胃肠道出血**等严重甚至致命的不良反应。
+
+**治疗前检查**：
+- 血清肌酐（重复2次）+ eGFR
+- 肝功能（ALT/AST/胆红素）
+- 血清铁蛋白
+- 听力、眼科基线检查
+
+**治疗中监测**：**每月**监测肾肝功能和血常规
+
+⚠️ **常见不良反应**（>5%）：腹泻、呕吐、恶心、腹痛、皮疹、血清肌酐升高
+
+⚠️ **严重皮肤反应**：Stevens-Johnson综合征（SJS）等——疑似即**永久停药**
+
+⚠️ **绝对禁忌**：
+- eGFR<40
+- 一般状况差
+- 高危MDS
+- 晚期恶性肿瘤
+- 血小板<50×10⁹/L
+- 已知过敏
+
+⚠️ **不可联用**：其他铁螯合剂（去铁胺、去铁酮）、含铝抗酸药
+
+---
+
+## 五、规格与保存
+
+- 规格：片剂（口服混悬用），125mg/片、250mg/片、500mg/片
+- 中国文帝平®颗粒：180mg/袋、360mg/袋（适合儿童）
+- 包装：印度Glenmark版Defrijet：30片/盒
+- 保存：密封，<30°C干燥处
+
+---
+
+📞 **需要咨询地拉罗司药品详情？**
+微信：17844531559
+WhatsApp：+63-968-583-8435
+蓝培医疗·全球优质医疗资源咨询平台
+
+

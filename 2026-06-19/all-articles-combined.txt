@@ -1,0 +1,1392 @@
+<!-- FILE: news-124-phenylbutyrate-glycerol.html -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>口服用苯丁酸甘油酯用法用量详解｜瑞维安Ravicti 25ml罕见病UCDs氮清除治疗方案</title>
+    <meta name="description" content="口服用苯丁酸甘油酯(Glycerol Phenylbutyrate)用法用量详解,Ravicti瑞维安25ml口服液治疗尿素循环障碍(UCDs)6种亚型,儿童罕见病氮清除药物,海外罕见病用药咨询,全球优质医疗资源">
+    <meta name="keywords" content="口服用苯丁酸甘油酯,Ravicti,瑞维安,苯丁酸甘油酯,UCDs,尿素循环障碍,氮清除剂,儿童罕见病,Glycerol phenylbutyrate,Medicamen">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+        .lang-btn.active { background: #f97316; color: white; }
+    </style>
+    <script>
+    const translations = {
+        zh: {site_name:"蓝培医疗",back_home:"返回首页",news:"新闻资讯",cta_title:"需要咨询药品价格和购买渠道?",phone_label:"电话咨询",whatsapp_label:"WhatsApp",wechat_label:"微信咨询",disclaimer_title:"重要提示",disclaimer_text:"本文章仅供信息参考,不构成医疗建议。药品为处方药,必须在医生指导下使用。",hotline:"咨询热线",footer_platform:"全球优质医疗资源咨询平台",footer_disclaimer:"免责声明:本网站展示的医药信息仅供参考",footer_copyright:"© 2026 蓝培医疗 lanpeimed.com",chat_title:"蓝培医疗在线咨询",phone_consult:"电话咨询",wechat_scan:"微信扫一扫添加咨询",wechat_copy:"加微信",wechat_copied:"已复制!",phone_placeholder:"请输入手机号码",callback_btn:"给您回电",chat_footer:"蓝培医疗 · 全球优质医疗资源咨询",bottom_cta_title:"蓝培医疗 · 全球优质医疗资源咨询",price_reference:"* 价格仅供参考,实际价格以咨询为准",original_vs_generic:"原研药 vs 仿制药价格对比",type:"类型",brand:"品牌/厂家",origin:"产地",price:"参考价格",tab_drug:"药闻速递"},
+        en: {site_name:"Lanpei Medical",back_home:"Back to Home",news:"News",cta_title:"Need to consult?",phone_label:"Phone",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Important Notice",disclaimer_text:"For reference only.",hotline:"Hotline",footer_platform:"Global Medical Platform",footer_disclaimer:"For reference only.",footer_copyright:"© 2026 Lanpei Medical",chat_title:"Online Consultation",phone_consult:"Phone",wechat_scan:"Scan QR",wechat_copy:"Add WeChat",wechat_copied:"Copied!",phone_placeholder:"Phone number",callback_btn:"Callback",chat_footer:"Lanpei Medical",bottom_cta_title:"Global Medical Resources",price_reference:"* For reference only.",original_vs_generic:"Original vs Generic",type:"Type",brand:"Brand",origin:"Origin",price:"Price",tab_drug:"Drug Updates"},
+        ru: {site_name:"蓝培医疗",back_home:"На главную",news:"Новости",cta_title:"Нужна консультация?",phone_label:"Телефон",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Важное уведомление",disclaimer_text:"Для справки.",hotline:"Горячая линия",footer_platform:"Мед платформа",footer_disclaimer:"Для справки.",footer_copyright:"© 2026 Lanpei",chat_title:"Онлайн консультация",phone_consult:"Консультация",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Скопировано!",phone_placeholder:"Телефон",callback_btn:"Звонок",chat_footer:"Lanpei Medical",bottom_cta_title:"Глобальные мед ресурсы",price_reference:"* Для справки.",original_vs_generic:"Оригинал vs Дженерик",type:"Тип",brand:"Бренд",origin:"Страна",price:"Цена",tab_drug:"Новости лекарств"},
+        vi: {site_name:"Lanpei Medical",back_home:"Về trang chủ",news:"Tin tức",cta_title:"Cần tư vấn?",phone_label:"Điện thoại",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Thông báo",disclaimer_text:"Tham khảo.",hotline:"Hotline",footer_platform:"Nền tảng y tế",footer_disclaimer:"Tham khảo.",footer_copyright:"© 2026 Lanpei",chat_title:"Tư vấn online",phone_consult:"Tư vấn",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Đã sao chép!",phone_placeholder:"Số DT",callback_btn:"Gọi lại",chat_footer:"Lanpei Medical",bottom_cta_title:"Tài nguyên y tế toàn cầu",price_reference:"* Tham khảo.",original_vs_generic:"Original vs Generic",type:"Loại",brand:"Nhãn",origin:"Xuất xứ",price:"Giá",tab_drug:"Tin thuốc"},
+        id: {site_name:"Lanpei Medical",back_home:"Kembali",news:"Berita",cta_title:"Konsultasi?",phone_label:"Telepon",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Penting",disclaimer_text:"Referensi.",hotline:"Hotline",footer_platform:"Platform medis",footer_disclaimer:"Referensi.",footer_copyright:"© 2026 Lanpei",chat_title:"Konsultasi online",phone_consult:"Telepon",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Disalin!",phone_placeholder:"Nomor",callback_btn:"Panggil",chat_footer:"Lanpei Medical",bottom_cta_title:"Sumber daya medis global",price_reference:"* Referensi.",original_vs_generic:"Original vs Generic",type:"Tipe",brand:"Merek",origin:"Asal",price:"Harga",tab_drug:"Info Obat"},
+        my: {site_name:"Lanpei Medical",back_home:"ပင်မ",news:"သတင်း",cta_title:"လိုသလား?",phone_label:"ဖုန်း",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"အရေးကြီး",disclaimer_text:"ရည်ရွယ်ချက်။",hotline:"Hotline",footer_platform:"ပလက်ဖောင်း",footer_disclaimer:"ရည်ရွယ်ချက်။",footer_copyright:"© 2026 Lanpei",chat_title:"တိုင်ပင်",phone_consult:"ဖုန်း",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"ကူယူပြီ!",phone_placeholder:"နံပါတ်",callback_btn:"ပြန်ခေါ်",chat_footer:"Lanpei Medical",bottom_cta_title:"ကမ္ဘာလုံးဆိုင်ရာ ဆေး",price_reference:"*။",original_vs_generic:"Original vs Generic",type:"အမျိုးအစား",brand:"အမှတ်",origin:"မူလ",price:"စျေး",tab_drug:"ဆေးသတင်း"},
+        bd: {site_name:"Lanpei Medical",back_home:"হোম",news:"সংবাদ",cta_title:"দরকার?",phone_label:"ফোন",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"বিজ্ঞপ্তি",disclaimer_text:"রেফারেন্স।",hotline:"হটলাইন",footer_platform:"প্ল্যাটফর্ম",footer_disclaimer:"রেফারেন্স।",footer_copyright:"© 2026 Lanpei",chat_title:"পরামর্শ",phone_consult:"ফোন",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"কপি!",phone_placeholder:"নম্বর",callback_btn:"কল",chat_footer:"Lanpei Medical",bottom_cta_title:"বিশ্ব মেডিকেল রিসোর্স",price_reference:"*।",original_vs_generic:"Original vs Generic",type:"টাইপ",brand:"ব্র্যান্ড",origin:"উৎস",price:"দাম",tab_drug:"ওষুধ সংবাদ"}
+    };
+    let currentLang = 'zh';
+    function changeLanguage(lang) { currentLang = lang; document.querySelectorAll('.lang-btn').forEach(btn => { btn.classList.remove('bg-[#f97316]','text-white'); if(btn.dataset.lang===lang) btn.classList.add('bg-[#f97316]','text-white'); }); updateTranslations(); }
+    function updateTranslations() { const t = translations[currentLang]; document.querySelectorAll('[data-i18n]').forEach(el => { const key = el.getAttribute('data-i18n'); if(t[key]) el.textContent = t[key]; }); document.getElementById('footer-platform')&&(document.getElementById('footer-platform').textContent=t.footer_platform); document.getElementById('footer-disclaimer')&&(document.getElementById('footer-disclaimer').textContent=t.footer_disclaimer); document.getElementById('cta-title')&&(document.getElementById('cta-title').textContent=t.cta_title); document.getElementById('price-title')&&(document.getElementById('price-title').innerHTML='<i class="fas fa-tags mr-2 text-orange-500"></i>'+t.original_vs_generic); document.getElementById('price-reference')&&(document.getElementById('price-reference').textContent=t.price_reference); document.getElementById('disclaimer-text')&&(document.getElementById('disclaimer-text').textContent=t.disclaimer_text); document.getElementById('bottom-cta')&&(document.getElementById('bottom-cta').innerHTML='<p class="font-bold">'+t.bottom_cta_title+'</p><p class="text-sm mt-1">'+t.phone_label+' 17844531559 | '+t.whatsapp_label+' +639685838435 | '+t.wechat_label+' 17844531559</p>'); document.querySelector('.chat-header-left span')&&(document.querySelector('.chat-header-left span').textContent=t.chat_title); document.getElementById('wechatLabel')&&(document.getElementById('wechatLabel').textContent=t.wechat_copy); document.querySelector('.chat-input-area button')&&(document.querySelector('.chat-input-area button').textContent=t.callback_btn); document.querySelector('.chat-footer')&&(document.querySelector('.chat-footer').textContent=t.chat_footer); }
+    document.addEventListener('DOMContentLoaded', updateTranslations);
+    </script>
+</head>
+<body class="bg-gray-50">
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
+            <div class="flex items-center gap-4 flex-wrap"><span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span><span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span></div>
+            <div class="flex items-center gap-3">
+                <div class="flex gap-2">
+                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
+                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
+                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
+                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
+                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
+                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
+                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
+                </div>
+                <div class="flex gap-2 ml-4"><a href="https://wa.me/639685838435" target="_blank" class="hover:text-green-400"><i class="fab fa-whatsapp"></i></a></div>
+            </div>
+        </div>
+    </div>
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white" data-i18n="site_name">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i><span data-i18n="back_home">首页</span></a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i><span data-i18n="news">新闻资讯</span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb"><a href="https://lanpeimed.com" data-i18n="back_home">首页</a> &gt; <a href="https://lanpeimed.com/news.html" data-i18n="news">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium" data-i18n="tab_drug">药闻速递</span> &gt; 口服用苯丁酸甘油酯</div>
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">口服用苯丁酸甘油酯</h1>
+            <p class="text-gray-500 mb-6">Glycerol Phenylbutyrate Oral Liquid 25ml/瓶 (Medicamen) - 罕见病UCDs尿素循环障碍长期氮清除治疗 | 品牌:Ravicti(瑞维安)</p>
+<h2><i class="fas fa-info-circle mr-2 text-orange-500"></i>药品概述</h2>
+            <div class="info-box">
+                <p><strong>通用名称:</strong>口服用苯丁酸甘油酯 (Glycerol Phenylbutyrate)</p>
+                <p><strong>英文名称:</strong>Glycerol Phenylbutyrate Oral Liquid 25ml/瓶 (Medicamen) - 罕见病UCDs</p>
+                <p><strong>品牌名称:</strong>原研药Ravicti(瑞维安,Hyperion/Horizon)、海外经济版本(Medicamen)</p>
+                <p><strong>规格:</strong>25ml/瓶(口服液体制剂)</p>
+                <p><strong>药物类型:</strong>氮结合剂/氮清除剂,全球近10年来唯一获批的口服液体氮清除剂;为苯丁酸(PBA)的三酯结构前体药物,在体内经脂酶水解为苯丁酸,再经β-氧化生成苯乙酸(PAA),最终与谷氨酰胺结合形成苯乙酰谷氨酰胺(PAGN)随尿排出,每摩尔含2摩尔氮,起到替代尿素途径的氮排泄作用;相较苯丁酸钠无气味、无味道、适口性更佳</p>
+            </div>
+            <h2><i class="fas fa-briefcase-medical mr-2 text-orange-500"></i>适应症</h2>
+            <p>口服用苯丁酸甘油酯适用于以下情况:</p>
+            <ul class="list-disc list-inside space-y-2">
+                <li><strong>主要适应症:</strong>适用于不能通过限制蛋白质摄入和/或单纯补充氨基酸控制的尿素循环障碍(UCDs)患者的长期治疗;覆盖6种UCDs亚型:氨甲酰磷酸合成酶I缺乏(CPS1D)、鸟氨酸氨甲酰基转移酶缺乏(OTCD)、瓜氨酸血症I型(ASSD)、精氨琥珀酸尿症(ASLD)、精氨酸血症(ARG1D)以及HHH综合征(高鸟氨酸血症-高氨血症-同型瓜氨酸尿症);其中4种亚型已纳入中国《第一批罕见病目录》</li>
+                <li><strong>用药前提:</strong>必须由具有罕见遗传代谢病诊疗经验的医师启动治疗,并对治疗过程进行严格监测;同时必须配合低蛋白饮食及必需氨基酸、精氨酸、瓜氨酸或无蛋白热量补充剂等营养支持;急性高氨血症不适用本品(代谢释放缓慢,需快速降氨的急救场景应选用其他方案);N-乙酰谷氨酸合酶(NAGS)缺乏症患者无临床数据支持,需慎重使用</li>
+            </ul>
+            <h2><i class="fas fa-cogs mr-2 text-orange-500"></i>作用机制</h2>
+            <p>苯丁酸甘油酯为苯丁酸的三酯前体药物,口服后经胃肠道胰脂肪酶水解生成苯丁酸(PBA),再经肝脏线粒体β-氧化生成苯乙酸(PAA);苯乙酸在肝脏和肾脏中与含氮氨基酸谷氨酰胺结合,生成苯乙酰谷氨酰胺(PAGN);PAGN随尿液排出体外,每摩尔PAGN可清除2摩尔氮,相当于替代部分尿素循环的氮排泄功能;由于其为口服液体缓释结构,可在24小时内持续稳定血氨水平;相较苯丁酸钠不含钠盐(无心血管风险),无支链氨基酸耗竭风险(不影响儿童生长发育),且无明显气味/味道,患者依从性显著优于苯丁酸钠颗粒</p>
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>标准剂量</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>推荐日总剂量按体表面积(BSA)计算,范围4.5-11.2ml/m²/天;每日总剂量平均分为3-6次,随餐(含轻食)口服;起始剂量:BSA&lt;1.3m²者8.5ml/m²/天,BSA≥1.3m²者7ml/m²/天;从苯丁酸钠转换者:Ravicti总日剂量(ml)=苯丁酸钠颗粒总日剂量(g)×0.81;剂量需个体化调整,根据患者蛋白耐受度和每日蛋白摄入需求进行优化</li>
+            </ul>
+            <h3>服药方式</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>随餐服用以减少胃肠刺激并优化吸收</li>
+                <li>用配备的校准量匙精确量取单次剂量,单次剂量向上取整(2岁以下取整至0.1ml,2岁及以上取整至0.5ml)</li>
+                <li>每日分3-6次服用,婴幼儿可混入少量食物(如土豆泥、苹果酱)立即服用,不可久置以免影响口感掩味效果</li>
+                <li>漏服处理:发现漏服时若接近下一次服药时间则跳过本次,不可双倍补服;若呕吐或不适不追加剂量,按原计划继续</li>
+                <li>可通过鼻胃管或胃造口管给药(因本品为溶液剂型),管饲后需用水冲洗管路</li>
+            </ul>
+            <h3>剂量调整</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>根据血浆氨浓度、谷氨酰胺水平(&lt;1000μmol/L)、必需氨基酸(尤其是支链氨基酸)水平定期调整剂量</li>
+                <li>儿童随体重/体表面积增长每3-6个月重新评估剂量;成人若蛋白耐受度改变也需调整</li>
+                <li>中度肝功能不全(Child-Pugh B级)需降低剂量并加强监测;重度肝功能不全(Child-Pugh C级)需在专业中心评估使用;严重肾功能不全者需谨慎</li>
+                <li>不可超过推荐最大日剂量;长期使用原则上需终身用药(未接受肝移植者)</li>
+            </ul>
+            <h2><i class="fas fa-heartbeat mr-2 text-orange-500"></i>监测要求</h2>
+            <div class="info-box">
+                <p>用药前需全面评估:血氨基线、肝功能(ALT/AST/总胆红素)、肾功能、电解质、氨基酸谱(尤其支链氨基酸、谷氨酰胺、精氨酸);用药期间:每1-3个月监测血氨、肝肾功能、电解质、氨基酸水平;每6-12个月评估生长发育(儿童)、营养状态;急性高氨血症危象时需立即住院;如出现持续嗜睡、神志改变、反复呕吐需立即评估血氨;胰腺外分泌功能不全或严重吸收障碍(如囊性纤维化)患者需加强血氨监测,必要时补充胰酶</p>
+            </div>
+            <h2><i class="fas fa-exclamation-triangle mr-2 text-orange-500"></i>注意事项</h2>
+            <ul class="list-disc list-inside space-y-2">
+                <li><strong>常见不良反应:</strong>常见(发生率较高):腹泻、腹痛、腹胀、呕吐、食欲不振、消化不良、头痛、疲劳、头晕、异常体味(皮肤/头发/尿液)、作呕、味觉变化、口腔烧灼感;少见:皮疹、便秘、听力下降、月经紊乱;大部分为轻至中度,可持续用药后缓解或经对症处理改善</li>
+                <li><strong>禁忌:</strong>对苯丁酸甘油酯或苯丁酸盐成分过敏者禁用(过敏表现包括喘息、呼吸困难、脸红、恶心、皮疹等);妊娠期禁用(动物研究显示风险);哺乳期禁用</li>
+                <li><strong>特殊人群:</strong>肝肾功能严重损害者使用前必须咨询专业医生;胰腺外分泌功能不全或严重吸收障碍者需加强监测;囊性纤维化等特殊患者群体需个体化评估</li>
+                <li><strong>驾驶操作:</strong>用药期间如出现头晕、嗜睡等避免驾驶或操作机械</li>
+                <li><strong>药物相互作用:</strong>多种药物可能影响疗效或增加毒性,服药前需告知医生所有在用药物;丙磺舒等可能影响苯乙酸代谢</li>
+            </ul>
+            <h2 id="price-title"><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格对比</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>产地</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>Ravicti 瑞维安 (Hyperion/Horizon Therapeutics)</td>
+                        <td>美国/欧盟/中国(2023年6月获批)</td>
+                        <td><span class="price-tag">Ravicti 25ml口服液美国上市价约5000-7000美元/瓶(约合人民币3.6-5万元);欧盟价格近似;中国瑞维安零售价约6980元/瓶(医保未纳入);原研药需经合规医疗资源咨询渠道获得</span><br><span class="text-xs text-gray-500">原研药参考价</span></td>
+                    </tr>
+                    <tr>
+                        <td>海外经济版</td>
+                        <td>Medicamen</td>
+                        <td>海外</td>
+                        <td><span class="price-tag">Medicamen版本25ml/瓶,海外罕见病用药,需经合规医疗资源咨询渠道获得,经济性优于原研药但供应受当地监管影响</span><br><span class="text-xs text-gray-500">经正规海外医疗资源咨询渠道</span></td>
+                    </tr>
+                </tbody>
+            </table>
+            <p id="price-reference" class="text-xs text-gray-400 mt-2" data-i18n="price_reference">* 价格仅供参考,实际价格以咨询为准</p>
+            <div class="cta-box">
+                <p id="cta-title" class="text-lg mb-3" data-i18n="cta_title">需要咨询口服用苯丁酸甘油酯药品渠道和价格信息?</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i><span data-i18n="phone_label">电话咨询</span>:<a href="tel:17844531559">17844531559</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i><span data-i18n="whatsapp_label">WhatsApp</span>:<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i><span data-i18n="wechat_label">微信咨询</span>:17844531559</p>
+            </div>
+            <div class="warning-box">
+                <p><strong id="disclaimer-title" data-i18n="disclaimer_title"><i class="fas fa-exclamation-triangle mr-1"></i>重要提示:</strong><span id="disclaimer-text" data-i18n="disclaimer_text">本文章仅供信息参考,不构成医疗建议。药品为处方药,必须在医生指导下使用。</span></p>
+            </div>
+        </article>
+        <div id="bottom-cta" class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold" data-i18n="bottom_cta_title">蓝培医疗 · 全球优质医疗资源咨询</p>
+            <p class="text-sm mt-1">电话 17844531559 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p id="footer-platform" data-i18n="footer_platform">全球优质医疗资源咨询平台</p>
+            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明:本网站展示的医药信息仅供参考</p>
+            <p id="footer-copyright" class="mt-1" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+<style>
+.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
+.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
+.chat-widget-btn i{color:#fff;font-size:24px}
+.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
+@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
+.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
+@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.chat-box.active{display:flex}
+.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
+.chat-header-left{display:flex;align-items:center;gap:10px}
+.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
+.chat-header-left span{font-size:15px;font-weight:600}
+.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
+.chat-body{padding:16px;flex:1}
+.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
+.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
+.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
+.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
+.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
+.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
+.chat-contact-item .label{font-weight:600;margin-top:4px}
+.chat-input-area{display:flex;gap:8px;margin-top:10px}
+.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
+.chat-input-area input:focus{border-color:#1e3a5f}
+.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
+.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
+.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
+</style>
+<div class="chat-widget-btn" onclick="toggleChat()"><div class="pulse-ring"></div><i class="fas fa-headset"></i></div>
+<div class="chat-box" id="chatBox">
+    <div class="chat-header"><div class="chat-header-left"><div class="logo">蓝培</div><span data-i18n="chat_title">蓝培医疗在线咨询</span></div><button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button></div>
+    <div class="chat-body">
+        <div class="chat-notice">因咨询人数多,如未及时回复,请致电:<span class="phone-red">17844531559</span>,或扫码加微信沟通:</div>
+        <div style="text-align:center;margin-bottom:14px"><img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px"></div>
+        <div class="chat-contact-row">
+            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none"><i class="fas fa-phone-alt" style="color:#1e3a5f"></i><div class="label" data-i18n="phone_consult">电话咨询</div></a>
+            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none"><i class="fab fa-whatsapp" style="color:#25d366"></i><div class="label" data-i18n="whatsapp_label">WhatsApp</div></a>
+            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none"><i class="fab fa-weixin" style="color:#07c160"></i><div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div></a>
+        </div>
+        <div class="chat-input-area"><input type="tel" id="chatPhone" placeholder="请输入手机号码"><button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button></div>
+    </div>
+    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
+</div>
+<script>
+function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
+function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){l.textContent=translations[currentLang].wechat_copy},2000)}
+function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求:'+p+',请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
+</script>
+</body>
+</html>
+<!-- END FILE: news-124-phenylbutyrate-glycerol.html -->
+
+<!-- FILE: 2026-06-19/gzh-124-phenylbutyrate-glycerol.txt -->
+<!-- FILE: news-124-phenylbutyrate-glycerol-gzh.txt -->
+【口服用苯丁酸甘油酯】用法用量详解 | UCDs罕见病氮清除治疗
+
+🔹什么是口服用苯丁酸甘油酯？
+
+全球近10年来唯一获批的口服液体氮清除剂,商品名为Ravicti瑞维安(美国Hyperion/Horizon),为苯丁酸的三酯前体药物。在体内经脂酶水解为苯丁酸,经β-氧化生成苯乙酸,与谷氨酰胺结合形成苯乙酰谷氨酰胺随尿排出,起到替代尿素途径的氮排泄作用。无气味、无味道、适口性更佳,特别适合儿童长期治疗。
+
+🔹适应症
+
+• 适用于不能通过限制蛋白质摄入和/或单纯补充氨基酸控制的尿素循环障碍(UCDs)患者的长期治疗,覆盖6种UCDs亚型(CPS1D、OTCD、ASSD、ASLD、ARG1D、HHH综合征);其中4种已纳入中国《第一批罕见病目录》
+• 须由罕见遗传代谢病专科医生启动治疗;急性高氨血症不适用;妊娠期/哺乳期禁用
+
+🔹用法用量
+
+• 推荐日总剂量按体表面积(BSA)计算,4.5-11.2ml/m²/天
+• 起始剂量:BSA<1.3m²者8.5ml/m²/天,BSA≥1.3m²者7ml/m²/天
+• 每日总剂量分3-6次,随餐(含轻食)口服
+• 从苯丁酸钠转换:Ravicti日剂量(ml)=苯丁酸钠日剂量(g)×0.81
+
+🔹价格参考
+
+• 原研药Ravicti瑞维安(Hyperion/Horizon):25ml/瓶美国上市约5000-7000美元(约3.6-5万元)
+• 中国瑞维安零售约6980元/瓶(医保未纳入)
+• 长期用药,需终身(未肝移植者)
+
+*参考价格,实际以咨询为准
+
+🔹注意事项
+
+⚠️ 苯丁酸甘油酯:必须由罕见遗传代谢病专科医生使用,需配合低蛋白饮食;常见副作用为腹泻、腹痛、异常体味;严重肝肾功能不全者慎用;妊娠期/哺乳期禁用
+
+📞 专业咨询
+蓝培医疗帮您了解苯丁酸甘油酯的全球用药渠道,合规获取全球优质医疗资源。
+
+微信咨询:17844531559
+电话:17844531559
+WhatsApp:+639685838435
+
+---
+免责声明:本文仅供信息参考,不构成医疗建议。药品为处方药,请务必在专业医生指导下使用。如有用药需求,请先咨询主治医生。
+
+<!-- END FILE: 2026-06-19/gzh-124-phenylbutyrate-glycerol.txt -->
+
+<!-- FILE: news-125-atomoxetine-axepta.html -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>盐酸托莫西汀片用法用量详解｜Axepta 25mg选择性去甲肾上腺素再摄取抑制剂ADHD用药</title>
+    <meta name="description" content="盐酸托莫西汀片(Atomoxetine)用法用量详解,Strattera择思达原研+Axepta印度仿制治疗ADHD注意力缺陷多动障碍(儿童青少年成人),选择性NRI非刺激性药物,海外用药咨询,全球优质医疗资源">
+    <meta name="keywords" content="盐酸托莫西汀,Atomoxetine,Strattera,择思达,Axepta,ADHD,注意力缺陷多动障碍,去甲肾上腺素再摄取抑制剂,NRI,Intas,Natco">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+        .lang-btn.active { background: #f97316; color: white; }
+    </style>
+    <script>
+    const translations = {
+        zh: {site_name:"蓝培医疗",back_home:"返回首页",news:"新闻资讯",cta_title:"需要咨询药品价格和购买渠道?",phone_label:"电话咨询",whatsapp_label:"WhatsApp",wechat_label:"微信咨询",disclaimer_title:"重要提示",disclaimer_text:"本文章仅供信息参考,不构成医疗建议。药品为处方药,必须在医生指导下使用。",hotline:"咨询热线",footer_platform:"全球优质医疗资源咨询平台",footer_disclaimer:"免责声明:本网站展示的医药信息仅供参考",footer_copyright:"© 2026 蓝培医疗 lanpeimed.com",chat_title:"蓝培医疗在线咨询",phone_consult:"电话咨询",wechat_scan:"微信扫一扫添加咨询",wechat_copy:"加微信",wechat_copied:"已复制!",phone_placeholder:"请输入手机号码",callback_btn:"给您回电",chat_footer:"蓝培医疗 · 全球优质医疗资源咨询",bottom_cta_title:"蓝培医疗 · 全球优质医疗资源咨询",price_reference:"* 价格仅供参考,实际价格以咨询为准",original_vs_generic:"原研药 vs 仿制药价格对比",type:"类型",brand:"品牌/厂家",origin:"产地",price:"参考价格",tab_drug:"药闻速递"},
+        en: {site_name:"Lanpei Medical",back_home:"Back to Home",news:"News",cta_title:"Need to consult?",phone_label:"Phone",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Important Notice",disclaimer_text:"For reference only.",hotline:"Hotline",footer_platform:"Global Medical Platform",footer_disclaimer:"For reference only.",footer_copyright:"© 2026 Lanpei Medical",chat_title:"Online Consultation",phone_consult:"Phone",wechat_scan:"Scan QR",wechat_copy:"Add WeChat",wechat_copied:"Copied!",phone_placeholder:"Phone number",callback_btn:"Callback",chat_footer:"Lanpei Medical",bottom_cta_title:"Global Medical Resources",price_reference:"* For reference only.",original_vs_generic:"Original vs Generic",type:"Type",brand:"Brand",origin:"Origin",price:"Price",tab_drug:"Drug Updates"},
+        ru: {site_name:"蓝培医疗",back_home:"На главную",news:"Новости",cta_title:"Нужна консультация?",phone_label:"Телефон",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Важное уведомление",disclaimer_text:"Для справки.",hotline:"Горячая линия",footer_platform:"Мед платформа",footer_disclaimer:"Для справки.",footer_copyright:"© 2026 Lanpei",chat_title:"Онлайн консультация",phone_consult:"Консультация",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Скопировано!",phone_placeholder:"Телефон",callback_btn:"Звонок",chat_footer:"Lanpei Medical",bottom_cta_title:"Глобальные мед ресурсы",price_reference:"* Для справки.",original_vs_generic:"Оригинал vs Дженерик",type:"Тип",brand:"Бренд",origin:"Страна",price:"Цена",tab_drug:"Новости лекарств"},
+        vi: {site_name:"Lanpei Medical",back_home:"Về trang chủ",news:"Tin tức",cta_title:"Cần tư vấn?",phone_label:"Điện thoại",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Thông báo",disclaimer_text:"Tham khảo.",hotline:"Hotline",footer_platform:"Nền tảng y tế",footer_disclaimer:"Tham khảo.",footer_copyright:"© 2026 Lanpei",chat_title:"Tư vấn online",phone_consult:"Tư vấn",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Đã sao chép!",phone_placeholder:"Số DT",callback_btn:"Gọi lại",chat_footer:"Lanpei Medical",bottom_cta_title:"Tài nguyên y tế toàn cầu",price_reference:"* Tham khảo.",original_vs_generic:"Original vs Generic",type:"Loại",brand:"Nhãn",origin:"Xuất xứ",price:"Giá",tab_drug:"Tin thuốc"},
+        id: {site_name:"Lanpei Medical",back_home:"Kembali",news:"Berita",cta_title:"Konsultasi?",phone_label:"Telepon",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Penting",disclaimer_text:"Referensi.",hotline:"Hotline",footer_platform:"Platform medis",footer_disclaimer:"Referensi.",footer_copyright:"© 2026 Lanpei",chat_title:"Konsultasi online",phone_consult:"Telepon",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Disalin!",phone_placeholder:"Nomor",callback_btn:"Panggil",chat_footer:"Lanpei Medical",bottom_cta_title:"Sumber daya medis global",price_reference:"* Referensi.",original_vs_generic:"Original vs Generic",type:"Tipe",brand:"Merek",origin:"Asal",price:"Harga",tab_drug:"Info Obat"},
+        my: {site_name:"Lanpei Medical",back_home:"ပင်မ",news:"သတင်း",cta_title:"လိုသလား?",phone_label:"ဖုန်း",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"အရေးကြီး",disclaimer_text:"ရည်ရွယ်ချက်။",hotline:"Hotline",footer_platform:"ပလက်ဖောင်း",footer_disclaimer:"ရည်ရွယ်ချက်။",footer_copyright:"© 2026 Lanpei",chat_title:"တိုင်ပင်",phone_consult:"ဖုန်း",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"ကူယူပြီ!",phone_placeholder:"နံပါတ်",callback_btn:"ပြန်ခေါ်",chat_footer:"Lanpei Medical",bottom_cta_title:"ကမ္ဘာလုံးဆိုင်ရာ ဆေး",price_reference:"*။",original_vs_generic:"Original vs Generic",type:"အမျိုးအစား",brand:"အမှတ်",origin:"မူလ",price:"စျေး",tab_drug:"ဆေးသတင်း"},
+        bd: {site_name:"Lanpei Medical",back_home:"হোম",news:"সংবাদ",cta_title:"দরকার?",phone_label:"ফোন",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"বিজ্ঞপ্তি",disclaimer_text:"রেফারেন্স।",hotline:"হটলাইন",footer_platform:"প্ল্যাটফর্ম",footer_disclaimer:"রেফারেন্স।",footer_copyright:"© 2026 Lanpei",chat_title:"পরামর্শ",phone_consult:"ফোন",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"কপি!",phone_placeholder:"নম্বর",callback_btn:"কল",chat_footer:"Lanpei Medical",bottom_cta_title:"বিশ্ব মেডিকেল রিসোর্স",price_reference:"*।",original_vs_generic:"Original vs Generic",type:"টাইপ",brand:"ব্র্যান্ড",origin:"উৎস",price:"দাম",tab_drug:"ওষুধ সংবাদ"}
+    };
+    let currentLang = 'zh';
+    function changeLanguage(lang) { currentLang = lang; document.querySelectorAll('.lang-btn').forEach(btn => { btn.classList.remove('bg-[#f97316]','text-white'); if(btn.dataset.lang===lang) btn.classList.add('bg-[#f97316]','text-white'); }); updateTranslations(); }
+    function updateTranslations() { const t = translations[currentLang]; document.querySelectorAll('[data-i18n]').forEach(el => { const key = el.getAttribute('data-i18n'); if(t[key]) el.textContent = t[key]; }); document.getElementById('footer-platform')&&(document.getElementById('footer-platform').textContent=t.footer_platform); document.getElementById('footer-disclaimer')&&(document.getElementById('footer-disclaimer').textContent=t.footer_disclaimer); document.getElementById('cta-title')&&(document.getElementById('cta-title').textContent=t.cta_title); document.getElementById('price-title')&&(document.getElementById('price-title').innerHTML='<i class="fas fa-tags mr-2 text-orange-500"></i>'+t.original_vs_generic); document.getElementById('price-reference')&&(document.getElementById('price-reference').textContent=t.price_reference); document.getElementById('disclaimer-text')&&(document.getElementById('disclaimer-text').textContent=t.disclaimer_text); document.getElementById('bottom-cta')&&(document.getElementById('bottom-cta').innerHTML='<p class="font-bold">'+t.bottom_cta_title+'</p><p class="text-sm mt-1">'+t.phone_label+' 17844531559 | '+t.whatsapp_label+' +639685838435 | '+t.wechat_label+' 17844531559</p>'); document.querySelector('.chat-header-left span')&&(document.querySelector('.chat-header-left span').textContent=t.chat_title); document.getElementById('wechatLabel')&&(document.getElementById('wechatLabel').textContent=t.wechat_copy); document.querySelector('.chat-input-area button')&&(document.querySelector('.chat-input-area button').textContent=t.callback_btn); document.querySelector('.chat-footer')&&(document.querySelector('.chat-footer').textContent=t.chat_footer); }
+    document.addEventListener('DOMContentLoaded', updateTranslations);
+    </script>
+</head>
+<body class="bg-gray-50">
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
+            <div class="flex items-center gap-4 flex-wrap"><span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span><span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span></div>
+            <div class="flex items-center gap-3">
+                <div class="flex gap-2">
+                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
+                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
+                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
+                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
+                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
+                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
+                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
+                </div>
+                <div class="flex gap-2 ml-4"><a href="https://wa.me/639685838435" target="_blank" class="hover:text-green-400"><i class="fab fa-whatsapp"></i></a></div>
+            </div>
+        </div>
+    </div>
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white" data-i18n="site_name">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i><span data-i18n="back_home">首页</span></a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i><span data-i18n="news">新闻资讯</span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb"><a href="https://lanpeimed.com" data-i18n="back_home">首页</a> &gt; <a href="https://lanpeimed.com/news.html" data-i18n="news">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium" data-i18n="tab_drug">药闻速递</span> &gt; 盐酸托莫西汀片</div>
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">盐酸托莫西汀片</h1>
+            <p class="text-gray-500 mb-6">Atomoxetine Hydrochloride Tablets 10mg/25mg/40mg/60mg (Axepta) - ADHD注意力缺陷多动障碍治疗 | 品牌:Strattera(择思达)</p>
+<h2><i class="fas fa-info-circle mr-2 text-orange-500"></i>药品概述</h2>
+            <div class="info-box">
+                <p><strong>通用名称:</strong>盐酸托莫西汀 (Atomoxetine Hydrochloride)</p>
+                <p><strong>英文名称:</strong>Atomoxetine Hydrochloride Tablets 10mg/25mg/40mg/60mg (Axepta, Natco-listed) - ADHD</p>
+                <p><strong>品牌名称:</strong>原研药Strattera(择思达,Eli Lilly礼来),海外经济版Axepta(Intas生产,Natco品牌列表)、Attentrol(Sun Pharma)等</p>
+                <p><strong>规格:</strong>10mg/18mg/25mg/40mg/60mg/80mg/100mg多种规格,胶囊剂型</p>
+                <p><strong>药物类型:</strong>选择性去甲肾上腺素再摄取抑制剂(Selective Norepinephrine Reuptake Inhibitor, NRI),礼来原研Strattera择思达;全球首个获批用于治疗ADHD的非刺激性处方药;不同于哌甲酯等中枢兴奋剂,托莫西汀不具成瘾性、滥用潜力低;通过选择性抑制突触前去甲肾上腺素转运体,提高前额叶皮层去甲肾上腺素浓度,改善注意力和执行功能</p>
+            </div>
+            <h2><i class="fas fa-briefcase-medical mr-2 text-orange-500"></i>适应症</h2>
+            <p>盐酸托莫西汀片适用于以下情况:</p>
+            <ul class="list-disc list-inside space-y-2">
+                <li><strong>主要适应症:</strong>适用于治疗6岁及以上儿童、青少年及成人的注意力缺陷多动障碍(ADHD);包括注意缺陷型、多动-冲动型及混合型ADHD;作为ADHD综合治疗的一部分,需联合心理咨询、行为治疗和教育干预</li>
+                <li><strong>用药前提:</strong>须由具备ADHD诊疗经验的专科医师(如精神科、儿科、儿童精神科)确诊后开具处方;用药前需全面评估心血管(血压、心率、心电图)、精神症状(自杀风险、躁狂/精神病史)、肝功能、生长发育基线;既往有严重心血管疾病(症状性心律失常、严重高血压、肥厚型心肌病等)者需谨慎评估</li>
+            </ul>
+            <h2><i class="fas fa-cogs mr-2 text-orange-500"></i>作用机制</h2>
+            <p>托莫西汀通过高选择性抑制突触前去甲肾上腺素转运体(NET),阻断去甲肾上腺素(NE)的再摄取,提高突触间隙NE浓度;前额叶皮层是ADHD核心功能(注意力、工作记忆、执行功能、冲动控制)的解剖基础,该区域NE浓度的提升可显著改善ADHD症状;与哌甲酯等中枢兴奋剂不同,托莫西汀不直接增加多巴胺释放,故无成瘾性和滥用潜力,被美国FDA列为非管制类处方药;其疗效需2-4周起效,8-12周达到稳定疗效,完整疗效可能需要6个月或更长时间;经肝脏CYP2D6代谢,慢代谢型(PM)患者半衰期延长约5倍,需相应调整剂量</p>
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>标准剂量</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>儿童和青少年(6岁及以上,体重&lt;70kg):起始剂量0.5mg/kg/天,3天后增至目标剂量1.2mg/kg/天;最大剂量1.4mg/kg/天或100mg/天,以较小者为准;体重≥70kg的儿童/青少年及成人:起始剂量40mg/天,3天后增至目标剂量80mg/天;最大剂量100mg/天;每日单次或分两次(早晨+午后)服用;可与食物同服或空腹服用</li>
+            </ul>
+            <h3>服药方式</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>每日在大致相同的时间服用(早晨单次给药最常见,午后给药可能影响睡眠)</li>
+                <li>整粒胶囊吞服,不可咀嚼、掰开或压碎(可能影响缓释效果);若有吞咽困难需告知医生</li>
+                <li>可与食物同服或空腹服用;食物不影响吸收但可减少胃部不适</li>
+                <li>漏服处理:尽快补服;若接近下一次服药时间则跳过本次,不可双倍补服</li>
+                <li>突然停药可能导致ADHD症状反弹,需在医生指导下逐渐减量</li>
+            </ul>
+            <h3>剂量调整</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>用药2-4周评估疗效和耐受性;如疗效不佳且耐受良好,可逐步加量至最大推荐剂量</li>
+                <li>CYP2D6慢代谢型(PM)患者:暴露量显著增加,需降低剂量并加强不良反应监测;与CYP2D6强抑制剂(如帕罗西汀、氟西汀、奎宁)合用时可能需调整剂量</li>
+                <li>中度肝功能不全(Child-Pugh B级):推荐剂量减至常规剂量的50%;重度肝功能不全(Child-Pugh C级):推荐剂量减至常规剂量的25%</li>
+                <li>不可超过推荐最大日剂量;用药期间定期重新评估是否需要继续治疗</li>
+            </ul>
+            <h2><i class="fas fa-heartbeat mr-2 text-orange-500"></i>监测要求</h2>
+            <div class="info-box">
+                <p>用药前:评估血压、心率(基线)、体重、身高(儿童)、心电图(有心脏病史者)、肝功能(ALT/AST基线)、精神症状(自杀/躁狂风险)、家族史(猝死/心律失常);用药期间:每次随访监测血压和心率(因可能升高)、体重和身高(儿童,可能影响生长)、肝功能(出现黄疸/腹痛/尿色深需立即检查)、精神状态(新发或恶化的自杀/躁狂/精神病性症状)、性功能(成人可能出现勃起障碍);定期评估疗效和依从性;长期使用者每6-12个月重新评估是否继续治疗</p>
+            </div>
+            <h2><i class="fas fa-exclamation-triangle mr-2 text-orange-500"></i>注意事项</h2>
+            <ul class="list-disc list-inside space-y-2">
+                <li><strong>常见不良反应:</strong>常见(成人):口干、恶心、食欲减退、便秘、失眠、头晕、勃起障碍/性功能障碍、心率加快、血压升高、嗜睡、易激惹、情绪低落;常见(儿童):食欲下降、体重减轻、头痛、腹痛、嗜睡、呕吐、头晕、情绪波动;严重(罕见):自杀想法/行为、肝损伤(黄疸)、严重心血管事件(心源性猝死、心律失常)、精神病性症状、Raynaud现象、阴茎异常勃起(&gt;4小时需急诊)、生长发育迟缓(儿童长期使用)</li>
+                <li><strong>禁忌:</strong>对本品过敏者禁用;闭角型青光眼患者禁用;严重心血管疾病(症状性心律失常、严重高血压、肥厚型心肌病、急性心肌梗死等)者禁用;正在使用或14天内使用过单胺氧化酶抑制剂(MAOI)者禁用(可能导致高血压危象)</li>
+                <li><strong>特殊人群:</strong>妊娠期/哺乳期:不推荐使用(除非获益明确大于风险);儿童:6岁以下不推荐使用(安全有效性未确立);老年人:可能更易出现体位性低血压</li>
+                <li><strong>驾驶操作:</strong>用药初期可能引起嗜睡、头晕,应避免驾驶或操作机械直至确认耐受良好</li>
+                <li><strong>药物相互作用:</strong>MAOI(高血压危象,绝对禁忌);CYP2D6抑制剂(帕罗西汀/氟西汀,可能需减量);沙丁胺醇等β2激动剂(增加心血管反应);升压药(去氧肾上腺素等,可能升压过度);抗抑郁药、抗精神病药(可能增加5-羟色胺综合征风险)</li>
+            </ul>
+            <h2 id="price-title"><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格对比</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>产地</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>Strattera 择思达 (Eli Lilly 礼来)</td>
+                        <td>美国/欧盟/中国(2017年中国批准)</td>
+                        <td><span class="price-tag">Strattera 60mg×30粒美国上市价约250-350美元(约合人民币1800-2500元);40mg×30粒英国原研约530澳元;中国上市60mg×7粒约600-800元;原研药需经合规医疗资源咨询渠道获得</span><br><span class="text-xs text-gray-500">原研药参考价</span></td>
+                    </tr>
+                    <tr>
+                        <td>海外经济版</td>
+                        <td>Axepta (Intas生产,Natco品牌列表) / Attentrol (Sun Pharma) / Tomoxetin (Torrent)</td>
+                        <td>印度</td>
+                        <td><span class="price-tag">Axepta 25mg×30片约295印度卢比(约合人民币25元);Attentrol 10mg×240片约113美元(约合人民币810元);Axepta 40mg×100片约102美元(约合人民币730元);经济性显著优于原研药,需经合规医疗资源咨询渠道获得</span><br><span class="text-xs text-gray-500">经正规海外医疗资源咨询渠道</span></td>
+                    </tr>
+                </tbody>
+            </table>
+            <p id="price-reference" class="text-xs text-gray-400 mt-2" data-i18n="price_reference">* 价格仅供参考,实际价格以咨询为准</p>
+            <div class="cta-box">
+                <p id="cta-title" class="text-lg mb-3" data-i18n="cta_title">需要咨询盐酸托莫西汀片药品渠道和价格信息?</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i><span data-i18n="phone_label">电话咨询</span>:<a href="tel:17844531559">17844531559</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i><span data-i18n="whatsapp_label">WhatsApp</span>:<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i><span data-i18n="wechat_label">微信咨询</span>:17844531559</p>
+            </div>
+            <div class="warning-box">
+                <p><strong id="disclaimer-title" data-i18n="disclaimer_title"><i class="fas fa-exclamation-triangle mr-1"></i>重要提示:</strong><span id="disclaimer-text" data-i18n="disclaimer_text">本文章仅供信息参考,不构成医疗建议。药品为处方药,必须在医生指导下使用。</span></p>
+            </div>
+        </article>
+        <div id="bottom-cta" class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold" data-i18n="bottom_cta_title">蓝培医疗 · 全球优质医疗资源咨询</p>
+            <p class="text-sm mt-1">电话 17844531559 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p id="footer-platform" data-i18n="footer_platform">全球优质医疗资源咨询平台</p>
+            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明:本网站展示的医药信息仅供参考</p>
+            <p id="footer-copyright" class="mt-1" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+<style>
+.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
+.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
+.chat-widget-btn i{color:#fff;font-size:24px}
+.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
+@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
+.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
+@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.chat-box.active{display:flex}
+.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
+.chat-header-left{display:flex;align-items:center;gap:10px}
+.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
+.chat-header-left span{font-size:15px;font-weight:600}
+.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
+.chat-body{padding:16px;flex:1}
+.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
+.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
+.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
+.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
+.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
+.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
+.chat-contact-item .label{font-weight:600;margin-top:4px}
+.chat-input-area{display:flex;gap:8px;margin-top:10px}
+.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
+.chat-input-area input:focus{border-color:#1e3a5f}
+.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
+.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
+.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
+</style>
+<div class="chat-widget-btn" onclick="toggleChat()"><div class="pulse-ring"></div><i class="fas fa-headset"></i></div>
+<div class="chat-box" id="chatBox">
+    <div class="chat-header"><div class="chat-header-left"><div class="logo">蓝培</div><span data-i18n="chat_title">蓝培医疗在线咨询</span></div><button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button></div>
+    <div class="chat-body">
+        <div class="chat-notice">因咨询人数多,如未及时回复,请致电:<span class="phone-red">17844531559</span>,或扫码加微信沟通:</div>
+        <div style="text-align:center;margin-bottom:14px"><img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px"></div>
+        <div class="chat-contact-row">
+            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none"><i class="fas fa-phone-alt" style="color:#1e3a5f"></i><div class="label" data-i18n="phone_consult">电话咨询</div></a>
+            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none"><i class="fab fa-whatsapp" style="color:#25d366"></i><div class="label" data-i18n="whatsapp_label">WhatsApp</div></a>
+            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none"><i class="fab fa-weixin" style="color:#07c160"></i><div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div></a>
+        </div>
+        <div class="chat-input-area"><input type="tel" id="chatPhone" placeholder="请输入手机号码"><button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button></div>
+    </div>
+    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
+</div>
+<script>
+function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
+function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){l.textContent=translations[currentLang].wechat_copy},2000)}
+function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求:'+p+',请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
+</script>
+</body>
+</html>
+<!-- END FILE: news-125-atomoxetine-axepta.html -->
+
+<!-- FILE: 2026-06-19/gzh-125-atomoxetine-axepta.txt -->
+<!-- FILE: news-125-atomoxetine-axepta-gzh.txt -->
+【盐酸托莫西汀片】用法用量详解 | ADHD注意力缺陷多动障碍治疗
+
+🔹什么是盐酸托莫西汀？
+
+由Eli Lilly礼来原研,商品名为Strattera择思达,全球首个获批用于ADHD的非刺激性处方药。通过选择性抑制突触前去甲肾上腺素转运体,提高前额叶皮层去甲肾上腺素浓度,改善注意力和执行功能。不同于哌甲酯等中枢兴奋剂,托莫西汀不具成瘾性。
+
+🔹适应症
+
+• 适用于治疗6岁及以上儿童、青少年及成人的注意力缺陷多动障碍(ADHD),包括注意缺陷型、多动-冲动型及混合型
+• 须由具备ADHD诊疗经验的专科医师确诊后开具处方;用药前需全面评估心血管、精神症状、肝功能、生长发育基线
+
+🔹用法用量
+
+• 儿童/青少年(<70kg):起始0.5mg/kg/天,3天后增至1.2mg/kg/天,最大1.4mg/kg/天或100mg/天
+• 成人/儿童(≥70kg):起始40mg/天,3天后增至80mg/天,最大100mg/天
+• 每日单次或分两次(早晨+午后)服用;可与食物同服或空腹服用
+
+🔹价格参考
+
+• 原研药Strattera择思达(Eli Lilly):60mg×30粒美国约250-350美元(约1800-2500元)
+• 经济版Axepta(印度):25mg×30片约295印度卢比(约25元);40mg×100片约102美元(约730元)
+• 完整疗效需2-4周起效,8-12周达稳定疗效
+
+*参考价格,实际以咨询为准
+
+🔹注意事项
+
+⚠️ 托莫西汀:用药初期可能引起血压升高、心率加快;可能影响儿童生长发育;有自杀想法/肝损伤/严重心血管事件风险;MAOI合用绝对禁忌;妊娠期不推荐
+
+📞 专业咨询
+蓝培医疗帮您了解盐酸托莫西汀的全球用药渠道,合规获取全球优质医疗资源。
+
+微信咨询:17844531559
+电话:17844531559
+WhatsApp:+639685838435
+
+---
+免责声明:本文仅供信息参考,不构成医疗建议。药品为处方药,请务必在专业医生指导下使用。如有用药需求,请先咨询主治医生。
+
+<!-- END FILE: 2026-06-19/gzh-125-atomoxetine-axepta.txt -->
+
+<!-- FILE: news-126-obeticholic-eticholic.html -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>奥贝胆酸片用法用量详解｜Eticholic 5mg FXR激动剂PBC二线治疗方案</title>
+    <meta name="description" content="奥贝胆酸片(Obeticholic Acid)用法用量详解,Ocaliva原研+Eticholic印度Lupin版治疗对UDCA应答不足或不耐受的原发性胆汁性胆管炎PBC成人患者,FXR激动剂,海外用药咨询,全球优质医疗资源">
+    <meta name="keywords" content="奥贝胆酸,Obeticholic Acid,Ocaliva,Eticholic,Lupin,PBC,原发性胆汁性胆管炎,FXR激动剂,法尼醇X受体">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+        .lang-btn.active { background: #f97316; color: white; }
+    </style>
+    <script>
+    const translations = {
+        zh: {site_name:"蓝培医疗",back_home:"返回首页",news:"新闻资讯",cta_title:"需要咨询药品价格和购买渠道?",phone_label:"电话咨询",whatsapp_label:"WhatsApp",wechat_label:"微信咨询",disclaimer_title:"重要提示",disclaimer_text:"本文章仅供信息参考,不构成医疗建议。药品为处方药,必须在医生指导下使用。",hotline:"咨询热线",footer_platform:"全球优质医疗资源咨询平台",footer_disclaimer:"免责声明:本网站展示的医药信息仅供参考",footer_copyright:"© 2026 蓝培医疗 lanpeimed.com",chat_title:"蓝培医疗在线咨询",phone_consult:"电话咨询",wechat_scan:"微信扫一扫添加咨询",wechat_copy:"加微信",wechat_copied:"已复制!",phone_placeholder:"请输入手机号码",callback_btn:"给您回电",chat_footer:"蓝培医疗 · 全球优质医疗资源咨询",bottom_cta_title:"蓝培医疗 · 全球优质医疗资源咨询",price_reference:"* 价格仅供参考,实际价格以咨询为准",original_vs_generic:"原研药 vs 仿制药价格对比",type:"类型",brand:"品牌/厂家",origin:"产地",price:"参考价格",tab_drug:"药闻速递"},
+        en: {site_name:"Lanpei Medical",back_home:"Back to Home",news:"News",cta_title:"Need to consult?",phone_label:"Phone",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Important Notice",disclaimer_text:"For reference only.",hotline:"Hotline",footer_platform:"Global Medical Platform",footer_disclaimer:"For reference only.",footer_copyright:"© 2026 Lanpei Medical",chat_title:"Online Consultation",phone_consult:"Phone",wechat_scan:"Scan QR",wechat_copy:"Add WeChat",wechat_copied:"Copied!",phone_placeholder:"Phone number",callback_btn:"Callback",chat_footer:"Lanpei Medical",bottom_cta_title:"Global Medical Resources",price_reference:"* For reference only.",original_vs_generic:"Original vs Generic",type:"Type",brand:"Brand",origin:"Origin",price:"Price",tab_drug:"Drug Updates"},
+        ru: {site_name:"蓝培医疗",back_home:"На главную",news:"Новости",cta_title:"Нужна консультация?",phone_label:"Телефон",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Важное уведомление",disclaimer_text:"Для справки.",hotline:"Горячая линия",footer_platform:"Мед платформа",footer_disclaimer:"Для справки.",footer_copyright:"© 2026 Lanpei",chat_title:"Онлайн консультация",phone_consult:"Консультация",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Скопировано!",phone_placeholder:"Телефон",callback_btn:"Звонок",chat_footer:"Lanpei Medical",bottom_cta_title:"Глобальные мед ресурсы",price_reference:"* Для справки.",original_vs_generic:"Оригинал vs Дженерик",type:"Тип",brand:"Бренд",origin:"Страна",price:"Цена",tab_drug:"Новости лекарств"},
+        vi: {site_name:"Lanpei Medical",back_home:"Về trang chủ",news:"Tin tức",cta_title:"Cần tư vấn?",phone_label:"Điện thoại",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Thông báo",disclaimer_text:"Tham khảo.",hotline:"Hotline",footer_platform:"Nền tảng y tế",footer_disclaimer:"Tham khảo.",footer_copyright:"© 2026 Lanpei",chat_title:"Tư vấn online",phone_consult:"Tư vấn",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Đã sao chép!",phone_placeholder:"Số DT",callback_btn:"Gọi lại",chat_footer:"Lanpei Medical",bottom_cta_title:"Tài nguyên y tế toàn cầu",price_reference:"* Tham khảo.",original_vs_generic:"Original vs Generic",type:"Loại",brand:"Nhãn",origin:"Xuất xứ",price:"Giá",tab_drug:"Tin thuốc"},
+        id: {site_name:"Lanpei Medical",back_home:"Kembali",news:"Berita",cta_title:"Konsultasi?",phone_label:"Telepon",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Penting",disclaimer_text:"Referensi.",hotline:"Hotline",footer_platform:"Platform medis",footer_disclaimer:"Referensi.",footer_copyright:"© 2026 Lanpei",chat_title:"Konsultasi online",phone_consult:"Telepon",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Disalin!",phone_placeholder:"Nomor",callback_btn:"Panggil",chat_footer:"Lanpei Medical",bottom_cta_title:"Sumber daya medis global",price_reference:"* Referensi.",original_vs_generic:"Original vs Generic",type:"Tipe",brand:"Merek",origin:"Asal",price:"Harga",tab_drug:"Info Obat"},
+        my: {site_name:"Lanpei Medical",back_home:"ပင်မ",news:"သတင်း",cta_title:"လိုသလား?",phone_label:"ဖုန်း",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"အရေးကြီး",disclaimer_text:"ရည်ရွယ်ချက်။",hotline:"Hotline",footer_platform:"ပလက်ဖောင်း",footer_disclaimer:"ရည်ရွယ်ချက်။",footer_copyright:"© 2026 Lanpei",chat_title:"တိုင်ပင်",phone_consult:"ဖုန်း",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"ကူယူပြီ!",phone_placeholder:"နံပါတ်",callback_btn:"ပြန်ခေါ်",chat_footer:"Lanpei Medical",bottom_cta_title:"ကမ္ဘာလုံးဆိုင်ရာ ဆေး",price_reference:"*။",original_vs_generic:"Original vs Generic",type:"အမျိုးအစား",brand:"အမှတ်",origin:"မူလ",price:"စျေး",tab_drug:"ဆေးသတင်း"},
+        bd: {site_name:"Lanpei Medical",back_home:"হোম",news:"সংবাদ",cta_title:"দরকার?",phone_label:"ফোন",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"বিজ্ঞপ্তি",disclaimer_text:"রেফারেন্স।",hotline:"হটলাইন",footer_platform:"প্ল্যাটফর্ম",footer_disclaimer:"রেফারেন্স।",footer_copyright:"© 2026 Lanpei",chat_title:"পরামর্শ",phone_consult:"ফোন",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"কপি!",phone_placeholder:"নম্বর",callback_btn:"কল",chat_footer:"Lanpei Medical",bottom_cta_title:"বিশ্ব মেডিকেল রিসোর্স",price_reference:"*।",original_vs_generic:"Original vs Generic",type:"টাইপ",brand:"ব্র্যান্ড",origin:"উৎস",price:"দাম",tab_drug:"ওষুধ সংবাদ"}
+    };
+    let currentLang = 'zh';
+    function changeLanguage(lang) { currentLang = lang; document.querySelectorAll('.lang-btn').forEach(btn => { btn.classList.remove('bg-[#f97316]','text-white'); if(btn.dataset.lang===lang) btn.classList.add('bg-[#f97316]','text-white'); }); updateTranslations(); }
+    function updateTranslations() { const t = translations[currentLang]; document.querySelectorAll('[data-i18n]').forEach(el => { const key = el.getAttribute('data-i18n'); if(t[key]) el.textContent = t[key]; }); document.getElementById('footer-platform')&&(document.getElementById('footer-platform').textContent=t.footer_platform); document.getElementById('footer-disclaimer')&&(document.getElementById('footer-disclaimer').textContent=t.footer_disclaimer); document.getElementById('cta-title')&&(document.getElementById('cta-title').textContent=t.cta_title); document.getElementById('price-title')&&(document.getElementById('price-title').innerHTML='<i class="fas fa-tags mr-2 text-orange-500"></i>'+t.original_vs_generic); document.getElementById('price-reference')&&(document.getElementById('price-reference').textContent=t.price_reference); document.getElementById('disclaimer-text')&&(document.getElementById('disclaimer-text').textContent=t.disclaimer_text); document.getElementById('bottom-cta')&&(document.getElementById('bottom-cta').innerHTML='<p class="font-bold">'+t.bottom_cta_title+'</p><p class="text-sm mt-1">'+t.phone_label+' 17844531559 | '+t.whatsapp_label+' +639685838435 | '+t.wechat_label+' 17844531559</p>'); document.querySelector('.chat-header-left span')&&(document.querySelector('.chat-header-left span').textContent=t.chat_title); document.getElementById('wechatLabel')&&(document.getElementById('wechatLabel').textContent=t.wechat_copy); document.querySelector('.chat-input-area button')&&(document.querySelector('.chat-input-area button').textContent=t.callback_btn); document.querySelector('.chat-footer')&&(document.querySelector('.chat-footer').textContent=t.chat_footer); }
+    document.addEventListener('DOMContentLoaded', updateTranslations);
+    </script>
+</head>
+<body class="bg-gray-50">
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
+            <div class="flex items-center gap-4 flex-wrap"><span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span><span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span></div>
+            <div class="flex items-center gap-3">
+                <div class="flex gap-2">
+                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
+                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
+                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
+                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
+                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
+                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
+                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
+                </div>
+                <div class="flex gap-2 ml-4"><a href="https://wa.me/639685838435" target="_blank" class="hover:text-green-400"><i class="fab fa-whatsapp"></i></a></div>
+            </div>
+        </div>
+    </div>
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white" data-i18n="site_name">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i><span data-i18n="back_home">首页</span></a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i><span data-i18n="news">新闻资讯</span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb"><a href="https://lanpeimed.com" data-i18n="back_home">首页</a> &gt; <a href="https://lanpeimed.com/news.html" data-i18n="news">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium" data-i18n="tab_drug">药闻速递</span> &gt; 奥贝胆酸片 Eticholic</div>
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">奥贝胆酸片 Eticholic</h1>
+            <p class="text-gray-500 mb-6">Obeticholic Acid Tablets 5mg/10mg (Eticholic, Lupin) - 原发性胆汁性胆管炎PBC二线靶向治疗 | 品牌:Ocaliva</p>
+<h2><i class="fas fa-info-circle mr-2 text-orange-500"></i>药品概述</h2>
+            <div class="info-box">
+                <p><strong>通用名称:</strong>奥贝胆酸 (Obeticholic Acid)</p>
+                <p><strong>英文名称:</strong>Obeticholic Acid Tablets 5mg/10mg (Eticholic, Lupin) - PBC</p>
+                <p><strong>品牌名称:</strong>原研药Ocaliva(Intercept Pharmaceuticals)、海外经济版Eticholic(Lupin)、OCANAT(Glenmark)、Ocabile(Sun Pharma)、Obetohep(Cadila)</p>
+                <p><strong>规格:</strong>5mg/片、10mg/片,薄膜衣片</p>
+                <p><strong>药物类型:</strong>法尼醇X受体(FXR)激动剂,全球首个获批的FXR激动剂;Intercept Pharma原研Ocaliva;通过激活FXR调节胆汁酸代谢、抑制肝细胞内胆汁酸合成(抑制CYP7A1)、促进胆汁酸分泌和排泄,改善胆汁淤积,减轻肝细胞损伤;在PBC治疗中作为对UDCA应答不足或不耐受患者的二线治疗选择;FDA于2016年5月批准上市,2021年因肝硬化患者严重肝损伤报告被加黑框警告</p>
+            </div>
+            <h2><i class="fas fa-briefcase-medical mr-2 text-orange-500"></i>适应症</h2>
+            <p>奥贝胆酸片 Eticholic适用于以下情况:</p>
+            <ul class="list-disc list-inside space-y-2">
+                <li><strong>主要适应症:</strong>适用于对熊去氧胆酸(UDCA)应答不足或不耐受的原发性胆汁性胆管炎(PBC)成人患者;可与UDCA联合使用,也可用于UDCA不耐受者的单药治疗;需满足:无肝硬化或代偿期肝硬化且无门静脉高压证据;不适用于失代偿期肝硬化(Child-Pugh B/C级)患者(增加肝衰竭风险)</li>
+                <li><strong>用药前提:</strong>必须由肝病专科医生评估后使用;用药前需全面评估肝功能(ALT/AST/ALP/总胆红素)、肝硬化状态(影像学+肝弹性成像+血小板计数)、门静脉高压证据(胃镜/影像);同时需排除完全性胆道梗阻;FDA对肝硬化患者有黑框警告,必须严格评估风险获益比</li>
+            </ul>
+            <h2><i class="fas fa-cogs mr-2 text-orange-500"></i>作用机制</h2>
+            <p>奥贝胆酸是鹅去氧胆酸(CDCA)的6α-乙基衍生物,为强效选择性法尼醇X受体(FXR)激动剂;FXR是核受体超家族成员,在肝脏、肠道中高表达,调控胆汁酸合成、转运和代谢的关键基因;奥贝胆酸激活FXR后,通过负反馈抑制胆固醇7α-羟化酶(CYP7A1)表达,减少肝细胞内胆汁酸合成;同时上调胆汁酸输出泵(BSEP)和多药耐药相关蛋白(MRP2、MRP3、MRP4)表达,促进胆汁酸向胆管和血液排泄;还能抑制肠道FXR信号,促进成纤维细胞生长因子19(FGF19)分泌,进一步抑制肝脏胆汁酸合成;综合作用下可显著降低血清碱性磷酸酶(ALP)和总胆红素,改善PBC生化应答</p>
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>标准剂量</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>无肝硬化或代偿期肝硬化无门静脉高压者:起始剂量5mg,每日一次,口服;治疗3个月后评估ALP和总胆红素,若应答不佳且耐受良好,可增至10mg,每日一次(最大剂量);可与食物同服或空腹服用;与胆汁酸结合树脂(如考来烯胺)合用时需间隔至少4小时</li>
+            </ul>
+            <h3>服药方式</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>每日一次,固定时间服用(推荐早晨),保持血药浓度稳定</li>
+                <li>整片吞服,不可掰开、压碎或咀嚼(薄膜衣片)</li>
+                <li>可与食物同服或空腹服用;若出现明显恶心或腹部不适建议随餐服用</li>
+                <li>漏服处理:尽快补服;若接近下一次服药时间则跳过本次,不可双倍补服</li>
+                <li>不可突然停药(可能引起PBC生化反弹);如需停药应在医生指导下进行</li>
+            </ul>
+            <h3>剂量调整</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>治疗3个月后评估ALP和总胆红素:若ALP较基线下降&lt;15%或未降至正常且耐受良好,可增至10mg/天</li>
+                <li>中度肝功能不全(Child-Pugh B级):初始剂量每周5mg,根据耐受性逐步调整至每周2次5mg</li>
+                <li>重度肝功能不全(Child-Pugh C级):禁用</li>
+                <li>出现严重瘙痒(无法耐受):可减量至隔日5mg或每周2次5mg,或暂停用药至症状缓解后减量恢复;瘙痒管理:轻度外用炉甘石洗剂、保湿;中度联用抗组胺药(氯雷他定)或胆汁酸结合树脂(考来烯胺);重度需暂停</li>
+                <li>出现肝功能失代偿或总胆红素持续升高&gt;2×ULN:立即永久停药</li>
+            </ul>
+            <h2><i class="fas fa-heartbeat mr-2 text-orange-500"></i>监测要求</h2>
+            <div class="info-box">
+                <p>用药前:肝功能(ALT/AST/ALP/总胆红素基线)、肝硬化评估(影像学+肝弹性+血小板)、门静脉高压评估(胃镜/影像)、瘙痒基线评估;用药期间:每4周监测肝功能(ALT/AST/ALP/总胆红素);每3个月评估瘙痒程度(VAS评分)和生活质量;定期监测甲状腺功能、血脂(尤其HDL-C可能下降);出现以下情况立即停药并就医:肝功能失代偿征象(黄疸加深、腹水、肝性脑病)、总胆红素&gt;2×ULN、严重瘙痒无法耐受</p>
+            </div>
+            <h2><i class="fas fa-exclamation-triangle mr-2 text-orange-500"></i>注意事项</h2>
+            <ul class="list-disc list-inside space-y-2">
+                <li><strong>常见不良反应:</strong>常见(发生率较高):瘙痒(高达68%,剂量依赖性,多在用药初期出现,随时间可耐受);肝功能异常(ALT/AST/胆红素升高约15%);其他:关节痛(14%)、头晕(10%)、便秘(8%)、皮疹(11%)、甲状腺功能异常(7%)、疲劳、腹痛、恶心;严重(罕见但需警惕):失代偿期肝硬化患者严重肝损伤(可能导致肝移植或死亡,FDA黑框警告)</li>
+                <li><strong>禁忌:</strong>失代偿期肝硬化(Child-Pugh B/C级)或有既往失代偿事件者禁用;代偿期肝硬化伴门静脉高压证据(腹水、食管胃底静脉曲张、持续性血小板减少)者禁用;完全性胆道梗阻者禁用;对本品过敏者禁用</li>
+                <li><strong>特殊人群:</strong>妊娠期禁用(可能导致胎儿胆道发育异常);哺乳期禁用;老年患者无需剂量调整但需加强肝功能监测;儿童:18岁以下安全有效性未确立</li>
+                <li><strong>驾驶操作:</strong>用药期间如出现头晕、瘙痒影响睡眠等避免驾驶或操作机械</li>
+                <li><strong>药物相互作用:</strong>避免与CYP1A2强诱导剂(如利福平、卡马西平)合用(降低疗效);与胆汁酸结合树脂(考来烯胺、考来替泊)合用需间隔至少4小时(影响吸收);与华法林合用可能影响INR(监测凝血);熊去氧胆酸(UDCA)可与本品联合使用</li>
+            </ul>
+            <h2 id="price-title"><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格对比</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>产地</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>Ocaliva (Intercept Pharmaceuticals)</td>
+                        <td>美国(2016年5月)/欧盟(2016年12月,后部分市场退出)</td>
+                        <td><span class="price-tag">Ocaliva 5mg×30片美国上市价约4881美元/盒(约合人民币3.5万元);10mg×30片约5200美元/盒(约合人民币3.7万元);原研药价格高昂,且因肝硬化患者安全性问题已在美国部分市场受限,需经合规医疗资源咨询渠道获得</span><br><span class="text-xs text-gray-500">原研药参考价</span></td>
+                    </tr>
+                    <tr>
+                        <td>海外经济版</td>
+                        <td>Eticholic (Lupin) / OCANAT (Glenmark) / Ocabile (Sun Pharma) / Obetohep (Cadila)</td>
+                        <td>印度/孟加拉</td>
+                        <td><span class="price-tag">印度Natco版5mg×100片约62美元(约合人民币450元);Eticholic(Lupin)、OCANAT(Glenmark)、Ocabile(Sun Pharma)、Obetohep(Cadila)等多家印度仿制版,价格通常在每盒数百至一千多元人民币区间;仿制药为全球患者提供经济选择,需经合规医疗资源咨询渠道获得</span><br><span class="text-xs text-gray-500">经正规海外医疗资源咨询渠道</span></td>
+                    </tr>
+                </tbody>
+            </table>
+            <p id="price-reference" class="text-xs text-gray-400 mt-2" data-i18n="price_reference">* 价格仅供参考,实际价格以咨询为准</p>
+            <div class="cta-box">
+                <p id="cta-title" class="text-lg mb-3" data-i18n="cta_title">需要咨询奥贝胆酸片 Eticholic药品渠道和价格信息?</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i><span data-i18n="phone_label">电话咨询</span>:<a href="tel:17844531559">17844531559</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i><span data-i18n="whatsapp_label">WhatsApp</span>:<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i><span data-i18n="wechat_label">微信咨询</span>:17844531559</p>
+            </div>
+            <div class="warning-box">
+                <p><strong id="disclaimer-title" data-i18n="disclaimer_title"><i class="fas fa-exclamation-triangle mr-1"></i>重要提示:</strong><span id="disclaimer-text" data-i18n="disclaimer_text">本文章仅供信息参考,不构成医疗建议。药品为处方药,必须在医生指导下使用。</span></p>
+            </div>
+        </article>
+        <div id="bottom-cta" class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold" data-i18n="bottom_cta_title">蓝培医疗 · 全球优质医疗资源咨询</p>
+            <p class="text-sm mt-1">电话 17844531559 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p id="footer-platform" data-i18n="footer_platform">全球优质医疗资源咨询平台</p>
+            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明:本网站展示的医药信息仅供参考</p>
+            <p id="footer-copyright" class="mt-1" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+<style>
+.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
+.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
+.chat-widget-btn i{color:#fff;font-size:24px}
+.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
+@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
+.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
+@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.chat-box.active{display:flex}
+.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
+.chat-header-left{display:flex;align-items:center;gap:10px}
+.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
+.chat-header-left span{font-size:15px;font-weight:600}
+.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
+.chat-body{padding:16px;flex:1}
+.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
+.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
+.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
+.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
+.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
+.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
+.chat-contact-item .label{font-weight:600;margin-top:4px}
+.chat-input-area{display:flex;gap:8px;margin-top:10px}
+.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
+.chat-input-area input:focus{border-color:#1e3a5f}
+.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
+.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
+.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
+</style>
+<div class="chat-widget-btn" onclick="toggleChat()"><div class="pulse-ring"></div><i class="fas fa-headset"></i></div>
+<div class="chat-box" id="chatBox">
+    <div class="chat-header"><div class="chat-header-left"><div class="logo">蓝培</div><span data-i18n="chat_title">蓝培医疗在线咨询</span></div><button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button></div>
+    <div class="chat-body">
+        <div class="chat-notice">因咨询人数多,如未及时回复,请致电:<span class="phone-red">17844531559</span>,或扫码加微信沟通:</div>
+        <div style="text-align:center;margin-bottom:14px"><img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px"></div>
+        <div class="chat-contact-row">
+            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none"><i class="fas fa-phone-alt" style="color:#1e3a5f"></i><div class="label" data-i18n="phone_consult">电话咨询</div></a>
+            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none"><i class="fab fa-whatsapp" style="color:#25d366"></i><div class="label" data-i18n="whatsapp_label">WhatsApp</div></a>
+            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none"><i class="fab fa-weixin" style="color:#07c160"></i><div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div></a>
+        </div>
+        <div class="chat-input-area"><input type="tel" id="chatPhone" placeholder="请输入手机号码"><button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button></div>
+    </div>
+    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
+</div>
+<script>
+function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
+function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){l.textContent=translations[currentLang].wechat_copy},2000)}
+function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求:'+p+',请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
+</script>
+</body>
+</html>
+<!-- END FILE: news-126-obeticholic-eticholic.html -->
+
+<!-- FILE: 2026-06-19/gzh-126-obeticholic-eticholic.txt -->
+<!-- FILE: news-126-obeticholic-eticholic-gzh.txt -->
+【奥贝胆酸片 Eticholic】用法用量详解 | PBC原发性胆汁性胆管炎二线靶向治疗
+
+🔹什么是奥贝胆酸？
+
+全球首个获批的法尼醇X受体(FXR)激动剂,Intercept Pharma原研,商品名为Ocaliva,作为PBC二线治疗选择。通过激活FXR调节胆汁酸代谢、抑制CYP7A1减少胆汁酸合成、促进胆汁排泄,改善胆汁淤积。
+
+🔹适应症
+
+• 适用于对熊去氧胆酸(UDCA)应答不足或不耐受的原发性胆汁性胆管炎(PBC)成人患者
+• 可与UDCA联合使用,也可单药治疗UDCA不耐受者
+• 仅限无肝硬化或代偿期肝硬化无门静脉高压证据的患者使用;失代偿期肝硬化禁用
+
+🔹用法用量
+
+• 起始剂量5mg,每日一次,口服
+• 治疗3个月后评估ALP和总胆红素:若应答不佳且耐受良好,可增至10mg/天(最大剂量)
+• 可与食物同服或空腹服用;与胆汁酸结合树脂(考来烯胺)合用需间隔至少4小时
+
+🔹价格参考
+
+• 原研药Ocaliva(Intercept):5mg×30片美国约4881美元/盒(约3.5万元);10mg×30片约5200美元/盒
+• 经济版印度Natco:5mg×100片约62美元(约450元);多家印度仿制版每盒数百至一千多元人民币
+
+*参考价格,实际以咨询为准
+
+🔹注意事项
+
+⚠️ 奥贝胆酸:瘙痒(发生率68%)为最常见副作用;失代偿期肝硬化患者禁用(FDA黑框警告);需定期监测肝功能、ALP、胆红素;瘙痒、肝功能异常时及时就医;妊娠期/哺乳期禁用
+
+📞 专业咨询
+蓝培医疗帮您了解奥贝胆酸的全球用药渠道,合规获取全球优质医疗资源。
+
+微信咨询:17844531559
+电话:17844531559
+WhatsApp:+639685838435
+
+---
+免责声明:本文仅供信息参考,不构成医疗建议。药品为处方药,请务必在专业医生指导下使用。如有用药需求,请先咨询主治医生。
+
+<!-- END FILE: 2026-06-19/gzh-126-obeticholic-eticholic.txt -->
+
+<!-- FILE: news-127-obeticholic-ocanat.html -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>奥贝胆酸片OCANAT用法用量详解｜Glenmark 5mg FXR激动剂印度版PBC二线治疗</title>
+    <meta name="description" content="奥贝胆酸片OCANAT(Obeticholic Acid)用法用量详解,Glenmark印度仿制版治疗对UDCA应答不足或不耐受的原发性胆汁性胆管炎PBC成人患者,FXR激动剂,海外用药咨询,全球优质医疗资源">
+    <meta name="keywords" content="奥贝胆酸,Obeticholic Acid,Ocaliva,OCANAT,Glenmark,PBC,原发性胆汁性胆管炎,FXR激动剂,印度仿制">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+        .lang-btn.active { background: #f97316; color: white; }
+    </style>
+    <script>
+    const translations = {
+        zh: {site_name:"蓝培医疗",back_home:"返回首页",news:"新闻资讯",cta_title:"需要咨询药品价格和购买渠道?",phone_label:"电话咨询",whatsapp_label:"WhatsApp",wechat_label:"微信咨询",disclaimer_title:"重要提示",disclaimer_text:"本文章仅供信息参考,不构成医疗建议。药品为处方药,必须在医生指导下使用。",hotline:"咨询热线",footer_platform:"全球优质医疗资源咨询平台",footer_disclaimer:"免责声明:本网站展示的医药信息仅供参考",footer_copyright:"© 2026 蓝培医疗 lanpeimed.com",chat_title:"蓝培医疗在线咨询",phone_consult:"电话咨询",wechat_scan:"微信扫一扫添加咨询",wechat_copy:"加微信",wechat_copied:"已复制!",phone_placeholder:"请输入手机号码",callback_btn:"给您回电",chat_footer:"蓝培医疗 · 全球优质医疗资源咨询",bottom_cta_title:"蓝培医疗 · 全球优质医疗资源咨询",price_reference:"* 价格仅供参考,实际价格以咨询为准",original_vs_generic:"原研药 vs 仿制药价格对比",type:"类型",brand:"品牌/厂家",origin:"产地",price:"参考价格",tab_drug:"药闻速递"},
+        en: {site_name:"Lanpei Medical",back_home:"Back to Home",news:"News",cta_title:"Need to consult?",phone_label:"Phone",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Important Notice",disclaimer_text:"For reference only.",hotline:"Hotline",footer_platform:"Global Medical Platform",footer_disclaimer:"For reference only.",footer_copyright:"© 2026 Lanpei Medical",chat_title:"Online Consultation",phone_consult:"Phone",wechat_scan:"Scan QR",wechat_copy:"Add WeChat",wechat_copied:"Copied!",phone_placeholder:"Phone number",callback_btn:"Callback",chat_footer:"Lanpei Medical",bottom_cta_title:"Global Medical Resources",price_reference:"* For reference only.",original_vs_generic:"Original vs Generic",type:"Type",brand:"Brand",origin:"Origin",price:"Price",tab_drug:"Drug Updates"},
+        ru: {site_name:"蓝培医疗",back_home:"На главную",news:"Новости",cta_title:"Нужна консультация?",phone_label:"Телефон",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Важное уведомление",disclaimer_text:"Для справки.",hotline:"Горячая линия",footer_platform:"Мед платформа",footer_disclaimer:"Для справки.",footer_copyright:"© 2026 Lanpei",chat_title:"Онлайн консультация",phone_consult:"Консультация",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Скопировано!",phone_placeholder:"Телефон",callback_btn:"Звонок",chat_footer:"Lanpei Medical",bottom_cta_title:"Глобальные мед ресурсы",price_reference:"* Для справки.",original_vs_generic:"Оригинал vs Дженерик",type:"Тип",brand:"Бренд",origin:"Страна",price:"Цена",tab_drug:"Новости лекарств"},
+        vi: {site_name:"Lanpei Medical",back_home:"Về trang chủ",news:"Tin tức",cta_title:"Cần tư vấn?",phone_label:"Điện thoại",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Thông báo",disclaimer_text:"Tham khảo.",hotline:"Hotline",footer_platform:"Nền tảng y tế",footer_disclaimer:"Tham khảo.",footer_copyright:"© 2026 Lanpei",chat_title:"Tư vấn online",phone_consult:"Tư vấn",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Đã sao chép!",phone_placeholder:"Số DT",callback_btn:"Gọi lại",chat_footer:"Lanpei Medical",bottom_cta_title:"Tài nguyên y tế toàn cầu",price_reference:"* Tham khảo.",original_vs_generic:"Original vs Generic",type:"Loại",brand:"Nhãn",origin:"Xuất xứ",price:"Giá",tab_drug:"Tin thuốc"},
+        id: {site_name:"Lanpei Medical",back_home:"Kembali",news:"Berita",cta_title:"Konsultasi?",phone_label:"Telepon",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Penting",disclaimer_text:"Referensi.",hotline:"Hotline",footer_platform:"Platform medis",footer_disclaimer:"Referensi.",footer_copyright:"© 2026 Lanpei",chat_title:"Konsultasi online",phone_consult:"Telepon",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Disalin!",phone_placeholder:"Nomor",callback_btn:"Panggil",chat_footer:"Lanpei Medical",bottom_cta_title:"Sumber daya medis global",price_reference:"* Referensi.",original_vs_generic:"Original vs Generic",type:"Tipe",brand:"Merek",origin:"Asal",price:"Harga",tab_drug:"Info Obat"},
+        my: {site_name:"Lanpei Medical",back_home:"ပင်မ",news:"သတင်း",cta_title:"လိုသလား?",phone_label:"ဖုန်း",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"အရေးကြီး",disclaimer_text:"ရည်ရွယ်ချက်။",hotline:"Hotline",footer_platform:"ပလက်ဖောင်း",footer_disclaimer:"ရည်ရွယ်ချက်။",footer_copyright:"© 2026 Lanpei",chat_title:"တိုင်ပင်",phone_consult:"ဖုန်း",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"ကူယူပြီ!",phone_placeholder:"နံပါတ်",callback_btn:"ပြန်ခေါ်",chat_footer:"Lanpei Medical",bottom_cta_title:"ကမ္ဘာလုံးဆိုင်ရာ ဆေး",price_reference:"*။",original_vs_generic:"Original vs Generic",type:"အမျိုးအစား",brand:"အမှတ်",origin:"မူလ",price:"စျေး",tab_drug:"ဆေးသတင်း"},
+        bd: {site_name:"Lanpei Medical",back_home:"হোম",news:"সংবাদ",cta_title:"দরকার?",phone_label:"ফোন",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"বিজ্ঞপ্তি",disclaimer_text:"রেফারেন্স।",hotline:"হটলাইন",footer_platform:"প্ল্যাটফর্ম",footer_disclaimer:"রেফারেন্স।",footer_copyright:"© 2026 Lanpei",chat_title:"পরামর্শ",phone_consult:"ফোন",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"কপি!",phone_placeholder:"নম্বর",callback_btn:"কল",chat_footer:"Lanpei Medical",bottom_cta_title:"বিশ্ব মেডিকেল রিসোর্স",price_reference:"*।",original_vs_generic:"Original vs Generic",type:"টাইপ",brand:"ব্র্যান্ড",origin:"উৎস",price:"দাম",tab_drug:"ওষুধ সংবাদ"}
+    };
+    let currentLang = 'zh';
+    function changeLanguage(lang) { currentLang = lang; document.querySelectorAll('.lang-btn').forEach(btn => { btn.classList.remove('bg-[#f97316]','text-white'); if(btn.dataset.lang===lang) btn.classList.add('bg-[#f97316]','text-white'); }); updateTranslations(); }
+    function updateTranslations() { const t = translations[currentLang]; document.querySelectorAll('[data-i18n]').forEach(el => { const key = el.getAttribute('data-i18n'); if(t[key]) el.textContent = t[key]; }); document.getElementById('footer-platform')&&(document.getElementById('footer-platform').textContent=t.footer_platform); document.getElementById('footer-disclaimer')&&(document.getElementById('footer-disclaimer').textContent=t.footer_disclaimer); document.getElementById('cta-title')&&(document.getElementById('cta-title').textContent=t.cta_title); document.getElementById('price-title')&&(document.getElementById('price-title').innerHTML='<i class="fas fa-tags mr-2 text-orange-500"></i>'+t.original_vs_generic); document.getElementById('price-reference')&&(document.getElementById('price-reference').textContent=t.price_reference); document.getElementById('disclaimer-text')&&(document.getElementById('disclaimer-text').textContent=t.disclaimer_text); document.getElementById('bottom-cta')&&(document.getElementById('bottom-cta').innerHTML='<p class="font-bold">'+t.bottom_cta_title+'</p><p class="text-sm mt-1">'+t.phone_label+' 17844531559 | '+t.whatsapp_label+' +639685838435 | '+t.wechat_label+' 17844531559</p>'); document.querySelector('.chat-header-left span')&&(document.querySelector('.chat-header-left span').textContent=t.chat_title); document.getElementById('wechatLabel')&&(document.getElementById('wechatLabel').textContent=t.wechat_copy); document.querySelector('.chat-input-area button')&&(document.querySelector('.chat-input-area button').textContent=t.callback_btn); document.querySelector('.chat-footer')&&(document.querySelector('.chat-footer').textContent=t.chat_footer); }
+    document.addEventListener('DOMContentLoaded', updateTranslations);
+    </script>
+</head>
+<body class="bg-gray-50">
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
+            <div class="flex items-center gap-4 flex-wrap"><span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span><span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span></div>
+            <div class="flex items-center gap-3">
+                <div class="flex gap-2">
+                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
+                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
+                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
+                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
+                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
+                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
+                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
+                </div>
+                <div class="flex gap-2 ml-4"><a href="https://wa.me/639685838435" target="_blank" class="hover:text-green-400"><i class="fab fa-whatsapp"></i></a></div>
+            </div>
+        </div>
+    </div>
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white" data-i18n="site_name">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i><span data-i18n="back_home">首页</span></a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i><span data-i18n="news">新闻资讯</span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb"><a href="https://lanpeimed.com" data-i18n="back_home">首页</a> &gt; <a href="https://lanpeimed.com/news.html" data-i18n="news">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium" data-i18n="tab_drug">药闻速递</span> &gt; 奥贝胆酸片 OCANAT</div>
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">奥贝胆酸片 OCANAT</h1>
+            <p class="text-gray-500 mb-6">Obeticholic Acid Tablets 5mg/10mg (OCANAT, Glenmark) - 原发性胆汁性胆管炎PBC二线靶向治疗 | 品牌:Ocaliva</p>
+<h2><i class="fas fa-info-circle mr-2 text-orange-500"></i>药品概述</h2>
+            <div class="info-box">
+                <p><strong>通用名称:</strong>奥贝胆酸 (Obeticholic Acid)</p>
+                <p><strong>英文名称:</strong>Obeticholic Acid Tablets 5mg/10mg (OCANAT, Glenmark) - PBC</p>
+                <p><strong>品牌名称:</strong>原研药Ocaliva(Intercept Pharmaceuticals)、海外经济版OCANAT(Glenmark)、Eticholic(Lupin)、Ocabile(Sun Pharma)、Obetohep(Cadila)</p>
+                <p><strong>规格:</strong>5mg/片、10mg/片,薄膜衣片</p>
+                <p><strong>药物类型:</strong>法尼醇X受体(FXR)激动剂;Glenmark印度仿制版OCANAT,成分与原研药Ocaliva基本一致,经印度药品监管机构批准上市;通过激活FXR抑制胆汁酸合成、促进胆汁排泄,改善PBC生化指标;在FDA对失代偿期肝硬化患者有黑框警告,需严格评估用药条件</p>
+            </div>
+            <h2><i class="fas fa-briefcase-medical mr-2 text-orange-500"></i>适应症</h2>
+            <p>奥贝胆酸片 OCANAT适用于以下情况:</p>
+            <ul class="list-disc list-inside space-y-2">
+                <li><strong>主要适应症:</strong>适用于对熊去氧胆酸(UDCA)应答不足或不耐受的原发性胆汁性胆管炎(PBC)成人患者;可与UDCA联合使用,也可单药治疗UDCA不耐受者;仅限无肝硬化或代偿期肝硬化无门静脉高压证据的患者使用</li>
+                <li><strong>用药前提:</strong>用药前必须由肝病专科医生评估肝功能(ALT/AST/ALP/总胆红素)、肝硬化状态(影像学+肝弹性+血小板)、门静脉高压证据;完全性胆道梗阻患者禁用;FDA黑框警告:失代偿期肝硬化患者禁用,因可能发生严重肝损伤甚至肝移植/死亡</li>
+            </ul>
+            <h2><i class="fas fa-cogs mr-2 text-orange-500"></i>作用机制</h2>
+            <p>OCANAT与原研Ocaliva同为奥贝胆酸(Obeticholic Acid),是鹅去氧胆酸的6α-乙基衍生物,通过高选择性激活法尼醇X受体(FXR)发挥治疗作用;FXR激活后负反馈抑制CYP7A1减少胆汁酸合成,上调BSEP/MRP2等促进胆汁排泄,综合降低肝细胞内胆汁酸负荷,改善PBC患者的胆汁淤积和肝细胞损伤;经多项国际多中心RCT验证,奥贝胆酸可显著降低ALP和总胆红素,延缓PBC进展;Glenmark版本作为仿制药与原研药在活性成分、剂型、规格、给药途径上一致,在治疗等效性方面已通过印度药品监管机构的评估</p>
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>标准剂量</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>无肝硬化或代偿期肝硬化无门静脉高压者:起始剂量5mg,每日一次,口服;3个月后根据ALP和总胆红素评估:若未达生化应答(ALP较基线下降&lt;15%或未正常化)且耐受良好,可增至10mg,每日一次(最大剂量);可与食物同服或空腹服用;与胆汁酸结合树脂合用需间隔至少4小时</li>
+            </ul>
+            <h3>服药方式</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>每日一次,推荐固定时间(早晨)服用,保持血药浓度稳定</li>
+                <li>整片吞服,不可掰开、压碎或咀嚼(薄膜衣片)</li>
+                <li>可与食物同服或空腹服用;若出现明显胃部不适建议随餐服用</li>
+                <li>漏服处理:尽快补服;若接近下一次服药时间则跳过,不可双倍补服</li>
+                <li>不可突然停药(可能引起PBC生化反弹);如需停药应在医生指导下进行</li>
+            </ul>
+            <h3>剂量调整</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>治疗3个月后评估ALP和总胆红素:若应答不佳且耐受良好,可谨慎增至10mg/天</li>
+                <li>中度肝功能不全(Child-Pugh B级):初始剂量每周5mg,根据耐受性逐步调整至每周2次5mg</li>
+                <li>重度肝功能不全(Child-Pugh C级):禁用</li>
+                <li>瘙痒管理:轻度(VAS 1-3)外用炉甘石洗剂、保湿,避免热水刺激;中度(4-7)联用抗组胺药(氯雷他定)或胆汁酸结合树脂(考来烯胺);重度(≥8)需暂停用药,症状缓解后减量至隔日5mg或每周2次5mg</li>
+                <li>出现肝功能失代偿或总胆红素&gt;2×ULN:立即永久停药</li>
+            </ul>
+            <h2><i class="fas fa-heartbeat mr-2 text-orange-500"></i>监测要求</h2>
+            <div class="info-box">
+                <p>用药前:肝功能(ALT/AST/ALP/总胆红素基线)、肝硬化评估(影像学+肝弹性+血小板)、门静脉高压评估(胃镜/影像);用药期间:每4周监测肝功能;每3个月评估瘙痒程度(VAS评分)和生活质量;定期监测甲状腺功能、血脂(HDL-C可能下降);出现肝功能失代偿征象(黄疸加深、腹水、肝性脑病)、总胆红素&gt;2×ULN、严重瘙痒无法耐受需立即停药</p>
+            </div>
+            <h2><i class="fas fa-exclamation-triangle mr-2 text-orange-500"></i>注意事项</h2>
+            <ul class="list-disc list-inside space-y-2">
+                <li><strong>常见不良反应:</strong>瘙痒(高达68%,剂量依赖性);肝功能异常(ALT/AST/胆红素升高约15%);关节痛(14%)、头晕(10%)、便秘(8%)、皮疹(11%)、甲状腺功能异常(7%)、疲劳、腹痛、恶心、HDL-C下降;严重(罕见):失代偿期肝硬化患者严重肝损伤(可能需肝移植或导致死亡,FDA黑框警告)</li>
+                <li><strong>禁忌:</strong>失代偿期肝硬化(Child-Pugh B/C级)或有既往失代偿事件者禁用;代偿期肝硬化伴门静脉高压证据者禁用;完全性胆道梗阻者禁用;对本品过敏者禁用</li>
+                <li><strong>特殊人群:</strong>妊娠期禁用(可能导致胎儿胆道发育异常);哺乳期禁用;老年患者无需剂量调整但需加强肝功能监测;儿童:18岁以下安全有效性未确立</li>
+                <li><strong>药物相互作用:</strong>避免与CYP1A2强诱导剂(利福平、卡马西平)合用(降低疗效);与胆汁酸结合树脂(考来烯胺、考来替泊)合用需间隔至少4小时;与华法林合用可能影响INR;UDCA可与本品联合使用</li>
+            </ul>
+            <h2 id="price-title"><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格对比</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>产地</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>Ocaliva (Intercept Pharmaceuticals)</td>
+                        <td>美国(2016年5月)/欧盟(2016年12月)</td>
+                        <td><span class="price-tag">Ocaliva 5mg×30片美国上市价约4881美元/盒(约合人民币3.5万元);10mg×30片约5200美元/盒(约合人民币3.7万元);原研药价格高昂,需经合规医疗资源咨询渠道获得</span><br><span class="text-xs text-gray-500">原研药参考价</span></td>
+                    </tr>
+                    <tr>
+                        <td>海外经济版</td>
+                        <td>OCANAT (Glenmark) / Eticholic (Lupin) / Ocabile (Sun Pharma) / Obetohep (Cadila)</td>
+                        <td>印度/孟加拉</td>
+                        <td><span class="price-tag">印度Natco版5mg×100片约62美元(约合人民币450元);OCANAT(Glenmark)5mg/10mg规格价格通常在每盒数百至一千多元人民币区间;多家印度仿制版,经济性显著,需经合规医疗资源咨询渠道获得</span><br><span class="text-xs text-gray-500">经正规海外医疗资源咨询渠道</span></td>
+                    </tr>
+                </tbody>
+            </table>
+            <p id="price-reference" class="text-xs text-gray-400 mt-2" data-i18n="price_reference">* 价格仅供参考,实际价格以咨询为准</p>
+            <div class="cta-box">
+                <p id="cta-title" class="text-lg mb-3" data-i18n="cta_title">需要咨询奥贝胆酸片 OCANAT药品渠道和价格信息?</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i><span data-i18n="phone_label">电话咨询</span>:<a href="tel:17844531559">17844531559</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i><span data-i18n="whatsapp_label">WhatsApp</span>:<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i><span data-i18n="wechat_label">微信咨询</span>:17844531559</p>
+            </div>
+            <div class="warning-box">
+                <p><strong id="disclaimer-title" data-i18n="disclaimer_title"><i class="fas fa-exclamation-triangle mr-1"></i>重要提示:</strong><span id="disclaimer-text" data-i18n="disclaimer_text">本文章仅供信息参考,不构成医疗建议。药品为处方药,必须在医生指导下使用。</span></p>
+            </div>
+        </article>
+        <div id="bottom-cta" class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold" data-i18n="bottom_cta_title">蓝培医疗 · 全球优质医疗资源咨询</p>
+            <p class="text-sm mt-1">电话 17844531559 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p id="footer-platform" data-i18n="footer_platform">全球优质医疗资源咨询平台</p>
+            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明:本网站展示的医药信息仅供参考</p>
+            <p id="footer-copyright" class="mt-1" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+<style>
+.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
+.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
+.chat-widget-btn i{color:#fff;font-size:24px}
+.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
+@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
+.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
+@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.chat-box.active{display:flex}
+.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
+.chat-header-left{display:flex;align-items:center;gap:10px}
+.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
+.chat-header-left span{font-size:15px;font-weight:600}
+.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
+.chat-body{padding:16px;flex:1}
+.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
+.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
+.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
+.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
+.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
+.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
+.chat-contact-item .label{font-weight:600;margin-top:4px}
+.chat-input-area{display:flex;gap:8px;margin-top:10px}
+.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
+.chat-input-area input:focus{border-color:#1e3a5f}
+.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
+.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
+.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
+</style>
+<div class="chat-widget-btn" onclick="toggleChat()"><div class="pulse-ring"></div><i class="fas fa-headset"></i></div>
+<div class="chat-box" id="chatBox">
+    <div class="chat-header"><div class="chat-header-left"><div class="logo">蓝培</div><span data-i18n="chat_title">蓝培医疗在线咨询</span></div><button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button></div>
+    <div class="chat-body">
+        <div class="chat-notice">因咨询人数多,如未及时回复,请致电:<span class="phone-red">17844531559</span>,或扫码加微信沟通:</div>
+        <div style="text-align:center;margin-bottom:14px"><img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px"></div>
+        <div class="chat-contact-row">
+            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none"><i class="fas fa-phone-alt" style="color:#1e3a5f"></i><div class="label" data-i18n="phone_consult">电话咨询</div></a>
+            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none"><i class="fab fa-whatsapp" style="color:#25d366"></i><div class="label" data-i18n="whatsapp_label">WhatsApp</div></a>
+            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none"><i class="fab fa-weixin" style="color:#07c160"></i><div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div></a>
+        </div>
+        <div class="chat-input-area"><input type="tel" id="chatPhone" placeholder="请输入手机号码"><button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button></div>
+    </div>
+    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
+</div>
+<script>
+function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
+function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){l.textContent=translations[currentLang].wechat_copy},2000)}
+function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求:'+p+',请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
+</script>
+</body>
+</html>
+<!-- END FILE: news-127-obeticholic-ocanat.html -->
+
+<!-- FILE: 2026-06-19/gzh-127-obeticholic-ocanat.txt -->
+<!-- FILE: news-127-obeticholic-ocanat-gzh.txt -->
+【奥贝胆酸片 OCANAT】用法用量详解 | PBC原发性胆汁性胆管炎二线靶向治疗
+
+🔹什么是奥贝胆酸？
+
+全球首个获批的法尼醇X受体(FXR)激动剂,Intercept Pharma原研,商品名为Ocaliva,作为PBC二线治疗选择。通过激活FXR调节胆汁酸代谢、抑制CYP7A1减少胆汁酸合成、促进胆汁排泄,改善胆汁淤积。
+
+🔹适应症
+
+• 适用于对熊去氧胆酸(UDCA)应答不足或不耐受的原发性胆汁性胆管炎(PBC)成人患者
+• 可与UDCA联合使用,也可单药治疗UDCA不耐受者
+• 仅限无肝硬化或代偿期肝硬化无门静脉高压证据的患者使用;失代偿期肝硬化禁用
+
+🔹用法用量
+
+• 起始剂量5mg,每日一次,口服
+• 治疗3个月后评估ALP和总胆红素:若应答不佳且耐受良好,可增至10mg/天(最大剂量)
+• 可与食物同服或空腹服用;与胆汁酸结合树脂(考来烯胺)合用需间隔至少4小时
+
+🔹价格参考
+
+• 原研药Ocaliva(Intercept):5mg×30片美国约4881美元/盒(约3.5万元);10mg×30片约5200美元/盒
+• 经济版印度Natco:5mg×100片约62美元(约450元);多家印度仿制版每盒数百至一千多元人民币
+
+*参考价格,实际以咨询为准
+
+🔹注意事项
+
+⚠️ 奥贝胆酸:瘙痒(发生率68%)为最常见副作用;失代偿期肝硬化患者禁用(FDA黑框警告);需定期监测肝功能、ALP、胆红素;瘙痒、肝功能异常时及时就医;妊娠期/哺乳期禁用
+
+📞 专业咨询
+蓝培医疗帮您了解奥贝胆酸的全球用药渠道,合规获取全球优质医疗资源。
+
+微信咨询:17844531559
+电话:17844531559
+WhatsApp:+639685838435
+
+---
+免责声明:本文仅供信息参考,不构成医疗建议。药品为处方药,请务必在专业医生指导下使用。如有用药需求,请先咨询主治医生。
+
+<!-- END FILE: 2026-06-19/gzh-127-obeticholic-ocanat.txt -->
+
+<!-- FILE: news-128-obeticholic-ocabile.html -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>奥贝胆酸片Ocabile用法用量详解｜Sun Pharma 5mg FXR激动剂印度版PBC二线治疗</title>
+    <meta name="description" content="奥贝胆酸片Ocabile(Obeticholic Acid)用法用量详解,Sun Pharma印度仿制版治疗对UDCA应答不足或不耐受的原发性胆汁性胆管炎PBC成人患者,FXR激动剂,海外用药咨询,全球优质医疗资源">
+    <meta name="keywords" content="奥贝胆酸,Obeticholic Acid,Ocaliva,Ocabile,Sun Pharma,PBC,原发性胆汁性胆管炎,FXR激动剂,印度仿制">
+    <script>
+var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?59ed620a6512d2be372b2677fa87e40e"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary: #1e3a5f; --accent: #f97316; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.8; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); }
+        a { color: #1e3a5f; text-decoration: none; }
+        a:hover { color: #f97316; }
+        .info-box { background: #f0f7ff; border-left: 4px solid #1e3a5f; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+        .price-table th { background: #1e3a5f; color: white; padding: 10px 14px; text-align: left; }
+        .price-table td { padding: 10px 14px; border-bottom: 1px solid #e5e7eb; }
+        .price-table tr:hover td { background: #f9fafb; }
+        .price-tag { color: #f97316; font-weight: bold; font-size: 18px; }
+        .cta-box { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px; border-radius: 12px; text-align: center; margin: 30px 0; }
+        .cta-box a { color: #fb923c; font-weight: bold; font-size: 18px; }
+        .warning-box { background: #fff7ed; border-left: 4px solid #f97316; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; }
+        .breadcrumb { font-size: 14px; color: #6b7280; margin-bottom: 20px; }
+        .breadcrumb a { color: #6b7280; }
+        .breadcrumb a:hover { color: #f97316; }
+        h2 { color: #1e3a5f; border-bottom: 2px solid #f0f7ff; padding-bottom: 8px; margin-top: 30px; }
+        h3 { color: #2d5a87; margin-top: 20px; }
+        .lang-btn.active { background: #f97316; color: white; }
+    </style>
+    <script>
+    const translations = {
+        zh: {site_name:"蓝培医疗",back_home:"返回首页",news:"新闻资讯",cta_title:"需要咨询药品价格和购买渠道?",phone_label:"电话咨询",whatsapp_label:"WhatsApp",wechat_label:"微信咨询",disclaimer_title:"重要提示",disclaimer_text:"本文章仅供信息参考,不构成医疗建议。药品为处方药,必须在医生指导下使用。",hotline:"咨询热线",footer_platform:"全球优质医疗资源咨询平台",footer_disclaimer:"免责声明:本网站展示的医药信息仅供参考",footer_copyright:"© 2026 蓝培医疗 lanpeimed.com",chat_title:"蓝培医疗在线咨询",phone_consult:"电话咨询",wechat_scan:"微信扫一扫添加咨询",wechat_copy:"加微信",wechat_copied:"已复制!",phone_placeholder:"请输入手机号码",callback_btn:"给您回电",chat_footer:"蓝培医疗 · 全球优质医疗资源咨询",bottom_cta_title:"蓝培医疗 · 全球优质医疗资源咨询",price_reference:"* 价格仅供参考,实际价格以咨询为准",original_vs_generic:"原研药 vs 仿制药价格对比",type:"类型",brand:"品牌/厂家",origin:"产地",price:"参考价格",tab_drug:"药闻速递"},
+        en: {site_name:"Lanpei Medical",back_home:"Back to Home",news:"News",cta_title:"Need to consult?",phone_label:"Phone",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Important Notice",disclaimer_text:"For reference only.",hotline:"Hotline",footer_platform:"Global Medical Platform",footer_disclaimer:"For reference only.",footer_copyright:"© 2026 Lanpei Medical",chat_title:"Online Consultation",phone_consult:"Phone",wechat_scan:"Scan QR",wechat_copy:"Add WeChat",wechat_copied:"Copied!",phone_placeholder:"Phone number",callback_btn:"Callback",chat_footer:"Lanpei Medical",bottom_cta_title:"Global Medical Resources",price_reference:"* For reference only.",original_vs_generic:"Original vs Generic",type:"Type",brand:"Brand",origin:"Origin",price:"Price",tab_drug:"Drug Updates"},
+        ru: {site_name:"蓝培医疗",back_home:"На главную",news:"Новости",cta_title:"Нужна консультация?",phone_label:"Телефон",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Важное уведомление",disclaimer_text:"Для справки.",hotline:"Горячая линия",footer_platform:"Мед платформа",footer_disclaimer:"Для справки.",footer_copyright:"© 2026 Lanpei",chat_title:"Онлайн консультация",phone_consult:"Консультация",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Скопировано!",phone_placeholder:"Телефон",callback_btn:"Звонок",chat_footer:"Lanpei Medical",bottom_cta_title:"Глобальные мед ресурсы",price_reference:"* Для справки.",original_vs_generic:"Оригинал vs Дженерик",type:"Тип",brand:"Бренд",origin:"Страна",price:"Цена",tab_drug:"Новости лекарств"},
+        vi: {site_name:"Lanpei Medical",back_home:"Về trang chủ",news:"Tin tức",cta_title:"Cần tư vấn?",phone_label:"Điện thoại",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Thông báo",disclaimer_text:"Tham khảo.",hotline:"Hotline",footer_platform:"Nền tảng y tế",footer_disclaimer:"Tham khảo.",footer_copyright:"© 2026 Lanpei",chat_title:"Tư vấn online",phone_consult:"Tư vấn",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Đã sao chép!",phone_placeholder:"Số DT",callback_btn:"Gọi lại",chat_footer:"Lanpei Medical",bottom_cta_title:"Tài nguyên y tế toàn cầu",price_reference:"* Tham khảo.",original_vs_generic:"Original vs Generic",type:"Loại",brand:"Nhãn",origin:"Xuất xứ",price:"Giá",tab_drug:"Tin thuốc"},
+        id: {site_name:"Lanpei Medical",back_home:"Kembali",news:"Berita",cta_title:"Konsultasi?",phone_label:"Telepon",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"Penting",disclaimer_text:"Referensi.",hotline:"Hotline",footer_platform:"Platform medis",footer_disclaimer:"Referensi.",footer_copyright:"© 2026 Lanpei",chat_title:"Konsultasi online",phone_consult:"Telepon",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"Disalin!",phone_placeholder:"Nomor",callback_btn:"Panggil",chat_footer:"Lanpei Medical",bottom_cta_title:"Sumber daya medis global",price_reference:"* Referensi.",original_vs_generic:"Original vs Generic",type:"Tipe",brand:"Merek",origin:"Asal",price:"Harga",tab_drug:"Info Obat"},
+        my: {site_name:"Lanpei Medical",back_home:"ပင်မ",news:"သတင်း",cta_title:"လိုသလား?",phone_label:"ဖုန်း",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"အရေးကြီး",disclaimer_text:"ရည်ရွယ်ချက်။",hotline:"Hotline",footer_platform:"ပလက်ဖောင်း",footer_disclaimer:"ရည်ရွယ်ချက်။",footer_copyright:"© 2026 Lanpei",chat_title:"တိုင်ပင်",phone_consult:"ဖုန်း",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"ကူယူပြီ!",phone_placeholder:"နံပါတ်",callback_btn:"ပြန်ခေါ်",chat_footer:"Lanpei Medical",bottom_cta_title:"ကမ္ဘာလုံးဆိုင်ရာ ဆေး",price_reference:"*။",original_vs_generic:"Original vs Generic",type:"အမျိုးအစား",brand:"အမှတ်",origin:"မူလ",price:"စျေး",tab_drug:"ဆေးသတင်း"},
+        bd: {site_name:"Lanpei Medical",back_home:"হোম",news:"সংবাদ",cta_title:"দরকার?",phone_label:"ফোন",whatsapp_label:"WhatsApp",wechat_label:"WeChat",disclaimer_title:"বিজ্ঞপ্তি",disclaimer_text:"রেফারেন্স।",hotline:"হটলাইন",footer_platform:"প্ল্যাটফর্ম",footer_disclaimer:"রেফারেন্স।",footer_copyright:"© 2026 Lanpei",chat_title:"পরামর্শ",phone_consult:"ফোন",wechat_scan:"QR",wechat_copy:"WeChat",wechat_copied:"কপি!",phone_placeholder:"নম্বর",callback_btn:"কল",chat_footer:"Lanpei Medical",bottom_cta_title:"বিশ্ব মেডিকেল রিসোর্স",price_reference:"*।",original_vs_generic:"Original vs Generic",type:"টাইপ",brand:"ব্র্যান্ড",origin:"উৎস",price:"দাম",tab_drug:"ওষুধ সংবাদ"}
+    };
+    let currentLang = 'zh';
+    function changeLanguage(lang) { currentLang = lang; document.querySelectorAll('.lang-btn').forEach(btn => { btn.classList.remove('bg-[#f97316]','text-white'); if(btn.dataset.lang===lang) btn.classList.add('bg-[#f97316]','text-white'); }); updateTranslations(); }
+    function updateTranslations() { const t = translations[currentLang]; document.querySelectorAll('[data-i18n]').forEach(el => { const key = el.getAttribute('data-i18n'); if(t[key]) el.textContent = t[key]; }); document.getElementById('footer-platform')&&(document.getElementById('footer-platform').textContent=t.footer_platform); document.getElementById('footer-disclaimer')&&(document.getElementById('footer-disclaimer').textContent=t.footer_disclaimer); document.getElementById('cta-title')&&(document.getElementById('cta-title').textContent=t.cta_title); document.getElementById('price-title')&&(document.getElementById('price-title').innerHTML='<i class="fas fa-tags mr-2 text-orange-500"></i>'+t.original_vs_generic); document.getElementById('price-reference')&&(document.getElementById('price-reference').textContent=t.price_reference); document.getElementById('disclaimer-text')&&(document.getElementById('disclaimer-text').textContent=t.disclaimer_text); document.getElementById('bottom-cta')&&(document.getElementById('bottom-cta').innerHTML='<p class="font-bold">'+t.bottom_cta_title+'</p><p class="text-sm mt-1">'+t.phone_label+' 17844531559 | '+t.whatsapp_label+' +639685838435 | '+t.wechat_label+' 17844531559</p>'); document.querySelector('.chat-header-left span')&&(document.querySelector('.chat-header-left span').textContent=t.chat_title); document.getElementById('wechatLabel')&&(document.getElementById('wechatLabel').textContent=t.wechat_copy); document.querySelector('.chat-input-area button')&&(document.querySelector('.chat-input-area button').textContent=t.callback_btn); document.querySelector('.chat-footer')&&(document.querySelector('.chat-footer').textContent=t.chat_footer); }
+    document.addEventListener('DOMContentLoaded', updateTranslations);
+    </script>
+</head>
+<body class="bg-gray-50">
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center flex-wrap gap-2">
+            <div class="flex items-center gap-4 flex-wrap"><span class="flex items-center gap-1"><i class="fas fa-phone"></i> +86-17844531559</span><span class="flex items-center gap-1"><i class="fas fa-envelope"></i> 173166453@qq.com</span></div>
+            <div class="flex items-center gap-3">
+                <div class="flex gap-2">
+                    <button onclick="changeLanguage('zh')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn active" data-lang="zh">中文</button>
+                    <button onclick="changeLanguage('en')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="en">English</button>
+                    <button onclick="changeLanguage('ru')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="ru">Русский</button>
+                    <button onclick="changeLanguage('vi')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="vi">Tiếng Việt</button>
+                    <button onclick="changeLanguage('id')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="id">Indonesia</button>
+                    <button onclick="changeLanguage('my')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="my">Myanmar</button>
+                    <button onclick="changeLanguage('bd')" class="px-2 py-0.5 rounded text-xs hover:bg-gray-700 lang-btn" data-lang="bd">বাংলা</button>
+                </div>
+                <div class="flex gap-2 ml-4"><a href="https://wa.me/639685838435" target="_blank" class="hover:text-green-400"><i class="fab fa-whatsapp"></i></a></div>
+            </div>
+        </div>
+    </div>
+    <header class="gradient-bg text-white py-4">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-xl font-bold"><a href="https://lanpeimed.com" class="text-white" data-i18n="site_name">蓝培医疗</a></h1>
+                <div class="flex gap-3 text-sm">
+                    <a href="https://lanpeimed.com" class="text-blue-200 hover:text-white"><i class="fas fa-home mr-1"></i><span data-i18n="back_home">首页</span></a>
+                    <a href="https://lanpeimed.com/news.html" class="text-blue-200 hover:text-white"><i class="fas fa-newspaper mr-1"></i><span data-i18n="news">新闻资讯</span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="max-w-4xl mx-auto px-4 py-6">
+        <div class="breadcrumb"><a href="https://lanpeimed.com" data-i18n="back_home">首页</a> &gt; <a href="https://lanpeimed.com/news.html" data-i18n="news">新闻资讯</a> &gt; <span class="inline-block bg-orange-100 text-orange-700 px-2 py-0.5 rounded text-xs font-medium" data-i18n="tab_drug">药闻速递</span> &gt; 奥贝胆酸片 Ocabile</div>
+        <article class="bg-white rounded-xl shadow-sm p-6 md:p-8">
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">奥贝胆酸片 Ocabile</h1>
+            <p class="text-gray-500 mb-6">Obeticholic Acid Tablets 5mg/10mg (Ocabile, Sun Pharma) - 原发性胆汁性胆管炎PBC二线靶向治疗 | 品牌:Ocaliva</p>
+<h2><i class="fas fa-info-circle mr-2 text-orange-500"></i>药品概述</h2>
+            <div class="info-box">
+                <p><strong>通用名称:</strong>奥贝胆酸 (Obeticholic Acid)</p>
+                <p><strong>英文名称:</strong>Obeticholic Acid Tablets 5mg/10mg (Ocabile, Sun Pharma) - PBC</p>
+                <p><strong>品牌名称:</strong>原研药Ocaliva(Intercept Pharmaceuticals)、海外经济版Ocabile(Sun Pharma)、Eticholic(Lupin)、OCANAT(Glenmark)、Obetohep(Cadila)</p>
+                <p><strong>规格:</strong>5mg/片、10mg/片,薄膜衣片</p>
+                <p><strong>药物类型:</strong>法尼醇X受体(FXR)激动剂;Sun Pharma(全球第四大仿制药公司)印度仿制版Ocabile,成分与原研Ocaliva基本一致;经印度药品监管机构批准上市,作为印度市场获批的PBC二线治疗选择之一;通过激活FXR抑制胆汁酸合成、改善胆汁排泄;在FDA对失代偿期肝硬化患者有黑框警告,需严格评估用药条件</p>
+            </div>
+            <h2><i class="fas fa-briefcase-medical mr-2 text-orange-500"></i>适应症</h2>
+            <p>奥贝胆酸片 Ocabile适用于以下情况:</p>
+            <ul class="list-disc list-inside space-y-2">
+                <li><strong>主要适应症:</strong>适用于对熊去氧胆酸(UDCA)应答不足或不耐受的原发性胆汁性胆管炎(PBC)成人患者;可与UDCA联合使用,也可单药治疗UDCA不耐受者;仅限无肝硬化或代偿期肝硬化无门静脉高压证据的患者使用</li>
+                <li><strong>用药前提:</strong>用药前需由肝病专科医生评估肝功能、肝硬化状态(影像学+肝弹性+血小板)、门静脉高压证据;完全性胆道梗阻患者禁用;FDA黑框警告:失代偿期肝硬化患者禁用(严重肝损伤风险)</li>
+            </ul>
+            <h2><i class="fas fa-cogs mr-2 text-orange-500"></i>作用机制</h2>
+            <p>Ocabile与原研Ocaliva同为奥贝胆酸(Obeticholic Acid),是鹅去氧胆酸的6α-乙基衍生物;通过高选择性激活肝细胞和肠细胞内的法尼醇X受体(FXR),启动下游信号通路,负反馈抑制胆汁酸合成的限速酶CYP7A1,减少肝细胞内胆汁酸合成;同时上调胆汁酸输出泵(BSEP)和多药耐药相关蛋白的表达,促进胆汁酸向肠道排泄;通过降低肝细胞内胆汁酸负荷和改善胆汁淤积,显著降低血清ALP和总胆红素,延缓PBC进展;Sun Pharma的仿制版已通过印度药品监管机构的质量和生物等效性评估,在治疗等效性方面与原研药基本一致</p>
+            <h2><i class="fas fa-pills mr-2 text-orange-500"></i>用法用量</h2>
+            <h3>标准剂量</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>无肝硬化或代偿期肝硬化无门静脉高压者:起始剂量5mg,每日一次,口服;3个月后根据ALP和总胆红素评估:若应答不佳(ALP较基线下降&lt;15%或未正常化)且耐受良好,可增至10mg,每日一次(最大剂量);可与食物同服或空腹服用;与胆汁酸结合树脂(考来烯胺)合用需间隔至少4小时</li>
+            </ul>
+            <h3>服药方式</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>每日一次,推荐固定时间(早晨)服用,保持血药浓度稳定</li>
+                <li>整片吞服,不可掰开、压碎或咀嚼(薄膜衣片)</li>
+                <li>可与食物同服或空腹服用;若出现明显胃部不适建议随餐服用</li>
+                <li>漏服处理:尽快补服;若接近下一次服药时间则跳过,不可双倍补服</li>
+                <li>不可突然停药(可能引起PBC生化反弹);如需停药应在医生指导下进行</li>
+            </ul>
+            <h3>剂量调整</h3>
+            <ul class="list-disc list-inside space-y-2">
+                <li>治疗3个月后评估ALP和总胆红素:若应答不佳且耐受良好,可谨慎增至10mg/天(最大剂量)</li>
+                <li>中度肝功能不全(Child-Pugh B级):初始剂量每周5mg,根据耐受性逐步调整至每周2次5mg</li>
+                <li>重度肝功能不全(Child-Pugh C级):禁用</li>
+                <li>瘙痒管理:轻度(VAS 1-3)外用炉甘石洗剂、保湿,避免热水刺激;中度(4-7)联用抗组胺药(氯雷他定)或胆汁酸结合树脂(考来烯胺);重度(≥8)需暂停用药,症状缓解后减量至隔日5mg或每周2次5mg</li>
+                <li>出现肝功能失代偿或总胆红素&gt;2×ULN:立即永久停药</li>
+            </ul>
+            <h2><i class="fas fa-heartbeat mr-2 text-orange-500"></i>监测要求</h2>
+            <div class="info-box">
+                <p>用药前:肝功能(ALT/AST/ALP/总胆红素基线)、肝硬化评估(影像学+肝弹性+血小板)、门静脉高压评估(胃镜/影像);用药期间:每4周监测肝功能;每3个月评估瘙痒程度(VAS评分)和生活质量;定期监测甲状腺功能、血脂(HDL-C可能下降);出现肝功能失代偿征象(黄疸加深、腹水、肝性脑病)、总胆红素&gt;2×ULN、严重瘙痒无法耐受需立即停药</p>
+            </div>
+            <h2><i class="fas fa-exclamation-triangle mr-2 text-orange-500"></i>注意事项</h2>
+            <ul class="list-disc list-inside space-y-2">
+                <li><strong>常见不良反应:</strong>瘙痒(高达68%,剂量依赖性);肝功能异常(ALT/AST/胆红素升高约15%);关节痛(14%)、头晕(10%)、便秘(8%)、皮疹(11%)、甲状腺功能异常(7%)、疲劳、腹痛、恶心、HDL-C下降;严重(罕见):失代偿期肝硬化患者严重肝损伤(可能需肝移植或导致死亡,FDA黑框警告)</li>
+                <li><strong>禁忌:</strong>失代偿期肝硬化(Child-Pugh B/C级)或有既往失代偿事件者禁用;代偿期肝硬化伴门静脉高压证据者禁用;完全性胆道梗阻者禁用;对本品过敏者禁用</li>
+                <li><strong>特殊人群:</strong>妊娠期禁用(可能导致胎儿胆道发育异常);哺乳期禁用;老年患者无需剂量调整但需加强肝功能监测;儿童:18岁以下安全有效性未确立</li>
+                <li><strong>药物相互作用:</strong>避免与CYP1A2强诱导剂(利福平、卡马西平)合用(降低疗效);与胆汁酸结合树脂(考来烯胺、考来替泊)合用需间隔至少4小时;与华法林合用可能影响INR;UDCA可与本品联合使用</li>
+            </ul>
+            <h2 id="price-title"><i class="fas fa-tags mr-2 text-orange-500"></i>原研药 vs 仿制药价格对比</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>类型</th>
+                        <th>品牌/厂家</th>
+                        <th>产地</th>
+                        <th>参考价格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>原研药</td>
+                        <td>Ocaliva (Intercept Pharmaceuticals)</td>
+                        <td>美国(2016年5月)/欧盟(2016年12月)</td>
+                        <td><span class="price-tag">Ocaliva 5mg×30片美国上市价约4881美元/盒(约合人民币3.5万元);10mg×30片约5200美元/盒(约合人民币3.7万元);原研药价格高昂,需经合规医疗资源咨询渠道获得</span><br><span class="text-xs text-gray-500">原研药参考价</span></td>
+                    </tr>
+                    <tr>
+                        <td>海外经济版</td>
+                        <td>Ocabile (Sun Pharma) / Eticholic (Lupin) / OCANAT (Glenmark) / Obetohep (Cadila)</td>
+                        <td>印度/孟加拉</td>
+                        <td><span class="price-tag">印度Natco版5mg×100片约62美元(约合人民币450元);Ocabile(Sun Pharma)5mg/10mg规格价格通常在每盒数百至一千多元人民币区间;多家印度仿制版,经济性显著,需经合规医疗资源咨询渠道获得</span><br><span class="text-xs text-gray-500">经正规海外医疗资源咨询渠道</span></td>
+                    </tr>
+                </tbody>
+            </table>
+            <p id="price-reference" class="text-xs text-gray-400 mt-2" data-i18n="price_reference">* 价格仅供参考,实际价格以咨询为准</p>
+            <div class="cta-box">
+                <p id="cta-title" class="text-lg mb-3" data-i18n="cta_title">需要咨询奥贝胆酸片 Ocabile药品渠道和价格信息?</p>
+                <p class="mb-2"><i class="fas fa-phone-alt mr-2"></i><span data-i18n="phone_label">电话咨询</span>:<a href="tel:17844531559">17844531559</a></p>
+                <p class="mb-2"><i class="fab fa-whatsapp mr-2"></i><span data-i18n="whatsapp_label">WhatsApp</span>:<a href="https://wa.me/639685838435">+63-968-583-8435</a></p>
+                <p><i class="fab fa-weixin mr-2"></i><span data-i18n="wechat_label">微信咨询</span>:17844531559</p>
+            </div>
+            <div class="warning-box">
+                <p><strong id="disclaimer-title" data-i18n="disclaimer_title"><i class="fas fa-exclamation-triangle mr-1"></i>重要提示:</strong><span id="disclaimer-text" data-i18n="disclaimer_text">本文章仅供信息参考,不构成医疗建议。药品为处方药,必须在医生指导下使用。</span></p>
+            </div>
+        </article>
+        <div id="bottom-cta" class="bg-orange-500 text-white p-4 rounded-xl text-center mt-6">
+            <p class="font-bold" data-i18n="bottom_cta_title">蓝培医疗 · 全球优质医疗资源咨询</p>
+            <p class="text-sm mt-1">电话 17844531559 | WhatsApp +639685838435 | 微信 17844531559</p>
+        </div>
+    </main>
+    <footer class="gradient-bg text-white py-6 mt-8">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-blue-200">
+            <p id="footer-platform" data-i18n="footer_platform">全球优质医疗资源咨询平台</p>
+            <p id="footer-disclaimer" class="mt-2" data-i18n="footer_disclaimer">免责声明:本网站展示的医药信息仅供参考</p>
+            <p id="footer-copyright" class="mt-1" data-i18n="footer_copyright">© 2026 蓝培医疗 lanpeimed.com</p>
+        </div>
+    </footer>
+<style>
+.chat-widget-btn{position:fixed;bottom:30px;right:30px;width:60px;height:60px;background:linear-gradient(135deg,#1e3a5f,#2d5a87);border-radius:50%;cursor:pointer;box-shadow:0 4px 20px rgba(30,58,95,0.4);z-index:9999;display:flex;align-items:center;justify-content:center;transition:all .3s}
+.chat-widget-btn:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(30,58,95,0.5)}
+.chat-widget-btn i{color:#fff;font-size:24px}
+.chat-widget-btn .pulse-ring{position:absolute;width:100%;height:100%;border-radius:50%;background:rgba(249,115,22,0.3);animation:chatPulse 2s infinite}
+@keyframes chatPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.4);opacity:0}}
+.chat-box{position:fixed;bottom:100px;right:30px;width:340px;background:#fff;border-radius:16px;box-shadow:0 8px 40px rgba(0,0,0,0.2);z-index:9998;display:none;flex-direction:column;overflow:hidden;animation:chatSlideUp .3s ease}
+@keyframes chatSlideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.chat-box.active{display:flex}
+.chat-header{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;padding:14px 16px;display:flex;align-items:center;justify-content:space-between}
+.chat-header-left{display:flex;align-items:center;gap:10px}
+.chat-header-left .logo{width:32px;height:32px;background:#f97316;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold}
+.chat-header-left span{font-size:15px;font-weight:600}
+.chat-header .close-btn{background:none;border:none;color:#fff;font-size:18px;cursor:pointer;padding:4px}
+.chat-body{padding:16px;flex:1}
+.chat-notice{background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;padding:12px;margin-bottom:14px;font-size:13px;line-height:1.7;color:#333}
+.chat-notice .phone-red{color:#dc2626;font-weight:bold;font-size:16px}
+.chat-contact-row{display:flex;gap:10px;margin-bottom:14px}
+.chat-contact-item{flex:1;background:#f0f7ff;border-radius:8px;padding:10px;text-align:center;font-size:12px;color:#1e3a5f;cursor:pointer;transition:all .2s}
+.chat-contact-item:hover{background:#e0efff;transform:translateY(-2px)}
+.chat-contact-item i{font-size:20px;margin-bottom:4px;display:block}
+.chat-contact-item .label{font-weight:600;margin-top:4px}
+.chat-input-area{display:flex;gap:8px;margin-top:10px}
+.chat-input-area input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:10px 12px;font-size:13px;outline:none}
+.chat-input-area input:focus{border-color:#1e3a5f}
+.chat-input-area button{background:linear-gradient(135deg,#1e3a5f,#2d5a87);color:#fff;border:none;border-radius:8px;padding:10px 16px;font-size:13px;cursor:pointer;white-space:nowrap;font-weight:600}
+.chat-input-area button:hover{background:linear-gradient(135deg,#2d5a87,#3a6d9e)}
+.chat-footer{text-align:center;padding:8px;font-size:11px;color:#9ca3af;border-top:1px solid #f3f4f6}
+</style>
+<div class="chat-widget-btn" onclick="toggleChat()"><div class="pulse-ring"></div><i class="fas fa-headset"></i></div>
+<div class="chat-box" id="chatBox">
+    <div class="chat-header"><div class="chat-header-left"><div class="logo">蓝培</div><span data-i18n="chat_title">蓝培医疗在线咨询</span></div><button class="close-btn" onclick="toggleChat()"><i class="fas fa-times"></i></button></div>
+    <div class="chat-body">
+        <div class="chat-notice">因咨询人数多,如未及时回复,请致电:<span class="phone-red">17844531559</span>,或扫码加微信沟通:</div>
+        <div style="text-align:center;margin-bottom:14px"><img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=WeChat%3A17844531559" alt="微信二维码" style="width:120px;height:120px;border:2px solid #e5e7eb;border-radius:8px"></div>
+        <div class="chat-contact-row">
+            <a href="tel:17844531559" class="chat-contact-item" style="text-decoration:none"><i class="fas fa-phone-alt" style="color:#1e3a5f"></i><div class="label" data-i18n="phone_consult">电话咨询</div></a>
+            <a href="https://wa.me/639685838435" target="_blank" class="chat-contact-item" style="text-decoration:none"><i class="fab fa-whatsapp" style="color:#25d366"></i><div class="label" data-i18n="whatsapp_label">WhatsApp</div></a>
+            <a href="javascript:void(0)" onclick="copyWechat()" class="chat-contact-item" style="text-decoration:none"><i class="fab fa-weixin" style="color:#07c160"></i><div class="label" id="wechatLabel" data-i18n="wechat_copy">加微信</div></a>
+        </div>
+        <div class="chat-input-area"><input type="tel" id="chatPhone" placeholder="请输入手机号码"><button onclick="requestCallback()" data-i18n="callback_btn">给您回电</button></div>
+    </div>
+    <div class="chat-footer" data-i18n="chat_footer">蓝培医疗 · 全球优质医疗资源咨询</div>
+</div>
+<script>
+function toggleChat(){var b=document.getElementById('chatBox');b.classList.toggle('active')}
+function copyWechat(){navigator.clipboard.writeText('17844531559');var l=document.getElementById('wechatLabel');l.textContent=translations[currentLang].wechat_copied;setTimeout(function(){l.textContent=translations[currentLang].wechat_copy},2000)}
+function requestCallback(){var p=document.getElementById('chatPhone').value;if(!p||p.length<8){alert('请输入正确的手机号码');return}var msg='咨询回电请求:'+p+',请蓝培医疗客服尽快联系我。';var waUrl='https://wa.me/639685838435?text='+encodeURIComponent(msg);window.open(waUrl,'_blank')}
+</script>
+</body>
+</html>
+<!-- END FILE: news-128-obeticholic-ocabile.html -->
+
+<!-- FILE: 2026-06-19/gzh-128-obeticholic-ocabile.txt -->
+<!-- FILE: news-128-obeticholic-ocabile-gzh.txt -->
+【奥贝胆酸片 Ocabile】用法用量详解 | PBC原发性胆汁性胆管炎二线靶向治疗
+
+🔹什么是奥贝胆酸？
+
+全球首个获批的法尼醇X受体(FXR)激动剂,Intercept Pharma原研,商品名为Ocaliva,作为PBC二线治疗选择。通过激活FXR调节胆汁酸代谢、抑制CYP7A1减少胆汁酸合成、促进胆汁排泄,改善胆汁淤积。
+
+🔹适应症
+
+• 适用于对熊去氧胆酸(UDCA)应答不足或不耐受的原发性胆汁性胆管炎(PBC)成人患者
+• 可与UDCA联合使用,也可单药治疗UDCA不耐受者
+• 仅限无肝硬化或代偿期肝硬化无门静脉高压证据的患者使用;失代偿期肝硬化禁用
+
+🔹用法用量
+
+• 起始剂量5mg,每日一次,口服
+• 治疗3个月后评估ALP和总胆红素:若应答不佳且耐受良好,可增至10mg/天(最大剂量)
+• 可与食物同服或空腹服用;与胆汁酸结合树脂(考来烯胺)合用需间隔至少4小时
+
+🔹价格参考
+
+• 原研药Ocaliva(Intercept):5mg×30片美国约4881美元/盒(约3.5万元);10mg×30片约5200美元/盒
+• 经济版印度Natco:5mg×100片约62美元(约450元);多家印度仿制版每盒数百至一千多元人民币
+
+*参考价格,实际以咨询为准
+
+🔹注意事项
+
+⚠️ 奥贝胆酸:瘙痒(发生率68%)为最常见副作用;失代偿期肝硬化患者禁用(FDA黑框警告);需定期监测肝功能、ALP、胆红素;瘙痒、肝功能异常时及时就医;妊娠期/哺乳期禁用
+
+📞 专业咨询
+蓝培医疗帮您了解奥贝胆酸的全球用药渠道,合规获取全球优质医疗资源。
+
+微信咨询:17844531559
+电话:17844531559
+WhatsApp:+639685838435
+
+---
+免责声明:本文仅供信息参考,不构成医疗建议。药品为处方药,请务必在专业医生指导下使用。如有用药需求,请先咨询主治医生。
+
+<!-- END FILE: 2026-06-19/gzh-128-obeticholic-ocabile.txt -->
+
