@@ -921,25 +921,25 @@
     "name": "奥希替尼/泰瑞沙",
     "brand": "老挝大熊制药",
     "category": "肺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "卡博替尼20",
     "brand": "老挝大熊制药",
     "category": "肾癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "奥拉帕利/奥拉帕尼150",
     "brand": "老挝大熊制药",
     "category": "卵巢癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "维奈克拉/维奈托克10",
     "brand": "Novo Nordisk",
     "category": "白血病",
-    "covered": false
+    "covered": true
   },
   {
     "name": "仑伐替尼/乐伐替尼10",
@@ -957,7 +957,7 @@
     "name": "卡马替尼",
     "brand": "老挝大熊制药",
     "category": "肺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "普纳替尼片 Ponaxen",
