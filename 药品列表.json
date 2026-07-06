@@ -963,7 +963,7 @@
     "name": "普纳替尼片 Ponaxen",
     "brand": "老挝大熊制药",
     "category": "白血病",
-    "covered": false
+    "covered": true
   },
   {
     "name": "吉瑞替尼Gilteritinib",
@@ -1011,7 +1011,7 @@
     "name": "司美格鲁肽片",
     "brand": "Zafatek",
     "category": "保健品",
-    "covered": false
+    "covered": true
   },
   {
     "name": "来那度胺/雷利度胺",
