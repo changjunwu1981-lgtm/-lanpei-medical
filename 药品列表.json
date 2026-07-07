@@ -981,7 +981,7 @@
     "name": "司美替尼25mg",
     "brand": "Sovaldi",
     "category": "肺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "拉罗替尼25mg",
@@ -999,13 +999,13 @@
     "name": "索托拉西布",
     "brand": "Fostamatinib",
     "category": "肺癌",
-    "covered": false
+    "covered": true
   },
   {
     "name": "阿那莫林",
     "brand": "ADAMTS13",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "司美格鲁肽片",
@@ -1035,13 +1035,13 @@
     "name": "巴瑞替尼2mg",
     "brand": "喜达诺/Stelara",
     "category": "其他",
-    "covered": false
+    "covered": true
   },
   {
     "name": "吉四代",
     "brand": "Skyrizi",
     "category": "丙肝",
-    "covered": false
+    "covered": true
   },
   {
     "name": "吉二代",
