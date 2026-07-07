@@ -1047,31 +1047,31 @@
     "name": "吉二代",
     "brand": "Otezla",
     "category": "丙肝",
-    "covered": false
+    "covered": true
   },
   {
     "name": "索菲布韦",
     "brand": "司库奇尤单抗/可善挺",
     "category": "丙肝",
-    "covered": false
+    "covered": true
   },
   {
     "name": "替诺福韦TAF",
     "brand": "Opzelura",
     "category": "乙肝",
-    "covered": false
+    "covered": true
   },
   {
     "name": "海曲泊帕",
     "brand": "Bimzelx",
     "category": "血小板减少症",
-    "covered": false
+    "covered": true
   },
   {
     "name": "福他替尼",
     "brand": "塔皮纳罗夫",
     "category": "血小板减少症",
-    "covered": false
+    "covered": true
   },
   {
     "name": "ADAMTS13重组蛋白酶",
