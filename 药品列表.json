@@ -1077,31 +1077,31 @@
     "name": "ADAMTS13重组蛋白酶",
     "brand": "利生奇珠单抗",
     "category": "血小板减少症",
-    "covered": false
+    "covered": true
   },
   {
     "name": "曲格列汀",
     "brand": "罗氟司特",
     "category": "糖尿病",
-    "covered": false
+    "covered": true
   },
   {
     "name": "达西格列酮",
     "brand": "Jyseleca",
     "category": "糖尿病",
-    "covered": false
+    "covered": true
   },
   {
     "name": "替西帕肽",
     "brand": "奥扎莫德",
     "category": "糖尿病",
-    "covered": false
+    "covered": true
   },
   {
     "name": "奥格列汀",
     "brand": "喜达诺",
     "category": "糖尿病",
-    "covered": false
+    "covered": true
   },
   {
     "name": "乌司奴单抗",
