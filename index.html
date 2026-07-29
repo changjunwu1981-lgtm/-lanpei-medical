@@ -644,6 +644,7 @@ var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); 
         </div>
     </div>
 
+    <script src="drug-desc.js"></script>
     <script>
     // ===================== 数据部分 =====================
     const allProducts = [
@@ -11077,6 +11078,30 @@ var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); 
                 </div>
             </div>
             
+            <!-- Drug Description -->
+            ${product.drugDesc ? `
+            <div class="mt-8">
+                <h3 class="text-xl font-bold text-[#1e3a5f] mb-4 flex items-center gap-2">
+                    <span class="text-2xl">💊</span> 药品介绍
+                </h3>
+                <div class="bg-gradient-to-r from-blue-50 to-indigo-50 border-l-4 border-[#1e3a5f] rounded-xl p-5">
+                    <p class="text-gray-700 leading-relaxed text-[15px]">${product.drugDesc}</p>
+                </div>
+            </div>
+            ` : ''}
+
+            <!-- Disease Description -->
+            ${product.diseaseDesc ? `
+            <div class="mt-6">
+                <h3 class="text-xl font-bold text-[#1e3a5f] mb-4 flex items-center gap-2">
+                    <span class="text-2xl">🏥</span> 疾病介绍
+                </h3>
+                <div class="bg-gradient-to-r from-orange-50 to-amber-50 border-l-4 border-[#f97316] rounded-xl p-5">
+                    <p class="text-gray-700 leading-relaxed text-[15px]">${product.diseaseDesc}</p>
+                </div>
+            </div>
+            ` : ''}
+
             <!-- Product Info Table -->
             <div class="mt-8">
                 <h3 class="text-xl font-bold text-[#1e3a5f] mb-4 flex items-center gap-2">
@@ -11241,6 +11266,9 @@ function closeProductDetail() {
         document.getElementById('wechatModal').classList.add('hidden');
         document.body.style.overflow = '';
     }
+
+    // ===================== 注入药品描述 =====================
+    enrichProductDescriptions(allProducts);
 
     // ===================== 初始化 =====================
     document.addEventListener('DOMContentLoaded', function() {
